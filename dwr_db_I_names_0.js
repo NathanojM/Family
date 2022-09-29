@@ -187,24 +187,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Betty",
-"given": "Betty",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-""
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Brian",
 "given": "Brian",
 "nick": "",
@@ -1017,6 +999,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Martha",
 "given": "Martha",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary",
+"given": "Mary",
 "nick": "",
 "note": "",
 "suffix": "",

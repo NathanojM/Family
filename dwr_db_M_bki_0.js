@@ -783,7 +783,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 46,
+"bk_idx": 45,
 "cita": [],
 "note": "",
 "rect": [
@@ -1195,7 +1195,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 42,
+"bk_idx": 41,
 "cita": [],
 "note": "",
 "rect": [

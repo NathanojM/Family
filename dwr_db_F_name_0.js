@@ -94,7 +94,7 @@ F_name_0 = [
 "Family of John Bennellick and Maria Mardon",
 "Family of Laura Bennellick",
 "Family of Leonard Frederick Bennellick and Pamela G Rashley",
-"Family of Peter John Bennellick and Betty",
+"Family of Peter John Bennellick and Mary",
 "Family of Richard Bennellick and Elizabeth",
 "Family of Richard Bennellick and Frances Risdon",
 "Family of Richard Walter Bennellick and Elizabeth Anne Chapman",
