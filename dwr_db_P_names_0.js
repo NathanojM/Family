@@ -509,7 +509,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Adelaide, Australia"
+"name": "Adelaide, South Australia, Australia"
 }
 ],
 [
@@ -915,7 +915,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Bodmin, Cornwall"
+"name": "Bodmin, Cornwall, England"
 }
 ],
 [
@@ -1111,7 +1111,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Calgary, Canada"
+"name": "Calgary, Alberta, Canada"
 }
 ],
 [
@@ -4684,7 +4684,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Woronora Memorial Park, Sutherland, Sutherland Shire, New South Wales, Australia"
+"name": "Woronora Memorial Park, Sutherland, New South Wales, Australia"
 }
 ],
 [

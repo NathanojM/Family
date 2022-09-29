@@ -7,17 +7,17 @@ DWR_VERSION_500 = true;
 TITLE = "Family: Past and Present";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 1,
+    "C": 0,
     "F": 679,
     "I": 1943,
     "M": 99,
     "N": 486,
     "P": 672,
     "R": 0,
-    "S": 1
+    "S": 0
 };NB_GENERATIONS_MAX = 30;
-PAGES_FILE = ["index.html", "", "tree_svg.html"];
-PAGES_TITLE = ["Home", "Indexes", "Tree"];
+PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html"];
+PAGES_TITLE = ["Home", "Indexes", "Tree", "Contribute"];
 PAGES_FILE_INDEX = ["surnames.html", "persons.html", "families.html", "sources.html", "medias.html", "places.html", "address.html"];
 PAGES_TITLE_INDEX = ["Surnames", "Individuals", "Families", "Sources", "Media", "Places", "Addresses"];
 SVG_TREE_TYPES_NAMES = ["Ascending tree", "Descending tree", "Descending tree with spouses", "Ascending and descending tree", "Ascending and descending tree with spouses"];
@@ -66,7 +66,7 @@ GRAMPS_PREFERENCES['unknown-dead'] = "#f3dbb6";
 SVG_TREE_COLOR_SCHEME0 = ["#ffffff", "#ffffff"];
 SVG_TREE_COLOR_SCHEME1 = ["#ff3f00", "#ffaf0f", "#ffdf57", "#ffff6f", "#9fff9f", "#6fd7ff", "#4f97ff", "#e717ff", "#e71779", "#d2aa7c", "#bd9970"];
 SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"];
-FOOTER="<div class=\"grampsstylednote\">\n<p>\nIf you would like to contribute to this project with information or photos, please email jonathanmcfarlane1@gmail.com\n</p>\n</div>";
+FOOTER="<div class=\"grampsstylednote\">\n<p>\nThis project is a work in progress. If you would like to contribute with information or photos, or if you notice a mistake, please email Jonathan McFarlane on <strong>s98gjjg4k@mozmail.com</strong>\n</p>\n<p>\n<strong></strong>Data on living people has been redacted for privacy reasons.<strong></strong>\n</p>\n<p>\n&nbsp;\n</p>\n<p>\n&nbsp;\n</p>\n<p>\n&nbsp;\n</p>\n<p>\n&nbsp;\n</p>\n</div>";
 HEADER="";
 BRAND_TITLE="";
 COPYRIGHT="";

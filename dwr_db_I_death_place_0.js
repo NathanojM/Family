@@ -400,7 +400,7 @@ I_death_place_0 = [
 "Winchester, Hampshire, England",
 "Worthing, West Sussex, England",
 "14 Caversham Street, Chelsesa, Borough of Kensington and Chelsea, Greater London, England",
-"Woronora Memorial Park, Sutherland, Sutherland Shire, New South Wales, Australia",
+"Woronora Memorial Park, Sutherland, New South Wales, Australia",
 "",
 "St Giles, Colchester, Essex, England",
 "",

@@ -2728,9 +2728,7 @@ I_events_0 = [
 "type": "Marriage"
 },
 {
-"cita": [
-0
-],
+"cita": [],
 "date": "",
 "date_sdn": 0,
 "descr": "Estimated death date",
