@@ -2219,6 +2219,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Ethel Frances Ballantyne",
+"given": "Ethel Frances",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ballantyne"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Susan Bambridge",
 "given": "Susan",
 "nick": "",
@@ -15350,6 +15368,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Alma W Freeman",
+"given": "Alma W",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Freeman"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Mary French",
 "given": "Mary",
 "nick": "",
@@ -20379,6 +20415,78 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Lamb"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Brian A Lambe",
+"given": "Brian A",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Lambe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Elizabeth Lambe",
+"given": "Elizabeth",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Lambe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Viviene Anna Lambe",
+"given": "Viviene Anna",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Lambe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "William Lambe",
+"given": "William",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Lambe"
 ],
 "title": "",
 "type": "Birth Name"
@@ -30651,6 +30759,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Diane W Slade",
+"given": "Diane W",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Slade"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Leonard Alfred Charles Slade",
 "given": "Leonard Alfred Charles",
 "nick": "",
@@ -30671,6 +30797,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Sidney Lewis Slade",
 "given": "Sidney Lewis",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Slade"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Susan Slade",
+"given": "Susan",
 "nick": "",
 "note": "",
 "suffix": "",
