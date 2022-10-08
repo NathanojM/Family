@@ -609,6 +609,20 @@ M_bki_0 = [
 ],
 [
 {
+"bk_idx": 207,
+"cita": [],
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/6/3/f23f19cbd485faabc05bbdc4e36.png"
+}
+],
+[
+{
 "bk_idx": 536,
 "cita": [],
 "note": "",
@@ -1395,28 +1409,16 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 780,
+"bk_idx": 779,
 "cita": [],
 "note": "",
 "rect": [
-18,
-41,
-29,
-54
+0,
+0,
+100,
+100
 ],
-"thumb": "thumb/4/f/f15ada363053b9aaff6eee627f4-18,41-29,54.png"
-},
-{
-"bk_idx": 1120,
-"cita": [],
-"note": "",
-"rect": [
-33,
-59,
-46,
-70
-],
-"thumb": "thumb/4/f/f15ada363053b9aaff6eee627f4-33,59-46,70.png"
+"thumb": "thumb/7/1/f252db3b9e9482474e7eb1e6917.png"
 }
 ],
 [
@@ -1553,6 +1555,32 @@ M_bki_0 = [
 100
 ],
 "thumb": "thumb/b/c/ef525d886c1662f88e434f9c2cb.png"
+}
+],
+[
+{
+"bk_idx": 780,
+"cita": [],
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/f/2/f252db6e6a193bd981dfeb6a2f.png"
+},
+{
+"bk_idx": 1120,
+"cita": [],
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/f/2/f252db6e6a193bd981dfeb6a2f.png"
 }
 ],
 [
