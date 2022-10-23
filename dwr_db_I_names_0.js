@@ -223,24 +223,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Brooke",
-"given": "Brooke",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-""
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Casper",
 "given": "Casper",
 "nick": "",
@@ -4555,24 +4537,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Benjamin James Beagley",
-"given": "Benjamin James",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Beagley"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Lauren Beagley",
 "given": "Lauren",
 "nick": "",
@@ -5041,8 +5005,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "janet Bell",
-"given": "janet",
+"full": "Janet Bell",
+"given": "Janet",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -11683,24 +11647,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Beryl Dickens",
-"given": "Beryl",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Dickens"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Charles William Dickens",
 "given": "Charles William",
 "nick": "",
@@ -13478,42 +13424,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Brian Favell",
-"given": "Brian",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Favell"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Carol Favell",
-"given": "Carol",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Favell"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Dorinne Favell",
 "given": "Dorinne",
 "nick": "",
@@ -14722,24 +14632,6 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Harry Ford",
 "given": "Harry",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Ford"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Henry Ford",
-"given": "Henry",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -16077,24 +15969,6 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Graham?"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Lillian Granose",
-"given": "Lillian",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Granose"
 ],
 "title": "",
 "type": "Birth Name"
@@ -25484,24 +25358,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Beryl Mountain",
-"given": "Beryl",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Mountain"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Phillipa Mountjoy",
 "given": "Phillipa",
 "nick": "",
@@ -26042,24 +25898,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Barbara Paterson",
-"given": "Barbara",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Paterson"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Duncan Mcarther Paterson [sic]",
 "given": "Duncan Mcarther",
 "nick": "",
@@ -26386,24 +26224,6 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Gladys Maud Patten",
 "given": "Gladys Maud",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Patten"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "James Cyril Patten",
-"given": "James Cyril",
 "nick": "",
 "note": "",
 "suffix": "",

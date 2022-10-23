@@ -9,15 +9,15 @@ SPLIT = 5000;
 DB_SIZES = {
     "C": 0,
     "F": 682,
-    "I": 1951,
-    "M": 109,
-    "N": 489,
-    "P": 675,
+    "I": 1941,
+    "M": 103,
+    "N": 487,
+    "P": 665,
     "R": 0,
     "S": 0
 };NB_GENERATIONS_MAX = 30;
-PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html"];
-PAGES_TITLE = ["Home", "Indexes", "Tree", "Contribute"];
+PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html"];
+PAGES_TITLE = ["Home", "Indexes", "Tree", "Contribute", "Download"];
 PAGES_FILE_INDEX = ["surnames.html", "persons.html", "families.html", "sources.html", "medias.html", "places.html", "address.html"];
 PAGES_TITLE_INDEX = ["Surnames", "Individuals", "Families", "Sources", "Media", "Places", "Addresses"];
 SVG_TREE_TYPES_NAMES = ["Ascending tree", "Descending tree", "Descending tree with spouses", "Ascending and descending tree", "Ascending and descending tree with spouses"];
@@ -70,7 +70,7 @@ FOOTER="";
 HEADER="";
 BRAND_TITLE="";
 COPYRIGHT="";
-INDEX_SURNAMES_TYPE=false;
+INDEX_SURNAMES_TYPE=true;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;
 INDEX_SOURCES_TYPE=true;
@@ -79,7 +79,7 @@ INDEX_SHOW_DATES=true;
 INDEX_SHOW_PARTNER=true;
 INDEX_SHOW_PARENTS=true;
 INDEX_SHOW_PATH=true;
-INDEX_SHOW_BKREF_TYPE=true;
+INDEX_SHOW_BKREF_TYPE=false;
 INDEX_DEFAULT_SIZE = 5;
 INDEXES_SIZES = [[10, 50, 100, 500, 1000, 5000], ['10', '50', '100', '500', '1000', '5000']];
 SHOW_ALL_SIBLINGS=true;
@@ -96,7 +96,7 @@ MAP_FAMILY=true;
 MAP_SERVICE="OpenStreetMap";
 SOURCE_AUTHOR_IN_TITLE=false;
 TABBED_PANELS=true;
-INC_CHANGE_TIME=false;
+INC_CHANGE_TIME=true;
 HIDE_GID=true;
 INC_PAGECONF = true;
 __ = {
