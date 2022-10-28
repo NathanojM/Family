@@ -277,7 +277,7 @@ I_attr_0 = [
 [
 {
 "cita": [],
-"note": "<div>\n<i class=\"NoteType\">\nAttribute Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nWorked at Chessington Research Centre for Borax\n</p>\n</div>\n</div>",
+"note": "<div>\n<div class=\"grampsstylednote\">\n<p>\nWorked at Chessington Research Centre for Borax\n</p>\n</div>\n</div>",
 "type": "Occupation",
 "value": "Research Scientist"
 }
@@ -530,7 +530,6 @@ I_attr_0 = [
 [],
 [],
 [],
-[],
 [
 {
 "cita": [],
@@ -553,6 +552,7 @@ I_attr_0 = [
 "value": "Compositor (Typesetter)"
 }
 ],
+[],
 [],
 [],
 [],
@@ -993,7 +993,6 @@ I_attr_0 = [
 [],
 [],
 [],
-[],
 [
 {
 "cita": [],
@@ -1002,6 +1001,7 @@ I_attr_0 = [
 "value": "Arc Lamp Attendant"
 }
 ],
+[],
 [],
 [],
 [],

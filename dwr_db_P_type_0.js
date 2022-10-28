@@ -577,7 +577,6 @@ P_type_0 = [
 "Unknown",
 "Unknown",
 "Unknown",
-"Unknown",
 "church",
 "Unknown",
 "Unknown",

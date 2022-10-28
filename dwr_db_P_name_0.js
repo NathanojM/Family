@@ -569,7 +569,6 @@ P_name_0 = [
 "St Mary's, Summerstown, London, England",
 "St Matthew, Chapel Allerton, Yorkshire, England",
 "St Matthew's Church, St Matthew's Row, Bethnal Green, London, England",
-"St Michael at Bowe, Enfield, Greater London, England",
 "St Pancras, London, England",
 "St Peter and St Leonard, Horbury, Yorkshire",
 "St Savior, St Pancras, Greater London, England",

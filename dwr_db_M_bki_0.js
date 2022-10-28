@@ -699,7 +699,7 @@ M_bki_0 = [
 "thumb": "thumb/3/d/f16a951d3715138a6fb2423b9d3-50,19-62,31.png"
 },
 {
-"bk_idx": 1280,
+"bk_idx": 1281,
 "cita": [],
 "note": "",
 "rect": [
@@ -713,7 +713,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 145,
+"bk_idx": 144,
 "cita": [],
 "note": "",
 "rect": [
@@ -809,7 +809,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 403,
+"bk_idx": 406,
 "cita": [],
 "note": "",
 "rect": [
@@ -1531,7 +1531,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 762,
+"bk_idx": 760,
 "cita": [],
 "note": "",
 "rect": [
@@ -1657,7 +1657,7 @@ M_bki_0 = [
 ],
 [
 {
-"bk_idx": 1320,
+"bk_idx": 1319,
 "cita": [],
 "note": "",
 "rect": [

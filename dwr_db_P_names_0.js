@@ -4001,13 +4001,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "St Michael at Bowe, Enfield, Greater London, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "St Pancras, London, England"
 }
 ],

@@ -7,7 +7,7 @@ I_events_0 = [
 "date": "between 1891 and 1911",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E1032",
+"gid": "E1016",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22,7 +22,7 @@ I_events_0 = [
 "date": "between 1901 and 2011",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E1033",
+"gid": "E1017",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -57,7 +57,7 @@ I_events_0 = [
 "date": "1835",
 "date_sdn": 2391280,
 "descr": "",
-"gid": "E2033",
+"gid": "E2016",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -72,7 +72,7 @@ I_events_0 = [
 "date": "1923",
 "date_sdn": 2423421,
 "descr": "",
-"gid": "E2034",
+"gid": "E2017",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -89,7 +89,7 @@ I_events_0 = [
 "date": "1637",
 "date_sdn": 2318963,
 "descr": "",
-"gid": "E1406",
+"gid": "E1390",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -104,7 +104,7 @@ I_events_0 = [
 "date": "19 December 1700",
 "date_sdn": 2342325,
 "descr": "",
-"gid": "E1407",
+"gid": "E1391",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -119,13 +119,13 @@ I_events_0 = [
 "date": "22 December 1700",
 "date_sdn": 2342328,
 "descr": "",
-"gid": "E1408",
+"gid": "E1392",
 "media": [],
 "part_family": [],
 "part_person": [
 4
 ],
-"place": 570,
+"place": 569,
 "text": "",
 "type": "Burial"
 }
@@ -136,7 +136,7 @@ I_events_0 = [
 "date": "1867",
 "date_sdn": 2402968,
 "descr": "",
-"gid": "E2206",
+"gid": "E2189",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -153,13 +153,13 @@ I_events_0 = [
 "date": "about 1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E2174",
+"gid": "E2157",
 "media": [],
 "part_family": [],
 "part_person": [
 6
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -171,7 +171,7 @@ I_events_0 = [
 "date": "between 1898 and 1918",
 "date_sdn": 2414291,
 "descr": "",
-"gid": "E1989",
+"gid": "E1972",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -186,7 +186,7 @@ I_events_0 = [
 "date": "between 1898 and 2018",
 "date_sdn": 2414291,
 "descr": "",
-"gid": "E1990",
+"gid": "E1973",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -205,7 +205,7 @@ I_events_0 = [
 "date": "between 1588 and 1617",
 "date_sdn": 2301065,
 "descr": "",
-"gid": "E1394",
+"gid": "E1378",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -220,7 +220,7 @@ I_events_0 = [
 "date": "1667",
 "date_sdn": 2329920,
 "descr": "",
-"gid": "E1395",
+"gid": "E1379",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -274,13 +274,13 @@ I_events_0 = [
 "date": "about 1862",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E2157",
+"gid": "E2140",
 "media": [],
 "part_family": [],
 "part_person": [
 18
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -289,7 +289,7 @@ I_events_0 = [
 "date": "1953",
 "date_sdn": 2434379,
 "descr": "",
-"gid": "E2158",
+"gid": "E2141",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -306,7 +306,7 @@ I_events_0 = [
 "date": "16 April 1911",
 "date_sdn": 2419143,
 "descr": "",
-"gid": "E1578",
+"gid": "E1561",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -321,7 +321,7 @@ I_events_0 = [
 "date": "18 March 1987",
 "date_sdn": 2446873,
 "descr": "",
-"gid": "E1579",
+"gid": "E1562",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -338,7 +338,7 @@ I_events_0 = [
 "date": "about 1680",
 "date_sdn": 2334668,
 "descr": "",
-"gid": "E2547",
+"gid": "E2526",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -355,7 +355,7 @@ I_events_0 = [
 "date": "about 1846",
 "date_sdn": 2395298,
 "descr": "",
-"gid": "E1748",
+"gid": "E1731",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -372,7 +372,7 @@ I_events_0 = [
 "date": "17 July 1905",
 "date_sdn": 2417044,
 "descr": "",
-"gid": "E2696",
+"gid": "E2673",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -387,7 +387,7 @@ I_events_0 = [
 "date": "February 1996",
 "date_sdn": 2450115,
 "descr": "",
-"gid": "E2697",
+"gid": "E2674",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -404,7 +404,7 @@ I_events_0 = [
 "date": "1839",
 "date_sdn": 2392741,
 "descr": "",
-"gid": "E1230",
+"gid": "E1214",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -419,7 +419,7 @@ I_events_0 = [
 "date": "September 1910",
 "date_sdn": 2418916,
 "descr": "",
-"gid": "E1231",
+"gid": "E1215",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -437,7 +437,7 @@ I_events_0 = [
 "date": "1751",
 "date_sdn": 2360600,
 "descr": "",
-"gid": "E0012",
+"gid": "E0011",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -452,7 +452,7 @@ I_events_0 = [
 "date": "November 1825",
 "date_sdn": 2387932,
 "descr": "",
-"gid": "E0013",
+"gid": "E0012",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -473,7 +473,7 @@ I_events_0 = [
 "date": "17 November 1919",
 "date_sdn": 2422280,
 "descr": "",
-"gid": "E1567",
+"gid": "E1550",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -488,7 +488,7 @@ I_events_0 = [
 "date": "August 2001",
 "date_sdn": 2452123,
 "descr": "",
-"gid": "E1568",
+"gid": "E1551",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -505,7 +505,7 @@ I_events_0 = [
 "date": "1926",
 "date_sdn": 2424517,
 "descr": "",
-"gid": "E1044",
+"gid": "E1028",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -520,7 +520,7 @@ I_events_0 = [
 "date": "1991",
 "date_sdn": 2448258,
 "descr": "",
-"gid": "E1045",
+"gid": "E1029",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -537,7 +537,7 @@ I_events_0 = [
 "date": "about 1890",
 "date_sdn": 2411369,
 "descr": "",
-"gid": "E2145",
+"gid": "E2128",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -552,13 +552,13 @@ I_events_0 = [
 "date": "3 April 1976",
 "date_sdn": 2442872,
 "descr": "",
-"gid": "E2146",
+"gid": "E2129",
 "media": [],
 "part_family": [],
 "part_person": [
 32
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Death"
 }
@@ -571,7 +571,7 @@ I_events_0 = [
 "date": "5 February 1887",
 "date_sdn": 2410308,
 "descr": "",
-"gid": "E2347",
+"gid": "E2328",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -588,7 +588,7 @@ I_events_0 = [
 "date": "between 1683 and 1712",
 "date_sdn": 2335764,
 "descr": "",
-"gid": "E1893",
+"gid": "E1876",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -603,7 +603,7 @@ I_events_0 = [
 "date": "between 1735 and 1812",
 "date_sdn": 2354756,
 "descr": "",
-"gid": "E1894",
+"gid": "E1877",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -623,7 +623,7 @@ I_events_0 = [
 "date": "calculated between 1900 and 1913",
 "date_sdn": 2415021,
 "descr": "",
-"gid": "E2924",
+"gid": "E2895",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -638,7 +638,7 @@ I_events_0 = [
 "date": "calculated between 1963 and 2013",
 "date_sdn": 2438031,
 "descr": "",
-"gid": "E2925",
+"gid": "E2896",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -655,7 +655,7 @@ I_events_0 = [
 "date": "1562",
 "date_sdn": 2291569,
 "descr": "",
-"gid": "E0017",
+"gid": "E0016",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -672,7 +672,7 @@ I_events_0 = [
 "date": "1760",
 "date_sdn": 2363887,
 "descr": "",
-"gid": "E1600",
+"gid": "E1583",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -687,7 +687,7 @@ I_events_0 = [
 "date": "February 1795",
 "date_sdn": 2376702,
 "descr": "",
-"gid": "E1601",
+"gid": "E1584",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -704,7 +704,7 @@ I_events_0 = [
 "date": "1616",
 "date_sdn": 2311292,
 "descr": "",
-"gid": "E1846",
+"gid": "E1829",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -719,7 +719,7 @@ I_events_0 = [
 "date": "1705",
 "date_sdn": 2343799,
 "descr": "",
-"gid": "E1847",
+"gid": "E1830",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -737,7 +737,7 @@ I_events_0 = [
 "date": "about 2015",
 "date_sdn": 2457024,
 "descr": "",
-"gid": "E0018",
+"gid": "E0017",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -751,24 +751,6 @@ I_events_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "about 1791",
-"date_sdn": 2375210,
-"descr": "",
-"gid": "E2494",
-"media": [],
-"part_family": [],
-"part_person": [
-49
-],
-"place": 234,
-"text": "",
-"type": "Birth"
-}
-],
-[],
 [],
 [
 {
@@ -776,11 +758,11 @@ I_events_0 = [
 "date": "1656",
 "date_sdn": 2325902,
 "descr": "",
-"gid": "E0020",
+"gid": "E0019",
 "media": [],
 "part_family": [],
 "part_person": [
-52
+50
 ],
 "place": 540,
 "text": "",
@@ -791,11 +773,11 @@ I_events_0 = [
 "date": "1711",
 "date_sdn": 2345990,
 "descr": "",
-"gid": "E0021",
+"gid": "E0020",
 "media": [],
 "part_family": [],
 "part_person": [
-52
+50
 ],
 "place": 540,
 "text": "",
@@ -805,10 +787,28 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "about 1791",
+"date_sdn": 2375210,
+"descr": "",
+"gid": "E2473",
+"media": [],
+"part_family": [],
+"part_person": [
+51
+],
+"place": 234,
+"text": "",
+"type": "Birth"
+}
+],
+[],
+[
+{
+"cita": [],
 "date": "about 1850",
 "date_sdn": 2396759,
 "descr": "",
-"gid": "E2015",
+"gid": "E1998",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -821,20 +821,19 @@ I_events_0 = [
 ],
 [],
 [],
-[],
 [
 {
 "cita": [],
 "date": "1807",
 "date_sdn": 2381053,
 "descr": "",
-"gid": "E0022",
+"gid": "E0021",
 "media": [],
 "part_family": [],
 "part_person": [
-57
+56
 ],
-"place": 580,
+"place": 579,
 "text": "",
 "type": "Birth"
 }
@@ -845,11 +844,11 @@ I_events_0 = [
 "date": "1616",
 "date_sdn": 2311292,
 "descr": "",
-"gid": "E0023",
+"gid": "E0022",
 "media": [],
 "part_family": [],
 "part_person": [
-58
+57
 ],
 "place": -1,
 "text": "",
@@ -860,11 +859,11 @@ I_events_0 = [
 "date": "after 1659",
 "date_sdn": 2326998,
 "descr": "",
-"gid": "E0024",
+"gid": "E0023",
 "media": [],
 "part_family": [],
 "part_person": [
-58
+57
 ],
 "place": 335,
 "text": "",
@@ -877,11 +876,11 @@ I_events_0 = [
 "date": "1700",
 "date_sdn": 2341973,
 "descr": "",
-"gid": "E0025",
+"gid": "E0024",
 "media": [],
 "part_family": [],
 "part_person": [
-59
+58
 ],
 "place": -1,
 "text": "",
@@ -895,11 +894,11 @@ I_events_0 = [
 "date": "between 1653 and 1682",
 "date_sdn": 2324807,
 "descr": "",
-"gid": "E1895",
+"gid": "E1878",
 "media": [],
 "part_family": [],
 "part_person": [
-61
+60
 ],
 "place": -1,
 "text": "",
@@ -910,24 +909,25 @@ I_events_0 = [
 "date": "between 1698 and 1782",
 "date_sdn": 2341243,
 "descr": "",
-"gid": "E1896",
+"gid": "E1879",
 "media": [],
 "part_family": [],
 "part_person": [
-61
+60
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [
 {
 "cita": [],
 "date": "about 1844",
 "date_sdn": 2394567,
 "descr": "",
-"gid": "E2205",
+"gid": "E2188",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -938,18 +938,17 @@ I_events_0 = [
 "type": "Birth"
 }
 ],
-[],
 [
 {
 "cita": [],
 "date": "1778",
 "date_sdn": 2370462,
 "descr": "",
-"gid": "E1159",
+"gid": "E1143",
 "media": [],
 "part_family": [],
 "part_person": [
-64
+63
 ],
 "place": 416,
 "text": "",
@@ -960,30 +959,31 @@ I_events_0 = [
 "date": "11 April 1860",
 "date_sdn": 2400512,
 "descr": "",
-"gid": "E1160",
+"gid": "E1144",
 "media": [],
 "part_family": [],
 "part_person": [
-64
+63
 ],
 "place": 270,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [
 {
 "cita": [],
 "date": "July 1855",
 "date_sdn": 2398766,
 "descr": "",
-"gid": "E1286",
+"gid": "E1270",
 "media": [],
 "part_family": [],
 "part_person": [
 65
 ],
-"place": 582,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -992,13 +992,13 @@ I_events_0 = [
 "date": "26 February 1929",
 "date_sdn": 2425669,
 "descr": "",
-"gid": "E1287",
+"gid": "E1271",
 "media": [],
 "part_family": [],
 "part_person": [
 65
 ],
-"place": 638,
+"place": 637,
 "text": "",
 "type": "Death"
 }
@@ -1010,7 +1010,7 @@ I_events_0 = [
 "date": "26 September 1932",
 "date_sdn": 2426977,
 "descr": "",
-"gid": "E2592",
+"gid": "E2571",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1027,13 +1027,13 @@ I_events_0 = [
 "date": "about 1859",
 "date_sdn": 2400046,
 "descr": "",
-"gid": "E1901",
+"gid": "E1884",
 "media": [],
 "part_family": [],
 "part_person": [
 68
 ],
-"place": 629,
+"place": 628,
 "text": "",
 "type": "Birth"
 }
@@ -1045,7 +1045,7 @@ I_events_0 = [
 "date": "1859",
 "date_sdn": 2400046,
 "descr": "",
-"gid": "E2199",
+"gid": "E2182",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1060,7 +1060,7 @@ I_events_0 = [
 "date": "1925",
 "date_sdn": 2424152,
 "descr": "",
-"gid": "E2200",
+"gid": "E2183",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1092,7 +1092,7 @@ I_events_0 = [
 "date": "January 1844",
 "date_sdn": 2394567,
 "descr": "",
-"gid": "E1503",
+"gid": "E1487",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1107,7 +1107,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1504",
+"gid": "E1488",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1124,7 +1124,7 @@ I_events_0 = [
 "date": "1876",
 "date_sdn": 2406255,
 "descr": "",
-"gid": "E1466",
+"gid": "E1450",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1139,13 +1139,13 @@ I_events_0 = [
 "date": "1891",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E1467",
+"gid": "E1451",
 "media": [],
 "part_family": [],
 "part_person": [
 87
 ],
-"place": 585,
+"place": 584,
 "text": "",
 "type": "Residence"
 }
@@ -1156,13 +1156,13 @@ I_events_0 = [
 "date": "19 March 1904",
 "date_sdn": 2416559,
 "descr": "",
-"gid": "E0027",
+"gid": "E0026",
 "media": [],
 "part_family": [],
 "part_person": [
 88
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -1171,7 +1171,7 @@ I_events_0 = [
 "date": "April 1991",
 "date_sdn": 2448348,
 "descr": "",
-"gid": "E0028",
+"gid": "E0027",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1186,13 +1186,13 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E0029",
+"gid": "E0028",
 "media": [],
 "part_family": [],
 "part_person": [
 88
 ],
-"place": 641,
+"place": 640,
 "text": "",
 "type": "Residence"
 },
@@ -1201,7 +1201,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E0030",
+"gid": "E0029",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1218,7 +1218,7 @@ I_events_0 = [
 "date": "1878",
 "date_sdn": 2406986,
 "descr": "",
-"gid": "E1468",
+"gid": "E1452",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1233,13 +1233,13 @@ I_events_0 = [
 "date": "1891",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E1469",
+"gid": "E1453",
 "media": [],
 "part_family": [],
 "part_person": [
 89
 ],
-"place": 585,
+"place": 584,
 "text": "",
 "type": "Residence"
 }
@@ -1251,7 +1251,7 @@ I_events_0 = [
 "date": "1880",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E1446",
+"gid": "E1430",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1266,7 +1266,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E1447",
+"gid": "E1431",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1281,13 +1281,13 @@ I_events_0 = [
 "date": "1891",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E1448",
+"gid": "E1432",
 "media": [],
 "part_family": [],
 "part_person": [
 91
 ],
-"place": 585,
+"place": 584,
 "text": "",
 "type": "Residence"
 }
@@ -1298,7 +1298,7 @@ I_events_0 = [
 "date": "January 1840",
 "date_sdn": 2393106,
 "descr": "",
-"gid": "E1499",
+"gid": "E1483",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1313,7 +1313,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1500",
+"gid": "E1484",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1330,7 +1330,7 @@ I_events_0 = [
 "date": "1886",
 "date_sdn": 2409908,
 "descr": "",
-"gid": "E1470",
+"gid": "E1454",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1345,13 +1345,13 @@ I_events_0 = [
 "date": "1891",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E1471",
+"gid": "E1455",
 "media": [],
 "part_family": [],
 "part_person": [
 93
 ],
-"place": 585,
+"place": 584,
 "text": "",
 "type": "Residence"
 }
@@ -1362,7 +1362,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1458",
+"gid": "E1442",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1377,13 +1377,13 @@ I_events_0 = [
 "date": "1891",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E1459",
+"gid": "E1443",
 "media": [],
 "part_family": [],
 "part_person": [
 94
 ],
-"place": 585,
+"place": 584,
 "text": "",
 "type": "Residence"
 },
@@ -1392,7 +1392,7 @@ I_events_0 = [
 "date": "1870",
 "date_sdn": 2404064,
 "descr": "",
-"gid": "E1460",
+"gid": "E1444",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1407,7 +1407,7 @@ I_events_0 = [
 "date": "1870",
 "date_sdn": 2404064,
 "descr": "",
-"gid": "E1461",
+"gid": "E1445",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1424,7 +1424,7 @@ I_events_0 = [
 "date": "1890",
 "date_sdn": 2411369,
 "descr": "",
-"gid": "E1474",
+"gid": "E1458",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1439,13 +1439,13 @@ I_events_0 = [
 "date": "1891",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E1475",
+"gid": "E1459",
 "media": [],
 "part_family": [],
 "part_person": [
 95
 ],
-"place": 585,
+"place": 584,
 "text": "",
 "type": "Residence"
 }
@@ -1456,7 +1456,7 @@ I_events_0 = [
 "date": "2 July 1907",
 "date_sdn": 2417759,
 "descr": "",
-"gid": "E1450",
+"gid": "E1434",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1471,7 +1471,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E1451",
+"gid": "E1435",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1488,7 +1488,7 @@ I_events_0 = [
 "date": "about 1807",
 "date_sdn": 2381053,
 "descr": "",
-"gid": "E1476",
+"gid": "E1460",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1503,7 +1503,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1477",
+"gid": "E1461",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1520,7 +1520,7 @@ I_events_0 = [
 "date": "1846",
 "date_sdn": 2395298,
 "descr": "",
-"gid": "E1505",
+"gid": "E1489",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1535,7 +1535,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1506",
+"gid": "E1490",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1552,7 +1552,7 @@ I_events_0 = [
 "date": "about 1839",
 "date_sdn": 2392741,
 "descr": "",
-"gid": "E1497",
+"gid": "E1481",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1567,7 +1567,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1498",
+"gid": "E1482",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1584,7 +1584,7 @@ I_events_0 = [
 "date": "about 1843",
 "date_sdn": 2394202,
 "descr": "",
-"gid": "E1501",
+"gid": "E1485",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1599,7 +1599,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1502",
+"gid": "E1486",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1617,7 +1617,7 @@ I_events_0 = [
 "date": "1888",
 "date_sdn": 2410638,
 "descr": "",
-"gid": "E1472",
+"gid": "E1456",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1632,13 +1632,13 @@ I_events_0 = [
 "date": "1891",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E1473",
+"gid": "E1457",
 "media": [],
 "part_family": [],
 "part_person": [
 102
 ],
-"place": 585,
+"place": 584,
 "text": "",
 "type": "Residence"
 }
@@ -1652,7 +1652,7 @@ I_events_0 = [
 "date": "between 1766 and 1776",
 "date_sdn": 2366079,
 "descr": "",
-"gid": "E2073",
+"gid": "E2056",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1667,7 +1667,7 @@ I_events_0 = [
 "date": "between 1792 and 1876",
 "date_sdn": 2375575,
 "descr": "",
-"gid": "E2074",
+"gid": "E2057",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1687,7 +1687,7 @@ I_events_0 = [
 "date": "1833",
 "date_sdn": 2390550,
 "descr": "",
-"gid": "E2975",
+"gid": "E2946",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1705,7 +1705,7 @@ I_events_0 = [
 "date": "about 1889",
 "date_sdn": 2411004,
 "descr": "",
-"gid": "E1030",
+"gid": "E1014",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1720,7 +1720,7 @@ I_events_0 = [
 "date": "23 March 1980",
 "date_sdn": 2444322,
 "descr": "",
-"gid": "E1031",
+"gid": "E1015",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1737,7 +1737,7 @@ I_events_0 = [
 "date": "about 1918",
 "date_sdn": 2421595,
 "descr": "",
-"gid": "E1047",
+"gid": "E1031",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1752,7 +1752,7 @@ I_events_0 = [
 "date": "1986",
 "date_sdn": 2446432,
 "descr": "",
-"gid": "E1048",
+"gid": "E1032",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1767,13 +1767,13 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E2384",
+"gid": "E2364",
 "media": [],
 "part_family": [],
 "part_person": [
 113
 ],
-"place": 642,
+"place": 641,
 "text": "",
 "type": "Burial"
 }
@@ -1784,7 +1784,7 @@ I_events_0 = [
 "date": "3 October 1919",
 "date_sdn": 2422235,
 "descr": "",
-"gid": "E1049",
+"gid": "E1033",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1799,7 +1799,7 @@ I_events_0 = [
 "date": "1 July 1995",
 "date_sdn": 2449900,
 "descr": "",
-"gid": "E1050",
+"gid": "E1034",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1817,7 +1817,7 @@ I_events_0 = [
 "date": "1921",
 "date_sdn": 2422691,
 "descr": "",
-"gid": "E2385",
+"gid": "E2365",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1832,7 +1832,7 @@ I_events_0 = [
 "date": "1966",
 "date_sdn": 2439127,
 "descr": "",
-"gid": "E2386",
+"gid": "E2366",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1847,13 +1847,13 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E2387",
+"gid": "E2367",
 "media": [],
 "part_family": [],
 "part_person": [
 116
 ],
-"place": 642,
+"place": 641,
 "text": "",
 "type": "Burial"
 }
@@ -1864,7 +1864,7 @@ I_events_0 = [
 "date": "before 27 September 1829",
 "date_sdn": 2389358,
 "descr": "",
-"gid": "E0032",
+"gid": "E0031",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1879,7 +1879,7 @@ I_events_0 = [
 "date": "September 1890",
 "date_sdn": 2411612,
 "descr": "",
-"gid": "E0033",
+"gid": "E0032",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1896,7 +1896,7 @@ I_events_0 = [
 "date": "1817",
 "date_sdn": 2384706,
 "descr": "",
-"gid": "E1444",
+"gid": "E1428",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1911,7 +1911,7 @@ I_events_0 = [
 "date": "between 1858 and 1917",
 "date_sdn": 2399681,
 "descr": "",
-"gid": "E1445",
+"gid": "E1429",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1928,7 +1928,7 @@ I_events_0 = [
 "date": "16 February 1883",
 "date_sdn": 2408858,
 "descr": "",
-"gid": "E2905",
+"gid": "E2877",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1945,7 +1945,7 @@ I_events_0 = [
 "date": "between 1757 and 1801",
 "date_sdn": 2362792,
 "descr": "",
-"gid": "E0042",
+"gid": "E0041",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1960,7 +1960,7 @@ I_events_0 = [
 "date": "between 1817 and 1901",
 "date_sdn": 2384706,
 "descr": "",
-"gid": "E0043",
+"gid": "E0042",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1977,7 +1977,7 @@ I_events_0 = [
 "date": "25 August 1914",
 "date_sdn": 2420370,
 "descr": "",
-"gid": "E3047",
+"gid": "E3016",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -1992,13 +1992,13 @@ I_events_0 = [
 "date": "8 November 2018",
 "date_sdn": 2458431,
 "descr": "",
-"gid": "E3048",
+"gid": "E3017",
 "media": [],
 "part_family": [],
 "part_person": [
 121
 ],
-"place": 588,
+"place": 587,
 "text": "",
 "type": "Death"
 }
@@ -2010,7 +2010,7 @@ I_events_0 = [
 "date": "1710",
 "date_sdn": 2345625,
 "descr": "",
-"gid": "E1613",
+"gid": "E1596",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2025,7 +2025,7 @@ I_events_0 = [
 "date": "after 1755",
 "date_sdn": 2362061,
 "descr": "",
-"gid": "E1614",
+"gid": "E1597",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2044,13 +2044,13 @@ I_events_0 = [
 "date": "29 November 1889",
 "date_sdn": 2411336,
 "descr": "",
-"gid": "E0046",
+"gid": "E0045",
 "media": [],
 "part_family": [],
 "part_person": [
 126
 ],
-"place": 572,
+"place": 571,
 "text": "",
 "type": "Birth"
 }
@@ -2062,7 +2062,7 @@ I_events_0 = [
 "date": "January 1904",
 "date_sdn": 2416481,
 "descr": "",
-"gid": "E2432",
+"gid": "E2412",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2079,7 +2079,7 @@ I_events_0 = [
 "date": "20 December 1878",
 "date_sdn": 2407339,
 "descr": "",
-"gid": "E0047",
+"gid": "E0046",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2094,7 +2094,7 @@ I_events_0 = [
 "date": "March 1969",
 "date_sdn": 2440282,
 "descr": "",
-"gid": "E0048",
+"gid": "E0047",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2111,7 +2111,7 @@ I_events_0 = [
 "date": "April 1884",
 "date_sdn": 2409268,
 "descr": "",
-"gid": "E0049",
+"gid": "E0048",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2126,7 +2126,7 @@ I_events_0 = [
 "date": "March 1964",
 "date_sdn": 2438456,
 "descr": "",
-"gid": "E0050",
+"gid": "E0049",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2143,13 +2143,13 @@ I_events_0 = [
 "date": "27 September 1908",
 "date_sdn": 2418212,
 "descr": "",
-"gid": "E0051",
+"gid": "E0050",
 "media": [],
 "part_family": [],
 "part_person": [
 131
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -2158,13 +2158,13 @@ I_events_0 = [
 "date": "26 March 1973",
 "date_sdn": 2441768,
 "descr": "",
-"gid": "E0052",
+"gid": "E0051",
 "media": [],
 "part_family": [],
 "part_person": [
 131
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Death"
 }
@@ -2175,7 +2175,7 @@ I_events_0 = [
 "date": "October 1910",
 "date_sdn": 2418946,
 "descr": "",
-"gid": "E2434",
+"gid": "E2414",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2190,7 +2190,7 @@ I_events_0 = [
 "date": "4 December 1914",
 "date_sdn": 2420471,
 "descr": "",
-"gid": "E2439",
+"gid": "E2419",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2209,13 +2209,13 @@ I_events_0 = [
 "date": "29 October 1899",
 "date_sdn": 2414957,
 "descr": "",
-"gid": "E0054",
+"gid": "E0053",
 "media": [],
 "part_family": [],
 "part_person": [
 135
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -2224,13 +2224,13 @@ I_events_0 = [
 "date": "21 February 1951",
 "date_sdn": 2433699,
 "descr": "",
-"gid": "E0055",
+"gid": "E0054",
 "media": [],
 "part_family": [],
 "part_person": [
 135
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Death"
 }
@@ -2241,7 +2241,7 @@ I_events_0 = [
 "date": "January 1933",
 "date_sdn": 2427074,
 "descr": "",
-"gid": "E0056",
+"gid": "E0055",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2256,7 +2256,7 @@ I_events_0 = [
 "date": "January 1986",
 "date_sdn": 2446432,
 "descr": "",
-"gid": "E0057",
+"gid": "E0056",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2273,7 +2273,7 @@ I_events_0 = [
 "date": "June 1871",
 "date_sdn": 2404580,
 "descr": "",
-"gid": "E0058",
+"gid": "E0057",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2290,13 +2290,13 @@ I_events_0 = [
 "date": "January 1888",
 "date_sdn": 2410638,
 "descr": "",
-"gid": "E0059",
+"gid": "E0058",
 "media": [],
 "part_family": [],
 "part_person": [
 138
 ],
-"place": 572,
+"place": 571,
 "text": "",
 "type": "Birth"
 },
@@ -2305,7 +2305,7 @@ I_events_0 = [
 "date": "12 February 1901",
 "date_sdn": 2415428,
 "descr": "",
-"gid": "E2403",
+"gid": "E2383",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2322,7 +2322,7 @@ I_events_0 = [
 "date": "January 1842",
 "date_sdn": 2393837,
 "descr": "",
-"gid": "E0060",
+"gid": "E0059",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2337,13 +2337,13 @@ I_events_0 = [
 "date": "16 January 1842",
 "date_sdn": 2393852,
 "descr": "",
-"gid": "E2426",
+"gid": "E2406",
 "media": [],
 "part_family": [],
 "part_person": [
 139
 ],
-"place": 577,
+"place": 576,
 "text": "",
 "type": "Baptism"
 }
@@ -2356,7 +2356,7 @@ I_events_0 = [
 "date": "about 1806",
 "date_sdn": 2380688,
 "descr": "",
-"gid": "E0063",
+"gid": "E0062",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2371,7 +2371,7 @@ I_events_0 = [
 "date": "before 1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E0064",
+"gid": "E0063",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2388,7 +2388,7 @@ I_events_0 = [
 "date": "about 1780",
 "date_sdn": 2371192,
 "descr": "",
-"gid": "E0065",
+"gid": "E0064",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2402,31 +2402,14 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "14 April 1894",
-"date_sdn": 2412933,
+"date": "13 December 1872",
+"date_sdn": 2405141,
 "descr": "",
-"gid": "E2430",
+"gid": "E0065",
 "media": [],
 "part_family": [],
 "part_person": [
 144
-],
-"place": 378,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "13 December 1872",
-"date_sdn": 2405141,
-"descr": "",
-"gid": "E0066",
-"media": [],
-"part_family": [],
-"part_person": [
-145
 ],
 "place": 290,
 "text": "",
@@ -2437,15 +2420,30 @@ I_events_0 = [
 "date": "17 August 1949",
 "date_sdn": 2433146,
 "descr": "",
+"gid": "E0066",
+"media": [],
+"part_family": [],
+"part_person": [
+144
+],
+"place": 620,
+"text": "",
+"type": "Death"
+},
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
 "gid": "E0067",
 "media": [],
 "part_family": [],
 "part_person": [
-145
+144
 ],
-"place": 621,
+"place": 1,
 "text": "",
-"type": "Death"
+"type": "Residence"
 },
 {
 "cita": [],
@@ -2456,9 +2454,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-145
+144
 ],
-"place": 1,
+"place": 63,
 "text": "",
 "type": "Residence"
 },
@@ -2471,9 +2469,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-145
+144
 ],
-"place": 63,
+"place": 40,
 "text": "",
 "type": "Residence"
 },
@@ -2486,9 +2484,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-145
+144
 ],
-"place": 40,
+"place": 52,
 "text": "",
 "type": "Residence"
 },
@@ -2501,9 +2499,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-145
+144
 ],
-"place": 52,
+"place": 67,
 "text": "",
 "type": "Residence"
 },
@@ -2516,9 +2514,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-145
+144
 ],
-"place": 67,
+"place": 2,
 "text": "",
 "type": "Residence"
 },
@@ -2531,22 +2529,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-145
-],
-"place": 2,
-"text": "",
-"type": "Residence"
-},
-{
-"cita": [],
-"date": "",
-"date_sdn": 0,
-"descr": "",
-"gid": "E0074",
-"media": [],
-"part_family": [],
-"part_person": [
-145
+144
 ],
 "place": 42,
 "text": "",
@@ -2556,10 +2539,27 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "14 April 1894",
+"date_sdn": 2412933,
+"descr": "",
+"gid": "E2410",
+"media": [],
+"part_family": [],
+"part_person": [
+145
+],
+"place": 378,
+"text": "",
+"type": "Birth"
+}
+],
+[
+{
+"cita": [],
 "date": "20 January 1897",
 "date_sdn": 2413945,
 "descr": "",
-"gid": "E0075",
+"gid": "E0074",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2574,7 +2574,7 @@ I_events_0 = [
 "date": "4 February 1989",
 "date_sdn": 2447562,
 "descr": "",
-"gid": "E0076",
+"gid": "E0075",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2589,7 +2589,7 @@ I_events_0 = [
 "date": "1962",
 "date_sdn": 2437666,
 "descr": "",
-"gid": "E0077",
+"gid": "E0076",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2604,7 +2604,7 @@ I_events_0 = [
 "date": "2 March 1900",
 "date_sdn": 2415081,
 "descr": "",
-"gid": "E0078",
+"gid": "E0077",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2619,7 +2619,7 @@ I_events_0 = [
 "date": "25 December 1914",
 "date_sdn": 2420492,
 "descr": "",
-"gid": "E0079",
+"gid": "E0078",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2634,7 +2634,7 @@ I_events_0 = [
 "date": "24 October 1912",
 "date_sdn": 2419700,
 "descr": "",
-"gid": "E0080",
+"gid": "E0079",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2649,7 +2649,7 @@ I_events_0 = [
 "date": "30 January 1962",
 "date_sdn": 2437695,
 "descr": "",
-"gid": "E0081",
+"gid": "E0080",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2664,7 +2664,7 @@ I_events_0 = [
 "date": "1951",
 "date_sdn": 2433648,
 "descr": "",
-"gid": "E0082",
+"gid": "E0081",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2683,13 +2683,13 @@ I_events_0 = [
 "date": "October 1916",
 "date_sdn": 2421138,
 "descr": "",
-"gid": "E0083",
+"gid": "E0082",
 "media": [],
 "part_family": [],
 "part_person": [
 149
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -2698,7 +2698,7 @@ I_events_0 = [
 "date": "September 2001",
 "date_sdn": 2452154,
 "descr": "",
-"gid": "E0084",
+"gid": "E0083",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2715,7 +2715,7 @@ I_events_0 = [
 "date": "June 1849",
 "date_sdn": 2396545,
 "descr": "",
-"gid": "E0085",
+"gid": "E0084",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2730,7 +2730,7 @@ I_events_0 = [
 "date": "21 June 1869",
 "date_sdn": 2403870,
 "descr": "",
-"gid": "E0086",
+"gid": "E0085",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2745,14 +2745,14 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "Estimated death date",
-"gid": "E2425",
+"gid": "E2405",
 "media": [],
 "part_family": [],
 "part_person": [
 150
 ],
 "place": -1,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAdded death event based on birth date\n</p>\n</div>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nAdded death event based on birth date\n</p>\n</div>\n</div>",
 "type": "Death"
 }
 ],
@@ -2762,13 +2762,13 @@ I_events_0 = [
 "date": "10 October 1902",
 "date_sdn": 2416033,
 "descr": "",
-"gid": "E0087",
+"gid": "E0086",
 "media": [],
 "part_family": [],
 "part_person": [
 151
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -2777,7 +2777,7 @@ I_events_0 = [
 "date": "December 1977",
 "date_sdn": 2443479,
 "descr": "",
-"gid": "E0088",
+"gid": "E0087",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2794,13 +2794,13 @@ I_events_0 = [
 "date": "October 1911",
 "date_sdn": 2419311,
 "descr": "",
-"gid": "E0089",
+"gid": "E0088",
 "media": [],
 "part_family": [],
 "part_person": [
 152
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -2809,7 +2809,7 @@ I_events_0 = [
 "date": "1967",
 "date_sdn": 2439492,
 "descr": "",
-"gid": "E0090",
+"gid": "E0089",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2826,7 +2826,7 @@ I_events_0 = [
 "date": "about 1833",
 "date_sdn": 2390550,
 "descr": "",
-"gid": "E0091",
+"gid": "E0090",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2844,7 +2844,7 @@ I_events_0 = [
 "date": "April 1838",
 "date_sdn": 2392466,
 "descr": "",
-"gid": "E0093",
+"gid": "E0092",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2862,7 +2862,7 @@ I_events_0 = [
 "date": "1806",
 "date_sdn": 2380688,
 "descr": "",
-"gid": "E0095",
+"gid": "E0094",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2879,7 +2879,7 @@ I_events_0 = [
 "date": "April 1868",
 "date_sdn": 2403424,
 "descr": "",
-"gid": "E2428",
+"gid": "E2408",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2897,13 +2897,13 @@ I_events_0 = [
 "date": "1921",
 "date_sdn": 2422691,
 "descr": "",
-"gid": "E0096",
+"gid": "E0095",
 "media": [],
 "part_family": [],
 "part_person": [
 160
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -2912,7 +2912,7 @@ I_events_0 = [
 "date": "1993",
 "date_sdn": 2448989,
 "descr": "",
-"gid": "E0097",
+"gid": "E0096",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2929,13 +2929,13 @@ I_events_0 = [
 "date": "5 September 1931",
 "date_sdn": 2426590,
 "descr": "",
-"gid": "E0169",
+"gid": "E0167",
 "media": [],
 "part_family": [],
 "part_person": [
 161
 ],
-"place": 585,
+"place": 584,
 "text": "",
 "type": "Birth"
 },
@@ -2944,7 +2944,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0170",
+"gid": "E0168",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2959,7 +2959,7 @@ I_events_0 = [
 "date": "May 1971",
 "date_sdn": 2441073,
 "descr": "",
-"gid": "E0171",
+"gid": "E0169",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2974,7 +2974,7 @@ I_events_0 = [
 "date": "25 August 2022",
 "date_sdn": 2459817,
 "descr": "",
-"gid": "E3020",
+"gid": "E2989",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -2994,13 +2994,13 @@ I_events_0 = [
 "date": "September 1906",
 "date_sdn": 2417455,
 "descr": "",
-"gid": "E0099",
+"gid": "E0098",
 "media": [],
 "part_family": [],
 "part_person": [
 165
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -3009,13 +3009,13 @@ I_events_0 = [
 "date": "June 1939",
 "date_sdn": 2429416,
 "descr": "",
-"gid": "E0100",
+"gid": "E0099",
 "media": [],
 "part_family": [],
 "part_person": [
 165
 ],
-"place": 588,
+"place": 587,
 "text": "",
 "type": "Death"
 }
@@ -3026,7 +3026,7 @@ I_events_0 = [
 "date": "October 1896",
 "date_sdn": 2413834,
 "descr": "",
-"gid": "E2431",
+"gid": "E2411",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3045,13 +3045,13 @@ I_events_0 = [
 "date": "18 September 1903",
 "date_sdn": 2416376,
 "descr": "",
-"gid": "E0101",
+"gid": "E0100",
 "media": [],
 "part_family": [],
 "part_person": [
 169
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -3060,13 +3060,13 @@ I_events_0 = [
 "date": "December 1974",
 "date_sdn": 2442383,
 "descr": "",
-"gid": "E0102",
+"gid": "E0101",
 "media": [],
 "part_family": [],
 "part_person": [
 169
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Death"
 }
@@ -3078,7 +3078,7 @@ I_events_0 = [
 "date": "1780",
 "date_sdn": 2371192,
 "descr": "",
-"gid": "E0103",
+"gid": "E0102",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3098,7 +3098,7 @@ I_events_0 = [
 "date": "July 1906",
 "date_sdn": 2417393,
 "descr": "",
-"gid": "E2433",
+"gid": "E2413",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3115,7 +3115,7 @@ I_events_0 = [
 "date": "1790",
 "date_sdn": 2374845,
 "descr": "",
-"gid": "E2343",
+"gid": "E2325",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3140,7 +3140,7 @@ I_events_0 = [
 "date": "1801",
 "date_sdn": 2378862,
 "descr": "",
-"gid": "E1434",
+"gid": "E1418",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3155,14 +3155,14 @@ I_events_0 = [
 "date": "14 November 1876",
 "date_sdn": 2406573,
 "descr": "",
-"gid": "E1435",
+"gid": "E1419",
 "media": [],
 "part_family": [],
 "part_person": [
 185
 ],
 "place": 235,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDied in Dunmow union workhouse\n</p>\n</div>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nDied in Dunmow union workhouse\n</p>\n</div>\n</div>",
 "type": "Death"
 }
 ],
@@ -3172,7 +3172,7 @@ I_events_0 = [
 "date": "1802",
 "date_sdn": 2379227,
 "descr": "",
-"gid": "E1432",
+"gid": "E1416",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3187,7 +3187,7 @@ I_events_0 = [
 "date": "1803",
 "date_sdn": 2379592,
 "descr": "",
-"gid": "E1433",
+"gid": "E1417",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3204,7 +3204,7 @@ I_events_0 = [
 "date": "1805",
 "date_sdn": 2380323,
 "descr": "",
-"gid": "E1429",
+"gid": "E1413",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3221,7 +3221,7 @@ I_events_0 = [
 "date": "1804",
 "date_sdn": 2379957,
 "descr": "",
-"gid": "E1430",
+"gid": "E1414",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3236,7 +3236,7 @@ I_events_0 = [
 "date": "1814",
 "date_sdn": 2383610,
 "descr": "",
-"gid": "E1431",
+"gid": "E1415",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3253,13 +3253,13 @@ I_events_0 = [
 "date": "1808",
 "date_sdn": 2381418,
 "descr": "",
-"gid": "E0109",
+"gid": "E0108",
 "media": [],
 "part_family": [],
 "part_person": [
 189
 ],
-"place": 658,
+"place": 657,
 "text": "",
 "type": "Birth"
 },
@@ -3268,7 +3268,7 @@ I_events_0 = [
 "date": "1863",
 "date_sdn": 2401507,
 "descr": "",
-"gid": "E0110",
+"gid": "E0109",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3285,7 +3285,7 @@ I_events_0 = [
 "date": "29 September 1738",
 "date_sdn": 2356123,
 "descr": "",
-"gid": "E0111",
+"gid": "E0110",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3300,7 +3300,7 @@ I_events_0 = [
 "date": "29 May 1830",
 "date_sdn": 2389602,
 "descr": "",
-"gid": "E0112",
+"gid": "E0111",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3317,13 +3317,13 @@ I_events_0 = [
 "date": "15 May 1715",
 "date_sdn": 2347585,
 "descr": "",
-"gid": "E0113",
+"gid": "E0112",
 "media": [],
 "part_family": [],
 "part_person": [
 191
 ],
-"place": 586,
+"place": 585,
 "text": "",
 "type": "Birth"
 },
@@ -3332,13 +3332,13 @@ I_events_0 = [
 "date": "27 July 1769",
 "date_sdn": 2367382,
 "descr": "",
-"gid": "E0114",
+"gid": "E0113",
 "media": [],
 "part_family": [],
 "part_person": [
 191
 ],
-"place": 586,
+"place": 585,
 "text": "",
 "type": "Death"
 }
@@ -3349,13 +3349,13 @@ I_events_0 = [
 "date": "about 1775",
 "date_sdn": 2369366,
 "descr": "",
-"gid": "E0115",
+"gid": "E0114",
 "media": [],
 "part_family": [],
 "part_person": [
 192
 ],
-"place": 586,
+"place": 585,
 "text": "",
 "type": "Birth"
 },
@@ -3364,7 +3364,7 @@ I_events_0 = [
 "date": "1 June 1844",
 "date_sdn": 2394719,
 "descr": "",
-"gid": "E0116",
+"gid": "E0115",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3381,7 +3381,7 @@ I_events_0 = [
 "date": "1806",
 "date_sdn": 2380688,
 "descr": "",
-"gid": "E1427",
+"gid": "E1411",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3396,7 +3396,7 @@ I_events_0 = [
 "date": "22 October 1863",
 "date_sdn": 2401801,
 "descr": "",
-"gid": "E1428",
+"gid": "E1412",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3413,7 +3413,7 @@ I_events_0 = [
 "date": "about 1675",
 "date_sdn": 2332842,
 "descr": "",
-"gid": "E0117",
+"gid": "E0116",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3428,7 +3428,7 @@ I_events_0 = [
 "date": "about 1739",
 "date_sdn": 2356217,
 "descr": "",
-"gid": "E0118",
+"gid": "E0117",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3445,7 +3445,7 @@ I_events_0 = [
 "date": "September 1634",
 "date_sdn": 2318110,
 "descr": "",
-"gid": "E0119",
+"gid": "E0118",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3460,7 +3460,7 @@ I_events_0 = [
 "date": "1695",
 "date_sdn": 2340147,
 "descr": "",
-"gid": "E0120",
+"gid": "E0119",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3477,7 +3477,7 @@ I_events_0 = [
 "date": "1815",
 "date_sdn": 2383975,
 "descr": "",
-"gid": "E0121",
+"gid": "E0120",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3492,7 +3492,7 @@ I_events_0 = [
 "date": "April 1891",
 "date_sdn": 2411824,
 "descr": "",
-"gid": "E0122",
+"gid": "E0121",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3509,7 +3509,7 @@ I_events_0 = [
 "date": "1784",
 "date_sdn": 2372653,
 "descr": "",
-"gid": "E0123",
+"gid": "E0122",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3524,7 +3524,7 @@ I_events_0 = [
 "date": "27 August 1828",
 "date_sdn": 2388962,
 "descr": "",
-"gid": "E0124",
+"gid": "E0123",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3541,7 +3541,7 @@ I_events_0 = [
 "date": "July 1899",
 "date_sdn": 2414837,
 "descr": "",
-"gid": "E0125",
+"gid": "E0124",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3556,13 +3556,13 @@ I_events_0 = [
 "date": "January 1971",
 "date_sdn": 2440953,
 "descr": "",
-"gid": "E0126",
+"gid": "E0125",
 "media": [],
 "part_family": [],
 "part_person": [
 198
 ],
-"place": 582,
+"place": 581,
 "text": "",
 "type": "Death"
 }
@@ -3574,7 +3574,7 @@ I_events_0 = [
 "date": "April 1874",
 "date_sdn": 2405615,
 "descr": "",
-"gid": "E0129",
+"gid": "E0128",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3589,7 +3589,7 @@ I_events_0 = [
 "date": "between 1921 and 1939",
 "date_sdn": 2422691,
 "descr": "",
-"gid": "E0130",
+"gid": "E0129",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3604,7 +3604,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E0131",
+"gid": "E0130",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3619,7 +3619,7 @@ I_events_0 = [
 "date": "7 July 1921",
 "date_sdn": 2422878,
 "descr": "",
-"gid": "E3026",
+"gid": "E2995",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3638,7 +3638,7 @@ I_events_0 = [
 "date": "1896",
 "date_sdn": 2413560,
 "descr": "",
-"gid": "E3024",
+"gid": "E2993",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3656,7 +3656,7 @@ I_events_0 = [
 "date": "1821",
 "date_sdn": 2386167,
 "descr": "",
-"gid": "E0135",
+"gid": "E0133",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3671,7 +3671,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E0136",
+"gid": "E0134",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3688,7 +3688,7 @@ I_events_0 = [
 "date": "14 May 1899",
 "date_sdn": 2414789,
 "descr": "",
-"gid": "E0137",
+"gid": "E0135",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3703,13 +3703,13 @@ I_events_0 = [
 "date": "31 October 1967",
 "date_sdn": 2439795,
 "descr": "",
-"gid": "E0138",
+"gid": "E0136",
 "media": [],
 "part_family": [],
 "part_person": [
 205
 ],
-"place": 582,
+"place": 581,
 "text": "",
 "type": "Death"
 },
@@ -3718,7 +3718,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E0139",
+"gid": "E0137",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3735,13 +3735,13 @@ I_events_0 = [
 "date": "1894",
 "date_sdn": 2412830,
 "descr": "",
-"gid": "E0140",
+"gid": "E0138",
 "media": [],
 "part_family": [],
 "part_person": [
 206
 ],
-"place": 655,
+"place": 654,
 "text": "",
 "type": "Birth"
 },
@@ -3750,7 +3750,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E0141",
+"gid": "E0139",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3765,7 +3765,7 @@ I_events_0 = [
 "date": "after 1935",
 "date_sdn": 2427804,
 "descr": "",
-"gid": "E3021",
+"gid": "E2990",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3782,7 +3782,7 @@ I_events_0 = [
 "date": "1826",
 "date_sdn": 2387993,
 "descr": "",
-"gid": "E0142",
+"gid": "E0140",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3799,7 +3799,7 @@ I_events_0 = [
 "date": "about 1840",
 "date_sdn": 2393106,
 "descr": "",
-"gid": "E0143",
+"gid": "E0141",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3814,7 +3814,7 @@ I_events_0 = [
 "date": "April 1911",
 "date_sdn": 2419128,
 "descr": "",
-"gid": "E0144",
+"gid": "E0142",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3831,7 +3831,7 @@ I_events_0 = [
 "date": "July 1899",
 "date_sdn": 2414837,
 "descr": "",
-"gid": "E0145",
+"gid": "E0143",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3848,7 +3848,7 @@ I_events_0 = [
 "date": "April 1868",
 "date_sdn": 2403424,
 "descr": "",
-"gid": "E0146",
+"gid": "E0144",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3863,14 +3863,14 @@ I_events_0 = [
 "date": "29 January 1912",
 "date_sdn": 2419431,
 "descr": "",
-"gid": "E0147",
+"gid": "E0145",
 "media": [],
 "part_family": [],
 "part_person": [
 210
 ],
 "place": 8,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDied of Abscess of ear, meningitis and  hyperexia (according to death certificate). According to John Nicholas Barrett, Herbert died of lead poisoning as a result of the toxic chemicals used to make glazes.\n</p>\n</div>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nDied of Abscess of ear, meningitis and  hyperexia (according to death certificate). According to John Nicholas Barrett, Herbert died of lead poisoning as a result of the toxic chemicals used to make glazes.\n</p>\n</div>\n</div>",
 "type": "Death"
 },
 {
@@ -3878,7 +3878,7 @@ I_events_0 = [
 "date": "1892",
 "date_sdn": 2412099,
 "descr": "",
-"gid": "E0148",
+"gid": "E0146",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3893,7 +3893,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E0149",
+"gid": "E0147",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3908,7 +3908,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E0150",
+"gid": "E0148",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3925,7 +3925,7 @@ I_events_0 = [
 "date": "28 March 1843",
 "date_sdn": 2394288,
 "descr": "",
-"gid": "E0151",
+"gid": "E0149",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3940,7 +3940,7 @@ I_events_0 = [
 "date": "after 1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E0152",
+"gid": "E0150",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3955,7 +3955,7 @@ I_events_0 = [
 "date": "1891",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E0153",
+"gid": "E0151",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3972,7 +3972,7 @@ I_events_0 = [
 "date": "8 July 1897",
 "date_sdn": 2414114,
 "descr": "",
-"gid": "E0154",
+"gid": "E0152",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -3987,7 +3987,7 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E0155",
+"gid": "E0153",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4002,7 +4002,7 @@ I_events_0 = [
 "date": "17 November 1897",
 "date_sdn": 2414246,
 "descr": "",
-"gid": "E2448",
+"gid": "E2428",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4017,7 +4017,7 @@ I_events_0 = [
 "date": "16 April 1967",
 "date_sdn": 2439597,
 "descr": "",
-"gid": "E3022",
+"gid": "E2991",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4034,7 +4034,7 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E0156",
+"gid": "E0154",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4051,7 +4051,7 @@ I_events_0 = [
 "date": "1823",
 "date_sdn": 2386897,
 "descr": "",
-"gid": "E0157",
+"gid": "E0155",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4066,7 +4066,7 @@ I_events_0 = [
 "date": "25 December 1896",
 "date_sdn": 2413919,
 "descr": "",
-"gid": "E0158",
+"gid": "E0156",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4083,7 +4083,7 @@ I_events_0 = [
 "date": "1803",
 "date_sdn": 2379592,
 "descr": "",
-"gid": "E0159",
+"gid": "E0157",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4098,7 +4098,7 @@ I_events_0 = [
 "date": "15 July 1821",
 "date_sdn": 2386362,
 "descr": "",
-"gid": "E0160",
+"gid": "E0158",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4115,7 +4115,7 @@ I_events_0 = [
 "date": "about 1846",
 "date_sdn": 2395298,
 "descr": "",
-"gid": "E0161",
+"gid": "E0159",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4132,7 +4132,7 @@ I_events_0 = [
 "date": "29 December 1930",
 "date_sdn": 2426340,
 "descr": "",
-"gid": "E0162",
+"gid": "E0160",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4147,7 +4147,7 @@ I_events_0 = [
 "date": "13 April 2020",
 "date_sdn": 2458953,
 "descr": "",
-"gid": "E0163",
+"gid": "E0161",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4162,7 +4162,7 @@ I_events_0 = [
 "date": "May 1972",
 "date_sdn": 2441439,
 "descr": "",
-"gid": "E0164",
+"gid": "E0162",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4179,7 +4179,7 @@ I_events_0 = [
 "date": "10 February 1811",
 "date_sdn": 2382554,
 "descr": "",
-"gid": "E0165",
+"gid": "E0163",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4194,7 +4194,7 @@ I_events_0 = [
 "date": "1859",
 "date_sdn": 2400046,
 "descr": "",
-"gid": "E0166",
+"gid": "E0164",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4213,7 +4213,7 @@ I_events_0 = [
 "date": "about 1850",
 "date_sdn": 2396759,
 "descr": "",
-"gid": "E0174",
+"gid": "E0172",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4230,7 +4230,7 @@ I_events_0 = [
 "date": "1813",
 "date_sdn": 2383245,
 "descr": "",
-"gid": "E0175",
+"gid": "E0173",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4247,7 +4247,7 @@ I_events_0 = [
 "date": "17 April 1870",
 "date_sdn": 2404170,
 "descr": "",
-"gid": "E0176",
+"gid": "E0174",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4262,7 +4262,7 @@ I_events_0 = [
 "date": "October 1953",
 "date_sdn": 2434652,
 "descr": "",
-"gid": "E0177",
+"gid": "E0175",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4277,7 +4277,7 @@ I_events_0 = [
 "date": "19 June 1870",
 "date_sdn": 2404233,
 "descr": "",
-"gid": "E0178",
+"gid": "E0176",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4292,7 +4292,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E0179",
+"gid": "E0177",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4309,13 +4309,13 @@ I_events_0 = [
 "date": "29 January 1855",
 "date_sdn": 2398613,
 "descr": "",
-"gid": "E0180",
+"gid": "E0178",
 "media": [],
 "part_family": [],
 "part_person": [
 224
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 }
@@ -4326,7 +4326,7 @@ I_events_0 = [
 "date": "about 1754",
 "date_sdn": 2361696,
 "descr": "",
-"gid": "E0201",
+"gid": "E0199",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4341,7 +4341,7 @@ I_events_0 = [
 "date": "about 1825",
 "date_sdn": 2387628,
 "descr": "",
-"gid": "E0202",
+"gid": "E0200",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4358,7 +4358,7 @@ I_events_0 = [
 "date": "26 February 1872",
 "date_sdn": 2404850,
 "descr": "",
-"gid": "E0181",
+"gid": "E0179",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4373,7 +4373,7 @@ I_events_0 = [
 "date": "29 January 1912",
 "date_sdn": 2419431,
 "descr": "",
-"gid": "E0182",
+"gid": "E0180",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4388,7 +4388,7 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E3027",
+"gid": "E2996",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4403,7 +4403,7 @@ I_events_0 = [
 "date": "1914",
 "date_sdn": 2420134,
 "descr": "",
-"gid": "E3028",
+"gid": "E2997",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4418,7 +4418,7 @@ I_events_0 = [
 "date": "January 1947",
 "date_sdn": 2432187,
 "descr": "",
-"gid": "E3029",
+"gid": "E2998",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4435,7 +4435,7 @@ I_events_0 = [
 "date": "22 October 1895",
 "date_sdn": 2413489,
 "descr": "",
-"gid": "E0183",
+"gid": "E0181",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4450,7 +4450,7 @@ I_events_0 = [
 "date": "1963",
 "date_sdn": 2438031,
 "descr": "",
-"gid": "E0184",
+"gid": "E0182",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4465,7 +4465,7 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E0185",
+"gid": "E0183",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4483,7 +4483,7 @@ I_events_0 = [
 "date": "11 August 1877",
 "date_sdn": 2406843,
 "descr": "",
-"gid": "E0189",
+"gid": "E0187",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4498,13 +4498,13 @@ I_events_0 = [
 "date": "September 1950",
 "date_sdn": 2433526,
 "descr": "",
-"gid": "E0190",
+"gid": "E0188",
 "media": [],
 "part_family": [],
 "part_person": [
 229
 ],
-"place": 605,
+"place": 604,
 "text": "",
 "type": "Death"
 },
@@ -4513,7 +4513,7 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E0191",
+"gid": "E0189",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4528,13 +4528,13 @@ I_events_0 = [
 "date": "1912",
 "date_sdn": 2419403,
 "descr": "",
-"gid": "E0192",
+"gid": "E0190",
 "media": [],
 "part_family": [],
 "part_person": [
 229
 ],
-"place": 587,
+"place": 586,
 "text": "",
 "type": "Residence"
 },
@@ -4543,7 +4543,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E3025",
+"gid": "E2994",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4560,7 +4560,7 @@ I_events_0 = [
 "date": "about 1848",
 "date_sdn": 2396028,
 "descr": "",
-"gid": "E0193",
+"gid": "E0191",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4577,7 +4577,7 @@ I_events_0 = [
 "date": "1818",
 "date_sdn": 2385071,
 "descr": "",
-"gid": "E0194",
+"gid": "E0192",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4592,7 +4592,7 @@ I_events_0 = [
 "date": "30 May 1820",
 "date_sdn": 2385951,
 "descr": "",
-"gid": "E0195",
+"gid": "E0193",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4610,7 +4610,7 @@ I_events_0 = [
 "date": "about 1853",
 "date_sdn": 2397855,
 "descr": "",
-"gid": "E0196",
+"gid": "E0194",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4627,7 +4627,7 @@ I_events_0 = [
 "date": "1808",
 "date_sdn": 2381418,
 "descr": "",
-"gid": "E0197",
+"gid": "E0195",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4642,7 +4642,7 @@ I_events_0 = [
 "date": "1858",
 "date_sdn": 2399681,
 "descr": "",
-"gid": "E0198",
+"gid": "E0196",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4659,7 +4659,7 @@ I_events_0 = [
 "date": "1806",
 "date_sdn": 2380688,
 "descr": "",
-"gid": "E0199",
+"gid": "E0197",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4674,7 +4674,7 @@ I_events_0 = [
 "date": "19 March 1844",
 "date_sdn": 2394645,
 "descr": "",
-"gid": "E0200",
+"gid": "E0198",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4692,13 +4692,13 @@ I_events_0 = [
 "date": "1872",
 "date_sdn": 2404794,
 "descr": "",
-"gid": "E2806",
+"gid": "E2780",
 "media": [],
 "part_family": [],
 "part_person": [
 237
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -4707,7 +4707,7 @@ I_events_0 = [
 "date": "between 1911 and 1972",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E2808",
+"gid": "E2781",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4724,13 +4724,13 @@ I_events_0 = [
 "date": "July 1895",
 "date_sdn": 2413376,
 "descr": "",
-"gid": "E2809",
+"gid": "E2782",
 "media": [],
 "part_family": [],
 "part_person": [
 238
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 }
@@ -4744,13 +4744,13 @@ I_events_0 = [
 "date": "1 April 1909",
 "date_sdn": 2418398,
 "descr": "",
-"gid": "E1954",
+"gid": "E1937",
 "media": [],
 "part_family": [],
 "part_person": [
 242
 ],
-"place": 664,
+"place": 663,
 "text": "",
 "type": "Birth"
 },
@@ -4759,7 +4759,7 @@ I_events_0 = [
 "date": "15 June 1989",
 "date_sdn": 2447693,
 "descr": "",
-"gid": "E1955",
+"gid": "E1938",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4776,7 +4776,7 @@ I_events_0 = [
 "date": "about 1815",
 "date_sdn": 2383975,
 "descr": "",
-"gid": "E1480",
+"gid": "E1464",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4791,7 +4791,7 @@ I_events_0 = [
 "date": "between 1851 and 1915",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1481",
+"gid": "E1465",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4806,7 +4806,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1482",
+"gid": "E1466",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4821,7 +4821,7 @@ I_events_0 = [
 "date": "5 February 1814",
 "date_sdn": 2383645,
 "descr": "",
-"gid": "E1483",
+"gid": "E1467",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4839,7 +4839,7 @@ I_events_0 = [
 "date": "14 December 1896",
 "date_sdn": 2413908,
 "descr": "",
-"gid": "E2244",
+"gid": "E2227",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4854,7 +4854,7 @@ I_events_0 = [
 "date": "1976",
 "date_sdn": 2442779,
 "descr": "",
-"gid": "E2245",
+"gid": "E2228",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4871,7 +4871,7 @@ I_events_0 = [
 "date": "30 March 1886",
 "date_sdn": 2409996,
 "descr": "",
-"gid": "E1118",
+"gid": "E1102",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4886,7 +4886,7 @@ I_events_0 = [
 "date": "March 1974",
 "date_sdn": 2442108,
 "descr": "",
-"gid": "E1119",
+"gid": "E1103",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4903,7 +4903,7 @@ I_events_0 = [
 "date": "1861",
 "date_sdn": 2400777,
 "descr": "",
-"gid": "E1453",
+"gid": "E1437",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4924,7 +4924,7 @@ I_events_0 = [
 "date": "30 October 1893",
 "date_sdn": 2412767,
 "descr": "",
-"gid": "E1183",
+"gid": "E1167",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4939,7 +4939,7 @@ I_events_0 = [
 "date": "7 December 1977",
 "date_sdn": 2443485,
 "descr": "",
-"gid": "E1184",
+"gid": "E1168",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4956,7 +4956,7 @@ I_events_0 = [
 "date": "1827",
 "date_sdn": 2388358,
 "descr": "",
-"gid": "E2470",
+"gid": "E2450",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4971,7 +4971,7 @@ I_events_0 = [
 "date": "8 May 1910",
 "date_sdn": 2418800,
 "descr": "",
-"gid": "E2471",
+"gid": "E2451",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -4988,7 +4988,7 @@ I_events_0 = [
 "date": "calculated between 1767 and 1811",
 "date_sdn": 2366444,
 "descr": "",
-"gid": "E2479",
+"gid": "E2458",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5003,7 +5003,7 @@ I_events_0 = [
 "date": "calculated between 1827 and 1911",
 "date_sdn": 2388358,
 "descr": "",
-"gid": "E2480",
+"gid": "E2459",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5020,7 +5020,7 @@ I_events_0 = [
 "date": "1733",
 "date_sdn": 2354026,
 "descr": "",
-"gid": "E0966",
+"gid": "E0950",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5037,7 +5037,7 @@ I_events_0 = [
 "date": "about 1796",
 "date_sdn": 2377036,
 "descr": "",
-"gid": "E0204",
+"gid": "E0202",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5052,13 +5052,13 @@ I_events_0 = [
 "date": "January 1892",
 "date_sdn": 2412099,
 "descr": "",
-"gid": "E0205",
+"gid": "E0203",
 "media": [],
 "part_family": [],
 "part_person": [
 256
 ],
-"place": 576,
+"place": 575,
 "text": "",
 "type": "Death"
 }
@@ -5069,7 +5069,7 @@ I_events_0 = [
 "date": "1753",
 "date_sdn": 2361331,
 "descr": "",
-"gid": "E0967",
+"gid": "E0951",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5084,7 +5084,7 @@ I_events_0 = [
 "date": "June 1838",
 "date_sdn": 2392527,
 "descr": "",
-"gid": "E0968",
+"gid": "E0952",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5101,7 +5101,7 @@ I_events_0 = [
 "date": "30 May 1902",
 "date_sdn": 2415900,
 "descr": "",
-"gid": "E2444",
+"gid": "E2424",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5116,7 +5116,7 @@ I_events_0 = [
 "date": "between 1939 and 2002",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E2445",
+"gid": "E2425",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5133,7 +5133,7 @@ I_events_0 = [
 "date": "1832",
 "date_sdn": 2390184,
 "descr": "",
-"gid": "E1755",
+"gid": "E1738",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5148,13 +5148,13 @@ I_events_0 = [
 "date": "January 1895",
 "date_sdn": 2413195,
 "descr": "",
-"gid": "E1756",
+"gid": "E1739",
 "media": [],
 "part_family": [],
 "part_person": [
 259
 ],
-"place": 630,
+"place": 629,
 "text": "",
 "type": "Death"
 }
@@ -5165,7 +5165,7 @@ I_events_0 = [
 "date": "about 1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E2429",
+"gid": "E2409",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5182,7 +5182,7 @@ I_events_0 = [
 "date": "1884",
 "date_sdn": 2409177,
 "descr": "",
-"gid": "E0206",
+"gid": "E0204",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5197,13 +5197,13 @@ I_events_0 = [
 "date": "13 October 1955",
 "date_sdn": 2435394,
 "descr": "",
-"gid": "E0207",
+"gid": "E0205",
 "media": [],
 "part_family": [],
 "part_person": [
 261
 ],
-"place": 644,
+"place": 643,
 "text": "",
 "type": "Death"
 }
@@ -5214,7 +5214,7 @@ I_events_0 = [
 "date": "9 October 1926",
 "date_sdn": 2424798,
 "descr": "",
-"gid": "E0208",
+"gid": "E0206",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5229,7 +5229,7 @@ I_events_0 = [
 "date": "31 May 2004",
 "date_sdn": 2453157,
 "descr": "",
-"gid": "E0209",
+"gid": "E0207",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5244,7 +5244,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0210",
+"gid": "E0208",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5265,7 +5265,7 @@ I_events_0 = [
 "date": "between 1824 and 1868",
 "date_sdn": 2387262,
 "descr": "",
-"gid": "E0216",
+"gid": "E0214",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5280,7 +5280,7 @@ I_events_0 = [
 "date": "between 1884 and 1968",
 "date_sdn": 2409177,
 "descr": "",
-"gid": "E0217",
+"gid": "E0215",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5300,7 +5300,7 @@ I_events_0 = [
 "date": "about 1855",
 "date_sdn": 2398585,
 "descr": "",
-"gid": "E0219",
+"gid": "E0217",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5320,7 +5320,7 @@ I_events_0 = [
 "date": "about 1831",
 "date_sdn": 2389819,
 "descr": "",
-"gid": "E0969",
+"gid": "E0953",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5337,7 +5337,7 @@ I_events_0 = [
 "date": "January 1862",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E1914",
+"gid": "E1897",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5352,7 +5352,7 @@ I_events_0 = [
 "date": "June 1935",
 "date_sdn": 2427955,
 "descr": "",
-"gid": "E1915",
+"gid": "E1898",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5369,7 +5369,7 @@ I_events_0 = [
 "date": "September 1874",
 "date_sdn": 2405768,
 "descr": "",
-"gid": "E0034",
+"gid": "E0033",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5384,7 +5384,7 @@ I_events_0 = [
 "date": "14 March 1947",
 "date_sdn": 2432259,
 "descr": "",
-"gid": "E0035",
+"gid": "E0034",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5401,7 +5401,7 @@ I_events_0 = [
 "date": "10 June 1902",
 "date_sdn": 2415911,
 "descr": "",
-"gid": "E0246",
+"gid": "E0244",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5416,7 +5416,7 @@ I_events_0 = [
 "date": "August 1990",
 "date_sdn": 2448105,
 "descr": "",
-"gid": "E0247",
+"gid": "E0245",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5433,7 +5433,7 @@ I_events_0 = [
 "date": "31 January 1879",
 "date_sdn": 2407381,
 "descr": "",
-"gid": "E0036",
+"gid": "E0035",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5448,7 +5448,7 @@ I_events_0 = [
 "date": "22 February 1978",
 "date_sdn": 2443562,
 "descr": "",
-"gid": "E0037",
+"gid": "E0036",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5466,7 +5466,7 @@ I_events_0 = [
 "date": "April 1884",
 "date_sdn": 2409268,
 "descr": "",
-"gid": "E1189",
+"gid": "E1173",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5481,7 +5481,7 @@ I_events_0 = [
 "date": "January 1884",
 "date_sdn": 2409177,
 "descr": "",
-"gid": "E1190",
+"gid": "E1174",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5498,7 +5498,7 @@ I_events_0 = [
 "date": "16 October 2014",
 "date_sdn": 2456947,
 "descr": "",
-"gid": "E1589",
+"gid": "E1572",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5516,7 +5516,7 @@ I_events_0 = [
 "date": "27 June 1876",
 "date_sdn": 2406433,
 "descr": "",
-"gid": "E0233",
+"gid": "E0231",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5531,14 +5531,14 @@ I_events_0 = [
 "date": "10 January 1957",
 "date_sdn": 2435849,
 "descr": "",
-"gid": "E0234",
+"gid": "E0232",
 "media": [],
 "part_family": [],
 "part_person": [
 284
 ],
 "place": 35,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBroncopneumonia<br />\nHemiplyia<br />\nDiabetes Mellitis\n</p>\n</div>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nBroncopneumonia<br />\nHemiplyia<br />\nDiabetes Mellitis\n</p>\n</div>\n</div>",
 "type": "Death"
 },
 {
@@ -5546,7 +5546,7 @@ I_events_0 = [
 "date": "1950",
 "date_sdn": 2433283,
 "descr": "",
-"gid": "E0235",
+"gid": "E0233",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5563,7 +5563,7 @@ I_events_0 = [
 "date": "April 1901",
 "date_sdn": 2415476,
 "descr": "",
-"gid": "E0231",
+"gid": "E0229",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5578,7 +5578,7 @@ I_events_0 = [
 "date": "April 1903",
 "date_sdn": 2416206,
 "descr": "",
-"gid": "E0232",
+"gid": "E0230",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5595,7 +5595,7 @@ I_events_0 = [
 "date": "September 1842",
 "date_sdn": 2394080,
 "descr": "",
-"gid": "E1187",
+"gid": "E1171",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5610,7 +5610,7 @@ I_events_0 = [
 "date": "January 1884",
 "date_sdn": 2409177,
 "descr": "",
-"gid": "E1188",
+"gid": "E1172",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5625,7 +5625,7 @@ I_events_0 = [
 "date": "7 January 1843",
 "date_sdn": 2394208,
 "descr": "",
-"gid": "E2376",
+"gid": "E2356",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5642,13 +5642,13 @@ I_events_0 = [
 "date": "3 July 1911",
 "date_sdn": 2419221,
 "descr": "",
-"gid": "E0238",
+"gid": "E0236",
 "media": [],
 "part_family": [],
 "part_person": [
 287
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -5657,13 +5657,13 @@ I_events_0 = [
 "date": "May 1985",
 "date_sdn": 2446187,
 "descr": "",
-"gid": "E0239",
+"gid": "E0237",
 "media": [],
 "part_family": [],
 "part_person": [
 287
 ],
-"place": 653,
+"place": 652,
 "text": "",
 "type": "Death"
 }
@@ -5674,7 +5674,7 @@ I_events_0 = [
 "date": "13 June 1899",
 "date_sdn": 2414819,
 "descr": "",
-"gid": "E0240",
+"gid": "E0238",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5689,7 +5689,7 @@ I_events_0 = [
 "date": "1990",
 "date_sdn": 2447893,
 "descr": "",
-"gid": "E0241",
+"gid": "E0239",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5700,31 +5700,31 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[],
 [
 {
 "cita": [],
 "date": "March 1846",
 "date_sdn": 2395357,
 "descr": "",
-"gid": "E1191",
+"gid": "E1175",
 "media": [],
 "part_family": [],
 "part_person": [
-290
+289
 ],
 "place": 263,
 "text": "",
 "type": "Birth"
 }
 ],
+[],
 [
 {
 "cita": [],
 "date": "December 1881",
 "date_sdn": 2408416,
 "descr": "",
-"gid": "E1244",
+"gid": "E1228",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5741,13 +5741,13 @@ I_events_0 = [
 "date": "October 1883",
 "date_sdn": 2409085,
 "descr": "",
-"gid": "E1238",
+"gid": "E1222",
 "media": [],
 "part_family": [],
 "part_person": [
 292
 ],
-"place": 575,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -5758,7 +5758,7 @@ I_events_0 = [
 "date": "1800",
 "date_sdn": 2378497,
 "descr": "",
-"gid": "E1217",
+"gid": "E1201",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5773,7 +5773,7 @@ I_events_0 = [
 "date": "10 April 1872",
 "date_sdn": 2404894,
 "descr": "",
-"gid": "E1218",
+"gid": "E1202",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5790,7 +5790,7 @@ I_events_0 = [
 "date": "about 1878",
 "date_sdn": 2406986,
 "descr": "",
-"gid": "E1242",
+"gid": "E1226",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5805,7 +5805,7 @@ I_events_0 = [
 "date": "June 1955",
 "date_sdn": 2435260,
 "descr": "",
-"gid": "E1243",
+"gid": "E1227",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5822,13 +5822,13 @@ I_events_0 = [
 "date": "1906",
 "date_sdn": 2417212,
 "descr": "",
-"gid": "E1572",
+"gid": "E1555",
 "media": [],
 "part_family": [],
 "part_person": [
 295
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -5837,13 +5837,13 @@ I_events_0 = [
 "date": "1906",
 "date_sdn": 2417212,
 "descr": "",
-"gid": "E1573",
+"gid": "E1556",
 "media": [],
 "part_family": [],
 "part_person": [
 295
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Death"
 }
@@ -5854,7 +5854,7 @@ I_events_0 = [
 "date": "28 August 1872",
 "date_sdn": 2405034,
 "descr": "",
-"gid": "E0242",
+"gid": "E0240",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5869,7 +5869,7 @@ I_events_0 = [
 "date": "5 November 1959",
 "date_sdn": 2436878,
 "descr": "",
-"gid": "E0243",
+"gid": "E0241",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5886,7 +5886,7 @@ I_events_0 = [
 "date": "10 January 1896",
 "date_sdn": 2413569,
 "descr": "",
-"gid": "E1207",
+"gid": "E1191",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5901,7 +5901,7 @@ I_events_0 = [
 "date": "1980",
 "date_sdn": 2444240,
 "descr": "",
-"gid": "E1208",
+"gid": "E1192",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5918,7 +5918,7 @@ I_events_0 = [
 "date": "10 February 1897",
 "date_sdn": 2413966,
 "descr": "",
-"gid": "E0986",
+"gid": "E0970",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5933,7 +5933,7 @@ I_events_0 = [
 "date": "December 1980",
 "date_sdn": 2444575,
 "descr": "",
-"gid": "E0987",
+"gid": "E0971",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5950,7 +5950,7 @@ I_events_0 = [
 "date": "1812",
 "date_sdn": 2382879,
 "descr": "",
-"gid": "E1219",
+"gid": "E1203",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5965,7 +5965,7 @@ I_events_0 = [
 "date": "March 1880",
 "date_sdn": 2407776,
 "descr": "",
-"gid": "E1220",
+"gid": "E1204",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5982,7 +5982,7 @@ I_events_0 = [
 "date": "about 1630",
 "date_sdn": 2316406,
 "descr": "",
-"gid": "E0220",
+"gid": "E0218",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -5999,7 +5999,7 @@ I_events_0 = [
 "date": "about 1586",
 "date_sdn": 2300335,
 "descr": "",
-"gid": "E0221",
+"gid": "E0219",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6014,7 +6014,7 @@ I_events_0 = [
 "date": "before 1640",
 "date_sdn": 2320058,
 "descr": "",
-"gid": "E0222",
+"gid": "E0220",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6031,7 +6031,7 @@ I_events_0 = [
 "date": "June 1866",
 "date_sdn": 2402754,
 "descr": "",
-"gid": "E1234",
+"gid": "E1218",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6048,13 +6048,13 @@ I_events_0 = [
 "date": "12 August 1908",
 "date_sdn": 2418166,
 "descr": "",
-"gid": "E0244",
+"gid": "E0242",
 "media": [],
 "part_family": [],
 "part_person": [
 303
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -6063,7 +6063,7 @@ I_events_0 = [
 "date": "March 1988",
 "date_sdn": 2447222,
 "descr": "",
-"gid": "E0245",
+"gid": "E0243",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6080,7 +6080,7 @@ I_events_0 = [
 "date": "17 April 1903",
 "date_sdn": 2416222,
 "descr": "",
-"gid": "E1203",
+"gid": "E1187",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6095,7 +6095,7 @@ I_events_0 = [
 "date": "1982",
 "date_sdn": 2444971,
 "descr": "",
-"gid": "E1204",
+"gid": "E1188",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6112,7 +6112,7 @@ I_events_0 = [
 "date": "January 1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E0248",
+"gid": "E0246",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6127,7 +6127,7 @@ I_events_0 = [
 "date": "January 1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E0249",
+"gid": "E0247",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6144,7 +6144,7 @@ I_events_0 = [
 "date": "23 August 1811",
 "date_sdn": 2382748,
 "descr": "",
-"gid": "E0250",
+"gid": "E0248",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6159,7 +6159,7 @@ I_events_0 = [
 "date": "June 1886",
 "date_sdn": 2410059,
 "descr": "",
-"gid": "E0251",
+"gid": "E0249",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6176,13 +6176,13 @@ I_events_0 = [
 "date": "December 1904",
 "date_sdn": 2416816,
 "descr": "",
-"gid": "E0994",
+"gid": "E0978",
 "media": [],
 "part_family": [],
 "part_person": [
 307
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -6191,7 +6191,7 @@ I_events_0 = [
 "date": "30 May 1988",
 "date_sdn": 2447312,
 "descr": "",
-"gid": "E0995",
+"gid": "E0979",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6208,7 +6208,7 @@ I_events_0 = [
 "date": "13 March 1857",
 "date_sdn": 2399387,
 "descr": "",
-"gid": "E1194",
+"gid": "E1178",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6223,7 +6223,7 @@ I_events_0 = [
 "date": "1953",
 "date_sdn": 2434379,
 "descr": "",
-"gid": "E1195",
+"gid": "E1179",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6240,7 +6240,7 @@ I_events_0 = [
 "date": "1817",
 "date_sdn": 2384706,
 "descr": "",
-"gid": "E1223",
+"gid": "E1207",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6255,7 +6255,7 @@ I_events_0 = [
 "date": "1880",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E1224",
+"gid": "E1208",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6272,7 +6272,7 @@ I_events_0 = [
 "date": "1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E1235",
+"gid": "E1219",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6287,7 +6287,7 @@ I_events_0 = [
 "date": "1940",
 "date_sdn": 2429630,
 "descr": "",
-"gid": "E1236",
+"gid": "E1220",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6305,7 +6305,7 @@ I_events_0 = [
 "date": "1590",
 "date_sdn": 2301796,
 "descr": "",
-"gid": "E0223",
+"gid": "E0221",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6320,7 +6320,7 @@ I_events_0 = [
 "date": "1664",
 "date_sdn": 2328824,
 "descr": "",
-"gid": "E0224",
+"gid": "E0222",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6337,7 +6337,7 @@ I_events_0 = [
 "date": "27 December 1773",
 "date_sdn": 2368996,
 "descr": "",
-"gid": "E0252",
+"gid": "E0250",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6352,7 +6352,7 @@ I_events_0 = [
 "date": "19 December 1846",
 "date_sdn": 2395650,
 "descr": "",
-"gid": "E0253",
+"gid": "E0251",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6369,7 +6369,7 @@ I_events_0 = [
 "date": "1823",
 "date_sdn": 2386897,
 "descr": "",
-"gid": "E1225",
+"gid": "E1209",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6384,7 +6384,7 @@ I_events_0 = [
 "date": "1895",
 "date_sdn": 2413195,
 "descr": "",
-"gid": "E1226",
+"gid": "E1210",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6401,7 +6401,7 @@ I_events_0 = [
 "date": "July 1876",
 "date_sdn": 2406437,
 "descr": "",
-"gid": "E1241",
+"gid": "E1225",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6419,7 +6419,7 @@ I_events_0 = [
 "date": "4 September 1910",
 "date_sdn": 2418919,
 "descr": "",
-"gid": "E1209",
+"gid": "E1193",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6434,13 +6434,13 @@ I_events_0 = [
 "date": "December 2005",
 "date_sdn": 2453706,
 "descr": "",
-"gid": "E1210",
+"gid": "E1194",
 "media": [],
 "part_family": [],
 "part_person": [
 317
 ],
-"place": 654,
+"place": 653,
 "text": "",
 "type": "Death"
 }
@@ -6451,7 +6451,7 @@ I_events_0 = [
 "date": "about 1904",
 "date_sdn": 2416481,
 "descr": "",
-"gid": "E0254",
+"gid": "E0252",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6466,7 +6466,7 @@ I_events_0 = [
 "date": "October 1904",
 "date_sdn": 2416755,
 "descr": "",
-"gid": "E0255",
+"gid": "E0253",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6483,7 +6483,7 @@ I_events_0 = [
 "date": "August 1928",
 "date_sdn": 2425460,
 "descr": "",
-"gid": "E1592",
+"gid": "E1575",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6498,7 +6498,7 @@ I_events_0 = [
 "date": "27 August 2019",
 "date_sdn": 2458723,
 "descr": "",
-"gid": "E1593",
+"gid": "E1576",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6515,7 +6515,7 @@ I_events_0 = [
 "date": "1 January 1805",
 "date_sdn": 2380323,
 "descr": "",
-"gid": "E1596",
+"gid": "E1579",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6530,7 +6530,7 @@ I_events_0 = [
 "date": "November 1881",
 "date_sdn": 2408386,
 "descr": "",
-"gid": "E1597",
+"gid": "E1580",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6547,7 +6547,7 @@ I_events_0 = [
 "date": "January 1900",
 "date_sdn": 2415021,
 "descr": "",
-"gid": "E0990",
+"gid": "E0974",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6562,7 +6562,7 @@ I_events_0 = [
 "date": "March 1989",
 "date_sdn": 2447587,
 "descr": "",
-"gid": "E0991",
+"gid": "E0975",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6579,7 +6579,7 @@ I_events_0 = [
 "date": "about 1635",
 "date_sdn": 2318232,
 "descr": "",
-"gid": "E0225",
+"gid": "E0223",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6597,7 +6597,7 @@ I_events_0 = [
 "date": "21 December 1903",
 "date_sdn": 2416470,
 "descr": "",
-"gid": "E0256",
+"gid": "E0254",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6612,7 +6612,7 @@ I_events_0 = [
 "date": "21 December 1989",
 "date_sdn": 2447882,
 "descr": "",
-"gid": "E0257",
+"gid": "E0255",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6629,7 +6629,7 @@ I_events_0 = [
 "date": "about 1632",
 "date_sdn": 2317136,
 "descr": "",
-"gid": "E0226",
+"gid": "E0224",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6647,7 +6647,7 @@ I_events_0 = [
 "date": "16 June 1911",
 "date_sdn": 2419204,
 "descr": "",
-"gid": "E1563",
+"gid": "E1546",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6662,13 +6662,13 @@ I_events_0 = [
 "date": "23 May 1993",
 "date_sdn": 2449131,
 "descr": "",
-"gid": "E1564",
+"gid": "E1547",
 "media": [],
 "part_family": [],
 "part_person": [
 327
 ],
-"place": 596,
+"place": 595,
 "text": "",
 "type": "Death"
 }
@@ -6679,7 +6679,7 @@ I_events_0 = [
 "date": "29 November 1905",
 "date_sdn": 2417179,
 "descr": "",
-"gid": "E0992",
+"gid": "E0976",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6694,7 +6694,7 @@ I_events_0 = [
 "date": "7 July 1975",
 "date_sdn": 2442601,
 "descr": "",
-"gid": "E0993",
+"gid": "E0977",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6711,7 +6711,7 @@ I_events_0 = [
 "date": "1 August 1746",
 "date_sdn": 2358986,
 "descr": "",
-"gid": "E0258",
+"gid": "E0256",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6726,7 +6726,7 @@ I_events_0 = [
 "date": "1780",
 "date_sdn": 2371192,
 "descr": "",
-"gid": "E0259",
+"gid": "E0257",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6743,7 +6743,7 @@ I_events_0 = [
 "date": "1716",
 "date_sdn": 2347816,
 "descr": "",
-"gid": "E0260",
+"gid": "E0258",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6758,7 +6758,7 @@ I_events_0 = [
 "date": "about 1777",
 "date_sdn": 2370097,
 "descr": "",
-"gid": "E0261",
+"gid": "E0259",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6773,13 +6773,13 @@ I_events_0 = [
 "date": "10 July 1716",
 "date_sdn": 2348007,
 "descr": "",
-"gid": "E0262",
+"gid": "E0260",
 "media": [],
 "part_family": [],
 "part_person": [
 330
 ],
-"place": 609,
+"place": 608,
 "text": "",
 "type": "Baptism"
 }
@@ -6790,13 +6790,13 @@ I_events_0 = [
 "date": "10 February 1906",
 "date_sdn": 2417252,
 "descr": "",
-"gid": "E0236",
+"gid": "E0234",
 "media": [],
 "part_family": [],
 "part_person": [
 331
 ],
-"place": 602,
+"place": 601,
 "text": "",
 "type": "Birth"
 },
@@ -6805,7 +6805,7 @@ I_events_0 = [
 "date": "December 1962",
 "date_sdn": 2438000,
 "descr": "",
-"gid": "E0237",
+"gid": "E0235",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6822,7 +6822,7 @@ I_events_0 = [
 "date": "about 1560",
 "date_sdn": 2290838,
 "descr": "",
-"gid": "E0227",
+"gid": "E0225",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6839,7 +6839,7 @@ I_events_0 = [
 "date": "15 October 1882",
 "date_sdn": 2408734,
 "descr": "",
-"gid": "E0038",
+"gid": "E0037",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6854,7 +6854,7 @@ I_events_0 = [
 "date": "March 1940",
 "date_sdn": 2429690,
 "descr": "",
-"gid": "E0039",
+"gid": "E0038",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6872,7 +6872,7 @@ I_events_0 = [
 "date": "1683",
 "date_sdn": 2335764,
 "descr": "",
-"gid": "E0264",
+"gid": "E0262",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6887,7 +6887,7 @@ I_events_0 = [
 "date": "1730",
 "date_sdn": 2352930,
 "descr": "",
-"gid": "E0265",
+"gid": "E0263",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6905,7 +6905,7 @@ I_events_0 = [
 "date": "September 1853",
 "date_sdn": 2398098,
 "descr": "",
-"gid": "E1192",
+"gid": "E1176",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6920,7 +6920,7 @@ I_events_0 = [
 "date": "25 December 1913",
 "date_sdn": 2420127,
 "descr": "",
-"gid": "E1193",
+"gid": "E1177",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6937,7 +6937,7 @@ I_events_0 = [
 "date": "December 1873",
 "date_sdn": 2405494,
 "descr": "",
-"gid": "E1237",
+"gid": "E1221",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6954,7 +6954,7 @@ I_events_0 = [
 "date": "3 April 1920",
 "date_sdn": 2422418,
 "descr": "",
-"gid": "E0998",
+"gid": "E0982",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6969,7 +6969,7 @@ I_events_0 = [
 "date": "1 June 2000",
 "date_sdn": 2451697,
 "descr": "",
-"gid": "E0999",
+"gid": "E0983",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -6986,7 +6986,7 @@ I_events_0 = [
 "date": "1646",
 "date_sdn": 2322250,
 "descr": "",
-"gid": "E0228",
+"gid": "E0226",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7001,7 +7001,7 @@ I_events_0 = [
 "date": "1710",
 "date_sdn": 2345625,
 "descr": "",
-"gid": "E0229",
+"gid": "E0227",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7018,7 +7018,7 @@ I_events_0 = [
 "date": "25 April 1841",
 "date_sdn": 2393586,
 "descr": "",
-"gid": "E1185",
+"gid": "E1169",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7033,7 +7033,7 @@ I_events_0 = [
 "date": "15 April 1915",
 "date_sdn": 2420603,
 "descr": "",
-"gid": "E1186",
+"gid": "E1170",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7050,7 +7050,7 @@ I_events_0 = [
 "date": "December 1870",
 "date_sdn": 2404398,
 "descr": "",
-"gid": "E1196",
+"gid": "E1180",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7067,7 +7067,7 @@ I_events_0 = [
 "date": "23 August 1811",
 "date_sdn": 2382748,
 "descr": "",
-"gid": "E1221",
+"gid": "E1205",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7082,7 +7082,7 @@ I_events_0 = [
 "date": "September 1876",
 "date_sdn": 2406499,
 "descr": "",
-"gid": "E1222",
+"gid": "E1206",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7099,7 +7099,7 @@ I_events_0 = [
 "date": "September 1861",
 "date_sdn": 2401020,
 "descr": "",
-"gid": "E1232",
+"gid": "E1216",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7114,7 +7114,7 @@ I_events_0 = [
 "date": "July 1887",
 "date_sdn": 2410454,
 "descr": "",
-"gid": "E1233",
+"gid": "E1217",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7131,7 +7131,7 @@ I_events_0 = [
 "date": "1776",
 "date_sdn": 2369731,
 "descr": "",
-"gid": "E1610",
+"gid": "E1593",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7148,7 +7148,7 @@ I_events_0 = [
 "date": "December 1870",
 "date_sdn": 2404398,
 "descr": "",
-"gid": "E0040",
+"gid": "E0039",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7163,7 +7163,7 @@ I_events_0 = [
 "date": "12 April 1934",
 "date_sdn": 2427540,
 "descr": "",
-"gid": "E0041",
+"gid": "E0040",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7180,7 +7180,7 @@ I_events_0 = [
 "date": "about 1897",
 "date_sdn": 2413926,
 "descr": "",
-"gid": "E0988",
+"gid": "E0972",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7195,7 +7195,7 @@ I_events_0 = [
 "date": "October 1980",
 "date_sdn": 2444514,
 "descr": "",
-"gid": "E0989",
+"gid": "E0973",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7214,7 +7214,7 @@ I_events_0 = [
 "date": "1672",
 "date_sdn": 2331746,
 "descr": "",
-"gid": "E1860",
+"gid": "E1843",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7229,7 +7229,7 @@ I_events_0 = [
 "date": "1720",
 "date_sdn": 2349277,
 "descr": "",
-"gid": "E1861",
+"gid": "E1844",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7246,7 +7246,7 @@ I_events_0 = [
 "date": "1634",
 "date_sdn": 2317867,
 "descr": "",
-"gid": "E1862",
+"gid": "E1845",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7261,7 +7261,7 @@ I_events_0 = [
 "date": "10 March 1711",
 "date_sdn": 2346058,
 "descr": "",
-"gid": "E1863",
+"gid": "E1846",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7278,7 +7278,7 @@ I_events_0 = [
 "date": "1885",
 "date_sdn": 2409543,
 "descr": "",
-"gid": "E1456",
+"gid": "E1440",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7295,7 +7295,7 @@ I_events_0 = [
 "date": "1857",
 "date_sdn": 2399316,
 "descr": "",
-"gid": "E1452",
+"gid": "E1436",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7312,7 +7312,7 @@ I_events_0 = [
 "date": "October 1882",
 "date_sdn": 2408720,
 "descr": "",
-"gid": "E1449",
+"gid": "E1433",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7329,7 +7329,7 @@ I_events_0 = [
 "date": "1890",
 "date_sdn": 2411369,
 "descr": "",
-"gid": "E1457",
+"gid": "E1441",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7346,7 +7346,7 @@ I_events_0 = [
 "date": "1886",
 "date_sdn": 2409908,
 "descr": "",
-"gid": "E1454",
+"gid": "E1438",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7363,7 +7363,7 @@ I_events_0 = [
 "date": "January 1882",
 "date_sdn": 2408447,
 "descr": "",
-"gid": "E2143",
+"gid": "E2126",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7378,7 +7378,7 @@ I_events_0 = [
 "date": "13 January 1955",
 "date_sdn": 2435121,
 "descr": "",
-"gid": "E2144",
+"gid": "E2127",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7395,7 +7395,7 @@ I_events_0 = [
 "date": "October 1908",
 "date_sdn": 2418216,
 "descr": "",
-"gid": "E2149",
+"gid": "E2132",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7412,7 +7412,7 @@ I_events_0 = [
 "date": "1927",
 "date_sdn": 2424882,
 "descr": "",
-"gid": "E1055",
+"gid": "E1039",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7427,7 +7427,7 @@ I_events_0 = [
 "date": "2003",
 "date_sdn": 2452641,
 "descr": "",
-"gid": "E1056",
+"gid": "E1040",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7444,7 +7444,7 @@ I_events_0 = [
 "date": "1889",
 "date_sdn": 2411004,
 "descr": "",
-"gid": "E1455",
+"gid": "E1439",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7462,7 +7462,7 @@ I_events_0 = [
 "date": "between 1839 and 1868",
 "date_sdn": 2392741,
 "descr": "",
-"gid": "E2250",
+"gid": "E2233",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7477,7 +7477,7 @@ I_events_0 = [
 "date": "between 1884 and 1968",
 "date_sdn": 2409177,
 "descr": "",
-"gid": "E2251",
+"gid": "E2234",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7494,7 +7494,7 @@ I_events_0 = [
 "date": "13 January 1739",
 "date_sdn": 2356229,
 "descr": "",
-"gid": "E1343",
+"gid": "E1327",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7509,7 +7509,7 @@ I_events_0 = [
 "date": "May 1809",
 "date_sdn": 2381904,
 "descr": "",
-"gid": "E1344",
+"gid": "E1328",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7526,7 +7526,7 @@ I_events_0 = [
 "date": "1567",
 "date_sdn": 2293395,
 "descr": "",
-"gid": "E1415",
+"gid": "E1399",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7541,7 +7541,7 @@ I_events_0 = [
 "date": "1599",
 "date_sdn": 2305083,
 "descr": "",
-"gid": "E1416",
+"gid": "E1400",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7558,13 +7558,13 @@ I_events_0 = [
 "date": "24 June 1665",
 "date_sdn": 2329364,
 "descr": "",
-"gid": "E1399",
+"gid": "E1383",
 "media": [],
 "part_family": [],
 "part_person": [
 365
 ],
-"place": 619,
+"place": 618,
 "text": "",
 "type": "Birth"
 },
@@ -7573,13 +7573,13 @@ I_events_0 = [
 "date": "2 February 1730",
 "date_sdn": 2352962,
 "descr": "",
-"gid": "E1400",
+"gid": "E1384",
 "media": [],
 "part_family": [],
 "part_person": [
 365
 ],
-"place": 619,
+"place": 618,
 "text": "",
 "type": "Death"
 }
@@ -7590,13 +7590,13 @@ I_events_0 = [
 "date": "about 1600",
 "date_sdn": 2305448,
 "descr": "",
-"gid": "E1413",
+"gid": "E1397",
 "media": [],
 "part_family": [],
 "part_person": [
 366
 ],
-"place": 619,
+"place": 618,
 "text": "",
 "type": "Birth"
 },
@@ -7605,7 +7605,7 @@ I_events_0 = [
 "date": "May 1633",
 "date_sdn": 2317622,
 "descr": "",
-"gid": "E1414",
+"gid": "E1398",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7623,7 +7623,7 @@ I_events_0 = [
 "date": "October 1633",
 "date_sdn": 2317775,
 "descr": "",
-"gid": "E1403",
+"gid": "E1387",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7638,7 +7638,7 @@ I_events_0 = [
 "date": "9 April 1705",
 "date_sdn": 2343897,
 "descr": "",
-"gid": "E1404",
+"gid": "E1388",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7653,13 +7653,13 @@ I_events_0 = [
 "date": "20 September 1701",
 "date_sdn": 2342600,
 "descr": "",
-"gid": "E1405",
+"gid": "E1389",
 "media": [],
 "part_family": [],
 "part_person": [
 368
 ],
-"place": 570,
+"place": 569,
 "text": "",
 "type": "Baptism"
 }
@@ -7670,7 +7670,7 @@ I_events_0 = [
 "date": "4 August 1908",
 "date_sdn": 2418158,
 "descr": "",
-"gid": "E1953",
+"gid": "E1936",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7687,7 +7687,7 @@ I_events_0 = [
 "date": "about 1858",
 "date_sdn": 2399681,
 "descr": "",
-"gid": "E2123",
+"gid": "E2106",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7704,7 +7704,7 @@ I_events_0 = [
 "date": "1848",
 "date_sdn": 2396028,
 "descr": "",
-"gid": "E2122",
+"gid": "E2105",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7721,7 +7721,7 @@ I_events_0 = [
 "date": "1845",
 "date_sdn": 2394933,
 "descr": "",
-"gid": "E2121",
+"gid": "E2104",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7738,7 +7738,7 @@ I_events_0 = [
 "date": "1824",
 "date_sdn": 2387262,
 "descr": "",
-"gid": "E2120",
+"gid": "E2103",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7756,7 +7756,7 @@ I_events_0 = [
 "date": "calculated between 1745 and 1774",
 "date_sdn": 2358409,
 "descr": "",
-"gid": "E2550",
+"gid": "E2529",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7771,7 +7771,7 @@ I_events_0 = [
 "date": "calculated between 1790 and 1874",
 "date_sdn": 2374845,
 "descr": "",
-"gid": "E2551",
+"gid": "E2530",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7788,7 +7788,7 @@ I_events_0 = [
 "date": "30 January 1871",
 "date_sdn": 2404458,
 "descr": "",
-"gid": "E0268",
+"gid": "E0266",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7805,7 +7805,7 @@ I_events_0 = [
 "date": "about 1823",
 "date_sdn": 2386897,
 "descr": "",
-"gid": "E0269",
+"gid": "E0267",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7820,7 +7820,7 @@ I_events_0 = [
 "date": "4 December 1879",
 "date_sdn": 2407688,
 "descr": "",
-"gid": "E0270",
+"gid": "E0268",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7837,7 +7837,7 @@ I_events_0 = [
 "date": "about 1903",
 "date_sdn": 2416116,
 "descr": "",
-"gid": "E0271",
+"gid": "E0269",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7854,7 +7854,7 @@ I_events_0 = [
 "date": "23 January 1607",
 "date_sdn": 2308027,
 "descr": "",
-"gid": "E0272",
+"gid": "E0270",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7869,7 +7869,7 @@ I_events_0 = [
 "date": "15 June 1677",
 "date_sdn": 2333738,
 "descr": "",
-"gid": "E0273",
+"gid": "E0271",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7887,7 +7887,7 @@ I_events_0 = [
 "date": "1612",
 "date_sdn": 2309831,
 "descr": "",
-"gid": "E1647",
+"gid": "E1630",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7902,7 +7902,7 @@ I_events_0 = [
 "date": "1663",
 "date_sdn": 2328459,
 "descr": "",
-"gid": "E1648",
+"gid": "E1631",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7920,7 +7920,7 @@ I_events_0 = [
 "date": "December 1603",
 "date_sdn": 2306878,
 "descr": "",
-"gid": "E1662",
+"gid": "E1645",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7937,7 +7937,7 @@ I_events_0 = [
 "date": "1545",
 "date_sdn": 2285360,
 "descr": "",
-"gid": "E1654",
+"gid": "E1637",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7952,7 +7952,7 @@ I_events_0 = [
 "date": "12 August 1609",
 "date_sdn": 2308959,
 "descr": "",
-"gid": "E1655",
+"gid": "E1638",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7969,7 +7969,7 @@ I_events_0 = [
 "date": "14 May 1570",
 "date_sdn": 2294624,
 "descr": "",
-"gid": "E1651",
+"gid": "E1634",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -7984,7 +7984,7 @@ I_events_0 = [
 "date": "17 February 1613",
 "date_sdn": 2310244,
 "descr": "",
-"gid": "E1652",
+"gid": "E1635",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8001,7 +8001,7 @@ I_events_0 = [
 "date": "about 1520",
 "date_sdn": 2276228,
 "descr": "",
-"gid": "E1657",
+"gid": "E1640",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8016,7 +8016,7 @@ I_events_0 = [
 "date": "28 November 1589",
 "date_sdn": 2301762,
 "descr": "",
-"gid": "E1658",
+"gid": "E1641",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8033,7 +8033,7 @@ I_events_0 = [
 "date": "August 1600",
 "date_sdn": 2305661,
 "descr": "",
-"gid": "E1663",
+"gid": "E1646",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8048,7 +8048,7 @@ I_events_0 = [
 "date": "March 1679",
 "date_sdn": 2334362,
 "descr": "",
-"gid": "E1664",
+"gid": "E1647",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8065,7 +8065,7 @@ I_events_0 = [
 "date": "September 1864",
 "date_sdn": 2402116,
 "descr": "",
-"gid": "E2207",
+"gid": "E2190",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8080,7 +8080,7 @@ I_events_0 = [
 "date": "September 1952",
 "date_sdn": 2434257,
 "descr": "",
-"gid": "E2208",
+"gid": "E2191",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8097,13 +8097,13 @@ I_events_0 = [
 "date": "March 1892",
 "date_sdn": 2412159,
 "descr": "",
-"gid": "E2231",
+"gid": "E2214",
 "media": [],
 "part_family": [],
 "part_person": [
 389
 ],
-"place": 639,
+"place": 638,
 "text": "",
 "type": "Birth"
 },
@@ -8112,7 +8112,7 @@ I_events_0 = [
 "date": "5 November 1918",
 "date_sdn": 2421903,
 "descr": "",
-"gid": "E2232",
+"gid": "E2215",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8129,7 +8129,7 @@ I_events_0 = [
 "date": "about 1900",
 "date_sdn": 2415021,
 "descr": "",
-"gid": "E2235",
+"gid": "E2218",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8146,13 +8146,13 @@ I_events_0 = [
 "date": "June 1890",
 "date_sdn": 2411520,
 "descr": "",
-"gid": "E2230",
+"gid": "E2213",
 "media": [],
 "part_family": [],
 "part_person": [
 391
 ],
-"place": 639,
+"place": 638,
 "text": "",
 "type": "Birth"
 }
@@ -8163,13 +8163,13 @@ I_events_0 = [
 "date": "about 1896",
 "date_sdn": 2413560,
 "descr": "",
-"gid": "E2233",
+"gid": "E2216",
 "media": [],
 "part_family": [],
 "part_person": [
 392
 ],
-"place": 639,
+"place": 638,
 "text": "",
 "type": "Birth"
 },
@@ -8178,7 +8178,7 @@ I_events_0 = [
 "date": "September 1918",
 "date_sdn": 2421838,
 "descr": "",
-"gid": "E2234",
+"gid": "E2217",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8195,7 +8195,7 @@ I_events_0 = [
 "date": "31 October 1916",
 "date_sdn": 2421168,
 "descr": "",
-"gid": "E2004",
+"gid": "E1987",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8210,7 +8210,7 @@ I_events_0 = [
 "date": "1995",
 "date_sdn": 2449719,
 "descr": "",
-"gid": "E2005",
+"gid": "E1988",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8227,7 +8227,7 @@ I_events_0 = [
 "date": "8 May 1924",
 "date_sdn": 2423914,
 "descr": "",
-"gid": "E2008",
+"gid": "E1991",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8242,7 +8242,7 @@ I_events_0 = [
 "date": "18 March 2002",
 "date_sdn": 2452352,
 "descr": "",
-"gid": "E2009",
+"gid": "E1992",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8259,7 +8259,7 @@ I_events_0 = [
 "date": "October 1920",
 "date_sdn": 2422599,
 "descr": "",
-"gid": "E2006",
+"gid": "E1989",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8274,13 +8274,13 @@ I_events_0 = [
 "date": "September 2002",
 "date_sdn": 2452519,
 "descr": "",
-"gid": "E2007",
+"gid": "E1990",
 "media": [],
 "part_family": [],
 "part_person": [
 395
 ],
-"place": 646,
+"place": 645,
 "text": "",
 "type": "Death"
 }
@@ -8291,13 +8291,13 @@ I_events_0 = [
 "date": "October 1893",
 "date_sdn": 2412738,
 "descr": "",
-"gid": "E1949",
+"gid": "E1932",
 "media": [],
 "part_family": [],
 "part_person": [
 396
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -8306,13 +8306,13 @@ I_events_0 = [
 "date": "16 October 1957",
 "date_sdn": 2436128,
 "descr": "",
-"gid": "E1950",
+"gid": "E1933",
 "media": [],
 "part_family": [],
 "part_person": [
 396
 ],
-"place": 661,
+"place": 660,
 "text": "",
 "type": "Death"
 }
@@ -8323,7 +8323,7 @@ I_events_0 = [
 "date": "11 March 1876",
 "date_sdn": 2406325,
 "descr": "",
-"gid": "E0292",
+"gid": "E0289",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8338,7 +8338,7 @@ I_events_0 = [
 "date": "11 July 1927",
 "date_sdn": 2425073,
 "descr": "",
-"gid": "E0293",
+"gid": "E0290",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8353,7 +8353,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0294",
+"gid": "E0291",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8368,7 +8368,7 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E0295",
+"gid": "E0292",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8383,7 +8383,7 @@ I_events_0 = [
 "date": "1910",
 "date_sdn": 2418673,
 "descr": "",
-"gid": "E0296",
+"gid": "E0293",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8400,14 +8400,14 @@ I_events_0 = [
 "date": "1890",
 "date_sdn": 2411369,
 "descr": "",
-"gid": "E2581",
+"gid": "E2560",
 "media": [],
 "part_family": [],
 "part_person": [
 398
 ],
 "place": 88,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\ntraveller\n</p>\n</div>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\ntraveller\n</p>\n</div>\n</div>",
 "type": "Birth"
 },
 {
@@ -8415,13 +8415,13 @@ I_events_0 = [
 "date": "20 February 1955",
 "date_sdn": 2435159,
 "descr": "",
-"gid": "E2586",
+"gid": "E2565",
 "media": [],
 "part_family": [],
 "part_person": [
 398
 ],
-"place": 660,
+"place": 659,
 "text": "",
 "type": "Death"
 }
@@ -8432,7 +8432,7 @@ I_events_0 = [
 "date": "July 1875",
 "date_sdn": 2406071,
 "descr": "",
-"gid": "E0274",
+"gid": "E0272",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8449,7 +8449,7 @@ I_events_0 = [
 "date": "1856",
 "date_sdn": 2398950,
 "descr": "",
-"gid": "E0275",
+"gid": "E0273",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8464,7 +8464,7 @@ I_events_0 = [
 "date": "10 February 1856",
 "date_sdn": 2398990,
 "descr": "",
-"gid": "E0276",
+"gid": "E0274",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8481,7 +8481,7 @@ I_events_0 = [
 "date": "July 1889",
 "date_sdn": 2411185,
 "descr": "",
-"gid": "E2603",
+"gid": "E2581",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8498,7 +8498,7 @@ I_events_0 = [
 "date": "July 1901",
 "date_sdn": 2415567,
 "descr": "",
-"gid": "E2605",
+"gid": "E2583",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8512,10 +8512,10 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "July 1862",
-"date_sdn": 2401323,
+"date": "calculated between 1823 and 1837",
+"date_sdn": 2386897,
 "descr": "",
-"gid": "E2419",
+"gid": "E3020",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8529,31 +8529,14 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "calculated between 1823 and 1837",
-"date_sdn": 2386897,
+"date": "1842",
+"date_sdn": 2393837,
 "descr": "",
-"gid": "E0133",
+"gid": "E0275",
 "media": [],
 "part_family": [],
 "part_person": [
 404
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "1842",
-"date_sdn": 2393837,
-"descr": "",
-"gid": "E0278",
-"media": [],
-"part_family": [],
-"part_person": [
-405
 ],
 "place": -1,
 "text": "",
@@ -8564,11 +8547,11 @@ I_events_0 = [
 "date": "15 May 1849",
 "date_sdn": 2396528,
 "descr": "",
-"gid": "E0279",
+"gid": "E0276",
 "media": [],
 "part_family": [],
 "part_person": [
-405
+404
 ],
 "place": 555,
 "text": "",
@@ -8581,11 +8564,11 @@ I_events_0 = [
 "date": "calculated between 1787 and 1814",
 "date_sdn": 2373749,
 "descr": "",
-"gid": "E2102",
+"gid": "E2085",
 "media": [],
 "part_family": [],
 "part_person": [
-406
+405
 ],
 "place": -1,
 "text": "",
@@ -8596,11 +8579,11 @@ I_events_0 = [
 "date": "calculated between 1837 and 1914",
 "date_sdn": 2392011,
 "descr": "",
-"gid": "E2620",
+"gid": "E2597",
 "media": [],
 "part_family": [],
 "part_person": [
-406
+405
 ],
 "place": -1,
 "text": "",
@@ -8610,10 +8593,27 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "July 1862",
+"date_sdn": 2401323,
+"descr": "",
+"gid": "E2399",
+"media": [],
+"part_family": [],
+"part_person": [
+406
+],
+"place": -1,
+"text": "",
+"type": "Birth"
+}
+],
+[
+{
+"cita": [],
 "date": "January 1891",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E2604",
+"gid": "E2582",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8630,7 +8630,7 @@ I_events_0 = [
 "date": "April 1858",
 "date_sdn": 2399771,
 "descr": "",
-"gid": "E0280",
+"gid": "E0277",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8647,7 +8647,7 @@ I_events_0 = [
 "date": "April 1866",
 "date_sdn": 2402693,
 "descr": "",
-"gid": "E0281",
+"gid": "E0278",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8662,7 +8662,7 @@ I_events_0 = [
 "date": "1890",
 "date_sdn": 2411369,
 "descr": "",
-"gid": "E2584",
+"gid": "E2563",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8677,7 +8677,7 @@ I_events_0 = [
 "date": "1913",
 "date_sdn": 2419769,
 "descr": "",
-"gid": "E2594",
+"gid": "E2573",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8692,7 +8692,7 @@ I_events_0 = [
 "date": "between 1881 and 1890",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E2777",
+"gid": "E2752",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8709,7 +8709,7 @@ I_events_0 = [
 "date": "April 1861",
 "date_sdn": 2400867,
 "descr": "",
-"gid": "E0282",
+"gid": "E0279",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8724,7 +8724,7 @@ I_events_0 = [
 "date": "September 1861",
 "date_sdn": 2401020,
 "descr": "",
-"gid": "E2778",
+"gid": "E2753",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8741,7 +8741,7 @@ I_events_0 = [
 "date": "April 1880",
 "date_sdn": 2407807,
 "descr": "",
-"gid": "E0283",
+"gid": "E0280",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8758,7 +8758,7 @@ I_events_0 = [
 "date": "about 1830",
 "date_sdn": 2389454,
 "descr": "",
-"gid": "E0284",
+"gid": "E0281",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8773,7 +8773,7 @@ I_events_0 = [
 "date": "5 October 1834",
 "date_sdn": 2391192,
 "descr": "",
-"gid": "E0285",
+"gid": "E0282",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8790,7 +8790,7 @@ I_events_0 = [
 "date": "27 December 1837",
 "date_sdn": 2392371,
 "descr": "",
-"gid": "E0286",
+"gid": "E0283",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8805,7 +8805,7 @@ I_events_0 = [
 "date": "between 1891 and 1901",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E0287",
+"gid": "E0284",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8820,7 +8820,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E0288",
+"gid": "E0285",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8837,7 +8837,7 @@ I_events_0 = [
 "date": "1858",
 "date_sdn": 2399681,
 "descr": "",
-"gid": "E0289",
+"gid": "E0286",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8855,7 +8855,7 @@ I_events_0 = [
 "date": "about 1868",
 "date_sdn": 2403333,
 "descr": "",
-"gid": "E2735",
+"gid": "E2711",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8872,7 +8872,7 @@ I_events_0 = [
 "date": "between 1534 and 1563",
 "date_sdn": 2281342,
 "descr": "",
-"gid": "E1711",
+"gid": "E1694",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8887,7 +8887,7 @@ I_events_0 = [
 "date": "between 1534 and 1663",
 "date_sdn": 2281342,
 "descr": "",
-"gid": "E1712",
+"gid": "E1695",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8904,7 +8904,7 @@ I_events_0 = [
 "date": "between 1534 and 1563",
 "date_sdn": 2281342,
 "descr": "",
-"gid": "E1709",
+"gid": "E1692",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8919,7 +8919,7 @@ I_events_0 = [
 "date": "between 1534 and 1663",
 "date_sdn": 2281342,
 "descr": "",
-"gid": "E1710",
+"gid": "E1693",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8936,7 +8936,7 @@ I_events_0 = [
 "date": "between 1534 and 1563",
 "date_sdn": 2281342,
 "descr": "",
-"gid": "E1713",
+"gid": "E1696",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8951,7 +8951,7 @@ I_events_0 = [
 "date": "between 1534 and 1663",
 "date_sdn": 2281342,
 "descr": "",
-"gid": "E1714",
+"gid": "E1697",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -8968,13 +8968,13 @@ I_events_0 = [
 "date": "1538",
 "date_sdn": 2282803,
 "descr": "",
-"gid": "E1675",
+"gid": "E1658",
 "media": [],
 "part_family": [],
 "part_person": [
 420
 ],
-"place": 590,
+"place": 589,
 "text": "",
 "type": "Birth"
 },
@@ -8983,7 +8983,7 @@ I_events_0 = [
 "date": "2 March 1619",
 "date_sdn": 2312448,
 "descr": "",
-"gid": "E1676",
+"gid": "E1659",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9000,13 +9000,13 @@ I_events_0 = [
 "date": "1512",
 "date_sdn": 2273306,
 "descr": "",
-"gid": "E1706",
+"gid": "E1689",
 "media": [],
 "part_family": [],
 "part_person": [
 421
 ],
-"place": 590,
+"place": 589,
 "text": "",
 "type": "Birth"
 }
@@ -9017,7 +9017,7 @@ I_events_0 = [
 "date": "between 1534 and 1563",
 "date_sdn": 2281342,
 "descr": "",
-"gid": "E1715",
+"gid": "E1698",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9032,7 +9032,7 @@ I_events_0 = [
 "date": "between 1534 and 1663",
 "date_sdn": 2281342,
 "descr": "",
-"gid": "E1716",
+"gid": "E1699",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9049,7 +9049,7 @@ I_events_0 = [
 "date": "August 1917",
 "date_sdn": 2421442,
 "descr": "",
-"gid": "E2907",
+"gid": "E2879",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9064,7 +9064,7 @@ I_events_0 = [
 "date": "December 1996",
 "date_sdn": 2450419,
 "descr": "",
-"gid": "E2908",
+"gid": "E2880",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9081,7 +9081,7 @@ I_events_0 = [
 "date": "October 1878",
 "date_sdn": 2407259,
 "descr": "",
-"gid": "E2890",
+"gid": "E2862",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9098,7 +9098,7 @@ I_events_0 = [
 "date": "April 1875",
 "date_sdn": 2405980,
 "descr": "",
-"gid": "E2888",
+"gid": "E2860",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9115,7 +9115,7 @@ I_events_0 = [
 "date": "July 1908",
 "date_sdn": 2418124,
 "descr": "",
-"gid": "E2901",
+"gid": "E2873",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9132,7 +9132,7 @@ I_events_0 = [
 "date": "January 1869",
 "date_sdn": 2403699,
 "descr": "",
-"gid": "E2884",
+"gid": "E2856",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9149,7 +9149,7 @@ I_events_0 = [
 "date": "1886",
 "date_sdn": 2409908,
 "descr": "",
-"gid": "E2909",
+"gid": "E2881",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9166,7 +9166,7 @@ I_events_0 = [
 "date": "April 1906",
 "date_sdn": 2417302,
 "descr": "",
-"gid": "E2900",
+"gid": "E2872",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9183,7 +9183,7 @@ I_events_0 = [
 "date": "April 1877",
 "date_sdn": 2406711,
 "descr": "",
-"gid": "E2889",
+"gid": "E2861",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9198,7 +9198,7 @@ I_events_0 = [
 "date": "October 1926",
 "date_sdn": 2424790,
 "descr": "",
-"gid": "E2903",
+"gid": "E2875",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9216,7 +9216,7 @@ I_events_0 = [
 "date": "October 1909",
 "date_sdn": 2418581,
 "descr": "",
-"gid": "E2902",
+"gid": "E2874",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9233,7 +9233,7 @@ I_events_0 = [
 "date": "July 1841",
 "date_sdn": 2393653,
 "descr": "",
-"gid": "E2883",
+"gid": "E2855",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9250,7 +9250,7 @@ I_events_0 = [
 "date": "October 1871",
 "date_sdn": 2404702,
 "descr": "",
-"gid": "E2886",
+"gid": "E2858",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9267,7 +9267,7 @@ I_events_0 = [
 "date": "12 December 1903",
 "date_sdn": 2416461,
 "descr": "",
-"gid": "E2895",
+"gid": "E2867",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9282,7 +9282,7 @@ I_events_0 = [
 "date": "13 September 1967",
 "date_sdn": 2439747,
 "descr": "",
-"gid": "E2896",
+"gid": "E2868",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9300,7 +9300,7 @@ I_events_0 = [
 "date": "January 1870",
 "date_sdn": 2404064,
 "descr": "",
-"gid": "E2885",
+"gid": "E2857",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9315,7 +9315,7 @@ I_events_0 = [
 "date": "June 1899",
 "date_sdn": 2414807,
 "descr": "",
-"gid": "E2893",
+"gid": "E2865",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9332,7 +9332,7 @@ I_events_0 = [
 "date": "about 1873",
 "date_sdn": 2405160,
 "descr": "",
-"gid": "E2887",
+"gid": "E2859",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9347,7 +9347,7 @@ I_events_0 = [
 "date": "September 1897",
 "date_sdn": 2414169,
 "descr": "",
-"gid": "E2898",
+"gid": "E2870",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9364,7 +9364,7 @@ I_events_0 = [
 "date": "April 1880",
 "date_sdn": 2407807,
 "descr": "",
-"gid": "E2891",
+"gid": "E2863",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9379,7 +9379,7 @@ I_events_0 = [
 "date": "June 1891",
 "date_sdn": 2411885,
 "descr": "",
-"gid": "E2904",
+"gid": "E2876",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9396,7 +9396,7 @@ I_events_0 = [
 "date": "October 1884",
 "date_sdn": 2409451,
 "descr": "",
-"gid": "E2892",
+"gid": "E2864",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9413,7 +9413,7 @@ I_events_0 = [
 "date": "1443",
 "date_sdn": 2248105,
 "descr": "",
-"gid": "E1688",
+"gid": "E1671",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9428,7 +9428,7 @@ I_events_0 = [
 "date": "1530",
 "date_sdn": 2279881,
 "descr": "",
-"gid": "E1689",
+"gid": "E1672",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9445,7 +9445,7 @@ I_events_0 = [
 "date": "1518",
 "date_sdn": 2275498,
 "descr": "",
-"gid": "E1707",
+"gid": "E1690",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9460,7 +9460,7 @@ I_events_0 = [
 "date": "1570",
 "date_sdn": 2294491,
 "descr": "",
-"gid": "E1708",
+"gid": "E1691",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9477,7 +9477,7 @@ I_events_0 = [
 "date": "1493",
 "date_sdn": 2266368,
 "descr": "",
-"gid": "E1684",
+"gid": "E1667",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9492,7 +9492,7 @@ I_events_0 = [
 "date": "19 June 1549",
 "date_sdn": 2286990,
 "descr": "",
-"gid": "E1685",
+"gid": "E1668",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9509,7 +9509,7 @@ I_events_0 = [
 "date": "1450",
 "date_sdn": 2250662,
 "descr": "",
-"gid": "E1690",
+"gid": "E1673",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9526,7 +9526,7 @@ I_events_0 = [
 "date": "about 1810",
 "date_sdn": 2382149,
 "descr": "",
-"gid": "E0297",
+"gid": "E0294",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9543,7 +9543,7 @@ I_events_0 = [
 "date": "April 1872",
 "date_sdn": 2404885,
 "descr": "",
-"gid": "E1921",
+"gid": "E1904",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9560,7 +9560,7 @@ I_events_0 = [
 "date": "21 August 1880",
 "date_sdn": 2407949,
 "descr": "",
-"gid": "E2242",
+"gid": "E2225",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9575,7 +9575,7 @@ I_events_0 = [
 "date": "1963",
 "date_sdn": 2438031,
 "descr": "",
-"gid": "E2243",
+"gid": "E2226",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9592,7 +9592,7 @@ I_events_0 = [
 "date": "about 1540",
 "date_sdn": 2283533,
 "descr": "",
-"gid": "E1379",
+"gid": "E1363",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9609,7 +9609,7 @@ I_events_0 = [
 "date": "1724",
 "date_sdn": 2350738,
 "descr": "",
-"gid": "E0298",
+"gid": "E0295",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9624,7 +9624,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0299",
+"gid": "E0296",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9641,13 +9641,13 @@ I_events_0 = [
 "date": "1690",
 "date_sdn": 2338321,
 "descr": "",
-"gid": "E0300",
+"gid": "E0297",
 "media": [],
 "part_family": [],
 "part_person": [
 450
 ],
-"place": 631,
+"place": 630,
 "text": "",
 "type": "Birth"
 },
@@ -9656,13 +9656,13 @@ I_events_0 = [
 "date": "about 1762",
 "date_sdn": 2364618,
 "descr": "",
-"gid": "E0301",
+"gid": "E0298",
 "media": [],
 "part_family": [],
 "part_person": [
 450
 ],
-"place": 631,
+"place": 630,
 "text": "",
 "type": "Death"
 }
@@ -9673,7 +9673,7 @@ I_events_0 = [
 "date": "between 1875 and 1904",
 "date_sdn": 2405890,
 "descr": "",
-"gid": "E2248",
+"gid": "E2231",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9688,7 +9688,7 @@ I_events_0 = [
 "date": "between 1920 and 2004",
 "date_sdn": 2422325,
 "descr": "",
-"gid": "E2249",
+"gid": "E2232",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9705,7 +9705,7 @@ I_events_0 = [
 "date": "6 April 1879",
 "date_sdn": 2407446,
 "descr": "",
-"gid": "E2835",
+"gid": "E2808",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9722,7 +9722,7 @@ I_events_0 = [
 "date": "April 1876",
 "date_sdn": 2406346,
 "descr": "",
-"gid": "E2841",
+"gid": "E2814",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9740,7 +9740,7 @@ I_events_0 = [
 "date": "8 August 1658",
 "date_sdn": 2326852,
 "descr": "",
-"gid": "E0302",
+"gid": "E0299",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9755,7 +9755,7 @@ I_events_0 = [
 "date": "28 April 1719",
 "date_sdn": 2349029,
 "descr": "",
-"gid": "E0303",
+"gid": "E0300",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9772,7 +9772,7 @@ I_events_0 = [
 "date": "about 1638",
 "date_sdn": 2319328,
 "descr": "",
-"gid": "E0304",
+"gid": "E0301",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9787,7 +9787,7 @@ I_events_0 = [
 "date": "about August 1659",
 "date_sdn": 2327210,
 "descr": "",
-"gid": "E0305",
+"gid": "E0302",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9804,7 +9804,7 @@ I_events_0 = [
 "date": "about 1876",
 "date_sdn": 2406255,
 "descr": "",
-"gid": "E2453",
+"gid": "E2433",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9821,13 +9821,13 @@ I_events_0 = [
 "date": "October 1852",
 "date_sdn": 2397763,
 "descr": "",
-"gid": "E0266",
+"gid": "E0264",
 "media": [],
 "part_family": [],
 "part_person": [
 458
 ],
-"place": 575,
+"place": 574,
 "text": "",
 "type": "Birth"
 },
@@ -9836,7 +9836,7 @@ I_events_0 = [
 "date": "1928",
 "date_sdn": 2425247,
 "descr": "",
-"gid": "E0267",
+"gid": "E0265",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9853,7 +9853,7 @@ I_events_0 = [
 "date": "between 1792 and 1830",
 "date_sdn": 2375575,
 "descr": "",
-"gid": "E0976",
+"gid": "E0960",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9868,7 +9868,7 @@ I_events_0 = [
 "date": "between 1852 and 1936",
 "date_sdn": 2397489,
 "descr": "",
-"gid": "E0977",
+"gid": "E0961",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9883,7 +9883,7 @@ I_events_0 = [
 "date": "November 1846",
 "date_sdn": 2395602,
 "descr": "",
-"gid": "E0978",
+"gid": "E0962",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9900,7 +9900,7 @@ I_events_0 = [
 "date": "21 December 1876",
 "date_sdn": 2406610,
 "descr": "",
-"gid": "E2456",
+"gid": "E2436",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9911,31 +9911,31 @@ I_events_0 = [
 "type": "Birth"
 }
 ],
+[],
 [
 {
 "cita": [],
 "date": "October 1882",
 "date_sdn": 2408720,
 "descr": "",
-"gid": "E2454",
+"gid": "E2434",
 "media": [],
 "part_family": [],
 "part_person": [
-461
+462
 ],
 "place": 204,
 "text": "",
 "type": "Birth"
 }
 ],
-[],
 [
 {
 "cita": [],
 "date": "October 1847",
 "date_sdn": 2395936,
 "descr": "",
-"gid": "E2374",
+"gid": "E2354",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9952,7 +9952,7 @@ I_events_0 = [
 "date": "July 1870",
 "date_sdn": 2404245,
 "descr": "",
-"gid": "E2458",
+"gid": "E2438",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9969,7 +9969,7 @@ I_events_0 = [
 "date": "July 1887",
 "date_sdn": 2410454,
 "descr": "",
-"gid": "E2455",
+"gid": "E2435",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -9986,7 +9986,7 @@ I_events_0 = [
 "date": "1690",
 "date_sdn": 2338321,
 "descr": "",
-"gid": "E1327",
+"gid": "E1311",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10003,7 +10003,7 @@ I_events_0 = [
 "date": "between 1577 and 1621",
 "date_sdn": 2297048,
 "descr": "",
-"gid": "E1409",
+"gid": "E1393",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10018,7 +10018,7 @@ I_events_0 = [
 "date": "between 1637 and 1721",
 "date_sdn": 2318963,
 "descr": "",
-"gid": "E1410",
+"gid": "E1394",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10035,13 +10035,13 @@ I_events_0 = [
 "date": "3 December 1735",
 "date_sdn": 2355092,
 "descr": "",
-"gid": "E1884",
+"gid": "E1867",
 "media": [],
 "part_family": [],
 "part_person": [
 468
 ],
-"place": 622,
+"place": 621,
 "text": "",
 "type": "Birth"
 },
@@ -10050,13 +10050,13 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E1885",
+"gid": "E1868",
 "media": [],
 "part_family": [],
 "part_person": [
 468
 ],
-"place": 622,
+"place": 621,
 "text": "",
 "type": "Death"
 }
@@ -10068,13 +10068,13 @@ I_events_0 = [
 "date": "17 January 1728",
 "date_sdn": 2352215,
 "descr": "",
-"gid": "E1897",
+"gid": "E1880",
 "media": [],
 "part_family": [],
 "part_person": [
 470
 ],
-"place": 622,
+"place": 621,
 "text": "",
 "type": "Birth"
 }
@@ -10085,13 +10085,13 @@ I_events_0 = [
 "date": "26 December 1698",
 "date_sdn": 2341602,
 "descr": "",
-"gid": "E1891",
+"gid": "E1874",
 "media": [],
 "part_family": [],
 "part_person": [
 471
 ],
-"place": 581,
+"place": 580,
 "text": "",
 "type": "Birth"
 },
@@ -10100,7 +10100,7 @@ I_events_0 = [
 "date": "about 1774",
 "date_sdn": 2369001,
 "descr": "",
-"gid": "E1892",
+"gid": "E1875",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10117,13 +10117,13 @@ I_events_0 = [
 "date": "28 November 1730",
 "date_sdn": 2353261,
 "descr": "",
-"gid": "E1898",
+"gid": "E1881",
 "media": [],
 "part_family": [],
 "part_person": [
 472
 ],
-"place": 622,
+"place": 621,
 "text": "",
 "type": "Birth"
 },
@@ -10132,13 +10132,13 @@ I_events_0 = [
 "date": "about 1734",
 "date_sdn": 2354391,
 "descr": "",
-"gid": "E1899",
+"gid": "E1882",
 "media": [],
 "part_family": [],
 "part_person": [
 472
 ],
-"place": 622,
+"place": 621,
 "text": "",
 "type": "Death"
 }
@@ -10149,7 +10149,7 @@ I_events_0 = [
 "date": "1866",
 "date_sdn": 2402603,
 "descr": "",
-"gid": "E2827",
+"gid": "E2800",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10166,7 +10166,7 @@ I_events_0 = [
 "date": "29 March 1873",
 "date_sdn": 2405247,
 "descr": "",
-"gid": "E2681",
+"gid": "E2658",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10181,7 +10181,7 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E2689",
+"gid": "E2666",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10196,7 +10196,7 @@ I_events_0 = [
 "date": "26 June 1950",
 "date_sdn": 2433459,
 "descr": "",
-"gid": "E2690",
+"gid": "E2667",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10213,7 +10213,7 @@ I_events_0 = [
 "date": "about 1837",
 "date_sdn": 2392011,
 "descr": "",
-"gid": "E2679",
+"gid": "E2656",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10228,7 +10228,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E2680",
+"gid": "E2657",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10245,7 +10245,7 @@ I_events_0 = [
 "date": "about 1876",
 "date_sdn": 2406255,
 "descr": "",
-"gid": "E2682",
+"gid": "E2659",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10262,7 +10262,7 @@ I_events_0 = [
 "date": "about 1797",
 "date_sdn": 2377402,
 "descr": "",
-"gid": "E2764",
+"gid": "E2739",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10279,7 +10279,7 @@ I_events_0 = [
 "date": "16 February 1664",
 "date_sdn": 2328870,
 "descr": "",
-"gid": "E1401",
+"gid": "E1385",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10294,13 +10294,13 @@ I_events_0 = [
 "date": "30 June 1726",
 "date_sdn": 2351649,
 "descr": "",
-"gid": "E1402",
+"gid": "E1386",
 "media": [],
 "part_family": [],
 "part_person": [
 478
 ],
-"place": 619,
+"place": 618,
 "text": "",
 "type": "Death"
 }
@@ -10311,7 +10311,7 @@ I_events_0 = [
 "date": "1720",
 "date_sdn": 2349277,
 "descr": "",
-"gid": "E2530",
+"gid": "E2509",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10328,13 +10328,13 @@ I_events_0 = [
 "date": "about 1771",
 "date_sdn": 2367905,
 "descr": "",
-"gid": "E0309",
+"gid": "E0306",
 "media": [],
 "part_family": [],
 "part_person": [
 480
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Birth"
 }
@@ -10345,7 +10345,7 @@ I_events_0 = [
 "date": "1799",
 "date_sdn": 2378132,
 "descr": "",
-"gid": "E1739",
+"gid": "E1722",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10360,7 +10360,7 @@ I_events_0 = [
 "date": "18 July 1871",
 "date_sdn": 2404627,
 "descr": "",
-"gid": "E1740",
+"gid": "E1723",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10377,7 +10377,7 @@ I_events_0 = [
 "date": "1797",
 "date_sdn": 2377402,
 "descr": "",
-"gid": "E1816",
+"gid": "E1799",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10392,13 +10392,13 @@ I_events_0 = [
 "date": "October 1876",
 "date_sdn": 2406529,
 "descr": "",
-"gid": "E1817",
+"gid": "E1800",
 "media": [],
 "part_family": [],
 "part_person": [
 482
 ],
-"place": 636,
+"place": 635,
 "text": "",
 "type": "Death"
 }
@@ -10409,7 +10409,7 @@ I_events_0 = [
 "date": "April 1907",
 "date_sdn": 2417667,
 "descr": "",
-"gid": "E2859",
+"gid": "E2832",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10426,7 +10426,7 @@ I_events_0 = [
 "date": "calculated between 1745 and 1789",
 "date_sdn": 2358409,
 "descr": "",
-"gid": "E2575",
+"gid": "E2554",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10441,7 +10441,7 @@ I_events_0 = [
 "date": "calculated between 1805 and 1889",
 "date_sdn": 2380323,
 "descr": "",
-"gid": "E2576",
+"gid": "E2555",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10458,7 +10458,7 @@ I_events_0 = [
 "date": "January 1905",
 "date_sdn": 2416847,
 "descr": "",
-"gid": "E2858",
+"gid": "E2831",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10475,7 +10475,7 @@ I_events_0 = [
 "date": "October 1900",
 "date_sdn": 2415294,
 "descr": "",
-"gid": "E2856",
+"gid": "E2829",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10492,7 +10492,7 @@ I_events_0 = [
 "date": "1705",
 "date_sdn": 2343799,
 "descr": "",
-"gid": "E1864",
+"gid": "E1847",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10509,7 +10509,7 @@ I_events_0 = [
 "date": "1732",
 "date_sdn": 2353660,
 "descr": "",
-"gid": "E1775",
+"gid": "E1758",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10526,7 +10526,7 @@ I_events_0 = [
 "date": "October 1901",
 "date_sdn": 2415659,
 "descr": "",
-"gid": "E2857",
+"gid": "E2830",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10541,7 +10541,7 @@ I_events_0 = [
 "date": "19 January 1914",
 "date_sdn": 2420152,
 "descr": "",
-"gid": "E2861",
+"gid": "E2834",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10558,7 +10558,7 @@ I_events_0 = [
 "date": "October 1910",
 "date_sdn": 2418946,
 "descr": "",
-"gid": "E2860",
+"gid": "E2833",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10575,7 +10575,7 @@ I_events_0 = [
 "date": "July 1868",
 "date_sdn": 2403515,
 "descr": "",
-"gid": "E2853",
+"gid": "E2826",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10592,7 +10592,7 @@ I_events_0 = [
 "date": "October 1894",
 "date_sdn": 2413103,
 "descr": "",
-"gid": "E2854",
+"gid": "E2827",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10609,7 +10609,7 @@ I_events_0 = [
 "date": "January 1896",
 "date_sdn": 2413560,
 "descr": "",
-"gid": "E2855",
+"gid": "E2828",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10626,7 +10626,7 @@ I_events_0 = [
 "date": "July 1888",
 "date_sdn": 2410820,
 "descr": "",
-"gid": "E2920",
+"gid": "E2892",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10645,13 +10645,13 @@ I_events_0 = [
 "date": "between 1770 and 1779",
 "date_sdn": 2367540,
 "descr": "",
-"gid": "E0310",
+"gid": "E0307",
 "media": [],
 "part_family": [],
 "part_person": [
 497
 ],
-"place": 618,
+"place": 617,
 "text": "",
 "type": "Birth"
 }
@@ -10662,7 +10662,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E2979",
+"gid": "E2950",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10679,7 +10679,7 @@ I_events_0 = [
 "date": "1843",
 "date_sdn": 2394202,
 "descr": "",
-"gid": "E2988",
+"gid": "E2959",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10696,7 +10696,7 @@ I_events_0 = [
 "date": "January 1889",
 "date_sdn": 2411004,
 "descr": "",
-"gid": "E2977",
+"gid": "E2948",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10713,7 +10713,7 @@ I_events_0 = [
 "date": "October 1853",
 "date_sdn": 2398128,
 "descr": "",
-"gid": "E2987",
+"gid": "E2958",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10730,7 +10730,7 @@ I_events_0 = [
 "date": "1823",
 "date_sdn": 2386897,
 "descr": "",
-"gid": "E2986",
+"gid": "E2957",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10747,7 +10747,7 @@ I_events_0 = [
 "date": "April 1863",
 "date_sdn": 2401597,
 "descr": "",
-"gid": "E2976",
+"gid": "E2947",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10764,7 +10764,7 @@ I_events_0 = [
 "date": "January 1845",
 "date_sdn": 2394933,
 "descr": "",
-"gid": "E2989",
+"gid": "E2960",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10781,7 +10781,7 @@ I_events_0 = [
 "date": "July 1849",
 "date_sdn": 2396575,
 "descr": "",
-"gid": "E2990",
+"gid": "E2961",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10798,7 +10798,7 @@ I_events_0 = [
 "date": "July 1847",
 "date_sdn": 2395844,
 "descr": "",
-"gid": "E2984",
+"gid": "E2955",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10815,7 +10815,7 @@ I_events_0 = [
 "date": "January 1887",
 "date_sdn": 2410273,
 "descr": "",
-"gid": "E2978",
+"gid": "E2949",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10832,7 +10832,7 @@ I_events_0 = [
 "date": "between 1848 and 1877",
 "date_sdn": 2396028,
 "descr": "",
-"gid": "E2109",
+"gid": "E2092",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10847,7 +10847,7 @@ I_events_0 = [
 "date": "between 1893 and 1977",
 "date_sdn": 2412465,
 "descr": "",
-"gid": "E2110",
+"gid": "E2093",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10864,7 +10864,7 @@ I_events_0 = [
 "date": "July 1883",
 "date_sdn": 2408993,
 "descr": "",
-"gid": "E2461",
+"gid": "E2441",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10881,7 +10881,7 @@ I_events_0 = [
 "date": "1829",
 "date_sdn": 2389089,
 "descr": "",
-"gid": "E0311",
+"gid": "E0308",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10896,7 +10896,7 @@ I_events_0 = [
 "date": "April 1913",
 "date_sdn": 2419859,
 "descr": "",
-"gid": "E0312",
+"gid": "E0309",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10913,7 +10913,7 @@ I_events_0 = [
 "date": "1827",
 "date_sdn": 2388358,
 "descr": "",
-"gid": "E2016",
+"gid": "E1999",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10930,7 +10930,7 @@ I_events_0 = [
 "date": "1830",
 "date_sdn": 2389454,
 "descr": "",
-"gid": "E2031",
+"gid": "E2014",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10945,7 +10945,7 @@ I_events_0 = [
 "date": "October 1899",
 "date_sdn": 2414929,
 "descr": "",
-"gid": "E2032",
+"gid": "E2015",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10962,7 +10962,7 @@ I_events_0 = [
 "date": "23 August 1879",
 "date_sdn": 2407585,
 "descr": "",
-"gid": "E2039",
+"gid": "E2022",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -10979,13 +10979,13 @@ I_events_0 = [
 "date": "1787",
 "date_sdn": 2373749,
 "descr": "",
-"gid": "E0313",
+"gid": "E0310",
 "media": [],
 "part_family": [],
 "part_person": [
 514
 ],
-"place": 592,
+"place": 591,
 "text": "",
 "type": "Birth"
 },
@@ -10994,7 +10994,7 @@ I_events_0 = [
 "date": "January 1862",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E0314",
+"gid": "E0311",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11009,7 +11009,7 @@ I_events_0 = [
 "date": "1861",
 "date_sdn": 2400777,
 "descr": "",
-"gid": "E0315",
+"gid": "E0312",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11026,7 +11026,7 @@ I_events_0 = [
 "date": "1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E2035",
+"gid": "E2018",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11041,7 +11041,7 @@ I_events_0 = [
 "date": "July 1950",
 "date_sdn": 2433464,
 "descr": "",
-"gid": "E2036",
+"gid": "E2019",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11058,7 +11058,7 @@ I_events_0 = [
 "date": "1875",
 "date_sdn": 2405890,
 "descr": "",
-"gid": "E2037",
+"gid": "E2020",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11073,7 +11073,7 @@ I_events_0 = [
 "date": "December 1954",
 "date_sdn": 2435078,
 "descr": "",
-"gid": "E2038",
+"gid": "E2021",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11090,7 +11090,7 @@ I_events_0 = [
 "date": "1831",
 "date_sdn": 2389819,
 "descr": "",
-"gid": "E2040",
+"gid": "E2023",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11105,7 +11105,7 @@ I_events_0 = [
 "date": "July 1914",
 "date_sdn": 2420315,
 "descr": "",
-"gid": "E2041",
+"gid": "E2024",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11122,7 +11122,7 @@ I_events_0 = [
 "date": "4 February 1876",
 "date_sdn": 2406289,
 "descr": "",
-"gid": "E2238",
+"gid": "E2221",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11137,7 +11137,7 @@ I_events_0 = [
 "date": "1967",
 "date_sdn": 2439492,
 "descr": "",
-"gid": "E2239",
+"gid": "E2222",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11155,7 +11155,7 @@ I_events_0 = [
 "date": "1809",
 "date_sdn": 2381784,
 "descr": "",
-"gid": "E1309",
+"gid": "E1293",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11170,7 +11170,7 @@ I_events_0 = [
 "date": "calculated between 1850 and 1915",
 "date_sdn": 2396759,
 "descr": "",
-"gid": "E2706",
+"gid": "E2683",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11185,7 +11185,7 @@ I_events_0 = [
 "date": "16 July 1809",
 "date_sdn": 2381980,
 "descr": "",
-"gid": "E2731",
+"gid": "E2708",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11202,7 +11202,7 @@ I_events_0 = [
 "date": "3 December 1711",
 "date_sdn": 2346326,
 "descr": "",
-"gid": "E2544",
+"gid": "E2523",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11217,7 +11217,7 @@ I_events_0 = [
 "date": "14 April 1775",
 "date_sdn": 2369469,
 "descr": "",
-"gid": "E2545",
+"gid": "E2524",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11234,7 +11234,7 @@ I_events_0 = [
 "date": "15 July 1937",
 "date_sdn": 2428730,
 "descr": "",
-"gid": "E1041",
+"gid": "E1025",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11251,13 +11251,13 @@ I_events_0 = [
 "date": "29 October 1837",
 "date_sdn": 2392312,
 "descr": "",
-"gid": "E0316",
+"gid": "E0313",
 "media": [],
 "part_family": [],
 "part_person": [
 523
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -11266,13 +11266,13 @@ I_events_0 = [
 "date": "19 October 1894",
 "date_sdn": 2413121,
 "descr": "",
-"gid": "E0317",
+"gid": "E0314",
 "media": [],
 "part_family": [],
 "part_person": [
 523
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Death"
 }
@@ -11283,7 +11283,7 @@ I_events_0 = [
 "date": "1687",
 "date_sdn": 2337225,
 "descr": "",
-"gid": "E0318",
+"gid": "E0315",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11298,7 +11298,7 @@ I_events_0 = [
 "date": "between 1723 and 1787",
 "date_sdn": 2350373,
 "descr": "",
-"gid": "E0319",
+"gid": "E0316",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11315,7 +11315,7 @@ I_events_0 = [
 "date": "July 1865",
 "date_sdn": 2402419,
 "descr": "",
-"gid": "E0320",
+"gid": "E0317",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11330,7 +11330,7 @@ I_events_0 = [
 "date": "26 July 1935",
 "date_sdn": 2428010,
 "descr": "",
-"gid": "E0321",
+"gid": "E0318",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11347,13 +11347,13 @@ I_events_0 = [
 "date": "1925",
 "date_sdn": 2424152,
 "descr": "",
-"gid": "E1057",
+"gid": "E1041",
 "media": [],
 "part_family": [],
 "part_person": [
 526
 ],
-"place": 615,
+"place": 614,
 "text": "",
 "type": "Birth"
 },
@@ -11362,13 +11362,13 @@ I_events_0 = [
 "date": "22 May 1973",
 "date_sdn": 2441825,
 "descr": "",
-"gid": "E1058",
+"gid": "E1042",
 "media": [],
 "part_family": [],
 "part_person": [
 526
 ],
-"place": 615,
+"place": 614,
 "text": "",
 "type": "Death"
 }
@@ -11379,7 +11379,7 @@ I_events_0 = [
 "date": "30 November 1903",
 "date_sdn": 2416449,
 "descr": "",
-"gid": "E1024",
+"gid": "E1008",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11396,7 +11396,7 @@ I_events_0 = [
 "date": "1651",
 "date_sdn": 2324076,
 "descr": "",
-"gid": "E0322",
+"gid": "E0319",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11411,7 +11411,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0323",
+"gid": "E0320",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11428,7 +11428,7 @@ I_events_0 = [
 "date": "27 December 1817",
 "date_sdn": 2385066,
 "descr": "",
-"gid": "E0324",
+"gid": "E0321",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11443,7 +11443,7 @@ I_events_0 = [
 "date": "January 1839",
 "date_sdn": 2392741,
 "descr": "",
-"gid": "E0325",
+"gid": "E0322",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11460,13 +11460,13 @@ I_events_0 = [
 "date": "23 April 1929",
 "date_sdn": 2425725,
 "descr": "",
-"gid": "E1053",
+"gid": "E1037",
 "media": [],
 "part_family": [],
 "part_person": [
 530
 ],
-"place": 615,
+"place": 614,
 "text": "",
 "type": "Birth"
 },
@@ -11475,7 +11475,7 @@ I_events_0 = [
 "date": "17 September 2006",
 "date_sdn": 2453996,
 "descr": "",
-"gid": "E1054",
+"gid": "E1038",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11492,7 +11492,7 @@ I_events_0 = [
 "date": "about 1922",
 "date_sdn": 2423056,
 "descr": "",
-"gid": "E1038",
+"gid": "E1022",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11507,7 +11507,7 @@ I_events_0 = [
 "date": "13 April 1996",
 "date_sdn": 2450187,
 "descr": "",
-"gid": "E1039",
+"gid": "E1023",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11524,13 +11524,13 @@ I_events_0 = [
 "date": "about 1824",
 "date_sdn": 2387262,
 "descr": "",
-"gid": "E0330",
+"gid": "E0327",
 "media": [],
 "part_family": [],
 "part_person": [
 532
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -11539,7 +11539,7 @@ I_events_0 = [
 "date": "October 1886",
 "date_sdn": 2410181,
 "descr": "",
-"gid": "E0331",
+"gid": "E0328",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11556,13 +11556,13 @@ I_events_0 = [
 "date": "about 1828",
 "date_sdn": 2388723,
 "descr": "",
-"gid": "E0332",
+"gid": "E0329",
 "media": [],
 "part_family": [],
 "part_person": [
 533
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -11571,13 +11571,13 @@ I_events_0 = [
 "date": "January 1873",
 "date_sdn": 2405160,
 "descr": "",
-"gid": "E0333",
+"gid": "E0330",
 "media": [],
 "part_family": [],
 "part_person": [
 533
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Death"
 }
@@ -11588,7 +11588,7 @@ I_events_0 = [
 "date": "January 1903",
 "date_sdn": 2416116,
 "descr": "",
-"gid": "E0334",
+"gid": "E0331",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11603,7 +11603,7 @@ I_events_0 = [
 "date": "12 March 1905",
 "date_sdn": 2416917,
 "descr": "",
-"gid": "E0335",
+"gid": "E0332",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11620,7 +11620,7 @@ I_events_0 = [
 "date": "14 June 1894",
 "date_sdn": 2412994,
 "descr": "",
-"gid": "E0336",
+"gid": "E0333",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11635,7 +11635,7 @@ I_events_0 = [
 "date": "13 July 1970",
 "date_sdn": 2440781,
 "descr": "",
-"gid": "E0337",
+"gid": "E0334",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11650,7 +11650,7 @@ I_events_0 = [
 "date": "22 August 1894",
 "date_sdn": 2413063,
 "descr": "",
-"gid": "E0338",
+"gid": "E0335",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11665,7 +11665,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0339",
+"gid": "E0336",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11680,7 +11680,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0340",
+"gid": "E0337",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11697,7 +11697,7 @@ I_events_0 = [
 "date": "22 March 1905",
 "date_sdn": 2416927,
 "descr": "",
-"gid": "E1025",
+"gid": "E1009",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11714,7 +11714,7 @@ I_events_0 = [
 "date": "1723",
 "date_sdn": 2350373,
 "descr": "",
-"gid": "E0341",
+"gid": "E0338",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11729,7 +11729,7 @@ I_events_0 = [
 "date": "25 January 1779",
 "date_sdn": 2370851,
 "descr": "",
-"gid": "E0342",
+"gid": "E0339",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11746,7 +11746,7 @@ I_events_0 = [
 "date": "October 1898",
 "date_sdn": 2414564,
 "descr": "",
-"gid": "E1019",
+"gid": "E1003",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11761,7 +11761,7 @@ I_events_0 = [
 "date": "October 1941",
 "date_sdn": 2430269,
 "descr": "",
-"gid": "E1020",
+"gid": "E1004",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11778,13 +11778,13 @@ I_events_0 = [
 "date": "24 March 1907",
 "date_sdn": 2417659,
 "descr": "",
-"gid": "E0343",
+"gid": "E0340",
 "media": [],
 "part_family": [],
 "part_person": [
 539
 ],
-"place": 617,
+"place": 616,
 "text": "",
 "type": "Birth"
 },
@@ -11793,14 +11793,14 @@ I_events_0 = [
 "date": "4 February 1956",
 "date_sdn": 2435508,
 "descr": "",
-"gid": "E0344",
+"gid": "E0341",
 "media": [],
 "part_family": [],
 "part_person": [
 539
 ],
-"place": 617,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBreast Cancer\n</p>\n</div>\n</div>",
+"place": 616,
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nBreast Cancer\n</p>\n</div>\n</div>",
 "type": "Death"
 }
 ],
@@ -11810,7 +11810,7 @@ I_events_0 = [
 "date": "14 July 1900",
 "date_sdn": 2415215,
 "descr": "",
-"gid": "E0345",
+"gid": "E0342",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11825,13 +11825,13 @@ I_events_0 = [
 "date": "28 July 1986",
 "date_sdn": 2446640,
 "descr": "",
-"gid": "E0346",
+"gid": "E0343",
 "media": [],
 "part_family": [],
 "part_person": [
 540
 ],
-"place": 617,
+"place": 616,
 "text": "",
 "type": "Death"
 }
@@ -11842,13 +11842,13 @@ I_events_0 = [
 "date": "8 October 1928",
 "date_sdn": 2425528,
 "descr": "",
-"gid": "E1059",
+"gid": "E1043",
 "media": [],
 "part_family": [],
 "part_person": [
 541
 ],
-"place": 615,
+"place": 614,
 "text": "",
 "type": "Birth"
 },
@@ -11857,13 +11857,13 @@ I_events_0 = [
 "date": "18 March 2009",
 "date_sdn": 2454909,
 "descr": "",
-"gid": "E1060",
+"gid": "E1044",
 "media": [],
 "part_family": [],
 "part_person": [
 541
 ],
-"place": 615,
+"place": 614,
 "text": "",
 "type": "Death"
 }
@@ -11874,7 +11874,7 @@ I_events_0 = [
 "date": "28 October 1910",
 "date_sdn": 2418973,
 "descr": "",
-"gid": "E1027",
+"gid": "E1011",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11891,7 +11891,7 @@ I_events_0 = [
 "date": "2 October 1923",
 "date_sdn": 2423695,
 "descr": "",
-"gid": "E1042",
+"gid": "E1026",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -11906,29 +11906,28 @@ I_events_0 = [
 "date": "19 February 1925",
 "date_sdn": 2424201,
 "descr": "",
-"gid": "E1043",
+"gid": "E1027",
 "media": [],
 "part_family": [],
 "part_person": [
 543
 ],
 "place": 297,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDied in a children's hospital\n</p>\n</div>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nDied in a children's hospital\n</p>\n</div>\n</div>",
 "type": "Death"
 }
 ],
-[],
 [
 {
 "cita": [],
 "date": "24 January 1901",
 "date_sdn": 2415409,
 "descr": "",
-"gid": "E1021",
+"gid": "E1005",
 "media": [],
 "part_family": [],
 "part_person": [
-545
+544
 ],
 "place": 537,
 "text": "",
@@ -11939,11 +11938,11 @@ I_events_0 = [
 "date": "27 February 1978",
 "date_sdn": 2443567,
 "descr": "",
-"gid": "E1022",
+"gid": "E1006",
 "media": [],
 "part_family": [],
 "part_person": [
-545
+544
 ],
 "place": 199,
 "text": "",
@@ -11954,30 +11953,31 @@ I_events_0 = [
 "date": "1923",
 "date_sdn": 2423421,
 "descr": "",
-"gid": "E2388",
+"gid": "E2368",
 "media": [],
 "part_family": [],
 "part_person": [
-545
+544
 ],
 "place": 178,
 "text": "",
 "type": "Residence"
 }
 ],
+[],
 [
 {
 "cita": [],
 "date": "19 August 1819",
 "date_sdn": 2385666,
 "descr": "",
-"gid": "E0347",
+"gid": "E0344",
 "media": [],
 "part_family": [],
 "part_person": [
 546
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -11986,7 +11986,7 @@ I_events_0 = [
 "date": "2 March 1892",
 "date_sdn": 2412160,
 "descr": "",
-"gid": "E0348",
+"gid": "E0345",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12003,7 +12003,7 @@ I_events_0 = [
 "date": "between 1779 and 1799",
 "date_sdn": 2370827,
 "descr": "",
-"gid": "E2124",
+"gid": "E2107",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12020,13 +12020,13 @@ I_events_0 = [
 "date": "about 1832",
 "date_sdn": 2390184,
 "descr": "",
-"gid": "E0349",
+"gid": "E0346",
 "media": [],
 "part_family": [],
 "part_person": [
 548
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -12035,13 +12035,13 @@ I_events_0 = [
 "date": "September 1907",
 "date_sdn": 2417820,
 "descr": "",
-"gid": "E0350",
+"gid": "E0347",
 "media": [],
 "part_family": [],
 "part_person": [
 548
 ],
-"place": 600,
+"place": 599,
 "text": "",
 "type": "Death"
 }
@@ -12052,7 +12052,7 @@ I_events_0 = [
 "date": "1745",
 "date_sdn": 2358409,
 "descr": "",
-"gid": "E0351",
+"gid": "E0348",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12067,7 +12067,7 @@ I_events_0 = [
 "date": "July 1771",
 "date_sdn": 2368086,
 "descr": "",
-"gid": "E0352",
+"gid": "E0349",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12084,13 +12084,13 @@ I_events_0 = [
 "date": "1868",
 "date_sdn": 2403333,
 "descr": "",
-"gid": "E0353",
+"gid": "E0350",
 "media": [],
 "part_family": [],
 "part_person": [
 550
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -12099,13 +12099,13 @@ I_events_0 = [
 "date": "May 1938",
 "date_sdn": 2429020,
 "descr": "",
-"gid": "E0354",
+"gid": "E0351",
 "media": [],
 "part_family": [],
 "part_person": [
 550
 ],
-"place": 578,
+"place": 577,
 "text": "",
 "type": "Death"
 },
@@ -12114,7 +12114,7 @@ I_events_0 = [
 "date": "1896",
 "date_sdn": 2413560,
 "descr": "",
-"gid": "E0355",
+"gid": "E0352",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12131,7 +12131,7 @@ I_events_0 = [
 "date": "23 January 1894",
 "date_sdn": 2412852,
 "descr": "",
-"gid": "E1004",
+"gid": "E0988",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12146,7 +12146,7 @@ I_events_0 = [
 "date": "31 January 1952",
 "date_sdn": 2434043,
 "descr": "",
-"gid": "E1005",
+"gid": "E0989",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12163,7 +12163,7 @@ I_events_0 = [
 "date": "January 1897",
 "date_sdn": 2413926,
 "descr": "",
-"gid": "E1018",
+"gid": "E1002",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12180,14 +12180,14 @@ I_events_0 = [
 "date": "January 1896",
 "date_sdn": 2413560,
 "descr": "",
-"gid": "E0326",
+"gid": "E0323",
 "media": [],
 "part_family": [],
 "part_person": [
 553
 ],
 "place": 158,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nGRO<br />\nVol 01D<br />\nPage 884\n</p>\n</div>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nGRO<br />\nVol 01D<br />\nPage 884\n</p>\n</div>\n</div>",
 "type": "Birth"
 },
 {
@@ -12195,14 +12195,14 @@ I_events_0 = [
 "date": "28 February 1924",
 "date_sdn": 2423844,
 "descr": "",
-"gid": "E0327",
+"gid": "E0324",
 "media": [],
 "part_family": [],
 "part_person": [
 553
 ],
 "place": 10,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nChronic nephritis following diptheria 3 years ago.\n</p>\n</div>\n<p>\n<b>Cause</b>: Chronic nephritis following diptheria 3 years ago.\n</p>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nChronic nephritis following diptheria 3 years ago.\n</p>\n</div>\n<p>\n<b>Cause</b>: Chronic nephritis following diptheria 3 years ago.\n</p>\n</div>",
 "type": "Death"
 },
 {
@@ -12210,7 +12210,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0328",
+"gid": "E0325",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12225,7 +12225,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E0329",
+"gid": "E0326",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12242,13 +12242,13 @@ I_events_0 = [
 "date": "11 October 1825",
 "date_sdn": 2387911,
 "descr": "",
-"gid": "E0356",
+"gid": "E0353",
 "media": [],
 "part_family": [],
 "part_person": [
 554
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 }
@@ -12259,7 +12259,7 @@ I_events_0 = [
 "date": "October 1871",
 "date_sdn": 2404702,
 "descr": "",
-"gid": "E0357",
+"gid": "E0354",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12274,13 +12274,13 @@ I_events_0 = [
 "date": "24 December 1927",
 "date_sdn": 2425239,
 "descr": "",
-"gid": "E0358",
+"gid": "E0355",
 "media": [],
 "part_family": [],
 "part_person": [
 555
 ],
-"place": 617,
+"place": 616,
 "text": "",
 "type": "Death"
 },
@@ -12289,7 +12289,7 @@ I_events_0 = [
 "date": "1905",
 "date_sdn": 2416847,
 "descr": "",
-"gid": "E0359",
+"gid": "E0356",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12304,7 +12304,7 @@ I_events_0 = [
 "date": "1909",
 "date_sdn": 2418308,
 "descr": "",
-"gid": "E0360",
+"gid": "E0357",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12319,7 +12319,7 @@ I_events_0 = [
 "date": "1927",
 "date_sdn": 2424882,
 "descr": "",
-"gid": "E0361",
+"gid": "E0358",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12336,7 +12336,7 @@ I_events_0 = [
 "date": "12 February 1897",
 "date_sdn": 2413968,
 "descr": "",
-"gid": "E0362",
+"gid": "E0359",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12351,7 +12351,7 @@ I_events_0 = [
 "date": "5 February 1957",
 "date_sdn": 2435875,
 "descr": "Suicide by drowning",
-"gid": "E0363",
+"gid": "E0360",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12368,7 +12368,7 @@ I_events_0 = [
 "date": "11 December 1898",
 "date_sdn": 2414635,
 "descr": "",
-"gid": "E0364",
+"gid": "E0361",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12383,13 +12383,13 @@ I_events_0 = [
 "date": "9 March 1985",
 "date_sdn": 2446134,
 "descr": "",
-"gid": "E0365",
+"gid": "E0362",
 "media": [],
 "part_family": [],
 "part_person": [
 557
 ],
-"place": 617,
+"place": 616,
 "text": "",
 "type": "Death"
 }
@@ -12400,13 +12400,13 @@ I_events_0 = [
 "date": "23 July 1995",
 "date_sdn": 2449922,
 "descr": "",
-"gid": "E1052",
+"gid": "E1036",
 "media": [],
 "part_family": [],
 "part_person": [
 558
 ],
-"place": 615,
+"place": 614,
 "text": "",
 "type": "Death"
 }
@@ -12417,7 +12417,7 @@ I_events_0 = [
 "date": "12 March 1767",
 "date_sdn": 2366514,
 "descr": "",
-"gid": "E0366",
+"gid": "E0363",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12432,7 +12432,7 @@ I_events_0 = [
 "date": "April 1841",
 "date_sdn": 2393562,
 "descr": "",
-"gid": "E0367",
+"gid": "E0364",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12449,7 +12449,7 @@ I_events_0 = [
 "date": "12 April 1829",
 "date_sdn": 2389190,
 "descr": "",
-"gid": "E0368",
+"gid": "E0365",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12466,7 +12466,7 @@ I_events_0 = [
 "date": "15 April 1909",
 "date_sdn": 2418412,
 "descr": "",
-"gid": "E1026",
+"gid": "E1010",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12483,13 +12483,13 @@ I_events_0 = [
 "date": "about 1824",
 "date_sdn": 2387262,
 "descr": "",
-"gid": "E0369",
+"gid": "E0366",
 "media": [],
 "part_family": [],
 "part_person": [
 562
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -12498,7 +12498,7 @@ I_events_0 = [
 "date": "1885",
 "date_sdn": 2409543,
 "descr": "",
-"gid": "E0370",
+"gid": "E0367",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12515,7 +12515,7 @@ I_events_0 = [
 "date": "1796",
 "date_sdn": 2377036,
 "descr": "",
-"gid": "E0371",
+"gid": "E0368",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12530,7 +12530,7 @@ I_events_0 = [
 "date": "January 1857",
 "date_sdn": 2399316,
 "descr": "",
-"gid": "E0372",
+"gid": "E0369",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12547,7 +12547,7 @@ I_events_0 = [
 "date": "7 October 1902",
 "date_sdn": 2416030,
 "descr": "",
-"gid": "E1023",
+"gid": "E1007",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12562,7 +12562,7 @@ I_events_0 = [
 "date": "1903",
 "date_sdn": 2416116,
 "descr": "",
-"gid": "E2393",
+"gid": "E2373",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12577,7 +12577,7 @@ I_events_0 = [
 "date": "4 February 1903",
 "date_sdn": 2416150,
 "descr": "",
-"gid": "E2394",
+"gid": "E2374",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12594,7 +12594,7 @@ I_events_0 = [
 "date": "21 December 1837",
 "date_sdn": 2392365,
 "descr": "",
-"gid": "E0373",
+"gid": "E0370",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12609,7 +12609,7 @@ I_events_0 = [
 "date": "1915",
 "date_sdn": 2420499,
 "descr": "",
-"gid": "E0374",
+"gid": "E0371",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12624,7 +12624,7 @@ I_events_0 = [
 "date": "2 March 1915",
 "date_sdn": 2420559,
 "descr": "Might be death date",
-"gid": "E0375",
+"gid": "E0372",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12641,7 +12641,7 @@ I_events_0 = [
 "date": "1631",
 "date_sdn": 2316771,
 "descr": "",
-"gid": "E0376",
+"gid": "E0373",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12656,7 +12656,7 @@ I_events_0 = [
 "date": "1713",
 "date_sdn": 2346721,
 "descr": "",
-"gid": "E0377",
+"gid": "E0374",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12673,7 +12673,7 @@ I_events_0 = [
 "date": "1615",
 "date_sdn": 2310927,
 "descr": "",
-"gid": "E1411",
+"gid": "E1395",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12688,7 +12688,7 @@ I_events_0 = [
 "date": "1642",
 "date_sdn": 2320789,
 "descr": "",
-"gid": "E1412",
+"gid": "E1396",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12705,7 +12705,7 @@ I_events_0 = [
 "date": "10 March 1876",
 "date_sdn": 2406324,
 "descr": "",
-"gid": "E2899",
+"gid": "E2871",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12722,7 +12722,7 @@ I_events_0 = [
 "date": "1590",
 "date_sdn": 2301796,
 "descr": "",
-"gid": "E1850",
+"gid": "E1833",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12737,7 +12737,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E1851",
+"gid": "E1834",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12754,7 +12754,7 @@ I_events_0 = [
 "date": "1562",
 "date_sdn": 2291569,
 "descr": "",
-"gid": "E1852",
+"gid": "E1835",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12769,7 +12769,7 @@ I_events_0 = [
 "date": "1620",
 "date_sdn": 2312753,
 "descr": "",
-"gid": "E1853",
+"gid": "E1836",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12786,7 +12786,7 @@ I_events_0 = [
 "date": "1912",
 "date_sdn": 2419403,
 "descr": "",
-"gid": "E0378",
+"gid": "E0375",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12801,13 +12801,13 @@ I_events_0 = [
 "date": "April 1952",
 "date_sdn": 2434104,
 "descr": "",
-"gid": "E0379",
+"gid": "E0376",
 "media": [],
 "part_family": [],
 "part_person": [
 571
 ],
-"place": 588,
+"place": 587,
 "text": "",
 "type": "Death"
 }
@@ -12819,7 +12819,7 @@ I_events_0 = [
 "date": "between 1784 and 1760",
 "date_sdn": 2372653,
 "descr": "",
-"gid": "E1879",
+"gid": "E1862",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12834,7 +12834,7 @@ I_events_0 = [
 "date": "after 1800",
 "date_sdn": 2378497,
 "descr": "",
-"gid": "E1880",
+"gid": "E1863",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12851,7 +12851,7 @@ I_events_0 = [
 "date": "about 1855",
 "date_sdn": 2398585,
 "descr": "",
-"gid": "E2715",
+"gid": "E2692",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12869,13 +12869,13 @@ I_events_0 = [
 "date": "1876",
 "date_sdn": 2406255,
 "descr": "",
-"gid": "E2717",
+"gid": "E2694",
 "media": [],
 "part_family": [],
 "part_person": [
 576
 ],
-"place": 611,
+"place": 610,
 "text": "",
 "type": "Birth"
 }
@@ -12886,7 +12886,7 @@ I_events_0 = [
 "date": "1475",
 "date_sdn": 2259793,
 "descr": "",
-"gid": "E1727",
+"gid": "E1710",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12901,7 +12901,7 @@ I_events_0 = [
 "date": "1550",
 "date_sdn": 2287186,
 "descr": "",
-"gid": "E1728",
+"gid": "E1711",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12919,7 +12919,7 @@ I_events_0 = [
 "date": "1848",
 "date_sdn": 2396028,
 "descr": "",
-"gid": "E1078",
+"gid": "E1062",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12936,7 +12936,7 @@ I_events_0 = [
 "date": "18 December 1885",
 "date_sdn": 2409894,
 "descr": "",
-"gid": "E1098",
+"gid": "E1082",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12951,7 +12951,7 @@ I_events_0 = [
 "date": "10 January 1886",
 "date_sdn": 2409917,
 "descr": "",
-"gid": "E1099",
+"gid": "E1083",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12968,7 +12968,7 @@ I_events_0 = [
 "date": "about 1862",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E1083",
+"gid": "E1067",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -12983,7 +12983,7 @@ I_events_0 = [
 "date": "March 1918",
 "date_sdn": 2421654,
 "descr": "",
-"gid": "E1084",
+"gid": "E1068",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13000,7 +13000,7 @@ I_events_0 = [
 "date": "1856",
 "date_sdn": 2398950,
 "descr": "",
-"gid": "E1079",
+"gid": "E1063",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13015,7 +13015,7 @@ I_events_0 = [
 "date": "1922",
 "date_sdn": 2423056,
 "descr": "",
-"gid": "E1080",
+"gid": "E1064",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13032,7 +13032,7 @@ I_events_0 = [
 "date": "12 May 1884",
 "date_sdn": 2409309,
 "descr": "",
-"gid": "E1096",
+"gid": "E1080",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13047,7 +13047,7 @@ I_events_0 = [
 "date": "1956",
 "date_sdn": 2435474,
 "descr": "",
-"gid": "E1097",
+"gid": "E1081",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13064,7 +13064,7 @@ I_events_0 = [
 "date": "21 June 1842",
 "date_sdn": 2394008,
 "descr": "",
-"gid": "E1073",
+"gid": "E1057",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13081,7 +13081,7 @@ I_events_0 = [
 "date": "October 1851",
 "date_sdn": 2397397,
 "descr": "",
-"gid": "E1068",
+"gid": "E1052",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13098,7 +13098,7 @@ I_events_0 = [
 "date": "1844",
 "date_sdn": 2394567,
 "descr": "",
-"gid": "E1074",
+"gid": "E1058",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13113,7 +13113,7 @@ I_events_0 = [
 "date": "July 1910",
 "date_sdn": 2418854,
 "descr": "",
-"gid": "E1075",
+"gid": "E1059",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13130,7 +13130,7 @@ I_events_0 = [
 "date": "about 1859",
 "date_sdn": 2400046,
 "descr": "",
-"gid": "E1081",
+"gid": "E1065",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13145,7 +13145,7 @@ I_events_0 = [
 "date": "June 1903",
 "date_sdn": 2416267,
 "descr": "",
-"gid": "E1082",
+"gid": "E1066",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13162,7 +13162,7 @@ I_events_0 = [
 "date": "1822",
 "date_sdn": 2386532,
 "descr": "",
-"gid": "E1069",
+"gid": "E1053",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13177,7 +13177,7 @@ I_events_0 = [
 "date": "30 October 1903",
 "date_sdn": 2416418,
 "descr": "",
-"gid": "E1070",
+"gid": "E1054",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13194,7 +13194,7 @@ I_events_0 = [
 "date": "about 1846",
 "date_sdn": 2395298,
 "descr": "",
-"gid": "E1076",
+"gid": "E1060",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13209,7 +13209,7 @@ I_events_0 = [
 "date": "1907",
 "date_sdn": 2417577,
 "descr": "",
-"gid": "E1077",
+"gid": "E1061",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13226,7 +13226,7 @@ I_events_0 = [
 "date": "July 1882",
 "date_sdn": 2408628,
 "descr": "",
-"gid": "E1094",
+"gid": "E1078",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13241,7 +13241,7 @@ I_events_0 = [
 "date": "1958",
 "date_sdn": 2436205,
 "descr": "",
-"gid": "E1095",
+"gid": "E1079",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13258,7 +13258,7 @@ I_events_0 = [
 "date": "28 March 1868",
 "date_sdn": 2403420,
 "descr": "",
-"gid": "E1537",
+"gid": "E1521",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13273,7 +13273,7 @@ I_events_0 = [
 "date": "1874",
 "date_sdn": 2405525,
 "descr": "",
-"gid": "E1538",
+"gid": "E1522",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13290,7 +13290,7 @@ I_events_0 = [
 "date": "15 May 1870",
 "date_sdn": 2404198,
 "descr": "",
-"gid": "E1539",
+"gid": "E1523",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13305,7 +13305,7 @@ I_events_0 = [
 "date": "1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E1540",
+"gid": "E1524",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13322,7 +13322,7 @@ I_events_0 = [
 "date": "1845",
 "date_sdn": 2394933,
 "descr": "",
-"gid": "E0380",
+"gid": "E0377",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13337,7 +13337,7 @@ I_events_0 = [
 "date": "24 February 1874",
 "date_sdn": 2405579,
 "descr": "",
-"gid": "E0381",
+"gid": "E0378",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13354,7 +13354,7 @@ I_events_0 = [
 "date": "3 April 1877",
 "date_sdn": 2406713,
 "descr": "",
-"gid": "E1543",
+"gid": "E1527",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13369,7 +13369,7 @@ I_events_0 = [
 "date": "23 June 1927",
 "date_sdn": 2425055,
 "descr": "",
-"gid": "E1544",
+"gid": "E1528",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13386,7 +13386,7 @@ I_events_0 = [
 "date": "24 February 1866",
 "date_sdn": 2402657,
 "descr": "",
-"gid": "E1535",
+"gid": "E1519",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13401,7 +13401,7 @@ I_events_0 = [
 "date": "1867",
 "date_sdn": 2402968,
 "descr": "",
-"gid": "E1536",
+"gid": "E1520",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13418,13 +13418,13 @@ I_events_0 = [
 "date": "about 1862",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E1534",
+"gid": "E1518",
 "media": [],
 "part_family": [],
 "part_person": [
 596
 ],
-"place": 604,
+"place": 603,
 "text": "",
 "type": "Birth"
 }
@@ -13435,7 +13435,7 @@ I_events_0 = [
 "date": "5 November 1872",
 "date_sdn": 2405103,
 "descr": "",
-"gid": "E1541",
+"gid": "E1525",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13450,7 +13450,7 @@ I_events_0 = [
 "date": "12 March 1894",
 "date_sdn": 2412900,
 "descr": "",
-"gid": "E1542",
+"gid": "E1526",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13468,7 +13468,7 @@ I_events_0 = [
 "date": "July 1893",
 "date_sdn": 2412646,
 "descr": "",
-"gid": "E2955",
+"gid": "E2926",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13485,7 +13485,7 @@ I_events_0 = [
 "date": "1861",
 "date_sdn": 2400777,
 "descr": "",
-"gid": "E2951",
+"gid": "E2922",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13502,7 +13502,7 @@ I_events_0 = [
 "date": "July 1898",
 "date_sdn": 2414472,
 "descr": "",
-"gid": "E2953",
+"gid": "E2924",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13519,7 +13519,7 @@ I_events_0 = [
 "date": "April 1891",
 "date_sdn": 2411824,
 "descr": "",
-"gid": "E2952",
+"gid": "E2923",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13536,7 +13536,7 @@ I_events_0 = [
 "date": "January 1882",
 "date_sdn": 2408447,
 "descr": "",
-"gid": "E2954",
+"gid": "E2925",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13553,7 +13553,7 @@ I_events_0 = [
 "date": "1749",
 "date_sdn": 2359870,
 "descr": "",
-"gid": "E1419",
+"gid": "E1403",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13568,7 +13568,7 @@ I_events_0 = [
 "date": "July 1832",
 "date_sdn": 2390366,
 "descr": "",
-"gid": "E1420",
+"gid": "E1404",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13585,7 +13585,7 @@ I_events_0 = [
 "date": "about 1712",
 "date_sdn": 2346355,
 "descr": "",
-"gid": "E1421",
+"gid": "E1405",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13600,13 +13600,13 @@ I_events_0 = [
 "date": "December 1771",
 "date_sdn": 2368239,
 "descr": "",
-"gid": "E1422",
+"gid": "E1406",
 "media": [],
 "part_family": [],
 "part_person": [
 605
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Death"
 }
@@ -13618,7 +13618,7 @@ I_events_0 = [
 "date": "December 1749",
 "date_sdn": 2360204,
 "descr": "",
-"gid": "E1423",
+"gid": "E1407",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13635,7 +13635,7 @@ I_events_0 = [
 "date": "8 February 1866",
 "date_sdn": 2402641,
 "descr": "",
-"gid": "E0382",
+"gid": "E0379",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13650,7 +13650,7 @@ I_events_0 = [
 "date": "23 April 1932",
 "date_sdn": 2426821,
 "descr": "",
-"gid": "E0383",
+"gid": "E0380",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13665,7 +13665,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0384",
+"gid": "E0381",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13682,7 +13682,7 @@ I_events_0 = [
 "date": "26 July 1912",
 "date_sdn": 2419610,
 "descr": "",
-"gid": "E0385",
+"gid": "E0382",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13697,7 +13697,7 @@ I_events_0 = [
 "date": "11 August 1912",
 "date_sdn": 2419626,
 "descr": "",
-"gid": "E0386",
+"gid": "E0383",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13714,7 +13714,7 @@ I_events_0 = [
 "date": "October 1888",
 "date_sdn": 2410912,
 "descr": "",
-"gid": "E1276",
+"gid": "E1260",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13729,7 +13729,7 @@ I_events_0 = [
 "date": "between 1912 and 1988",
 "date_sdn": 2419403,
 "descr": "",
-"gid": "E1277",
+"gid": "E1261",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13746,7 +13746,7 @@ I_events_0 = [
 "date": "about 1809",
 "date_sdn": 2381784,
 "descr": "",
-"gid": "E2083",
+"gid": "E2066",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13761,7 +13761,7 @@ I_events_0 = [
 "date": "between 1861 and 1871",
 "date_sdn": 2400777,
 "descr": "",
-"gid": "E2084",
+"gid": "E2067",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13778,7 +13778,7 @@ I_events_0 = [
 "date": "20 April 1819",
 "date_sdn": 2385545,
 "descr": "",
-"gid": "E2085",
+"gid": "E2068",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13793,7 +13793,7 @@ I_events_0 = [
 "date": "after 1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E2086",
+"gid": "E2069",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13810,7 +13810,7 @@ I_events_0 = [
 "date": "29 December 1776",
 "date_sdn": 2370094,
 "descr": "",
-"gid": "E2080",
+"gid": "E2063",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13825,7 +13825,7 @@ I_events_0 = [
 "date": "1846",
 "date_sdn": 2395298,
 "descr": "",
-"gid": "E2081",
+"gid": "E2064",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13842,7 +13842,7 @@ I_events_0 = [
 "date": "1805",
 "date_sdn": 2380323,
 "descr": "",
-"gid": "E2082",
+"gid": "E2065",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13859,7 +13859,7 @@ I_events_0 = [
 "date": "about 1695",
 "date_sdn": 2340147,
 "descr": "",
-"gid": "E0306",
+"gid": "E0303",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13874,7 +13874,7 @@ I_events_0 = [
 "date": "after 1772",
 "date_sdn": 2368270,
 "descr": "",
-"gid": "E0307",
+"gid": "E0304",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13889,7 +13889,7 @@ I_events_0 = [
 "date": "26 March 1772",
 "date_sdn": 2368355,
 "descr": "",
-"gid": "E0308",
+"gid": "E0305",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13906,7 +13906,7 @@ I_events_0 = [
 "date": "about 1650",
 "date_sdn": 2323711,
 "descr": "",
-"gid": "E0387",
+"gid": "E0384",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13921,7 +13921,7 @@ I_events_0 = [
 "date": "after 1675",
 "date_sdn": 2332842,
 "descr": "",
-"gid": "E0388",
+"gid": "E0385",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13938,7 +13938,7 @@ I_events_0 = [
 "date": "23 January 1905",
 "date_sdn": 2416869,
 "descr": "",
-"gid": "E2687",
+"gid": "E2664",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13955,7 +13955,7 @@ I_events_0 = [
 "date": "about 1900",
 "date_sdn": 2415021,
 "descr": "",
-"gid": "E2686",
+"gid": "E2663",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13972,7 +13972,7 @@ I_events_0 = [
 "date": "1872",
 "date_sdn": 2404794,
 "descr": "",
-"gid": "E2683",
+"gid": "E2660",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -13987,7 +13987,7 @@ I_events_0 = [
 "date": "8 July 1945",
 "date_sdn": 2431645,
 "descr": "",
-"gid": "E2691",
+"gid": "E2668",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14004,7 +14004,7 @@ I_events_0 = [
 "date": "about 1902",
 "date_sdn": 2415751,
 "descr": "",
-"gid": "E2685",
+"gid": "E2662",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14024,7 +14024,7 @@ I_events_0 = [
 "date": "about 1872",
 "date_sdn": 2404794,
 "descr": "",
-"gid": "E2737",
+"gid": "E2713",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14041,7 +14041,7 @@ I_events_0 = [
 "date": "January 1908",
 "date_sdn": 2417942,
 "descr": "",
-"gid": "E2743",
+"gid": "E2719",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14058,7 +14058,7 @@ I_events_0 = [
 "date": "April 1899",
 "date_sdn": 2414746,
 "descr": "",
-"gid": "E2741",
+"gid": "E2717",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14075,7 +14075,7 @@ I_events_0 = [
 "date": "January 1897",
 "date_sdn": 2413926,
 "descr": "",
-"gid": "E2740",
+"gid": "E2716",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14092,7 +14092,7 @@ I_events_0 = [
 "date": "about 1805",
 "date_sdn": 2380323,
 "descr": "",
-"gid": "E2416",
+"gid": "E2396",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14109,7 +14109,7 @@ I_events_0 = [
 "date": "January 1902",
 "date_sdn": 2415751,
 "descr": "",
-"gid": "E2742",
+"gid": "E2718",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14126,7 +14126,7 @@ I_events_0 = [
 "date": "April 1895",
 "date_sdn": 2413285,
 "descr": "",
-"gid": "E2739",
+"gid": "E2715",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14143,7 +14143,7 @@ I_events_0 = [
 "date": "1877",
 "date_sdn": 2406621,
 "descr": "",
-"gid": "E1923",
+"gid": "E1906",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14158,7 +14158,7 @@ I_events_0 = [
 "date": "11 March 1948",
 "date_sdn": 2432622,
 "descr": "",
-"gid": "E1924",
+"gid": "E1907",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14175,7 +14175,7 @@ I_events_0 = [
 "date": "1823",
 "date_sdn": 2386897,
 "descr": "",
-"gid": "E1071",
+"gid": "E1055",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14190,7 +14190,7 @@ I_events_0 = [
 "date": "10 October 1903",
 "date_sdn": 2416398,
 "descr": "",
-"gid": "E1072",
+"gid": "E1056",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14207,7 +14207,7 @@ I_events_0 = [
 "date": "25 April 1903",
 "date_sdn": 2416230,
 "descr": "",
-"gid": "E1925",
+"gid": "E1908",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14222,7 +14222,7 @@ I_events_0 = [
 "date": "24 July 1992",
 "date_sdn": 2448828,
 "descr": "",
-"gid": "E1926",
+"gid": "E1909",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14239,7 +14239,7 @@ I_events_0 = [
 "date": "28 June 1807",
 "date_sdn": 2381231,
 "descr": "",
-"gid": "E0851",
+"gid": "E0836",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14254,7 +14254,7 @@ I_events_0 = [
 "date": "calculated between 1861 and 1907",
 "date_sdn": 2400777,
 "descr": "",
-"gid": "E2424",
+"gid": "E2404",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14269,7 +14269,7 @@ I_events_0 = [
 "date": "28 June 1807",
 "date_sdn": 2381231,
 "descr": "",
-"gid": "E2569",
+"gid": "E2548",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14286,7 +14286,7 @@ I_events_0 = [
 "date": "calculated between 1747 and 1789",
 "date_sdn": 2359139,
 "descr": "",
-"gid": "E2572",
+"gid": "E2551",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14301,7 +14301,7 @@ I_events_0 = [
 "date": "calculated between 1807 and 1889",
 "date_sdn": 2381053,
 "descr": "",
-"gid": "E2573",
+"gid": "E2552",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14318,13 +14318,13 @@ I_events_0 = [
 "date": "10 October 1898",
 "date_sdn": 2414573,
 "descr": "",
-"gid": "E1153",
+"gid": "E1137",
 "media": [],
 "part_family": [],
 "part_person": [
 636
 ],
-"place": 597,
+"place": 596,
 "text": "",
 "type": "Birth"
 },
@@ -14333,7 +14333,7 @@ I_events_0 = [
 "date": "15 May 1971",
 "date_sdn": 2441087,
 "descr": "",
-"gid": "E1154",
+"gid": "E1138",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14350,7 +14350,7 @@ I_events_0 = [
 "date": "11 November 1774",
 "date_sdn": 2369315,
 "descr": "",
-"gid": "E0389",
+"gid": "E0386",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14365,7 +14365,7 @@ I_events_0 = [
 "date": "about 1808",
 "date_sdn": 2381418,
 "descr": "",
-"gid": "E0390",
+"gid": "E0387",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14382,7 +14382,7 @@ I_events_0 = [
 "date": "11 November 1774",
 "date_sdn": 2369315,
 "descr": "",
-"gid": "E0391",
+"gid": "E0388",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14397,13 +14397,13 @@ I_events_0 = [
 "date": "about 1808",
 "date_sdn": 2381418,
 "descr": "",
-"gid": "E0392",
+"gid": "E0389",
 "media": [],
 "part_family": [],
 "part_person": [
 638
 ],
-"place": 658,
+"place": 657,
 "text": "",
 "type": "Death"
 }
@@ -14414,7 +14414,7 @@ I_events_0 = [
 "date": "30 July 1751",
 "date_sdn": 2360810,
 "descr": "",
-"gid": "E0393",
+"gid": "E0390",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14429,7 +14429,7 @@ I_events_0 = [
 "date": "1809",
 "date_sdn": 2381784,
 "descr": "",
-"gid": "E0394",
+"gid": "E0391",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14446,7 +14446,7 @@ I_events_0 = [
 "date": "1788",
 "date_sdn": 2374114,
 "descr": "",
-"gid": "E1437",
+"gid": "E1421",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14461,7 +14461,7 @@ I_events_0 = [
 "date": "29 March 1860",
 "date_sdn": 2400499,
 "descr": "",
-"gid": "E1438",
+"gid": "E1422",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14478,7 +14478,7 @@ I_events_0 = [
 "date": "1720",
 "date_sdn": 2349277,
 "descr": "",
-"gid": "E0395",
+"gid": "E0392",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14493,7 +14493,7 @@ I_events_0 = [
 "date": "about 1800",
 "date_sdn": 2378497,
 "descr": "",
-"gid": "E0396",
+"gid": "E0393",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14510,7 +14510,7 @@ I_events_0 = [
 "date": "about 1684",
 "date_sdn": 2336129,
 "descr": "",
-"gid": "E1439",
+"gid": "E1423",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14527,7 +14527,7 @@ I_events_0 = [
 "date": "6 March 1903",
 "date_sdn": 2416180,
 "descr": "",
-"gid": "E0397",
+"gid": "E0394",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14542,7 +14542,7 @@ I_events_0 = [
 "date": "5 December 1987",
 "date_sdn": 2447135,
 "descr": "",
-"gid": "E0398",
+"gid": "E0395",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14557,7 +14557,7 @@ I_events_0 = [
 "date": "19 April 1903",
 "date_sdn": 2416224,
 "descr": "",
-"gid": "E0399",
+"gid": "E0396",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14572,7 +14572,7 @@ I_events_0 = [
 "date": "4 August 1928",
 "date_sdn": 2425463,
 "descr": "",
-"gid": "E0400",
+"gid": "E0397",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14587,7 +14587,7 @@ I_events_0 = [
 "date": "1951",
 "date_sdn": 2433648,
 "descr": "",
-"gid": "E0401",
+"gid": "E0398",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14602,7 +14602,7 @@ I_events_0 = [
 "date": "1916",
 "date_sdn": 2420864,
 "descr": "",
-"gid": "E0402",
+"gid": "E0399",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14619,13 +14619,13 @@ I_events_0 = [
 "date": "April 1914",
 "date_sdn": 2420224,
 "descr": "",
-"gid": "E0405",
+"gid": "E0402",
 "media": [],
 "part_family": [],
 "part_person": [
 644
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -14634,7 +14634,7 @@ I_events_0 = [
 "date": "17 December 1942",
 "date_sdn": 2430711,
 "descr": "",
-"gid": "E0406",
+"gid": "E0403",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14649,7 +14649,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0407",
+"gid": "E0404",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14666,13 +14666,13 @@ I_events_0 = [
 "date": "15 September 1906",
 "date_sdn": 2417469,
 "descr": "",
-"gid": "E0408",
+"gid": "E0405",
 "media": [],
 "part_family": [],
 "part_person": [
 645
 ],
-"place": 602,
+"place": 601,
 "text": "",
 "type": "Birth"
 },
@@ -14681,7 +14681,7 @@ I_events_0 = [
 "date": "October 1998",
 "date_sdn": 2451088,
 "descr": "",
-"gid": "E0409",
+"gid": "E0406",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14696,13 +14696,13 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E0410",
+"gid": "E0407",
 "media": [],
 "part_family": [],
 "part_person": [
 645
 ],
-"place": 588,
+"place": 587,
 "text": "",
 "type": "Residence"
 }
@@ -14713,7 +14713,7 @@ I_events_0 = [
 "date": "calculated between 1836 and 1865",
 "date_sdn": 2391645,
 "descr": "",
-"gid": "E1321",
+"gid": "E1305",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14728,7 +14728,7 @@ I_events_0 = [
 "date": "calculated between 1881 and 1965",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E2373",
+"gid": "E2353",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14745,7 +14745,7 @@ I_events_0 = [
 "date": "14 August 1909",
 "date_sdn": 2418533,
 "descr": "",
-"gid": "E0411",
+"gid": "E0408",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14760,7 +14760,7 @@ I_events_0 = [
 "date": "31 August 1909",
 "date_sdn": 2418550,
 "descr": "",
-"gid": "E0412",
+"gid": "E0409",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14775,13 +14775,13 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E0413",
+"gid": "E0410",
 "media": [],
 "part_family": [],
 "part_person": [
 647
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Residence"
 }
@@ -14794,7 +14794,7 @@ I_events_0 = [
 "date": "28 May 1881",
 "date_sdn": 2408229,
 "descr": "",
-"gid": "E0416",
+"gid": "E0412",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14809,7 +14809,7 @@ I_events_0 = [
 "date": "22 December 1950",
 "date_sdn": 2433638,
 "descr": "",
-"gid": "E0417",
+"gid": "E0413",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14824,7 +14824,7 @@ I_events_0 = [
 "date": "21 December 1950",
 "date_sdn": 2433637,
 "descr": "",
-"gid": "E0418",
+"gid": "E0414",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14839,7 +14839,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E0419",
+"gid": "E0415",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14854,7 +14854,7 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E0420",
+"gid": "E0416",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14871,13 +14871,13 @@ I_events_0 = [
 "date": "2 September 1855",
 "date_sdn": 2398829,
 "descr": "",
-"gid": "E1114",
+"gid": "E1098",
 "media": [],
 "part_family": [],
 "part_person": [
 651
 ],
-"place": 632,
+"place": 631,
 "text": "",
 "type": "Birth"
 },
@@ -14886,7 +14886,7 @@ I_events_0 = [
 "date": "October 1907",
 "date_sdn": 2417850,
 "descr": "",
-"gid": "E1115",
+"gid": "E1099",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14904,7 +14904,7 @@ I_events_0 = [
 "date": "1783",
 "date_sdn": 2372288,
 "descr": "",
-"gid": "E1608",
+"gid": "E1591",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14921,7 +14921,7 @@ I_events_0 = [
 "date": "1781",
 "date_sdn": 2371558,
 "descr": "",
-"gid": "E1609",
+"gid": "E1592",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14938,7 +14938,7 @@ I_events_0 = [
 "date": "1790",
 "date_sdn": 2374845,
 "descr": "",
-"gid": "E1602",
+"gid": "E1585",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14953,7 +14953,7 @@ I_events_0 = [
 "date": "29 November 1867",
 "date_sdn": 2403300,
 "descr": "",
-"gid": "E1603",
+"gid": "E1586",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14970,7 +14970,7 @@ I_events_0 = [
 "date": "1783",
 "date_sdn": 2372288,
 "descr": "",
-"gid": "E1606",
+"gid": "E1589",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -14985,7 +14985,7 @@ I_events_0 = [
 "date": "6 August 1862",
 "date_sdn": 2401359,
 "descr": "",
-"gid": "E1607",
+"gid": "E1590",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15002,7 +15002,7 @@ I_events_0 = [
 "date": "1787",
 "date_sdn": 2373749,
 "descr": "",
-"gid": "E1604",
+"gid": "E1587",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15017,7 +15017,7 @@ I_events_0 = [
 "date": "2 June 1856",
 "date_sdn": 2399103,
 "descr": "",
-"gid": "E1605",
+"gid": "E1588",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15034,7 +15034,7 @@ I_events_0 = [
 "date": "8 January 1883",
 "date_sdn": 2408819,
 "descr": "",
-"gid": "E1137",
+"gid": "E1121",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15049,7 +15049,7 @@ I_events_0 = [
 "date": "17 September 1904",
 "date_sdn": 2416741,
 "descr": "",
-"gid": "E1138",
+"gid": "E1122",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15066,7 +15066,7 @@ I_events_0 = [
 "date": "17 January 1892",
 "date_sdn": 2412115,
 "descr": "",
-"gid": "E1143",
+"gid": "E1127",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15081,13 +15081,13 @@ I_events_0 = [
 "date": "9 May 1970",
 "date_sdn": 2440716,
 "descr": "",
-"gid": "E1144",
+"gid": "E1128",
 "media": [],
 "part_family": [],
 "part_person": [
 659
 ],
-"place": 601,
+"place": 600,
 "text": "",
 "type": "Death"
 }
@@ -15098,7 +15098,7 @@ I_events_0 = [
 "date": "30 September 1897",
 "date_sdn": 2414198,
 "descr": "",
-"gid": "E1147",
+"gid": "E1131",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15113,7 +15113,7 @@ I_events_0 = [
 "date": "March 1935",
 "date_sdn": 2427863,
 "descr": "",
-"gid": "E1148",
+"gid": "E1132",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15130,7 +15130,7 @@ I_events_0 = [
 "date": "17 November 1884",
 "date_sdn": 2409498,
 "descr": "",
-"gid": "E1139",
+"gid": "E1123",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15145,13 +15145,13 @@ I_events_0 = [
 "date": "19 August 1923",
 "date_sdn": 2423651,
 "descr": "",
-"gid": "E1140",
+"gid": "E1124",
 "media": [],
 "part_family": [],
 "part_person": [
 661
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Death"
 }
@@ -15162,7 +15162,7 @@ I_events_0 = [
 "date": "8 May 1889",
 "date_sdn": 2411131,
 "descr": "",
-"gid": "E1141",
+"gid": "E1125",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15177,7 +15177,7 @@ I_events_0 = [
 "date": "15 July 1964",
 "date_sdn": 2438592,
 "descr": "",
-"gid": "E1142",
+"gid": "E1126",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15194,7 +15194,7 @@ I_events_0 = [
 "date": "29 May 1853",
 "date_sdn": 2398003,
 "descr": "",
-"gid": "E1135",
+"gid": "E1119",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15209,7 +15209,7 @@ I_events_0 = [
 "date": "19 April 1923",
 "date_sdn": 2423529,
 "descr": "",
-"gid": "E1136",
+"gid": "E1120",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15226,7 +15226,7 @@ I_events_0 = [
 "date": "20 November 1894",
 "date_sdn": 2413153,
 "descr": "",
-"gid": "E1145",
+"gid": "E1129",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15241,7 +15241,7 @@ I_events_0 = [
 "date": "10 October 1964",
 "date_sdn": 2438679,
 "descr": "",
-"gid": "E1146",
+"gid": "E1130",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15258,13 +15258,13 @@ I_events_0 = [
 "date": "1848",
 "date_sdn": 2396028,
 "descr": "",
-"gid": "E2557",
+"gid": "E2536",
 "media": [],
 "part_family": [],
 "part_person": [
 665
 ],
-"place": 606,
+"place": 605,
 "text": "",
 "type": "Birth"
 },
@@ -15273,7 +15273,7 @@ I_events_0 = [
 "date": "calculated between 1901 and 1948",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E2558",
+"gid": "E2537",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15288,7 +15288,7 @@ I_events_0 = [
 "date": "1915",
 "date_sdn": 2420499,
 "descr": "",
-"gid": "E2639",
+"gid": "E2616",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15305,7 +15305,7 @@ I_events_0 = [
 "date": "17 November 1927",
 "date_sdn": 2425202,
 "descr": "",
-"gid": "E1586",
+"gid": "E1569",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15320,13 +15320,13 @@ I_events_0 = [
 "date": "3 October 1989",
 "date_sdn": 2447803,
 "descr": "",
-"gid": "E1587",
+"gid": "E1570",
 "media": [],
 "part_family": [],
 "part_person": [
 666
 ],
-"place": 612,
+"place": 611,
 "text": "",
 "type": "Death"
 }
@@ -15337,7 +15337,7 @@ I_events_0 = [
 "date": "January 1900",
 "date_sdn": 2415021,
 "descr": "",
-"gid": "E1574",
+"gid": "E1557",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15352,7 +15352,7 @@ I_events_0 = [
 "date": "October 1988",
 "date_sdn": 2447436,
 "descr": "",
-"gid": "E1575",
+"gid": "E1558",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15369,7 +15369,7 @@ I_events_0 = [
 "date": "8 February 1873",
 "date_sdn": 2405198,
 "descr": "",
-"gid": "E0425",
+"gid": "E0417",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15384,7 +15384,7 @@ I_events_0 = [
 "date": "15 June 1949",
 "date_sdn": 2433083,
 "descr": "",
-"gid": "E0426",
+"gid": "E0418",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15401,7 +15401,7 @@ I_events_0 = [
 "date": "1850",
 "date_sdn": 2396759,
 "descr": "",
-"gid": "E0970",
+"gid": "E0954",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15416,7 +15416,7 @@ I_events_0 = [
 "date": "27 August 1929",
 "date_sdn": 2425851,
 "descr": "",
-"gid": "E0971",
+"gid": "E0955",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15433,7 +15433,7 @@ I_events_0 = [
 "date": "1838",
 "date_sdn": 2392376,
 "descr": "",
-"gid": "E1526",
+"gid": "E1510",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15448,7 +15448,7 @@ I_events_0 = [
 "date": "15 February 1906",
 "date_sdn": 2417257,
 "descr": "",
-"gid": "E1527",
+"gid": "E1511",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15465,7 +15465,7 @@ I_events_0 = [
 "date": "1847",
 "date_sdn": 2395663,
 "descr": "",
-"gid": "E0427",
+"gid": "E0419",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15480,7 +15480,7 @@ I_events_0 = [
 "date": "6 February 1919",
 "date_sdn": 2421996,
 "descr": "",
-"gid": "E0428",
+"gid": "E0420",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15497,7 +15497,7 @@ I_events_0 = [
 "date": "1847",
 "date_sdn": 2395663,
 "descr": "",
-"gid": "E1529",
+"gid": "E1513",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15514,7 +15514,7 @@ I_events_0 = [
 "date": "about 1810",
 "date_sdn": 2382149,
 "descr": "",
-"gid": "E1524",
+"gid": "E1508",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15529,7 +15529,7 @@ I_events_0 = [
 "date": "calculated between 1849 and 1919",
 "date_sdn": 2396394,
 "descr": "",
-"gid": "E2554",
+"gid": "E2533",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15546,7 +15546,7 @@ I_events_0 = [
 "date": "about 1849",
 "date_sdn": 2396394,
 "descr": "",
-"gid": "E1530",
+"gid": "E1514",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15563,7 +15563,7 @@ I_events_0 = [
 "date": "1841",
 "date_sdn": 2393472,
 "descr": "",
-"gid": "E1528",
+"gid": "E1512",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15580,7 +15580,7 @@ I_events_0 = [
 "date": "11 July 1893",
 "date_sdn": 2412656,
 "descr": "",
-"gid": "E2435",
+"gid": "E2415",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15597,7 +15597,7 @@ I_events_0 = [
 "date": "1726",
 "date_sdn": 2351469,
 "descr": "",
-"gid": "E1833",
+"gid": "E1816",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15612,7 +15612,7 @@ I_events_0 = [
 "date": "1790",
 "date_sdn": 2374845,
 "descr": "",
-"gid": "E1834",
+"gid": "E1817",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15629,7 +15629,7 @@ I_events_0 = [
 "date": "14 November 1819",
 "date_sdn": 2385753,
 "descr": "",
-"gid": "E0429",
+"gid": "E0421",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15644,7 +15644,7 @@ I_events_0 = [
 "date": "January 1883",
 "date_sdn": 2408812,
 "descr": "",
-"gid": "E0430",
+"gid": "E0422",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15661,7 +15661,7 @@ I_events_0 = [
 "date": "1848",
 "date_sdn": 2396028,
 "descr": "",
-"gid": "E1813",
+"gid": "E1796",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15678,7 +15678,7 @@ I_events_0 = [
 "date": "1832",
 "date_sdn": 2390184,
 "descr": "",
-"gid": "E1803",
+"gid": "E1786",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15693,7 +15693,7 @@ I_events_0 = [
 "date": "9 April 1903",
 "date_sdn": 2416214,
 "descr": "",
-"gid": "E1804",
+"gid": "E1787",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15710,7 +15710,7 @@ I_events_0 = [
 "date": "16 May 1806",
 "date_sdn": 2380823,
 "descr": "",
-"gid": "E1762",
+"gid": "E1745",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15725,7 +15725,7 @@ I_events_0 = [
 "date": "11 December 1885",
 "date_sdn": 2409887,
 "descr": "",
-"gid": "E1763",
+"gid": "E1746",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15742,7 +15742,7 @@ I_events_0 = [
 "date": "10 April 1804",
 "date_sdn": 2380057,
 "descr": "",
-"gid": "E1764",
+"gid": "E1747",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15757,7 +15757,7 @@ I_events_0 = [
 "date": "11 December 1885",
 "date_sdn": 2409887,
 "descr": "",
-"gid": "E1765",
+"gid": "E1748",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15774,7 +15774,7 @@ I_events_0 = [
 "date": "1836",
 "date_sdn": 2391645,
 "descr": "",
-"gid": "E1805",
+"gid": "E1788",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15789,7 +15789,7 @@ I_events_0 = [
 "date": "1907",
 "date_sdn": 2417577,
 "descr": "",
-"gid": "E1806",
+"gid": "E1789",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15806,7 +15806,7 @@ I_events_0 = [
 "date": "20 March 1797",
 "date_sdn": 2377480,
 "descr": "",
-"gid": "E1770",
+"gid": "E1753",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15823,7 +15823,7 @@ I_events_0 = [
 "date": "1828",
 "date_sdn": 2388723,
 "descr": "",
-"gid": "E1799",
+"gid": "E1782",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15838,13 +15838,13 @@ I_events_0 = [
 "date": "1847",
 "date_sdn": 2395663,
 "descr": "",
-"gid": "E1800",
+"gid": "E1783",
 "media": [],
 "part_family": [],
 "part_person": [
 685
 ],
-"place": 588,
+"place": 587,
 "text": "",
 "type": "Death"
 }
@@ -15855,7 +15855,7 @@ I_events_0 = [
 "date": "1728",
 "date_sdn": 2352199,
 "descr": "",
-"gid": "E1820",
+"gid": "E1803",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15870,7 +15870,7 @@ I_events_0 = [
 "date": "about 1814",
 "date_sdn": 2383610,
 "descr": "",
-"gid": "E1821",
+"gid": "E1804",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15887,13 +15887,13 @@ I_events_0 = [
 "date": "1685",
 "date_sdn": 2336495,
 "descr": "",
-"gid": "E1829",
+"gid": "E1812",
 "media": [],
 "part_family": [],
 "part_person": [
 687
 ],
-"place": 588,
+"place": 587,
 "text": "",
 "type": "Birth"
 },
@@ -15902,13 +15902,13 @@ I_events_0 = [
 "date": "1727",
 "date_sdn": 2351834,
 "descr": "",
-"gid": "E1830",
+"gid": "E1813",
 "media": [],
 "part_family": [],
 "part_person": [
 687
 ],
-"place": 656,
+"place": 655,
 "text": "",
 "type": "Death"
 }
@@ -15919,7 +15919,7 @@ I_events_0 = [
 "date": "26 December 1794",
 "date_sdn": 2376665,
 "descr": "",
-"gid": "E1773",
+"gid": "E1756",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15936,7 +15936,7 @@ I_events_0 = [
 "date": "1844",
 "date_sdn": 2394567,
 "descr": "",
-"gid": "E1811",
+"gid": "E1794",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15951,7 +15951,7 @@ I_events_0 = [
 "date": "1930",
 "date_sdn": 2425978,
 "descr": "",
-"gid": "E1812",
+"gid": "E1795",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15968,7 +15968,7 @@ I_events_0 = [
 "date": "1730",
 "date_sdn": 2352930,
 "descr": "",
-"gid": "E1835",
+"gid": "E1818",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -15985,13 +15985,13 @@ I_events_0 = [
 "date": "1690",
 "date_sdn": 2338321,
 "descr": "",
-"gid": "E1838",
+"gid": "E1821",
 "media": [],
 "part_family": [],
 "part_person": [
 691
 ],
-"place": 656,
+"place": 655,
 "text": "",
 "type": "Birth"
 },
@@ -16000,13 +16000,13 @@ I_events_0 = [
 "date": "26 May 1761",
 "date_sdn": 2364398,
 "descr": "",
-"gid": "E1839",
+"gid": "E1822",
 "media": [],
 "part_family": [],
 "part_person": [
 691
 ],
-"place": 656,
+"place": 655,
 "text": "",
 "type": "Death"
 }
@@ -16017,7 +16017,7 @@ I_events_0 = [
 "date": "1839",
 "date_sdn": 2392741,
 "descr": "",
-"gid": "E1809",
+"gid": "E1792",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16032,7 +16032,7 @@ I_events_0 = [
 "date": "December 1917",
 "date_sdn": 2421564,
 "descr": "",
-"gid": "E1810",
+"gid": "E1793",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16049,7 +16049,7 @@ I_events_0 = [
 "date": "23 May 1808",
 "date_sdn": 2381561,
 "descr": "",
-"gid": "E1761",
+"gid": "E1744",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16066,7 +16066,7 @@ I_events_0 = [
 "date": "17 December 1801",
 "date_sdn": 2379212,
 "descr": "",
-"gid": "E1766",
+"gid": "E1749",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16081,13 +16081,13 @@ I_events_0 = [
 "date": "December 1886",
 "date_sdn": 2410242,
 "descr": "",
-"gid": "E1767",
+"gid": "E1750",
 "media": [],
 "part_family": [],
 "part_person": [
 694
 ],
-"place": 588,
+"place": 587,
 "text": "",
 "type": "Death"
 }
@@ -16098,7 +16098,7 @@ I_events_0 = [
 "date": "25 January 1795",
 "date_sdn": 2376695,
 "descr": "",
-"gid": "E1771",
+"gid": "E1754",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16113,7 +16113,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E1772",
+"gid": "E1755",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16130,7 +16130,7 @@ I_events_0 = [
 "date": "1831",
 "date_sdn": 2389819,
 "descr": "",
-"gid": "E1801",
+"gid": "E1784",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16145,13 +16145,13 @@ I_events_0 = [
 "date": "1903",
 "date_sdn": 2416116,
 "descr": "",
-"gid": "E1802",
+"gid": "E1785",
 "media": [],
 "part_family": [],
 "part_person": [
 696
 ],
-"place": 588,
+"place": 587,
 "text": "",
 "type": "Death"
 }
@@ -16162,7 +16162,7 @@ I_events_0 = [
 "date": "1799",
 "date_sdn": 2378132,
 "descr": "",
-"gid": "E1737",
+"gid": "E1720",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16177,7 +16177,7 @@ I_events_0 = [
 "date": "July 1859",
 "date_sdn": 2400227,
 "descr": "",
-"gid": "E1738",
+"gid": "E1721",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16194,7 +16194,7 @@ I_events_0 = [
 "date": "29 January 1768",
 "date_sdn": 2366837,
 "descr": "",
-"gid": "E1757",
+"gid": "E1740",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16209,7 +16209,7 @@ I_events_0 = [
 "date": "7 January 1842",
 "date_sdn": 2393843,
 "descr": "",
-"gid": "E1758",
+"gid": "E1741",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16226,7 +16226,7 @@ I_events_0 = [
 "date": "1838",
 "date_sdn": 2392376,
 "descr": "",
-"gid": "E1807",
+"gid": "E1790",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16241,7 +16241,7 @@ I_events_0 = [
 "date": "January 1908",
 "date_sdn": 2417942,
 "descr": "",
-"gid": "E1808",
+"gid": "E1791",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16258,13 +16258,13 @@ I_events_0 = [
 "date": "October 1878",
 "date_sdn": 2407259,
 "descr": "",
-"gid": "E2894",
+"gid": "E2866",
 "media": [],
 "part_family": [],
 "part_person": [
 700
 ],
-"place": 627,
+"place": 626,
 "text": "",
 "type": "Birth"
 }
@@ -16275,7 +16275,7 @@ I_events_0 = [
 "date": "July 1899",
 "date_sdn": 2414837,
 "descr": "",
-"gid": "E1443",
+"gid": "E1427",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16290,7 +16290,7 @@ I_events_0 = [
 "date": "after 1967",
 "date_sdn": 2439492,
 "descr": "",
-"gid": "E3023",
+"gid": "E2992",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16308,7 +16308,7 @@ I_events_0 = [
 "date": "8 April 1893",
 "date_sdn": 2412562,
 "descr": "",
-"gid": "E1163",
+"gid": "E1147",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16323,7 +16323,7 @@ I_events_0 = [
 "date": "December 1970",
 "date_sdn": 2440922,
 "descr": "",
-"gid": "E1164",
+"gid": "E1148",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16340,7 +16340,7 @@ I_events_0 = [
 "date": "1 June 1926",
 "date_sdn": 2424668,
 "descr": "",
-"gid": "E1165",
+"gid": "E1149",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16355,7 +16355,7 @@ I_events_0 = [
 "date": "9 July 2014",
 "date_sdn": 2456848,
 "descr": "",
-"gid": "E1166",
+"gid": "E1150",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16372,7 +16372,7 @@ I_events_0 = [
 "date": "18 October 1871",
 "date_sdn": 2404719,
 "descr": "",
-"gid": "E0431",
+"gid": "E0423",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16387,13 +16387,13 @@ I_events_0 = [
 "date": "1959",
 "date_sdn": 2436570,
 "descr": "",
-"gid": "E2446",
+"gid": "E2426",
 "media": [],
 "part_family": [],
 "part_person": [
 705
 ],
-"place": 579,
+"place": 578,
 "text": "",
 "type": "Death"
 },
@@ -16402,7 +16402,7 @@ I_events_0 = [
 "date": "7 July 1921",
 "date_sdn": 2422878,
 "descr": "",
-"gid": "E3026",
+"gid": "E2995",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16420,7 +16420,7 @@ I_events_0 = [
 "date": "17 May 1840",
 "date_sdn": 2393243,
 "descr": "",
-"gid": "E2452",
+"gid": "E2432",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16441,7 +16441,7 @@ I_events_0 = [
 "date": "about 1827",
 "date_sdn": 2388358,
 "descr": "",
-"gid": "E1555",
+"gid": "E1538",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16458,7 +16458,7 @@ I_events_0 = [
 "date": "September 1877",
 "date_sdn": 2406864,
 "descr": "",
-"gid": "E1300",
+"gid": "E1284",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16473,13 +16473,13 @@ I_events_0 = [
 "date": "September 1938",
 "date_sdn": 2429143,
 "descr": "",
-"gid": "E1301",
+"gid": "E1285",
 "media": [],
 "part_family": [],
 "part_person": [
 712
 ],
-"place": 638,
+"place": 637,
 "text": "",
 "type": "Death"
 }
@@ -16490,7 +16490,7 @@ I_events_0 = [
 "date": "April 1897",
 "date_sdn": 2414016,
 "descr": "",
-"gid": "E2460",
+"gid": "E2440",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16507,7 +16507,7 @@ I_events_0 = [
 "date": "January 1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E2459",
+"gid": "E2439",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16524,7 +16524,7 @@ I_events_0 = [
 "date": "1547",
 "date_sdn": 2286090,
 "descr": "",
-"gid": "E1656",
+"gid": "E1639",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16541,7 +16541,7 @@ I_events_0 = [
 "date": "about 1690",
 "date_sdn": 2338321,
 "descr": "",
-"gid": "E0432",
+"gid": "E0424",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16556,7 +16556,7 @@ I_events_0 = [
 "date": "September 1758",
 "date_sdn": 2363400,
 "descr": "",
-"gid": "E0433",
+"gid": "E0425",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16573,7 +16573,7 @@ I_events_0 = [
 "date": "7 September 1713",
 "date_sdn": 2346970,
 "descr": "",
-"gid": "E0434",
+"gid": "E0426",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16588,7 +16588,7 @@ I_events_0 = [
 "date": "about 1816",
 "date_sdn": 2384340,
 "descr": "",
-"gid": "E0435",
+"gid": "E0427",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16610,13 +16610,13 @@ I_events_0 = [
 "date": "13 January 1905",
 "date_sdn": 2416859,
 "descr": "",
-"gid": "E1013",
+"gid": "E0997",
 "media": [],
 "part_family": [],
 "part_person": [
 723
 ],
-"place": 617,
+"place": 616,
 "text": "",
 "type": "Birth"
 },
@@ -16625,13 +16625,13 @@ I_events_0 = [
 "date": "20 February 1987",
 "date_sdn": 2446847,
 "descr": "",
-"gid": "E1014",
+"gid": "E0998",
 "media": [],
 "part_family": [],
 "part_person": [
 723
 ],
-"place": 617,
+"place": 616,
 "text": "",
 "type": "Death"
 },
@@ -16640,7 +16640,7 @@ I_events_0 = [
 "date": "1924",
 "date_sdn": 2423786,
 "descr": "",
-"gid": "E1015",
+"gid": "E0999",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16657,7 +16657,7 @@ I_events_0 = [
 "date": "about 1640",
 "date_sdn": 2320058,
 "descr": "",
-"gid": "E1334",
+"gid": "E1318",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16672,7 +16672,7 @@ I_events_0 = [
 "date": "December 1703",
 "date_sdn": 2343402,
 "descr": "",
-"gid": "E1335",
+"gid": "E1319",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16689,7 +16689,7 @@ I_events_0 = [
 "date": "between 1706 and 1735",
 "date_sdn": 2344164,
 "descr": "",
-"gid": "E1332",
+"gid": "E1316",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16704,7 +16704,7 @@ I_events_0 = [
 "date": "between 1706 and 1835",
 "date_sdn": 2344164,
 "descr": "",
-"gid": "E1333",
+"gid": "E1317",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16721,7 +16721,7 @@ I_events_0 = [
 "date": "1745",
 "date_sdn": 2358409,
 "descr": "",
-"gid": "E1324",
+"gid": "E1308",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16738,7 +16738,7 @@ I_events_0 = [
 "date": "1679",
 "date_sdn": 2334303,
 "descr": "",
-"gid": "E1340",
+"gid": "E1324",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16755,7 +16755,7 @@ I_events_0 = [
 "date": "1666",
 "date_sdn": 2329555,
 "descr": "",
-"gid": "E1338",
+"gid": "E1322",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16772,7 +16772,7 @@ I_events_0 = [
 "date": "September 1712",
 "date_sdn": 2346599,
 "descr": "",
-"gid": "E1325",
+"gid": "E1309",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16787,7 +16787,7 @@ I_events_0 = [
 "date": "between 1767 and 1851",
 "date_sdn": 2366444,
 "descr": "",
-"gid": "E1326",
+"gid": "E1310",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16804,7 +16804,7 @@ I_events_0 = [
 "date": "1678",
 "date_sdn": 2333938,
 "descr": "",
-"gid": "E1328",
+"gid": "E1312",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16819,7 +16819,7 @@ I_events_0 = [
 "date": "1721",
 "date_sdn": 2349643,
 "descr": "",
-"gid": "E1329",
+"gid": "E1313",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16836,7 +16836,7 @@ I_events_0 = [
 "date": "1767",
 "date_sdn": 2366444,
 "descr": "",
-"gid": "E0438",
+"gid": "E0430",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16851,7 +16851,7 @@ I_events_0 = [
 "date": "December 1855",
 "date_sdn": 2398919,
 "descr": "",
-"gid": "E0439",
+"gid": "E0431",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16868,7 +16868,7 @@ I_events_0 = [
 "date": "between 1706 and 1735",
 "date_sdn": 2344164,
 "descr": "",
-"gid": "E1330",
+"gid": "E1314",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16883,7 +16883,7 @@ I_events_0 = [
 "date": "between 1706 and 1835",
 "date_sdn": 2344164,
 "descr": "",
-"gid": "E1331",
+"gid": "E1315",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16900,7 +16900,7 @@ I_events_0 = [
 "date": "1676",
 "date_sdn": 2333207,
 "descr": "",
-"gid": "E1339",
+"gid": "E1323",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16917,13 +16917,13 @@ I_events_0 = [
 "date": "October 1901",
 "date_sdn": 2415659,
 "descr": "",
-"gid": "E0440",
+"gid": "E0432",
 "media": [],
 "part_family": [],
 "part_person": [
 734
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -16932,7 +16932,7 @@ I_events_0 = [
 "date": "4 November 1976",
 "date_sdn": 2443087,
 "descr": "",
-"gid": "E0441",
+"gid": "E0433",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -16946,33 +16946,16 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "October 1869",
-"date_sdn": 2403972,
+"date": "11 August 1878",
+"date_sdn": 2407208,
 "descr": "",
-"gid": "E2876",
+"gid": "E0434",
 "media": [],
 "part_family": [],
 "part_person": [
 735
 ],
-"place": 344,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "11 August 1878",
-"date_sdn": 2407208,
-"descr": "",
-"gid": "E0442",
-"media": [],
-"part_family": [],
-"part_person": [
-736
-],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -16981,13 +16964,13 @@ I_events_0 = [
 "date": "27 January 1944",
 "date_sdn": 2431117,
 "descr": "",
-"gid": "E0443",
+"gid": "E0435",
 "media": [],
 "part_family": [],
 "part_person": [
-736
+735
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Death"
 },
@@ -16996,11 +16979,11 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0444",
+"gid": "E0436",
 "media": [],
 "part_family": [],
 "part_person": [
-736
+735
 ],
 "place": 285,
 "text": "",
@@ -17010,16 +16993,33 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "October 1869",
+"date_sdn": 2403972,
+"descr": "",
+"gid": "E2848",
+"media": [],
+"part_family": [],
+"part_person": [
+736
+],
+"place": 344,
+"text": "",
+"type": "Birth"
+}
+],
+[
+{
+"cita": [],
 "date": "July 1907",
 "date_sdn": 2417758,
 "descr": "",
-"gid": "E0445",
+"gid": "E0437",
 "media": [],
 "part_family": [],
 "part_person": [
 737
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -17028,7 +17028,7 @@ I_events_0 = [
 "date": "July 1985",
 "date_sdn": 2446248,
 "descr": "",
-"gid": "E0446",
+"gid": "E0438",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17045,7 +17045,7 @@ I_events_0 = [
 "date": "October 1841",
 "date_sdn": 2393745,
 "descr": "",
-"gid": "E2368",
+"gid": "E2349",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17060,7 +17060,7 @@ I_events_0 = [
 "date": "after 1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E2819",
+"gid": "E2792",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17077,7 +17077,7 @@ I_events_0 = [
 "date": "July 1868",
 "date_sdn": 2403515,
 "descr": "",
-"gid": "E2875",
+"gid": "E2847",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17095,7 +17095,7 @@ I_events_0 = [
 "date": "25 December 1909",
 "date_sdn": 2418666,
 "descr": "",
-"gid": "E0768",
+"gid": "E0758",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17110,7 +17110,7 @@ I_events_0 = [
 "date": "26 June 1953",
 "date_sdn": 2434555,
 "descr": "",
-"gid": "E0769",
+"gid": "E0759",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17125,7 +17125,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0770",
+"gid": "E0760",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17140,7 +17140,7 @@ I_events_0 = [
 "date": "22 December 1934",
 "date_sdn": 2427794,
 "descr": "",
-"gid": "E0771",
+"gid": "E0761",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17157,7 +17157,7 @@ I_events_0 = [
 "date": "25 June 1843",
 "date_sdn": 2394377,
 "descr": "",
-"gid": "E2369",
+"gid": "E2350",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17174,7 +17174,7 @@ I_events_0 = [
 "date": "October 1839",
 "date_sdn": 2393014,
 "descr": "",
-"gid": "E2367",
+"gid": "E2348",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17191,7 +17191,7 @@ I_events_0 = [
 "date": "July 1870",
 "date_sdn": 2404245,
 "descr": "",
-"gid": "E2877",
+"gid": "E2849",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17208,13 +17208,13 @@ I_events_0 = [
 "date": "7 March 1905",
 "date_sdn": 2416912,
 "descr": "",
-"gid": "E0450",
+"gid": "E0442",
 "media": [],
 "part_family": [],
 "part_person": [
 745
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -17223,7 +17223,7 @@ I_events_0 = [
 "date": "June 1992",
 "date_sdn": 2448775,
 "descr": "",
-"gid": "E0451",
+"gid": "E0443",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17238,7 +17238,7 @@ I_events_0 = [
 "date": "July 1926",
 "date_sdn": 2424698,
 "descr": "",
-"gid": "E0452",
+"gid": "E0444",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17253,13 +17253,13 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E0453",
+"gid": "E0445",
 "media": [],
 "part_family": [],
 "part_person": [
 745
 ],
-"place": 641,
+"place": 640,
 "text": "",
 "type": "Residence"
 }
@@ -17270,7 +17270,7 @@ I_events_0 = [
 "date": "between 1897 and 1917",
 "date_sdn": 2413926,
 "descr": "",
-"gid": "E0454",
+"gid": "E0446",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17285,7 +17285,7 @@ I_events_0 = [
 "date": "between 1913 and 2017",
 "date_sdn": 2419769,
 "descr": "",
-"gid": "E0455",
+"gid": "E0447",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17302,7 +17302,7 @@ I_events_0 = [
 "date": "April 1845",
 "date_sdn": 2395023,
 "descr": "",
-"gid": "E2371",
+"gid": "E2352",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17319,7 +17319,7 @@ I_events_0 = [
 "date": "June 1875",
 "date_sdn": 2406041,
 "descr": "",
-"gid": "E2879",
+"gid": "E2851",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17336,13 +17336,13 @@ I_events_0 = [
 "date": "January 1909",
 "date_sdn": 2418308,
 "descr": "",
-"gid": "E2921",
+"gid": "E2893",
 "media": [],
 "part_family": [],
 "part_person": [
 749
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 }
@@ -17353,13 +17353,13 @@ I_events_0 = [
 "date": "January 1884",
 "date_sdn": 2409177,
 "descr": "",
-"gid": "E2804",
+"gid": "E2778",
 "media": [],
 "part_family": [],
 "part_person": [
 750
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 }
@@ -17370,13 +17370,13 @@ I_events_0 = [
 "date": "January 1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E2803",
+"gid": "E2777",
 "media": [],
 "part_family": [],
 "part_person": [
 751
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 }
@@ -17387,7 +17387,7 @@ I_events_0 = [
 "date": "April 1877",
 "date_sdn": 2406711,
 "descr": "",
-"gid": "E2880",
+"gid": "E2852",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17406,7 +17406,7 @@ I_events_0 = [
 "date": "1873",
 "date_sdn": 2405160,
 "descr": "",
-"gid": "E2802",
+"gid": "E2776",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17423,7 +17423,7 @@ I_events_0 = [
 "date": "after 1923",
 "date_sdn": 2423421,
 "descr": "",
-"gid": "E0457",
+"gid": "E0449",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17438,7 +17438,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E2782",
+"gid": "E2756",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17455,7 +17455,7 @@ I_events_0 = [
 "date": "after 1923",
 "date_sdn": 2423421,
 "descr": "",
-"gid": "E0458",
+"gid": "E0450",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17470,7 +17470,7 @@ I_events_0 = [
 "date": "before 2022",
 "date_sdn": 2459581,
 "descr": "",
-"gid": "E2783",
+"gid": "E2757",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17487,7 +17487,7 @@ I_events_0 = [
 "date": "January 1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E2881",
+"gid": "E2853",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17504,7 +17504,7 @@ I_events_0 = [
 "date": "about 1848",
 "date_sdn": 2396028,
 "descr": "",
-"gid": "E2352",
+"gid": "E2333",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17515,19 +17515,17 @@ I_events_0 = [
 "type": "Birth"
 }
 ],
-[],
-[],
 [
 {
 "cita": [],
 "date": "1925",
 "date_sdn": 2424152,
 "descr": "",
-"gid": "E0026",
+"gid": "E0025",
 "media": [],
 "part_family": [],
 "part_person": [
-762
+760
 ],
 "place": -1,
 "text": "",
@@ -17538,30 +17536,32 @@ I_events_0 = [
 "date": "1999",
 "date_sdn": 2451180,
 "descr": "",
-"gid": "E3013",
+"gid": "E2982",
 "media": [],
 "part_family": [],
 "part_person": [
-762
+760
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
+[],
+[],
 [
 {
 "cita": [],
 "date": "about 1876",
 "date_sdn": 2406255,
 "descr": "",
-"gid": "E2800",
+"gid": "E2774",
 "media": [],
 "part_family": [],
 "part_person": [
 763
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 }
@@ -17572,13 +17572,13 @@ I_events_0 = [
 "date": "April 1903",
 "date_sdn": 2416206,
 "descr": "",
-"gid": "E0461",
+"gid": "E0453",
 "media": [],
 "part_family": [],
 "part_person": [
 764
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -17587,7 +17587,7 @@ I_events_0 = [
 "date": "January 1984",
 "date_sdn": 2445701,
 "descr": "",
-"gid": "E0462",
+"gid": "E0454",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17604,13 +17604,13 @@ I_events_0 = [
 "date": "about 1869",
 "date_sdn": 2403699,
 "descr": "",
-"gid": "E2801",
+"gid": "E2775",
 "media": [],
 "part_family": [],
 "part_person": [
 765
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 }
@@ -17621,7 +17621,7 @@ I_events_0 = [
 "date": "January 1855",
 "date_sdn": 2398585,
 "descr": "",
-"gid": "E2873",
+"gid": "E2845",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17636,7 +17636,7 @@ I_events_0 = [
 "date": "September 1894",
 "date_sdn": 2413073,
 "descr": "",
-"gid": "E2992",
+"gid": "E2963",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17650,48 +17650,14 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "1887",
-"date_sdn": 2410273,
+"date": "13 February 1851",
+"date_sdn": 2397167,
 "descr": "",
-"gid": "E2805",
+"gid": "E0455",
 "media": [],
 "part_family": [],
 "part_person": [
 767
-],
-"place": 569,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "about 1850",
-"date_sdn": 2396759,
-"descr": "",
-"gid": "E2810",
-"media": [],
-"part_family": [],
-"part_person": [
-768
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "13 February 1851",
-"date_sdn": 2397167,
-"descr": "",
-"gid": "E0463",
-"media": [],
-"part_family": [],
-"part_person": [
-769
 ],
 "place": 344,
 "text": "",
@@ -17704,11 +17670,11 @@ I_events_0 = [
 "date": "1814",
 "date_sdn": 2383610,
 "descr": "",
-"gid": "E0464",
+"gid": "E0456",
 "media": [],
 "part_family": [],
 "part_person": [
-770
+768
 ],
 "place": 344,
 "text": "",
@@ -17719,15 +17685,49 @@ I_events_0 = [
 "date": "6 January 1878",
 "date_sdn": 2406991,
 "descr": "",
-"gid": "E0465",
+"gid": "E0457",
+"media": [],
+"part_family": [],
+"part_person": [
+768
+],
+"place": 575,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "1887",
+"date_sdn": 2410273,
+"descr": "",
+"gid": "E2779",
+"media": [],
+"part_family": [],
+"part_person": [
+769
+],
+"place": 568,
+"text": "",
+"type": "Birth"
+}
+],
+[
+{
+"cita": [],
+"date": "about 1850",
+"date_sdn": 2396759,
+"descr": "",
+"gid": "E2783",
 "media": [],
 "part_family": [],
 "part_person": [
 770
 ],
-"place": 576,
+"place": -1,
 "text": "",
-"type": "Death"
+"type": "Birth"
 }
 ],
 [
@@ -17736,13 +17736,13 @@ I_events_0 = [
 "date": "January 1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E2922",
+"gid": "E2894",
 "media": [],
 "part_family": [],
 "part_person": [
 771
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 }
@@ -17753,7 +17753,7 @@ I_events_0 = [
 "date": "January 1873",
 "date_sdn": 2405160,
 "descr": "",
-"gid": "E2878",
+"gid": "E2850",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17770,7 +17770,7 @@ I_events_0 = [
 "date": "29 December 1825",
 "date_sdn": 2387990,
 "descr": "",
-"gid": "E2094",
+"gid": "E2077",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17785,7 +17785,7 @@ I_events_0 = [
 "date": "January 1885",
 "date_sdn": 2409543,
 "descr": "",
-"gid": "E2095",
+"gid": "E2078",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17802,7 +17802,7 @@ I_events_0 = [
 "date": "19 October 1882",
 "date_sdn": 2408738,
 "descr": "",
-"gid": "E0466",
+"gid": "E0458",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17817,7 +17817,7 @@ I_events_0 = [
 "date": "after 1907",
 "date_sdn": 2417577,
 "descr": "",
-"gid": "E0467",
+"gid": "E0459",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17832,7 +17832,7 @@ I_events_0 = [
 "date": "1910",
 "date_sdn": 2418673,
 "descr": "",
-"gid": "E0468",
+"gid": "E0460",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17849,7 +17849,7 @@ I_events_0 = [
 "date": "calculated between 1822 and 1866",
 "date_sdn": 2386532,
 "descr": "",
-"gid": "E2420",
+"gid": "E2400",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17864,7 +17864,7 @@ I_events_0 = [
 "date": "calculated between 1882 and 1966",
 "date_sdn": 2408447,
 "descr": "",
-"gid": "E2421",
+"gid": "E2401",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17890,7 +17890,7 @@ I_events_0 = [
 "date": "13 March 1889",
 "date_sdn": 2411075,
 "descr": "",
-"gid": "E2240",
+"gid": "E2223",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17905,7 +17905,7 @@ I_events_0 = [
 "date": "1980",
 "date_sdn": 2444240,
 "descr": "",
-"gid": "E2241",
+"gid": "E2224",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17924,7 +17924,7 @@ I_events_0 = [
 "date": "14 April 1886",
 "date_sdn": 2410011,
 "descr": "",
-"gid": "E1941",
+"gid": "E1924",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17939,7 +17939,7 @@ I_events_0 = [
 "date": "13 March 1986",
 "date_sdn": 2446503,
 "descr": "",
-"gid": "E1942",
+"gid": "E1925",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17956,7 +17956,7 @@ I_events_0 = [
 "date": "before 2 July 1673",
 "date_sdn": 2332294,
 "descr": "",
-"gid": "E0469",
+"gid": "E0461",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17971,7 +17971,7 @@ I_events_0 = [
 "date": "between 1702 and 1760",
 "date_sdn": 2342703,
 "descr": "",
-"gid": "E0470",
+"gid": "E0462",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -17988,7 +17988,7 @@ I_events_0 = [
 "date": "1699",
 "date_sdn": 2341608,
 "descr": "",
-"gid": "E0471",
+"gid": "E0463",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18003,7 +18003,7 @@ I_events_0 = [
 "date": "11 July 1755",
 "date_sdn": 2362252,
 "descr": "",
-"gid": "E0472",
+"gid": "E0464",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18018,7 +18018,7 @@ I_events_0 = [
 "date": "11 July 1755",
 "date_sdn": 2362252,
 "descr": "",
-"gid": "E0473",
+"gid": "E0465",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18035,7 +18035,7 @@ I_events_0 = [
 "date": "1631",
 "date_sdn": 2316771,
 "descr": "",
-"gid": "E0474",
+"gid": "E0466",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18050,7 +18050,7 @@ I_events_0 = [
 "date": "about 1677",
 "date_sdn": 2333573,
 "descr": "",
-"gid": "E0475",
+"gid": "E0467",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18067,7 +18067,7 @@ I_events_0 = [
 "date": "April 1872",
 "date_sdn": 2404885,
 "descr": "",
-"gid": "E2726",
+"gid": "E2703",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18084,7 +18084,7 @@ I_events_0 = [
 "date": "April 1867",
 "date_sdn": 2403058,
 "descr": "",
-"gid": "E2724",
+"gid": "E2701",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18101,7 +18101,7 @@ I_events_0 = [
 "date": "about 1859",
 "date_sdn": 2400046,
 "descr": "",
-"gid": "E2714",
+"gid": "E2691",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18116,14 +18116,46 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "about 1861",
-"date_sdn": 2400777,
+"date": "1770",
+"date_sdn": 2367540,
 "descr": "",
-"gid": "E2707",
+"gid": "E0470",
 "media": [],
 "part_family": [],
 "part_person": [
 796
+],
+"place": 617,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "1795",
+"date_sdn": 2376671,
+"descr": "",
+"gid": "E0471",
+"media": [],
+"part_family": [],
+"part_person": [
+796
+],
+"place": 76,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "about 1861",
+"date_sdn": 2400777,
+"descr": "",
+"gid": "E2684",
+"media": [],
+"part_family": [],
+"part_person": [
+797
 ],
 "place": 530,
 "text": "",
@@ -18136,47 +18168,15 @@ I_events_0 = [
 "date": "about 1878",
 "date_sdn": 2406986,
 "descr": "",
-"gid": "E2718",
-"media": [],
-"part_family": [],
-"part_person": [
-797
-],
-"place": 611,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "1770",
-"date_sdn": 2367540,
-"descr": "",
-"gid": "E0478",
+"gid": "E2695",
 "media": [],
 "part_family": [],
 "part_person": [
 798
 ],
-"place": 618,
+"place": 610,
 "text": "",
 "type": "Birth"
-},
-{
-"cita": [],
-"date": "1795",
-"date_sdn": 2376671,
-"descr": "",
-"gid": "E0479",
-"media": [],
-"part_family": [],
-"part_person": [
-798
-],
-"place": 76,
-"text": "",
-"type": "Death"
 }
 ],
 [
@@ -18185,7 +18185,7 @@ I_events_0 = [
 "date": "October 1880",
 "date_sdn": 2407990,
 "descr": "",
-"gid": "E2729",
+"gid": "E2706",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18217,7 +18217,7 @@ I_events_0 = [
 "date": "15 August 2007",
 "date_sdn": 2454328,
 "descr": "",
-"gid": "E3033",
+"gid": "E3002",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18235,13 +18235,13 @@ I_events_0 = [
 "date": "1850",
 "date_sdn": 2396759,
 "descr": "",
-"gid": "E1318",
+"gid": "E1302",
 "media": [],
 "part_family": [],
 "part_person": [
 802
 ],
-"place": 579,
+"place": 578,
 "text": "",
 "type": "Birth"
 },
@@ -18250,13 +18250,13 @@ I_events_0 = [
 "date": "October 1884",
 "date_sdn": 2409451,
 "descr": "",
-"gid": "E1319",
+"gid": "E1303",
 "media": [],
 "part_family": [],
 "part_person": [
 802
 ],
-"place": 579,
+"place": 578,
 "text": "",
 "type": "Death"
 }
@@ -18267,7 +18267,7 @@ I_events_0 = [
 "date": "January 1865",
 "date_sdn": 2402238,
 "descr": "",
-"gid": "E2723",
+"gid": "E2700",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18284,7 +18284,7 @@ I_events_0 = [
 "date": "about 1854",
 "date_sdn": 2398220,
 "descr": "",
-"gid": "E2712",
+"gid": "E2689",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18301,7 +18301,7 @@ I_events_0 = [
 "date": "August 1880",
 "date_sdn": 2407929,
 "descr": "",
-"gid": "E2719",
+"gid": "E2696",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18318,7 +18318,7 @@ I_events_0 = [
 "date": "1841",
 "date_sdn": 2393472,
 "descr": "",
-"gid": "E0490",
+"gid": "E0482",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18333,7 +18333,7 @@ I_events_0 = [
 "date": "1918",
 "date_sdn": 2421595,
 "descr": "",
-"gid": "E0491",
+"gid": "E0483",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18350,7 +18350,7 @@ I_events_0 = [
 "date": "January 1882",
 "date_sdn": 2408447,
 "descr": "",
-"gid": "E2730",
+"gid": "E2707",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18364,14 +18364,46 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "about 1856",
-"date_sdn": 2398950,
+"date": "1835",
+"date_sdn": 2391280,
 "descr": "",
-"gid": "E2713",
+"gid": "E1298",
 "media": [],
 "part_family": [],
 "part_person": [
 808
+],
+"place": 222,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "June 1919",
+"date_sdn": 2422111,
+"descr": "",
+"gid": "E1299",
+"media": [],
+"part_family": [],
+"part_person": [
+808
+],
+"place": 445,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "about 1856",
+"date_sdn": 2398950,
+"descr": "",
+"gid": "E2690",
+"media": [],
+"part_family": [],
+"part_person": [
+809
 ],
 "place": 265,
 "text": "",
@@ -18384,11 +18416,11 @@ I_events_0 = [
 "date": "about 1896",
 "date_sdn": 2413560,
 "descr": "",
-"gid": "E2745",
+"gid": "E2721",
 "media": [],
 "part_family": [],
 "part_person": [
-809
+810
 ],
 "place": -1,
 "text": "",
@@ -18398,42 +18430,10 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "1835",
-"date_sdn": 2391280,
-"descr": "",
-"gid": "E1314",
-"media": [],
-"part_family": [],
-"part_person": [
-810
-],
-"place": 222,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "June 1919",
-"date_sdn": 2422111,
-"descr": "",
-"gid": "E1315",
-"media": [],
-"part_family": [],
-"part_person": [
-810
-],
-"place": 445,
-"text": "",
-"type": "Death"
-}
-],
-[
-{
-"cita": [],
 "date": "about 1831",
 "date_sdn": 2389819,
 "descr": "",
-"gid": "E1310",
+"gid": "E1294",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18448,29 +18448,28 @@ I_events_0 = [
 "date": "April 1905",
 "date_sdn": 2416937,
 "descr": "",
-"gid": "E1311",
+"gid": "E1295",
 "media": [],
 "part_family": [],
 "part_person": [
 811
 ],
-"place": 582,
+"place": 581,
 "text": "",
 "type": "Death"
 }
 ],
-[],
 [
 {
 "cita": [],
 "date": "calculated between 1862 and 1891",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E2749",
+"gid": "E2724",
 "media": [],
 "part_family": [],
 "part_person": [
-813
+812
 ],
 "place": -1,
 "text": "",
@@ -18481,30 +18480,31 @@ I_events_0 = [
 "date": "calculated between 1862 and 1991",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E2750",
+"gid": "E2725",
 "media": [],
 "part_family": [],
 "part_person": [
-813
+812
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [
 {
 "cita": [],
 "date": "about 1872",
 "date_sdn": 2404794,
 "descr": "",
-"gid": "E2708",
+"gid": "E2685",
 "media": [],
 "part_family": [],
 "part_person": [
 814
 ],
-"place": 594,
+"place": 593,
 "text": "",
 "type": "Birth"
 }
@@ -18515,7 +18515,7 @@ I_events_0 = [
 "date": "October 1877",
 "date_sdn": 2406894,
 "descr": "",
-"gid": "E2728",
+"gid": "E2705",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18532,7 +18532,7 @@ I_events_0 = [
 "date": "July 1875",
 "date_sdn": 2406071,
 "descr": "",
-"gid": "E2727",
+"gid": "E2704",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18549,13 +18549,13 @@ I_events_0 = [
 "date": "October 1866",
 "date_sdn": 2402876,
 "descr": "",
-"gid": "E0480",
+"gid": "E0472",
 "media": [],
 "part_family": [],
 "part_person": [
 817
 ],
-"place": 655,
+"place": 654,
 "text": "",
 "type": "Birth"
 },
@@ -18564,7 +18564,7 @@ I_events_0 = [
 "date": "December 1953",
 "date_sdn": 2434713,
 "descr": "",
-"gid": "E0481",
+"gid": "E0473",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18579,7 +18579,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0482",
+"gid": "E0474",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18594,7 +18594,7 @@ I_events_0 = [
 "date": "29 August 1892",
 "date_sdn": 2412340,
 "descr": "",
-"gid": "E0483",
+"gid": "E0475",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18609,7 +18609,7 @@ I_events_0 = [
 "date": "1892",
 "date_sdn": 2412099,
 "descr": "",
-"gid": "E0484",
+"gid": "E0476",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18624,7 +18624,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E0485",
+"gid": "E0477",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18641,7 +18641,7 @@ I_events_0 = [
 "date": "about 1895",
 "date_sdn": 2413195,
 "descr": "",
-"gid": "E2720",
+"gid": "E2697",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18659,7 +18659,7 @@ I_events_0 = [
 "date": "calculated between 1862 and 1891",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E2747",
+"gid": "E2722",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18674,7 +18674,7 @@ I_events_0 = [
 "date": "calculated between 1862 and 1991",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E2748",
+"gid": "E2723",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18691,7 +18691,7 @@ I_events_0 = [
 "date": "8 January 1833",
 "date_sdn": 2390557,
 "descr": "",
-"gid": "E1312",
+"gid": "E1296",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18706,13 +18706,13 @@ I_events_0 = [
 "date": "April 1901",
 "date_sdn": 2415476,
 "descr": "",
-"gid": "E1313",
+"gid": "E1297",
 "media": [],
 "part_family": [],
 "part_person": [
 821
 ],
-"place": 579,
+"place": 578,
 "text": "",
 "type": "Death"
 }
@@ -18723,7 +18723,7 @@ I_events_0 = [
 "date": "1807",
 "date_sdn": 2381053,
 "descr": "",
-"gid": "E1306",
+"gid": "E1290",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18738,13 +18738,13 @@ I_events_0 = [
 "date": "July 1872",
 "date_sdn": 2404976,
 "descr": "",
-"gid": "E1307",
+"gid": "E1291",
 "media": [],
 "part_family": [],
 "part_person": [
 822
 ],
-"place": 579,
+"place": 578,
 "text": "",
 "type": "Death"
 },
@@ -18753,13 +18753,13 @@ I_events_0 = [
 "date": "1861",
 "date_sdn": 2400777,
 "descr": "",
-"gid": "E1308",
+"gid": "E1292",
 "media": [],
 "part_family": [],
 "part_person": [
 822
 ],
-"place": 655,
+"place": 654,
 "text": "",
 "type": "Residence"
 }
@@ -18770,7 +18770,7 @@ I_events_0 = [
 "date": "1847",
 "date_sdn": 2395663,
 "descr": "",
-"gid": "E1316",
+"gid": "E1300",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18785,32 +18785,15 @@ I_events_0 = [
 "date": "March 1916",
 "date_sdn": 2420924,
 "descr": "",
-"gid": "E1317",
+"gid": "E1301",
 "media": [],
 "part_family": [],
 "part_person": [
 823
 ],
-"place": 655,
+"place": 654,
 "text": "",
 "type": "Death"
-}
-],
-[
-{
-"cita": [],
-"date": "July 1869",
-"date_sdn": 2403880,
-"descr": "",
-"gid": "E2725",
-"media": [],
-"part_family": [],
-"part_person": [
-824
-],
-"place": 530,
-"text": "",
-"type": "Birth"
 }
 ],
 [
@@ -18819,13 +18802,13 @@ I_events_0 = [
 "date": "1729",
 "date_sdn": 2352565,
 "descr": "",
-"gid": "E0488",
+"gid": "E0480",
 "media": [],
 "part_family": [],
 "part_person": [
-825
+824
 ],
-"place": 618,
+"place": 617,
 "text": "",
 "type": "Birth"
 },
@@ -18834,11 +18817,11 @@ I_events_0 = [
 "date": "October 1803",
 "date_sdn": 2379865,
 "descr": "",
-"gid": "E0489",
+"gid": "E0481",
 "media": [],
 "part_family": [],
 "part_person": [
-825
+824
 ],
 "place": 393,
 "text": "",
@@ -18849,10 +18832,27 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "July 1869",
+"date_sdn": 2403880,
+"descr": "",
+"gid": "E2702",
+"media": [],
+"part_family": [],
+"part_person": [
+826
+],
+"place": 530,
+"text": "",
+"type": "Birth"
+}
+],
+[
+{
+"cita": [],
 "date": "2 August 1864",
 "date_sdn": 2402086,
 "descr": "",
-"gid": "E0492",
+"gid": "E0484",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18867,7 +18867,7 @@ I_events_0 = [
 "date": "20 January 1912",
 "date_sdn": 2419422,
 "descr": "",
-"gid": "E0493",
+"gid": "E0485",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18884,7 +18884,7 @@ I_events_0 = [
 "date": "16 June 1898",
 "date_sdn": 2414457,
 "descr": "",
-"gid": "E0494",
+"gid": "E0486",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18899,7 +18899,7 @@ I_events_0 = [
 "date": "16 May 2008",
 "date_sdn": 2454603,
 "descr": "",
-"gid": "E0495",
+"gid": "E0487",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18916,7 +18916,7 @@ I_events_0 = [
 "date": "January 1870",
 "date_sdn": 2404064,
 "descr": "",
-"gid": "E1561",
+"gid": "E1544",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18931,7 +18931,7 @@ I_events_0 = [
 "date": "between 1870 and 1970",
 "date_sdn": 2404064,
 "descr": "",
-"gid": "E1562",
+"gid": "E1545",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18948,7 +18948,7 @@ I_events_0 = [
 "date": "January 1864",
 "date_sdn": 2401872,
 "descr": "",
-"gid": "E1559",
+"gid": "E1542",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18963,7 +18963,7 @@ I_events_0 = [
 "date": "January 1940",
 "date_sdn": 2429630,
 "descr": "",
-"gid": "E1560",
+"gid": "E1543",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18980,7 +18980,7 @@ I_events_0 = [
 "date": "between 1916 and 1995",
 "date_sdn": 2420864,
 "descr": "",
-"gid": "E1552",
+"gid": "E1535",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -18995,7 +18995,7 @@ I_events_0 = [
 "date": "17 December 1895",
 "date_sdn": 2413545,
 "descr": "",
-"gid": "E2378",
+"gid": "E2358",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19010,7 +19010,7 @@ I_events_0 = [
 "date": "1916",
 "date_sdn": 2420864,
 "descr": "",
-"gid": "E2379",
+"gid": "E2359",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19025,7 +19025,7 @@ I_events_0 = [
 "date": "15 October 1896",
 "date_sdn": 2413848,
 "descr": "",
-"gid": "E2380",
+"gid": "E2360",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19042,7 +19042,7 @@ I_events_0 = [
 "date": "about 1860",
 "date_sdn": 2400411,
 "descr": "",
-"gid": "E1558",
+"gid": "E1541",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19059,7 +19059,7 @@ I_events_0 = [
 "date": "July 1856",
 "date_sdn": 2399132,
 "descr": "",
-"gid": "E1556",
+"gid": "E1539",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19076,7 +19076,7 @@ I_events_0 = [
 "date": "between 1882 and 1911",
 "date_sdn": 2408447,
 "descr": "",
-"gid": "E1553",
+"gid": "E1536",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19091,7 +19091,7 @@ I_events_0 = [
 "date": "between 1882 and 2011",
 "date_sdn": 2408447,
 "descr": "",
-"gid": "E1554",
+"gid": "E1537",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19108,7 +19108,7 @@ I_events_0 = [
 "date": "January 1862",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E1548",
+"gid": "E1532",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19123,7 +19123,7 @@ I_events_0 = [
 "date": "30 March 1907",
 "date_sdn": 2417665,
 "descr": "",
-"gid": "E1549",
+"gid": "E1533",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19140,7 +19140,7 @@ I_events_0 = [
 "date": "about 1831",
 "date_sdn": 2389819,
 "descr": "",
-"gid": "E1550",
+"gid": "E1534",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19157,7 +19157,7 @@ I_events_0 = [
 "date": "April 1858",
 "date_sdn": 2399771,
 "descr": "",
-"gid": "E1557",
+"gid": "E1540",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19174,7 +19174,7 @@ I_events_0 = [
 "date": "5 September 1960",
 "date_sdn": 2437183,
 "descr": "",
-"gid": "E2590",
+"gid": "E2569",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19189,7 +19189,7 @@ I_events_0 = [
 "date": "1869",
 "date_sdn": 2403699,
 "descr": "",
-"gid": "E2591",
+"gid": "E2570",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19206,7 +19206,7 @@ I_events_0 = [
 "date": "about 1695",
 "date_sdn": 2340147,
 "descr": "",
-"gid": "E0436",
+"gid": "E0428",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19221,7 +19221,7 @@ I_events_0 = [
 "date": "10 November 1765",
 "date_sdn": 2366027,
 "descr": "",
-"gid": "E0437",
+"gid": "E0429",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19238,7 +19238,7 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E2582",
+"gid": "E2561",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19253,7 +19253,7 @@ I_events_0 = [
 "date": "27 July 1994",
 "date_sdn": 2449561,
 "descr": "",
-"gid": "E2587",
+"gid": "E2566",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19270,7 +19270,7 @@ I_events_0 = [
 "date": "1736",
 "date_sdn": 2355121,
 "descr": "",
-"gid": "E0496",
+"gid": "E0488",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19285,7 +19285,7 @@ I_events_0 = [
 "date": "29 April 1817",
 "date_sdn": 2384824,
 "descr": "",
-"gid": "E0497",
+"gid": "E0489",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19302,7 +19302,7 @@ I_events_0 = [
 "date": "16 January 1910",
 "date_sdn": 2418688,
 "descr": "",
-"gid": "E3037",
+"gid": "E3006",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19317,7 +19317,7 @@ I_events_0 = [
 "date": "2 April 1999",
 "date_sdn": 2451271,
 "descr": "",
-"gid": "E3038",
+"gid": "E3007",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19334,7 +19334,7 @@ I_events_0 = [
 "date": "between 1805 and 1834",
 "date_sdn": 2380323,
 "descr": "",
-"gid": "E0498",
+"gid": "E0490",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19349,7 +19349,7 @@ I_events_0 = [
 "date": "between 1850 and 1934",
 "date_sdn": 2396759,
 "descr": "",
-"gid": "E0499",
+"gid": "E0491",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19366,13 +19366,13 @@ I_events_0 = [
 "date": "1 June 1864",
 "date_sdn": 2402024,
 "descr": "",
-"gid": "E0500",
+"gid": "E0492",
 "media": [],
 "part_family": [],
 "part_person": [
 844
 ],
-"place": 661,
+"place": 660,
 "text": "",
 "type": "Birth"
 },
@@ -19381,7 +19381,7 @@ I_events_0 = [
 "date": "26 March 1913",
 "date_sdn": 2419853,
 "descr": "",
-"gid": "E0501",
+"gid": "E0493",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19398,7 +19398,7 @@ I_events_0 = [
 "date": "before 31 July 1830",
 "date_sdn": 2389665,
 "descr": "",
-"gid": "E0502",
+"gid": "E0494",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19413,7 +19413,7 @@ I_events_0 = [
 "date": "16 July 1893",
 "date_sdn": 2412661,
 "descr": "",
-"gid": "E0503",
+"gid": "E0495",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19430,7 +19430,7 @@ I_events_0 = [
 "date": "1883",
 "date_sdn": 2408812,
 "descr": "",
-"gid": "E1202",
+"gid": "E1186",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19447,7 +19447,7 @@ I_events_0 = [
 "date": "1880",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E2910",
+"gid": "E2882",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19462,7 +19462,7 @@ I_events_0 = [
 "date": "before 1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E2912",
+"gid": "E2884",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19481,7 +19481,7 @@ I_events_0 = [
 "date": "1948",
 "date_sdn": 2432552,
 "descr": "",
-"gid": "E2588",
+"gid": "E2567",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19496,7 +19496,7 @@ I_events_0 = [
 "date": "1874",
 "date_sdn": 2405525,
 "descr": "",
-"gid": "E2589",
+"gid": "E2568",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19513,7 +19513,7 @@ I_events_0 = [
 "date": "22 July 1945",
 "date_sdn": 2431659,
 "descr": "",
-"gid": "E2593",
+"gid": "E2572",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19531,7 +19531,7 @@ I_events_0 = [
 "date": "18 April 1869",
 "date_sdn": 2403806,
 "descr": "",
-"gid": "E2337",
+"gid": "E2319",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19546,7 +19546,7 @@ I_events_0 = [
 "date": "October 1894",
 "date_sdn": 2413103,
 "descr": "",
-"gid": "E2791",
+"gid": "E2765",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19563,7 +19563,7 @@ I_events_0 = [
 "date": "2 February 2016",
 "date_sdn": 2457421,
 "descr": "",
-"gid": "E1591",
+"gid": "E1574",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19580,7 +19580,7 @@ I_events_0 = [
 "date": "about 1741",
 "date_sdn": 2356948,
 "descr": "",
-"gid": "E0504",
+"gid": "E0496",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19595,7 +19595,7 @@ I_events_0 = [
 "date": "1807",
 "date_sdn": 2381053,
 "descr": "",
-"gid": "E0505",
+"gid": "E0497",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19612,7 +19612,7 @@ I_events_0 = [
 "date": "about 1770",
 "date_sdn": 2367540,
 "descr": "",
-"gid": "E0506",
+"gid": "E0498",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19627,7 +19627,7 @@ I_events_0 = [
 "date": "1801",
 "date_sdn": 2378862,
 "descr": "",
-"gid": "E0507",
+"gid": "E0499",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19644,7 +19644,7 @@ I_events_0 = [
 "date": "about 1724",
 "date_sdn": 2350738,
 "descr": "",
-"gid": "E0508",
+"gid": "E0500",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19659,7 +19659,7 @@ I_events_0 = [
 "date": "August 1797",
 "date_sdn": 2377614,
 "descr": "",
-"gid": "E0509",
+"gid": "E0501",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19674,7 +19674,7 @@ I_events_0 = [
 "date": "25 August 1797",
 "date_sdn": 2377638,
 "descr": "",
-"gid": "E0510",
+"gid": "E0502",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19691,13 +19691,13 @@ I_events_0 = [
 "date": "about 1743",
 "date_sdn": 2357678,
 "descr": "",
-"gid": "E0511",
+"gid": "E0503",
 "media": [],
 "part_family": [],
 "part_person": [
 858
 ],
-"place": 599,
+"place": 598,
 "text": "",
 "type": "Birth"
 },
@@ -19706,7 +19706,7 @@ I_events_0 = [
 "date": "about 1778",
 "date_sdn": 2370462,
 "descr": "",
-"gid": "E0512",
+"gid": "E0504",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19723,13 +19723,13 @@ I_events_0 = [
 "date": "1768",
 "date_sdn": 2366809,
 "descr": "",
-"gid": "E0513",
+"gid": "E0505",
 "media": [],
 "part_family": [],
 "part_person": [
 859
 ],
-"place": 599,
+"place": 598,
 "text": "",
 "type": "Birth"
 },
@@ -19738,7 +19738,7 @@ I_events_0 = [
 "date": "1814",
 "date_sdn": 2383610,
 "descr": "",
-"gid": "E0514",
+"gid": "E0506",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19755,13 +19755,13 @@ I_events_0 = [
 "date": "4 September 1907",
 "date_sdn": 2417823,
 "descr": "",
-"gid": "E2440",
+"gid": "E2420",
 "media": [],
 "part_family": [],
 "part_person": [
 860
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 }
@@ -19772,7 +19772,7 @@ I_events_0 = [
 "date": "12 June 1808",
 "date_sdn": 2381581,
 "descr": "",
-"gid": "E1797",
+"gid": "E1780",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19787,7 +19787,7 @@ I_events_0 = [
 "date": "8 September 1885",
 "date_sdn": 2409793,
 "descr": "",
-"gid": "E1798",
+"gid": "E1781",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19804,7 +19804,7 @@ I_events_0 = [
 "date": "6 May 1904",
 "date_sdn": 2416607,
 "descr": "",
-"gid": "E2399",
+"gid": "E2379",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19819,7 +19819,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E2397",
+"gid": "E2377",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19840,7 +19840,7 @@ I_events_0 = [
 "date": "22 January 1908",
 "date_sdn": 2417963,
 "descr": "",
-"gid": "E2400",
+"gid": "E2380",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19855,7 +19855,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E2397",
+"gid": "E2377",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19874,7 +19874,7 @@ I_events_0 = [
 "date": "April 1973",
 "date_sdn": 2441774,
 "descr": "",
-"gid": "E2409",
+"gid": "E2389",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19891,7 +19891,7 @@ I_events_0 = [
 "date": "5 February 1877",
 "date_sdn": 2406656,
 "descr": "",
-"gid": "E1746",
+"gid": "E1729",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19906,7 +19906,7 @@ I_events_0 = [
 "date": "1965",
 "date_sdn": 2438762,
 "descr": "",
-"gid": "E1747",
+"gid": "E1730",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19923,7 +19923,7 @@ I_events_0 = [
 "date": "25 December 1909",
 "date_sdn": 2418666,
 "descr": "",
-"gid": "E2401",
+"gid": "E2381",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19938,7 +19938,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E2397",
+"gid": "E2377",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19956,10 +19956,10 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "October 1902",
-"date_sdn": 2416024,
+"date": "17 May 1907",
+"date_sdn": 2417713,
 "descr": "",
-"gid": "E2398",
+"gid": "E2378",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19974,7 +19974,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E2397",
+"gid": "E2377",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -19995,7 +19995,7 @@ I_events_0 = [
 "date": "January 1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E2396",
+"gid": "E2376",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20010,7 +20010,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E2397",
+"gid": "E2377",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20031,7 +20031,7 @@ I_events_0 = [
 "date": "1832",
 "date_sdn": 2390184,
 "descr": "",
-"gid": "E2096",
+"gid": "E2079",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20046,7 +20046,7 @@ I_events_0 = [
 "date": "October 1905",
 "date_sdn": 2417120,
 "descr": "",
-"gid": "E2097",
+"gid": "E2080",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20063,7 +20063,7 @@ I_events_0 = [
 "date": "between 1466 and 1534",
 "date_sdn": 2256506,
 "descr": "",
-"gid": "E1733",
+"gid": "E1716",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20078,7 +20078,7 @@ I_events_0 = [
 "date": "1550",
 "date_sdn": 2287186,
 "descr": "",
-"gid": "E1734",
+"gid": "E1717",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20095,7 +20095,7 @@ I_events_0 = [
 "date": "1617",
 "date_sdn": 2311658,
 "descr": "",
-"gid": "E1732",
+"gid": "E1715",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20112,13 +20112,13 @@ I_events_0 = [
 "date": "1723",
 "date_sdn": 2350373,
 "descr": "",
-"gid": "E0515",
+"gid": "E0507",
 "media": [],
 "part_family": [],
 "part_person": [
 871
 ],
-"place": 623,
+"place": 622,
 "text": "",
 "type": "Birth"
 }
@@ -20129,7 +20129,7 @@ I_events_0 = [
 "date": "11 March 1882",
 "date_sdn": 2408516,
 "descr": "",
-"gid": "E1181",
+"gid": "E1165",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20144,7 +20144,7 @@ I_events_0 = [
 "date": "21 July 1954",
 "date_sdn": 2434945,
 "descr": "",
-"gid": "E1182",
+"gid": "E1166",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20161,7 +20161,7 @@ I_events_0 = [
 "date": "about 1846",
 "date_sdn": 2395298,
 "descr": "",
-"gid": "E1749",
+"gid": "E1732",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20178,13 +20178,13 @@ I_events_0 = [
 "date": "about 1845",
 "date_sdn": 2394933,
 "descr": "",
-"gid": "E2874",
+"gid": "E2846",
 "media": [],
 "part_family": [],
 "part_person": [
 874
 ],
-"place": 576,
+"place": 575,
 "text": "",
 "type": "Birth"
 }
@@ -20195,13 +20195,13 @@ I_events_0 = [
 "date": "3 June 1923",
 "date_sdn": 2423574,
 "descr": "",
-"gid": "E2798",
+"gid": "E2772",
 "media": [],
 "part_family": [],
 "part_person": [
 875
 ],
-"place": 648,
+"place": 647,
 "text": "",
 "type": "Birth"
 },
@@ -20210,7 +20210,7 @@ I_events_0 = [
 "date": "14 March 2009",
 "date_sdn": 2454905,
 "descr": "",
-"gid": "E2799",
+"gid": "E2773",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20230,7 +20230,7 @@ I_events_0 = [
 "date": "12 January 1890",
 "date_sdn": 2411380,
 "descr": "",
-"gid": "E2834",
+"gid": "E2807",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20251,7 +20251,7 @@ I_events_0 = [
 "date": "17 June 1812",
 "date_sdn": 2383047,
 "descr": "",
-"gid": "E1111",
+"gid": "E1095",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20266,13 +20266,13 @@ I_events_0 = [
 "date": "October 1880",
 "date_sdn": 2407990,
 "descr": "",
-"gid": "E1112",
+"gid": "E1096",
 "media": [],
 "part_family": [],
 "part_person": [
 884
 ],
-"place": 600,
+"place": 599,
 "text": "",
 "type": "Death"
 }
@@ -20283,7 +20283,7 @@ I_events_0 = [
 "date": "about 1806",
 "date_sdn": 2380688,
 "descr": "",
-"gid": "E0518",
+"gid": "E0510",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20298,13 +20298,13 @@ I_events_0 = [
 "date": "about 1875",
 "date_sdn": 2405890,
 "descr": "",
-"gid": "E0519",
+"gid": "E0511",
 "media": [],
 "part_family": [],
 "part_person": [
 885
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Death"
 }
@@ -20315,7 +20315,7 @@ I_events_0 = [
 "date": "1813",
 "date_sdn": 2383245,
 "descr": "",
-"gid": "E1113",
+"gid": "E1097",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20332,13 +20332,13 @@ I_events_0 = [
 "date": "1780",
 "date_sdn": 2371192,
 "descr": "",
-"gid": "E1105",
+"gid": "E1089",
 "media": [],
 "part_family": [],
 "part_person": [
 887
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Birth"
 }
@@ -20349,7 +20349,7 @@ I_events_0 = [
 "date": "4 November 1809",
 "date_sdn": 2382091,
 "descr": "",
-"gid": "E1109",
+"gid": "E1093",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20364,7 +20364,7 @@ I_events_0 = [
 "date": "about 1813",
 "date_sdn": 2383245,
 "descr": "",
-"gid": "E1110",
+"gid": "E1094",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20381,7 +20381,7 @@ I_events_0 = [
 "date": "30 August 1807",
 "date_sdn": 2381294,
 "descr": "",
-"gid": "E1108",
+"gid": "E1092",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20398,7 +20398,7 @@ I_events_0 = [
 "date": "4 March 1764",
 "date_sdn": 2365411,
 "descr": "",
-"gid": "E0520",
+"gid": "E0512",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20415,7 +20415,7 @@ I_events_0 = [
 "date": "January 1727",
 "date_sdn": 2351834,
 "descr": "",
-"gid": "E0521",
+"gid": "E0513",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20434,7 +20434,7 @@ I_events_0 = [
 "date": "1965",
 "date_sdn": 2438762,
 "descr": "",
-"gid": "E1000",
+"gid": "E0984",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20449,7 +20449,7 @@ I_events_0 = [
 "date": "6 February 2013",
 "date_sdn": 2456330,
 "descr": "",
-"gid": "E1001",
+"gid": "E0985",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20466,7 +20466,7 @@ I_events_0 = [
 "date": "2 May 1900",
 "date_sdn": 2415142,
 "descr": "",
-"gid": "E1028",
+"gid": "E1012",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20481,7 +20481,7 @@ I_events_0 = [
 "date": "November 1999",
 "date_sdn": 2451484,
 "descr": "",
-"gid": "E1029",
+"gid": "E1013",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20498,7 +20498,7 @@ I_events_0 = [
 "date": "7 May 1909",
 "date_sdn": 2418434,
 "descr": "",
-"gid": "E2599",
+"gid": "E2577",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20515,7 +20515,7 @@ I_events_0 = [
 "date": "18 March 1898",
 "date_sdn": 2414367,
 "descr": "",
-"gid": "E1969",
+"gid": "E1952",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20530,7 +20530,7 @@ I_events_0 = [
 "date": "before 1970",
 "date_sdn": 2440588,
 "descr": "",
-"gid": "E1970",
+"gid": "E1953",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20548,7 +20548,7 @@ I_events_0 = [
 "date": "1650",
 "date_sdn": 2323711,
 "descr": "",
-"gid": "E0522",
+"gid": "E0514",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20563,7 +20563,7 @@ I_events_0 = [
 "date": "about 1687",
 "date_sdn": 2337225,
 "descr": "",
-"gid": "E0523",
+"gid": "E0515",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20580,7 +20580,7 @@ I_events_0 = [
 "date": "1641",
 "date_sdn": 2320424,
 "descr": "",
-"gid": "E1359",
+"gid": "E1343",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20595,7 +20595,7 @@ I_events_0 = [
 "date": "about 1681",
 "date_sdn": 2335034,
 "descr": "",
-"gid": "E1360",
+"gid": "E1344",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20612,7 +20612,7 @@ I_events_0 = [
 "date": "April 1663",
 "date_sdn": 2328549,
 "descr": "",
-"gid": "E1349",
+"gid": "E1333",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20627,7 +20627,7 @@ I_events_0 = [
 "date": "1755",
 "date_sdn": 2362061,
 "descr": "",
-"gid": "E1350",
+"gid": "E1334",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20644,7 +20644,7 @@ I_events_0 = [
 "date": "1873",
 "date_sdn": 2405160,
 "descr": "",
-"gid": "E1198",
+"gid": "E1182",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20659,13 +20659,13 @@ I_events_0 = [
 "date": "1966",
 "date_sdn": 2439127,
 "descr": "",
-"gid": "E1199",
+"gid": "E1183",
 "media": [],
 "part_family": [],
 "part_person": [
 902
 ],
-"place": 647,
+"place": 646,
 "text": "",
 "type": "Death"
 }
@@ -20686,7 +20686,7 @@ I_events_0 = [
 "date": "5 January 2015",
 "date_sdn": 2457028,
 "descr": "",
-"gid": "E1168",
+"gid": "E1152",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20703,13 +20703,13 @@ I_events_0 = [
 "date": "about 1886",
 "date_sdn": 2409908,
 "descr": "",
-"gid": "E1303",
+"gid": "E1287",
 "media": [],
 "part_family": [],
 "part_person": [
 914
 ],
-"place": 638,
+"place": 637,
 "text": "",
 "type": "Birth"
 },
@@ -20718,13 +20718,13 @@ I_events_0 = [
 "date": "March 1965",
 "date_sdn": 2438821,
 "descr": "",
-"gid": "E1304",
+"gid": "E1288",
 "media": [],
 "part_family": [],
 "part_person": [
 914
 ],
-"place": 638,
+"place": 637,
 "text": "",
 "type": "Death"
 }
@@ -20735,7 +20735,7 @@ I_events_0 = [
 "date": "calculated between 1796 and 1825",
 "date_sdn": 2377036,
 "descr": "",
-"gid": "E2496",
+"gid": "E2475",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20750,7 +20750,7 @@ I_events_0 = [
 "date": "calculated between 1841 and 1925",
 "date_sdn": 2393472,
 "descr": "",
-"gid": "E2497",
+"gid": "E2476",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20768,7 +20768,7 @@ I_events_0 = [
 "date": "between 1869 and 1898",
 "date_sdn": 2403699,
 "descr": "",
-"gid": "E2105",
+"gid": "E2088",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20783,7 +20783,7 @@ I_events_0 = [
 "date": "between 1914 and 1998",
 "date_sdn": 2420134,
 "descr": "",
-"gid": "E2106",
+"gid": "E2089",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20800,7 +20800,7 @@ I_events_0 = [
 "date": "1880",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E1509",
+"gid": "E1493",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20815,7 +20815,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E1510",
+"gid": "E1494",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20832,7 +20832,7 @@ I_events_0 = [
 "date": "1816",
 "date_sdn": 2384340,
 "descr": "",
-"gid": "E0528",
+"gid": "E0520",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20847,7 +20847,7 @@ I_events_0 = [
 "date": "April 1889",
 "date_sdn": 2411094,
 "descr": "",
-"gid": "E0529",
+"gid": "E0521",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20864,13 +20864,13 @@ I_events_0 = [
 "date": "July 1872",
 "date_sdn": 2404976,
 "descr": "",
-"gid": "E1507",
+"gid": "E1491",
 "media": [],
 "part_family": [],
 "part_person": [
 920
 ],
-"place": 584,
+"place": 583,
 "text": "",
 "type": "Birth"
 },
@@ -20879,7 +20879,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E1508",
+"gid": "E1492",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20894,7 +20894,7 @@ I_events_0 = [
 "date": "January 1938",
 "date_sdn": 2428900,
 "descr": "",
-"gid": "E2790",
+"gid": "E2764",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20911,7 +20911,7 @@ I_events_0 = [
 "date": "29 September 1878",
 "date_sdn": 2407257,
 "descr": "",
-"gid": "E0534",
+"gid": "E0526",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20926,13 +20926,13 @@ I_events_0 = [
 "date": "3 January 1910",
 "date_sdn": 2418675,
 "descr": "",
-"gid": "E0535",
+"gid": "E0527",
 "media": [],
 "part_family": [],
 "part_person": [
 921
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Death"
 },
@@ -20941,7 +20941,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0536",
+"gid": "E0528",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20956,7 +20956,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E0537",
+"gid": "E0529",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20973,7 +20973,7 @@ I_events_0 = [
 "date": "July 1882",
 "date_sdn": 2408628,
 "descr": "",
-"gid": "E1512",
+"gid": "E1496",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -20990,7 +20990,7 @@ I_events_0 = [
 "date": "19 December 1848",
 "date_sdn": 2396381,
 "descr": "",
-"gid": "E0530",
+"gid": "E0522",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21005,7 +21005,7 @@ I_events_0 = [
 "date": "about 1908",
 "date_sdn": 2417942,
 "descr": "",
-"gid": "E0531",
+"gid": "E0523",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21022,13 +21022,13 @@ I_events_0 = [
 "date": "October 1891",
 "date_sdn": 2412007,
 "descr": "",
-"gid": "E1511",
+"gid": "E1495",
 "media": [],
 "part_family": [],
 "part_person": [
 924
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 }
@@ -21039,7 +21039,7 @@ I_events_0 = [
 "date": "January 1906",
 "date_sdn": 2417212,
 "descr": "",
-"gid": "E2341",
+"gid": "E2323",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21054,7 +21054,7 @@ I_events_0 = [
 "date": "26 November 1977",
 "date_sdn": 2443474,
 "descr": "",
-"gid": "E2794",
+"gid": "E2768",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21071,7 +21071,7 @@ I_events_0 = [
 "date": "8 May 1895",
 "date_sdn": 2413322,
 "descr": "",
-"gid": "E2338",
+"gid": "E2320",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21086,7 +21086,7 @@ I_events_0 = [
 "date": "30 January 1958",
 "date_sdn": 2436234,
 "descr": "",
-"gid": "E2795",
+"gid": "E2769",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21103,7 +21103,7 @@ I_events_0 = [
 "date": "July 1884",
 "date_sdn": 2409359,
 "descr": "",
-"gid": "E1513",
+"gid": "E1497",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21118,13 +21118,13 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E1514",
+"gid": "E1498",
 "media": [],
 "part_family": [],
 "part_person": [
 927
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Residence"
 },
@@ -21133,7 +21133,7 @@ I_events_0 = [
 "date": "1907",
 "date_sdn": 2417577,
 "descr": "",
-"gid": "E1515",
+"gid": "E1499",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21150,7 +21150,7 @@ I_events_0 = [
 "date": "17 May 1902",
 "date_sdn": 2415887,
 "descr": "",
-"gid": "E2340",
+"gid": "E2322",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21165,13 +21165,13 @@ I_events_0 = [
 "date": "18 January 1988",
 "date_sdn": 2447179,
 "descr": "",
-"gid": "E2789",
+"gid": "E2763",
 "media": [],
 "part_family": [],
 "part_person": [
 928
 ],
-"place": 595,
+"place": 594,
 "text": "",
 "type": "Death"
 }
@@ -21182,7 +21182,7 @@ I_events_0 = [
 "date": "6 January 1900",
 "date_sdn": 2415026,
 "descr": "",
-"gid": "E2339",
+"gid": "E2321",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21197,7 +21197,7 @@ I_events_0 = [
 "date": "July 1993",
 "date_sdn": 2449170,
 "descr": "",
-"gid": "E2788",
+"gid": "E2762",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21214,7 +21214,7 @@ I_events_0 = [
 "date": "April 1874",
 "date_sdn": 2405615,
 "descr": "",
-"gid": "E0532",
+"gid": "E0524",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21229,7 +21229,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E0533",
+"gid": "E0525",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21246,7 +21246,7 @@ I_events_0 = [
 "date": "about 1743",
 "date_sdn": 2357678,
 "descr": "",
-"gid": "E0538",
+"gid": "E0530",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21261,7 +21261,7 @@ I_events_0 = [
 "date": "about 1808",
 "date_sdn": 2381418,
 "descr": "",
-"gid": "E0539",
+"gid": "E0531",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21279,7 +21279,7 @@ I_events_0 = [
 "date": "1700",
 "date_sdn": 2341973,
 "descr": "",
-"gid": "E0540",
+"gid": "E0532",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21294,7 +21294,7 @@ I_events_0 = [
 "date": "February 1787",
 "date_sdn": 2373780,
 "descr": "",
-"gid": "E0541",
+"gid": "E0533",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21311,7 +21311,7 @@ I_events_0 = [
 "date": "1823",
 "date_sdn": 2386897,
 "descr": "",
-"gid": "E1229",
+"gid": "E1213",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21328,7 +21328,7 @@ I_events_0 = [
 "date": "18 January 1892",
 "date_sdn": 2412116,
 "descr": "",
-"gid": "E2438",
+"gid": "E2418",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21346,7 +21346,7 @@ I_events_0 = [
 "date": "calculated between 1766 and 1795",
 "date_sdn": 2366079,
 "descr": "",
-"gid": "E2464",
+"gid": "E2444",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21361,7 +21361,7 @@ I_events_0 = [
 "date": "calculated between 1811 and 1895",
 "date_sdn": 2382514,
 "descr": "",
-"gid": "E2465",
+"gid": "E2445",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21378,7 +21378,7 @@ I_events_0 = [
 "date": "2 July 1903",
 "date_sdn": 2416298,
 "descr": "",
-"gid": "E2762",
+"gid": "E2737",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21393,7 +21393,7 @@ I_events_0 = [
 "date": "14 October 1989",
 "date_sdn": 2447814,
 "descr": "",
-"gid": "E2763",
+"gid": "E2738",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21410,7 +21410,7 @@ I_events_0 = [
 "date": "1767",
 "date_sdn": 2366444,
 "descr": "",
-"gid": "E0542",
+"gid": "E0534",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21427,7 +21427,7 @@ I_events_0 = [
 "date": "between 1572 and 1609",
 "date_sdn": 2295221,
 "descr": "",
-"gid": "E1372",
+"gid": "E1356",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21442,7 +21442,7 @@ I_events_0 = [
 "date": "between 1572 and 1709",
 "date_sdn": 2295221,
 "descr": "",
-"gid": "E1373",
+"gid": "E1357",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21459,7 +21459,7 @@ I_events_0 = [
 "date": "1747",
 "date_sdn": 2359139,
 "descr": "",
-"gid": "E0543",
+"gid": "E0535",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21474,7 +21474,7 @@ I_events_0 = [
 "date": "about 1805",
 "date_sdn": 2380323,
 "descr": "",
-"gid": "E0544",
+"gid": "E0536",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21491,7 +21491,7 @@ I_events_0 = [
 "date": "1786",
 "date_sdn": 2373384,
 "descr": "",
-"gid": "E0545",
+"gid": "E0537",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21506,13 +21506,13 @@ I_events_0 = [
 "date": "April 1858",
 "date_sdn": 2399771,
 "descr": "",
-"gid": "E0546",
+"gid": "E0538",
 "media": [],
 "part_family": [],
 "part_person": [
 942
 ],
-"place": 631,
+"place": 630,
 "text": "",
 "type": "Death"
 }
@@ -21523,7 +21523,7 @@ I_events_0 = [
 "date": "1555",
 "date_sdn": 2289012,
 "descr": "",
-"gid": "E1368",
+"gid": "E1352",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21538,7 +21538,7 @@ I_events_0 = [
 "date": "1562",
 "date_sdn": 2291569,
 "descr": "",
-"gid": "E1369",
+"gid": "E1353",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21555,7 +21555,7 @@ I_events_0 = [
 "date": "about 1530",
 "date_sdn": 2279881,
 "descr": "",
-"gid": "E1374",
+"gid": "E1358",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21572,7 +21572,7 @@ I_events_0 = [
 "date": "1601",
 "date_sdn": 2305814,
 "descr": "",
-"gid": "E1361",
+"gid": "E1345",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21587,7 +21587,7 @@ I_events_0 = [
 "date": "1682",
 "date_sdn": 2335399,
 "descr": "",
-"gid": "E1362",
+"gid": "E1346",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21604,7 +21604,7 @@ I_events_0 = [
 "date": "about 1580",
 "date_sdn": 2298143,
 "descr": "",
-"gid": "E1365",
+"gid": "E1349",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21619,7 +21619,7 @@ I_events_0 = [
 "date": "18 April 1615",
 "date_sdn": 2311034,
 "descr": "",
-"gid": "E1366",
+"gid": "E1350",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21636,7 +21636,7 @@ I_events_0 = [
 "date": "1712",
 "date_sdn": 2346355,
 "descr": "",
-"gid": "E0547",
+"gid": "E0539",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21651,7 +21651,7 @@ I_events_0 = [
 "date": "about 1781",
 "date_sdn": 2371558,
 "descr": "",
-"gid": "E0548",
+"gid": "E0540",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21668,7 +21668,7 @@ I_events_0 = [
 "date": "1 January 1728",
 "date_sdn": 2352199,
 "descr": "",
-"gid": "E2540",
+"gid": "E2519",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21683,7 +21683,7 @@ I_events_0 = [
 "date": "1 January 1775",
 "date_sdn": 2369366,
 "descr": "",
-"gid": "E2541",
+"gid": "E2520",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21701,7 +21701,7 @@ I_events_0 = [
 "date": "2 February 1712 (Julian)",
 "date_sdn": 2346398,
 "descr": "",
-"gid": "E0549",
+"gid": "E0541",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21716,7 +21716,7 @@ I_events_0 = [
 "date": "28 April 1743",
 "date_sdn": 2357795,
 "descr": "",
-"gid": "E0550",
+"gid": "E0542",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21733,7 +21733,7 @@ I_events_0 = [
 "date": "1774",
 "date_sdn": 2369001,
 "descr": "",
-"gid": "E0551",
+"gid": "E0543",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21748,7 +21748,7 @@ I_events_0 = [
 "date": "1852",
 "date_sdn": 2397489,
 "descr": "",
-"gid": "E0552",
+"gid": "E0544",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21763,7 +21763,7 @@ I_events_0 = [
 "date": "21 February 1773",
 "date_sdn": 2368687,
 "descr": "",
-"gid": "E2559",
+"gid": "E2538",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21780,7 +21780,7 @@ I_events_0 = [
 "date": "1866",
 "date_sdn": 2402603,
 "descr": "",
-"gid": "E2956",
+"gid": "E2927",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21799,7 +21799,7 @@ I_events_0 = [
 "date": "1904",
 "date_sdn": 2416481,
 "descr": "",
-"gid": "E2793",
+"gid": "E2767",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21816,13 +21816,13 @@ I_events_0 = [
 "date": "15 November 1909",
 "date_sdn": 2418626,
 "descr": "",
-"gid": "E1571",
+"gid": "E1554",
 "media": [],
 "part_family": [],
 "part_person": [
 956
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 }
@@ -21833,7 +21833,7 @@ I_events_0 = [
 "date": "about 1550",
 "date_sdn": 2287186,
 "descr": "",
-"gid": "E1661",
+"gid": "E1644",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21851,7 +21851,7 @@ I_events_0 = [
 "date": "1530",
 "date_sdn": 2279881,
 "descr": "",
-"gid": "E1665",
+"gid": "E1648",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21868,7 +21868,7 @@ I_events_0 = [
 "date": "October 1891",
 "date_sdn": 2412007,
 "descr": "",
-"gid": "E1580",
+"gid": "E1563",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21883,7 +21883,7 @@ I_events_0 = [
 "date": "1976",
 "date_sdn": 2442779,
 "descr": "",
-"gid": "E1581",
+"gid": "E1564",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21900,7 +21900,7 @@ I_events_0 = [
 "date": "about 1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E0553",
+"gid": "E0545",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21915,7 +21915,7 @@ I_events_0 = [
 "date": "September 1925",
 "date_sdn": 2424395,
 "descr": "",
-"gid": "E0554",
+"gid": "E0546",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21932,7 +21932,7 @@ I_events_0 = [
 "date": "29 July 1906",
 "date_sdn": 2417421,
 "descr": "",
-"gid": "E1927",
+"gid": "E1910",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21947,13 +21947,13 @@ I_events_0 = [
 "date": "April 1907",
 "date_sdn": 2417667,
 "descr": "",
-"gid": "E1928",
+"gid": "E1911",
 "media": [],
 "part_family": [],
 "part_person": [
 962
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Death"
 }
@@ -21964,7 +21964,7 @@ I_events_0 = [
 "date": "March 1877",
 "date_sdn": 2406680,
 "descr": "",
-"gid": "E0555",
+"gid": "E0547",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21979,7 +21979,7 @@ I_events_0 = [
 "date": "5 December 1945",
 "date_sdn": 2431795,
 "descr": "",
-"gid": "E0556",
+"gid": "E0548",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -21994,13 +21994,13 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0557",
+"gid": "E0549",
 "media": [],
 "part_family": [],
 "part_person": [
 963
 ],
-"place": 620,
+"place": 619,
 "text": "",
 "type": "Burial"
 }
@@ -22011,7 +22011,7 @@ I_events_0 = [
 "date": "October 1859",
 "date_sdn": 2400319,
 "descr": "",
-"gid": "E1155",
+"gid": "E1139",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22026,7 +22026,7 @@ I_events_0 = [
 "date": "1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E1156",
+"gid": "E1140",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22043,13 +22043,13 @@ I_events_0 = [
 "date": "5 July 1923",
 "date_sdn": 2423606,
 "descr": "",
-"gid": "E1935",
+"gid": "E1918",
 "media": [],
 "part_family": [],
 "part_person": [
 965
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -22058,7 +22058,7 @@ I_events_0 = [
 "date": "February 1998",
 "date_sdn": 2450846,
 "descr": "",
-"gid": "E1936",
+"gid": "E1919",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22075,7 +22075,7 @@ I_events_0 = [
 "date": "9 November 1857",
 "date_sdn": 2399628,
 "descr": "",
-"gid": "E1133",
+"gid": "E1117",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22090,7 +22090,7 @@ I_events_0 = [
 "date": "15 May 1898",
 "date_sdn": 2414425,
 "descr": "",
-"gid": "E1134",
+"gid": "E1118",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22107,7 +22107,7 @@ I_events_0 = [
 "date": "8 November 1878",
 "date_sdn": 2407297,
 "descr": "",
-"gid": "E0558",
+"gid": "E0550",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22122,7 +22122,7 @@ I_events_0 = [
 "date": "7 July 1935",
 "date_sdn": 2427991,
 "descr": "",
-"gid": "E0559",
+"gid": "E0551",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22139,13 +22139,13 @@ I_events_0 = [
 "date": "4 April 1910",
 "date_sdn": 2418766,
 "descr": "",
-"gid": "E1931",
+"gid": "E1914",
 "media": [],
 "part_family": [],
 "part_person": [
 968
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -22154,7 +22154,7 @@ I_events_0 = [
 "date": "March 1988",
 "date_sdn": 2447222,
 "descr": "",
-"gid": "E1932",
+"gid": "E1915",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22171,7 +22171,7 @@ I_events_0 = [
 "date": "10 March 1851",
 "date_sdn": 2397192,
 "descr": "",
-"gid": "E0560",
+"gid": "E0552",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22186,7 +22186,7 @@ I_events_0 = [
 "date": "October 1892",
 "date_sdn": 2412373,
 "descr": "",
-"gid": "E0561",
+"gid": "E0553",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22201,7 +22201,7 @@ I_events_0 = [
 "date": "18 April 1875",
 "date_sdn": 2405997,
 "descr": "",
-"gid": "E0562",
+"gid": "E0554",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22216,13 +22216,13 @@ I_events_0 = [
 "date": "20 April 1851",
 "date_sdn": 2397233,
 "descr": "",
-"gid": "E0563",
+"gid": "E0555",
 "media": [],
 "part_family": [],
 "part_person": [
 969
 ],
-"place": 574,
+"place": 573,
 "text": "",
 "type": "Christening"
 },
@@ -22231,7 +22231,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E0564",
+"gid": "E0556",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22246,7 +22246,7 @@ I_events_0 = [
 "date": "1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E0565",
+"gid": "E0557",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22263,13 +22263,13 @@ I_events_0 = [
 "date": "29 May 1925",
 "date_sdn": 2424300,
 "descr": "",
-"gid": "E1937",
+"gid": "E1920",
 "media": [],
 "part_family": [],
 "part_person": [
 970
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -22278,7 +22278,7 @@ I_events_0 = [
 "date": "September 2003",
 "date_sdn": 2452884,
 "descr": "",
-"gid": "E1938",
+"gid": "E1921",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22295,7 +22295,7 @@ I_events_0 = [
 "date": "11 December 1855",
 "date_sdn": 2398929,
 "descr": "",
-"gid": "E1129",
+"gid": "E1113",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22310,7 +22310,7 @@ I_events_0 = [
 "date": "12 January 1918",
 "date_sdn": 2421606,
 "descr": "",
-"gid": "E1130",
+"gid": "E1114",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22327,7 +22327,7 @@ I_events_0 = [
 "date": "23 April 1883",
 "date_sdn": 2408924,
 "descr": "",
-"gid": "E0566",
+"gid": "E0558",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22344,7 +22344,7 @@ I_events_0 = [
 "date": "31 December 1853",
 "date_sdn": 2398219,
 "descr": "",
-"gid": "E1125",
+"gid": "E1109",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22359,7 +22359,7 @@ I_events_0 = [
 "date": "23 May 1922",
 "date_sdn": 2423198,
 "descr": "",
-"gid": "E1126",
+"gid": "E1110",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22376,13 +22376,13 @@ I_events_0 = [
 "date": "5 February 1913",
 "date_sdn": 2419804,
 "descr": "",
-"gid": "E1933",
+"gid": "E1916",
 "media": [],
 "part_family": [],
 "part_person": [
 974
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -22391,7 +22391,7 @@ I_events_0 = [
 "date": "March 1981",
 "date_sdn": 2444665,
 "descr": "",
-"gid": "E1934",
+"gid": "E1917",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22408,13 +22408,13 @@ I_events_0 = [
 "date": "7 January 1908",
 "date_sdn": 2417948,
 "descr": "",
-"gid": "E1929",
+"gid": "E1912",
 "media": [],
 "part_family": [],
 "part_person": [
 975
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -22423,7 +22423,7 @@ I_events_0 = [
 "date": "December 1979",
 "date_sdn": 2444209,
 "descr": "",
-"gid": "E1930",
+"gid": "E1913",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22440,7 +22440,7 @@ I_events_0 = [
 "date": "1826",
 "date_sdn": 2387993,
 "descr": "",
-"gid": "E1121",
+"gid": "E1105",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22455,7 +22455,7 @@ I_events_0 = [
 "date": "23 July 1892",
 "date_sdn": 2412303,
 "descr": "",
-"gid": "E1122",
+"gid": "E1106",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22472,7 +22472,7 @@ I_events_0 = [
 "date": "1894",
 "date_sdn": 2412830,
 "descr": "",
-"gid": "E2957",
+"gid": "E2928",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22489,7 +22489,7 @@ I_events_0 = [
 "date": "April 1866",
 "date_sdn": 2402693,
 "descr": "",
-"gid": "E2935",
+"gid": "E2906",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22506,7 +22506,7 @@ I_events_0 = [
 "date": "January 1859",
 "date_sdn": 2400046,
 "descr": "",
-"gid": "E2933",
+"gid": "E2904",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22523,7 +22523,7 @@ I_events_0 = [
 "date": "April 1870",
 "date_sdn": 2404154,
 "descr": "",
-"gid": "E2937",
+"gid": "E2908",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22540,7 +22540,7 @@ I_events_0 = [
 "date": "30 June 1870",
 "date_sdn": 2404244,
 "descr": "",
-"gid": "E2936",
+"gid": "E2907",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22555,13 +22555,13 @@ I_events_0 = [
 "date": "17 August 1959",
 "date_sdn": 2436798,
 "descr": "",
-"gid": "E2968",
+"gid": "E2939",
 "media": [],
 "part_family": [],
 "part_person": [
 981
 ],
-"place": 578,
+"place": 577,
 "text": "",
 "type": "Death"
 }
@@ -22572,7 +22572,7 @@ I_events_0 = [
 "date": "1895",
 "date_sdn": 2413195,
 "descr": "",
-"gid": "E2958",
+"gid": "E2929",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22589,7 +22589,7 @@ I_events_0 = [
 "date": "October 1872",
 "date_sdn": 2405068,
 "descr": "",
-"gid": "E2938",
+"gid": "E2909",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22606,7 +22606,7 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E2959",
+"gid": "E2930",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22623,7 +22623,7 @@ I_events_0 = [
 "date": "July 1855",
 "date_sdn": 2398766,
 "descr": "",
-"gid": "E2932",
+"gid": "E2903",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22640,7 +22640,7 @@ I_events_0 = [
 "date": "July 1861",
 "date_sdn": 2400958,
 "descr": "",
-"gid": "E2934",
+"gid": "E2905",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22657,7 +22657,7 @@ I_events_0 = [
 "date": "1822",
 "date_sdn": 2386532,
 "descr": "",
-"gid": "E2931",
+"gid": "E2902",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22674,7 +22674,7 @@ I_events_0 = [
 "date": "between 1770 and 1791",
 "date_sdn": 2367540,
 "descr": "",
-"gid": "E1866",
+"gid": "E1849",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22689,7 +22689,7 @@ I_events_0 = [
 "date": "between 1807 and 1891",
 "date_sdn": 2381053,
 "descr": "",
-"gid": "E1867",
+"gid": "E1850",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22706,7 +22706,7 @@ I_events_0 = [
 "date": "about 1807",
 "date_sdn": 2381053,
 "descr": "",
-"gid": "E0476",
+"gid": "E0468",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22721,7 +22721,7 @@ I_events_0 = [
 "date": "8 January 1852",
 "date_sdn": 2397496,
 "descr": "",
-"gid": "E0477",
+"gid": "E0469",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22738,7 +22738,7 @@ I_events_0 = [
 "date": "calculated between 1801 and 1830",
 "date_sdn": 2378862,
 "descr": "",
-"gid": "E2552",
+"gid": "E2531",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22753,7 +22753,7 @@ I_events_0 = [
 "date": "calculated between 1879 and 1930",
 "date_sdn": 2407351,
 "descr": "",
-"gid": "E2553",
+"gid": "E2532",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22771,7 +22771,7 @@ I_events_0 = [
 "date": "30 May 1927",
 "date_sdn": 2425031,
 "descr": "",
-"gid": "E2010",
+"gid": "E1993",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22786,7 +22786,7 @@ I_events_0 = [
 "date": "26 June 2002",
 "date_sdn": 2452452,
 "descr": "",
-"gid": "E2011",
+"gid": "E1994",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22803,7 +22803,7 @@ I_events_0 = [
 "date": "about 1686",
 "date_sdn": 2336860,
 "descr": "",
-"gid": "E1440",
+"gid": "E1424",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22818,7 +22818,7 @@ I_events_0 = [
 "date": "1738",
 "date_sdn": 2355852,
 "descr": "",
-"gid": "E1441",
+"gid": "E1425",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22836,7 +22836,7 @@ I_events_0 = [
 "date": "1517",
 "date_sdn": 2275133,
 "descr": "",
-"gid": "E1384",
+"gid": "E1368",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22851,7 +22851,7 @@ I_events_0 = [
 "date": "1560",
 "date_sdn": 2290838,
 "descr": "",
-"gid": "E1385",
+"gid": "E1369",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22868,7 +22868,7 @@ I_events_0 = [
 "date": "1844",
 "date_sdn": 2394567,
 "descr": "",
-"gid": "E1814",
+"gid": "E1797",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22883,7 +22883,7 @@ I_events_0 = [
 "date": "1904",
 "date_sdn": 2416481,
 "descr": "",
-"gid": "E1815",
+"gid": "E1798",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22900,7 +22900,7 @@ I_events_0 = [
 "date": "1500",
 "date_sdn": 2268924,
 "descr": "",
-"gid": "E1380",
+"gid": "E1364",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22915,7 +22915,7 @@ I_events_0 = [
 "date": "1599",
 "date_sdn": 2305083,
 "descr": "",
-"gid": "E1381",
+"gid": "E1365",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22933,7 +22933,7 @@ I_events_0 = [
 "date": "about 1822",
 "date_sdn": 2386532,
 "descr": "",
-"gid": "E0569",
+"gid": "E0561",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22948,7 +22948,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E0570",
+"gid": "E0562",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22963,13 +22963,13 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E0571",
+"gid": "E0563",
 "media": [],
 "part_family": [],
 "part_person": [
 999
 ],
-"place": 623,
+"place": 622,
 "text": "",
 "type": "Residence"
 }
@@ -22980,7 +22980,7 @@ I_events_0 = [
 "date": "about 1826",
 "date_sdn": 2387993,
 "descr": "",
-"gid": "E2564",
+"gid": "E2543",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -22997,7 +22997,7 @@ I_events_0 = [
 "date": "about 1837",
 "date_sdn": 2392011,
 "descr": "",
-"gid": "E2567",
+"gid": "E2546",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23014,7 +23014,7 @@ I_events_0 = [
 "date": "1839",
 "date_sdn": 2392741,
 "descr": "",
-"gid": "E2568",
+"gid": "E2547",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23031,7 +23031,7 @@ I_events_0 = [
 "date": "about 1833",
 "date_sdn": 2390550,
 "descr": "",
-"gid": "E2566",
+"gid": "E2545",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23045,31 +23045,14 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "about 1826",
-"date_sdn": 2387993,
+"date": "about 1790",
+"date_sdn": 2374845,
 "descr": "",
-"gid": "E2565",
+"gid": "E0560",
 "media": [],
 "part_family": [],
 "part_person": [
 1004
-],
-"place": 127,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "about 1790",
-"date_sdn": 2374845,
-"descr": "",
-"gid": "E0568",
-"media": [],
-"part_family": [],
-"part_person": [
-1005
 ],
 "place": 73,
 "text": "",
@@ -23080,11 +23063,11 @@ I_events_0 = [
 "date": "calculated between 1871 and 1904",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E2561",
+"gid": "E2540",
 "media": [],
 "part_family": [],
 "part_person": [
-1005
+1004
 ],
 "place": -1,
 "text": "",
@@ -23094,10 +23077,27 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "about 1826",
+"date_sdn": 2387993,
+"descr": "",
+"gid": "E2544",
+"media": [],
+"part_family": [],
+"part_person": [
+1005
+],
+"place": 127,
+"text": "",
+"type": "Birth"
+}
+],
+[
+{
+"cita": [],
 "date": "about 1720",
 "date_sdn": 2349277,
 "descr": "",
-"gid": "E0572",
+"gid": "E0564",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23116,13 +23116,13 @@ I_events_0 = [
 "date": "about 1540",
 "date_sdn": 2283533,
 "descr": "",
-"gid": "E1377",
+"gid": "E1361",
 "media": [],
 "part_family": [],
 "part_person": [
 1009
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Birth"
 },
@@ -23131,7 +23131,7 @@ I_events_0 = [
 "date": "between 1556 and 1640",
 "date_sdn": 2289377,
 "descr": "",
-"gid": "E1378",
+"gid": "E1362",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23148,7 +23148,7 @@ I_events_0 = [
 "date": "6 February 1791",
 "date_sdn": 2375246,
 "descr": "",
-"gid": "E1889",
+"gid": "E1872",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23163,7 +23163,7 @@ I_events_0 = [
 "date": "1832",
 "date_sdn": 2390184,
 "descr": "",
-"gid": "E1890",
+"gid": "E1873",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23180,7 +23180,7 @@ I_events_0 = [
 "date": "1766",
 "date_sdn": 2366079,
 "descr": "",
-"gid": "E1888",
+"gid": "E1871",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23197,7 +23197,7 @@ I_events_0 = [
 "date": "28 August 1764",
 "date_sdn": 2365588,
 "descr": "",
-"gid": "E1779",
+"gid": "E1762",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23216,13 +23216,13 @@ I_events_0 = [
 "date": "January 1876",
 "date_sdn": 2406255,
 "descr": "",
-"gid": "E2940",
+"gid": "E2911",
 "media": [],
 "part_family": [],
 "part_person": [
 1015
 ],
-"place": 576,
+"place": 575,
 "text": "",
 "type": "Birth"
 }
@@ -23233,7 +23233,7 @@ I_events_0 = [
 "date": "4 April 1761",
 "date_sdn": 2364346,
 "descr": "",
-"gid": "E1780",
+"gid": "E1763",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23248,7 +23248,7 @@ I_events_0 = [
 "date": "6 April 1761",
 "date_sdn": 2364348,
 "descr": "",
-"gid": "E1781",
+"gid": "E1764",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23265,7 +23265,7 @@ I_events_0 = [
 "date": "1878",
 "date_sdn": 2406986,
 "descr": "",
-"gid": "E2941",
+"gid": "E2912",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23282,7 +23282,7 @@ I_events_0 = [
 "date": "29 August 1756",
 "date_sdn": 2362667,
 "descr": "",
-"gid": "E1782",
+"gid": "E1765",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23299,7 +23299,7 @@ I_events_0 = [
 "date": "16 February 1771",
 "date_sdn": 2367951,
 "descr": "",
-"gid": "E1776",
+"gid": "E1759",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23314,7 +23314,7 @@ I_events_0 = [
 "date": "February 1847",
 "date_sdn": 2395694,
 "descr": "",
-"gid": "E1777",
+"gid": "E1760",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23331,7 +23331,7 @@ I_events_0 = [
 "date": "1732",
 "date_sdn": 2353660,
 "descr": "",
-"gid": "E1774",
+"gid": "E1757",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23348,7 +23348,7 @@ I_events_0 = [
 "date": "20 February 1754",
 "date_sdn": 2361746,
 "descr": "",
-"gid": "E1783",
+"gid": "E1766",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23365,7 +23365,7 @@ I_events_0 = [
 "date": "1710",
 "date_sdn": 2345625,
 "descr": "",
-"gid": "E1856",
+"gid": "E1839",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23380,7 +23380,7 @@ I_events_0 = [
 "date": "25 August 1795",
 "date_sdn": 2376907,
 "descr": "",
-"gid": "E1857",
+"gid": "E1840",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23397,7 +23397,7 @@ I_events_0 = [
 "date": "1670",
 "date_sdn": 2331016,
 "descr": "",
-"gid": "E1859",
+"gid": "E1842",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23414,13 +23414,13 @@ I_events_0 = [
 "date": "25 January 1774",
 "date_sdn": 2369025,
 "descr": "",
-"gid": "E1784",
+"gid": "E1767",
 "media": [],
 "part_family": [],
 "part_person": [
 1024
 ],
-"place": 588,
+"place": 587,
 "text": "",
 "type": "Birth"
 }
@@ -23431,7 +23431,7 @@ I_events_0 = [
 "date": "29 January 1769",
 "date_sdn": 2367203,
 "descr": "",
-"gid": "E1759",
+"gid": "E1742",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23446,7 +23446,7 @@ I_events_0 = [
 "date": "January 1842",
 "date_sdn": 2393837,
 "descr": "",
-"gid": "E1760",
+"gid": "E1743",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23463,7 +23463,7 @@ I_events_0 = [
 "date": "1 January 1767",
 "date_sdn": 2366444,
 "descr": "",
-"gid": "E1778",
+"gid": "E1761",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23480,7 +23480,7 @@ I_events_0 = [
 "date": "9 December 1850",
 "date_sdn": 2397101,
 "descr": "",
-"gid": "E0573",
+"gid": "E0565",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23497,7 +23497,7 @@ I_events_0 = [
 "date": "calculated between 1790 and 1834",
 "date_sdn": 2374845,
 "descr": "",
-"gid": "E2579",
+"gid": "E2558",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23512,7 +23512,7 @@ I_events_0 = [
 "date": "calculated between 1850 and 1934",
 "date_sdn": 2396759,
 "descr": "",
-"gid": "E2580",
+"gid": "E2559",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23530,7 +23530,7 @@ I_events_0 = [
 "date": "about 1875",
 "date_sdn": 2405890,
 "descr": "",
-"gid": "E1200",
+"gid": "E1184",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23545,7 +23545,7 @@ I_events_0 = [
 "date": "March 1937",
 "date_sdn": 2428594,
 "descr": "",
-"gid": "E1201",
+"gid": "E1185",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23563,7 +23563,7 @@ I_events_0 = [
 "date": "between 1743 and 1772",
 "date_sdn": 2357678,
 "descr": "",
-"gid": "E1870",
+"gid": "E1853",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23578,7 +23578,7 @@ I_events_0 = [
 "date": "between 1788 and 1872",
 "date_sdn": 2374114,
 "descr": "",
-"gid": "E1871",
+"gid": "E1854",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23595,7 +23595,7 @@ I_events_0 = [
 "date": "calculated between 1710 and 1739",
 "date_sdn": 2345625,
 "descr": "",
-"gid": "E1875",
+"gid": "E1858",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23610,7 +23610,7 @@ I_events_0 = [
 "date": "calculated between 1743 and 1839",
 "date_sdn": 2357678,
 "descr": "",
-"gid": "E1876",
+"gid": "E1859",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23628,7 +23628,7 @@ I_events_0 = [
 "date": "about 1584",
 "date_sdn": 2299604,
 "descr": "",
-"gid": "E1388",
+"gid": "E1372",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23643,7 +23643,7 @@ I_events_0 = [
 "date": "1627",
 "date_sdn": 2315310,
 "descr": "",
-"gid": "E1389",
+"gid": "E1373",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23660,7 +23660,7 @@ I_events_0 = [
 "date": "about 1720",
 "date_sdn": 2349277,
 "descr": "",
-"gid": "E0574",
+"gid": "E0566",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23678,14 +23678,14 @@ I_events_0 = [
 "date": "13 September 1879",
 "date_sdn": 2407606,
 "descr": "",
-"gid": "E1323",
+"gid": "E1307",
 "media": [],
 "part_family": [],
 "part_person": [
 1038
 ],
-"place": 630,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBorn in West Ham Union\n</p>\n</div>\n</div>",
+"place": 629,
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nBorn in West Ham Union\n</p>\n</div>\n</div>",
 "type": "Birth"
 }
 ],
@@ -23695,13 +23695,13 @@ I_events_0 = [
 "date": "1917",
 "date_sdn": 2421230,
 "descr": "",
-"gid": "E0014",
+"gid": "E0013",
 "media": [],
 "part_family": [],
 "part_person": [
 1039
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -23710,7 +23710,7 @@ I_events_0 = [
 "date": "15 November 2014",
 "date_sdn": 2456977,
 "descr": "",
-"gid": "E0015",
+"gid": "E0014",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23725,7 +23725,7 @@ I_events_0 = [
 "date": "1942",
 "date_sdn": 2430361,
 "descr": "",
-"gid": "E0016",
+"gid": "E0015",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23742,7 +23742,7 @@ I_events_0 = [
 "date": "12 April 1890",
 "date_sdn": 2411470,
 "descr": "",
-"gid": "E1945",
+"gid": "E1928",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23757,13 +23757,13 @@ I_events_0 = [
 "date": "30 June 1965",
 "date_sdn": 2438942,
 "descr": "",
-"gid": "E1946",
+"gid": "E1929",
 "media": [],
 "part_family": [],
 "part_person": [
 1040
 ],
-"place": 632,
+"place": 631,
 "text": "",
 "type": "Death"
 }
@@ -23775,7 +23775,7 @@ I_events_0 = [
 "date": "1585",
 "date_sdn": 2299970,
 "descr": "",
-"gid": "E1367",
+"gid": "E1351",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23792,7 +23792,7 @@ I_events_0 = [
 "date": "between 1907 and 1936",
 "date_sdn": 2417577,
 "descr": "",
-"gid": "E1997",
+"gid": "E1980",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23807,7 +23807,7 @@ I_events_0 = [
 "date": "after 1907",
 "date_sdn": 2417577,
 "descr": "",
-"gid": "E1998",
+"gid": "E1981",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23827,7 +23827,7 @@ I_events_0 = [
 "date": "about 1889",
 "date_sdn": 2411004,
 "descr": "",
-"gid": "E2823",
+"gid": "E2796",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23845,7 +23845,7 @@ I_events_0 = [
 "date": "September 1702",
 "date_sdn": 2342946,
 "descr": "",
-"gid": "E0575",
+"gid": "E0567",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23860,7 +23860,7 @@ I_events_0 = [
 "date": "12 August 1780",
 "date_sdn": 2371416,
 "descr": "",
-"gid": "E0576",
+"gid": "E0568",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23877,13 +23877,13 @@ I_events_0 = [
 "date": "1817",
 "date_sdn": 2384706,
 "descr": "",
-"gid": "E1279",
+"gid": "E1263",
 "media": [],
 "part_family": [],
 "part_person": [
 1050
 ],
-"place": 579,
+"place": 578,
 "text": "",
 "type": "Birth"
 },
@@ -23892,13 +23892,13 @@ I_events_0 = [
 "date": "1865",
 "date_sdn": 2402238,
 "descr": "",
-"gid": "E1280",
+"gid": "E1264",
 "media": [],
 "part_family": [],
 "part_person": [
 1050
 ],
-"place": 655,
+"place": 654,
 "text": "",
 "type": "Death"
 },
@@ -23907,7 +23907,7 @@ I_events_0 = [
 "date": "1841",
 "date_sdn": 2393472,
 "descr": "",
-"gid": "E1281",
+"gid": "E1265",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23925,7 +23925,7 @@ I_events_0 = [
 "date": "about 1800",
 "date_sdn": 2378497,
 "descr": "",
-"gid": "E0577",
+"gid": "E0569",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23942,7 +23942,7 @@ I_events_0 = [
 "date": "about 1583",
 "date_sdn": 2299239,
 "descr": "",
-"gid": "E1390",
+"gid": "E1374",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23957,7 +23957,7 @@ I_events_0 = [
 "date": "1623",
 "date_sdn": 2313849,
 "descr": "",
-"gid": "E1391",
+"gid": "E1375",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23974,7 +23974,7 @@ I_events_0 = [
 "date": "about 1604",
 "date_sdn": 2306909,
 "descr": "",
-"gid": "E1363",
+"gid": "E1347",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -23989,7 +23989,7 @@ I_events_0 = [
 "date": "1658",
 "date_sdn": 2326633,
 "descr": "",
-"gid": "E1364",
+"gid": "E1348",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24006,7 +24006,7 @@ I_events_0 = [
 "date": "7 March 1850",
 "date_sdn": 2396824,
 "descr": "",
-"gid": "E2662",
+"gid": "E2639",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24021,7 +24021,7 @@ I_events_0 = [
 "date": "18 March 1925",
 "date_sdn": 2424228,
 "descr": "",
-"gid": "E2663",
+"gid": "E2640",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24038,7 +24038,7 @@ I_events_0 = [
 "date": "18 October 1804",
 "date_sdn": 2380248,
 "descr": "",
-"gid": "E0578",
+"gid": "E0570",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24053,7 +24053,7 @@ I_events_0 = [
 "date": "28 November 1882",
 "date_sdn": 2408778,
 "descr": "",
-"gid": "E0579",
+"gid": "E0571",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24070,7 +24070,7 @@ I_events_0 = [
 "date": "7 May 1812",
 "date_sdn": 2383006,
 "descr": "",
-"gid": "E2673",
+"gid": "E2650",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24085,7 +24085,7 @@ I_events_0 = [
 "date": "18 June 1879",
 "date_sdn": 2407519,
 "descr": "",
-"gid": "E2675",
+"gid": "E2652",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24102,11 +24102,43 @@ I_events_0 = [
 "date": "1773",
 "date_sdn": 2368636,
 "descr": "",
-"gid": "E2648",
+"gid": "E0572",
 "media": [],
 "part_family": [],
 "part_person": [
 1058
+],
+"place": 474,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "29 April 1825",
+"date_sdn": 2387746,
+"descr": "",
+"gid": "E0573",
+"media": [],
+"part_family": [],
+"part_person": [
+1058
+],
+"place": 522,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "1773",
+"date_sdn": 2368636,
+"descr": "",
+"gid": "E2625",
+"media": [],
+"part_family": [],
+"part_person": [
+1059
 ],
 "place": -1,
 "text": "",
@@ -24117,11 +24149,11 @@ I_events_0 = [
 "date": "29 April 1825",
 "date_sdn": 2387746,
 "descr": "",
-"gid": "E2649",
+"gid": "E2626",
 "media": [],
 "part_family": [],
 "part_person": [
-1058
+1059
 ],
 "place": -1,
 "text": "",
@@ -24134,11 +24166,11 @@ I_events_0 = [
 "date": "31 January 1810",
 "date_sdn": 2382179,
 "descr": "",
-"gid": "E2656",
+"gid": "E2633",
 "media": [],
 "part_family": [],
 "part_person": [
-1059
+1060
 ],
 "place": 474,
 "text": "",
@@ -24149,11 +24181,11 @@ I_events_0 = [
 "date": "17 April 1845",
 "date_sdn": 2395039,
 "descr": "",
-"gid": "E2657",
+"gid": "E2634",
 "media": [],
 "part_family": [],
 "part_person": [
-1059
+1060
 ],
 "place": -1,
 "text": "",
@@ -24164,11 +24196,11 @@ I_events_0 = [
 "date": "4 March 1810",
 "date_sdn": 2382211,
 "descr": "",
-"gid": "E2669",
+"gid": "E2646",
 "media": [],
 "part_family": [],
 "part_person": [
-1059
+1060
 ],
 "place": 474,
 "text": "",
@@ -24178,42 +24210,10 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "1773",
-"date_sdn": 2368636,
-"descr": "",
-"gid": "E0580",
-"media": [],
-"part_family": [],
-"part_person": [
-1060
-],
-"place": 474,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "29 April 1825",
-"date_sdn": 2387746,
-"descr": "",
-"gid": "E0581",
-"media": [],
-"part_family": [],
-"part_person": [
-1060
-],
-"place": 522,
-"text": "",
-"type": "Death"
-}
-],
-[
-{
-"cita": [],
 "date": "16 October 1808",
 "date_sdn": 2381707,
 "descr": "",
-"gid": "E2678",
+"gid": "E2655",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24230,7 +24230,7 @@ I_events_0 = [
 "date": "1816",
 "date_sdn": 2384340,
 "descr": "",
-"gid": "E2660",
+"gid": "E2637",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24245,7 +24245,7 @@ I_events_0 = [
 "date": "1897",
 "date_sdn": 2413926,
 "descr": "",
-"gid": "E2661",
+"gid": "E2638",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24263,7 +24263,7 @@ I_events_0 = [
 "date": "1815",
 "date_sdn": 2383975,
 "descr": "",
-"gid": "E2654",
+"gid": "E2631",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24278,7 +24278,7 @@ I_events_0 = [
 "date": "8 July 1834",
 "date_sdn": 2391103,
 "descr": "",
-"gid": "E2655",
+"gid": "E2632",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24292,61 +24292,14 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "21 December 1805",
-"date_sdn": 2380677,
-"descr": "",
-"gid": "E2652",
-"media": [],
-"part_family": [],
-"part_person": [
-1065
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "10 July 1827",
-"date_sdn": 2388548,
-"descr": "",
-"gid": "E2653",
-"media": [],
-"part_family": [],
-"part_person": [
-1065
-],
-"place": -1,
-"text": "",
-"type": "Death"
-},
-{
-"cita": [],
-"date": "12 January 1806",
-"date_sdn": 2380699,
-"descr": "",
-"gid": "E2668",
-"media": [],
-"part_family": [],
-"part_person": [
-1065
-],
-"place": -1,
-"text": "",
-"type": "Baptism"
-}
-],
-[
-{
-"cita": [],
 "date": "20 January 1751",
 "date_sdn": 2360619,
 "descr": "",
-"gid": "E0582",
+"gid": "E0574",
 "media": [],
 "part_family": [],
 "part_person": [
-1066
+1065
 ],
 "place": 474,
 "text": "",
@@ -24357,11 +24310,11 @@ I_events_0 = [
 "date": "1813",
 "date_sdn": 2383245,
 "descr": "",
-"gid": "E0583",
+"gid": "E0575",
 "media": [],
 "part_family": [],
 "part_person": [
-1066
+1065
 ],
 "place": 474,
 "text": "",
@@ -24371,10 +24324,57 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "21 December 1805",
+"date_sdn": 2380677,
+"descr": "",
+"gid": "E2629",
+"media": [],
+"part_family": [],
+"part_person": [
+1066
+],
+"place": -1,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "10 July 1827",
+"date_sdn": 2388548,
+"descr": "",
+"gid": "E2630",
+"media": [],
+"part_family": [],
+"part_person": [
+1066
+],
+"place": -1,
+"text": "",
+"type": "Death"
+},
+{
+"cita": [],
+"date": "12 January 1806",
+"date_sdn": 2380699,
+"descr": "",
+"gid": "E2645",
+"media": [],
+"part_family": [],
+"part_person": [
+1066
+],
+"place": -1,
+"text": "",
+"type": "Baptism"
+}
+],
+[
+{
+"cita": [],
 "date": "about 1730",
 "date_sdn": 2352930,
 "descr": "",
-"gid": "E0584",
+"gid": "E0576",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24391,7 +24391,7 @@ I_events_0 = [
 "date": "29 June 1910",
 "date_sdn": 2418852,
 "descr": "",
-"gid": "E2450",
+"gid": "E2430",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24408,7 +24408,7 @@ I_events_0 = [
 "date": "January 1876",
 "date_sdn": 2406255,
 "descr": "",
-"gid": "E2449",
+"gid": "E2429",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24426,7 +24426,7 @@ I_events_0 = [
 "date": "July 1841",
 "date_sdn": 2393653,
 "descr": "",
-"gid": "E0290",
+"gid": "E0287",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24441,7 +24441,7 @@ I_events_0 = [
 "date": "after 1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E0291",
+"gid": "E0288",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24458,7 +24458,7 @@ I_events_0 = [
 "date": "calculated between 1841 and 1859",
 "date_sdn": 2393472,
 "descr": "",
-"gid": "E0585",
+"gid": "E0577",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24473,7 +24473,7 @@ I_events_0 = [
 "date": "calculated between 1781 and 1825",
 "date_sdn": 2371558,
 "descr": "",
-"gid": "E2495",
+"gid": "E2474",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24491,7 +24491,7 @@ I_events_0 = [
 "date": "about 1877",
 "date_sdn": 2406621,
 "descr": "",
-"gid": "E2221",
+"gid": "E2204",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24506,7 +24506,7 @@ I_events_0 = [
 "date": "between 1860 and 1989",
 "date_sdn": 2400411,
 "descr": "",
-"gid": "E2222",
+"gid": "E2205",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24523,7 +24523,7 @@ I_events_0 = [
 "date": "1880",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E2209",
+"gid": "E2192",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24540,7 +24540,7 @@ I_events_0 = [
 "date": "about 1888",
 "date_sdn": 2410638,
 "descr": "",
-"gid": "E2225",
+"gid": "E2208",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24555,7 +24555,7 @@ I_events_0 = [
 "date": "between 1880 and 1990",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E2226",
+"gid": "E2209",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24572,7 +24572,7 @@ I_events_0 = [
 "date": "1870",
 "date_sdn": 2404064,
 "descr": "",
-"gid": "E2029",
+"gid": "E2012",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24587,7 +24587,7 @@ I_events_0 = [
 "date": "September 1928",
 "date_sdn": 2425491,
 "descr": "",
-"gid": "E2030",
+"gid": "E2013",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24604,7 +24604,7 @@ I_events_0 = [
 "date": "1860",
 "date_sdn": 2400411,
 "descr": "",
-"gid": "E2023",
+"gid": "E2006",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24619,7 +24619,7 @@ I_events_0 = [
 "date": "July 1907",
 "date_sdn": 2417758,
 "descr": "",
-"gid": "E2024",
+"gid": "E2007",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24636,7 +24636,7 @@ I_events_0 = [
 "date": "March 1889",
 "date_sdn": 2411063,
 "descr": "",
-"gid": "E2215",
+"gid": "E2198",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24651,13 +24651,13 @@ I_events_0 = [
 "date": "1971",
 "date_sdn": 2440953,
 "descr": "",
-"gid": "E2216",
+"gid": "E2199",
 "media": [],
 "part_family": [],
 "part_person": [
 1079
 ],
-"place": 598,
+"place": 597,
 "text": "",
 "type": "Death"
 }
@@ -24668,7 +24668,7 @@ I_events_0 = [
 "date": "1897",
 "date_sdn": 2413926,
 "descr": "",
-"gid": "E2228",
+"gid": "E2211",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24685,7 +24685,7 @@ I_events_0 = [
 "date": "about 1873",
 "date_sdn": 2405160,
 "descr": "",
-"gid": "E2219",
+"gid": "E2202",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24700,7 +24700,7 @@ I_events_0 = [
 "date": "between 1873 and 1973",
 "date_sdn": 2405160,
 "descr": "",
-"gid": "E2220",
+"gid": "E2203",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24717,7 +24717,7 @@ I_events_0 = [
 "date": "1854",
 "date_sdn": 2398220,
 "descr": "",
-"gid": "E2022",
+"gid": "E2005",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24734,7 +24734,7 @@ I_events_0 = [
 "date": "September 1847",
 "date_sdn": 2395906,
 "descr": "",
-"gid": "E2018",
+"gid": "E2001",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24749,7 +24749,7 @@ I_events_0 = [
 "date": "July 1911",
 "date_sdn": 2419219,
 "descr": "",
-"gid": "E2019",
+"gid": "E2002",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24766,7 +24766,7 @@ I_events_0 = [
 "date": "June 1884",
 "date_sdn": 2409329,
 "descr": "",
-"gid": "E2213",
+"gid": "E2196",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24783,7 +24783,7 @@ I_events_0 = [
 "date": "1850",
 "date_sdn": 2396759,
 "descr": "",
-"gid": "E2021",
+"gid": "E2004",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24800,7 +24800,7 @@ I_events_0 = [
 "date": "1883",
 "date_sdn": 2408812,
 "descr": "",
-"gid": "E2210",
+"gid": "E2193",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24817,7 +24817,7 @@ I_events_0 = [
 "date": "1862",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E2025",
+"gid": "E2008",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24832,7 +24832,7 @@ I_events_0 = [
 "date": "March 1932",
 "date_sdn": 2426768,
 "descr": "",
-"gid": "E2026",
+"gid": "E2009",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24849,7 +24849,7 @@ I_events_0 = [
 "date": "about 1872",
 "date_sdn": 2404794,
 "descr": "",
-"gid": "E2181",
+"gid": "E2164",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24866,7 +24866,7 @@ I_events_0 = [
 "date": "1892",
 "date_sdn": 2412099,
 "descr": "",
-"gid": "E2227",
+"gid": "E2210",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24883,7 +24883,7 @@ I_events_0 = [
 "date": "1866",
 "date_sdn": 2402603,
 "descr": "",
-"gid": "E2027",
+"gid": "E2010",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24898,7 +24898,7 @@ I_events_0 = [
 "date": "October 1872",
 "date_sdn": 2405068,
 "descr": "",
-"gid": "E2028",
+"gid": "E2011",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24915,7 +24915,7 @@ I_events_0 = [
 "date": "about 1886",
 "date_sdn": 2409908,
 "descr": "",
-"gid": "E2223",
+"gid": "E2206",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24930,7 +24930,7 @@ I_events_0 = [
 "date": "between 1880 and 1990",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E2224",
+"gid": "E2207",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24947,7 +24947,7 @@ I_events_0 = [
 "date": "1815",
 "date_sdn": 2383975,
 "descr": "",
-"gid": "E2017",
+"gid": "E2000",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24964,7 +24964,7 @@ I_events_0 = [
 "date": "1848",
 "date_sdn": 2396028,
 "descr": "",
-"gid": "E2020",
+"gid": "E2003",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24981,7 +24981,7 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E2229",
+"gid": "E2212",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -24998,7 +24998,7 @@ I_events_0 = [
 "date": "about 1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E1751",
+"gid": "E1734",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25015,7 +25015,7 @@ I_events_0 = [
 "date": "3 August 1880",
 "date_sdn": 2407931,
 "descr": "",
-"gid": "E2943",
+"gid": "E2914",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25032,7 +25032,7 @@ I_events_0 = [
 "date": "1849",
 "date_sdn": 2396394,
 "descr": "",
-"gid": "E0586",
+"gid": "E0578",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25047,7 +25047,7 @@ I_events_0 = [
 "date": "March 1919",
 "date_sdn": 2422019,
 "descr": "",
-"gid": "E0587",
+"gid": "E0579",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25062,7 +25062,7 @@ I_events_0 = [
 "date": "1869",
 "date_sdn": 2403699,
 "descr": "",
-"gid": "E0588",
+"gid": "E0580",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25079,7 +25079,7 @@ I_events_0 = [
 "date": "about 1875",
 "date_sdn": 2405890,
 "descr": "",
-"gid": "E1753",
+"gid": "E1736",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25096,13 +25096,13 @@ I_events_0 = [
 "date": "1868",
 "date_sdn": 2403333,
 "descr": "",
-"gid": "E1750",
+"gid": "E1733",
 "media": [],
 "part_family": [],
 "part_person": [
 1099
 ],
-"place": 581,
+"place": 580,
 "text": "",
 "type": "Birth"
 }
@@ -25113,7 +25113,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1743",
+"gid": "E1726",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25130,7 +25130,7 @@ I_events_0 = [
 "date": "July 1888",
 "date_sdn": 2410820,
 "descr": "",
-"gid": "E2946",
+"gid": "E2917",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25145,7 +25145,7 @@ I_events_0 = [
 "date": "1926",
 "date_sdn": 2424517,
 "descr": "",
-"gid": "E2948",
+"gid": "E2919",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25162,7 +25162,7 @@ I_events_0 = [
 "date": "14 November 1819",
 "date_sdn": 2385753,
 "descr": "",
-"gid": "E0589",
+"gid": "E0581",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25177,7 +25177,7 @@ I_events_0 = [
 "date": "April 1887",
 "date_sdn": 2410363,
 "descr": "",
-"gid": "E0590",
+"gid": "E0582",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25192,7 +25192,7 @@ I_events_0 = [
 "date": "16 November 1832",
 "date_sdn": 2390504,
 "descr": "",
-"gid": "E0591",
+"gid": "E0583",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25209,7 +25209,7 @@ I_events_0 = [
 "date": "4 November 1837",
 "date_sdn": 2392318,
 "descr": "",
-"gid": "E1741",
+"gid": "E1724",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25224,7 +25224,7 @@ I_events_0 = [
 "date": "October 1908",
 "date_sdn": 2418216,
 "descr": "",
-"gid": "E1742",
+"gid": "E1725",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25241,7 +25241,7 @@ I_events_0 = [
 "date": "1 July 1845",
 "date_sdn": 2395114,
 "descr": "",
-"gid": "E1745",
+"gid": "E1728",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25258,7 +25258,7 @@ I_events_0 = [
 "date": "about 1852",
 "date_sdn": 2397489,
 "descr": "",
-"gid": "E2942",
+"gid": "E2913",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25275,7 +25275,7 @@ I_events_0 = [
 "date": "21 July 1884",
 "date_sdn": 2409379,
 "descr": "",
-"gid": "E2945",
+"gid": "E2916",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25290,7 +25290,7 @@ I_events_0 = [
 "date": "9 June 1943",
 "date_sdn": 2430885,
 "descr": "",
-"gid": "E2949",
+"gid": "E2920",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25307,7 +25307,7 @@ I_events_0 = [
 "date": "about 1880",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E1754",
+"gid": "E1737",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25324,7 +25324,7 @@ I_events_0 = [
 "date": "April 1882",
 "date_sdn": 2408537,
 "descr": "",
-"gid": "E2944",
+"gid": "E2915",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25341,7 +25341,7 @@ I_events_0 = [
 "date": "about 1873",
 "date_sdn": 2405160,
 "descr": "",
-"gid": "E1752",
+"gid": "E1735",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25358,7 +25358,7 @@ I_events_0 = [
 "date": "26 August 1847",
 "date_sdn": 2395900,
 "descr": "",
-"gid": "E1744",
+"gid": "E1727",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25376,7 +25376,7 @@ I_events_0 = [
 "date": "15 March 1790",
 "date_sdn": 2374918,
 "descr": "",
-"gid": "E1818",
+"gid": "E1801",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25391,14 +25391,14 @@ I_events_0 = [
 "date": "1841",
 "date_sdn": 2393472,
 "descr": "",
-"gid": "E1819",
+"gid": "E1802",
 "media": [],
 "part_family": [],
 "part_person": [
 1112
 ],
-"place": 636,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDied in the Whitechapel union workhouse\n</p>\n</div>\n</div>",
+"place": 635,
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nDied in the Whitechapel union workhouse\n</p>\n</div>\n</div>",
 "type": "Death"
 }
 ],
@@ -25408,7 +25408,7 @@ I_events_0 = [
 "date": "calculated between 1837 and 1866",
 "date_sdn": 2392011,
 "descr": "",
-"gid": "E2422",
+"gid": "E2402",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25423,7 +25423,7 @@ I_events_0 = [
 "date": "calculated between 1882 and 1966",
 "date_sdn": 2408447,
 "descr": "",
-"gid": "E2423",
+"gid": "E2403",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25440,7 +25440,7 @@ I_events_0 = [
 "date": "29 October 1897",
 "date_sdn": 2414227,
 "descr": "",
-"gid": "E1531",
+"gid": "E1515",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25457,13 +25457,13 @@ I_events_0 = [
 "date": "July 1923",
 "date_sdn": 2423602,
 "descr": "",
-"gid": "E0592",
+"gid": "E0584",
 "media": [],
 "part_family": [],
 "part_person": [
 1115
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 },
@@ -25472,7 +25472,7 @@ I_events_0 = [
 "date": "July 1992",
 "date_sdn": 2448805,
 "descr": "",
-"gid": "E0593",
+"gid": "E0585",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25490,7 +25490,7 @@ I_events_0 = [
 "date": "1867",
 "date_sdn": 2402968,
 "descr": "",
-"gid": "E2602",
+"gid": "E2580",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25510,13 +25510,13 @@ I_events_0 = [
 "date": "1745",
 "date_sdn": 2358409,
 "descr": "",
-"gid": "E0594",
+"gid": "E0586",
 "media": [],
 "part_family": [],
 "part_person": [
 1121
 ],
-"place": 650,
+"place": 649,
 "text": "",
 "type": "Birth"
 },
@@ -25525,13 +25525,13 @@ I_events_0 = [
 "date": "11 July 1827",
 "date_sdn": 2388549,
 "descr": "",
-"gid": "E0595",
+"gid": "E0587",
 "media": [],
 "part_family": [],
 "part_person": [
 1121
 ],
-"place": 650,
+"place": 649,
 "text": "",
 "type": "Death"
 }
@@ -25546,7 +25546,7 @@ I_events_0 = [
 "date": "1730",
 "date_sdn": 2352930,
 "descr": "",
-"gid": "E1822",
+"gid": "E1805",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25564,7 +25564,7 @@ I_events_0 = [
 "date": "1735",
 "date_sdn": 2354756,
 "descr": "",
-"gid": "E1823",
+"gid": "E1806",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25581,7 +25581,7 @@ I_events_0 = [
 "date": "1701",
 "date_sdn": 2342338,
 "descr": "",
-"gid": "E1826",
+"gid": "E1809",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25596,7 +25596,7 @@ I_events_0 = [
 "date": "1772",
 "date_sdn": 2368270,
 "descr": "",
-"gid": "E1827",
+"gid": "E1810",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25613,13 +25613,13 @@ I_events_0 = [
 "date": "1707",
 "date_sdn": 2344529,
 "descr": "",
-"gid": "E1831",
+"gid": "E1814",
 "media": [],
 "part_family": [],
 "part_person": [
 1130
 ],
-"place": 656,
+"place": 655,
 "text": "",
 "type": "Birth"
 },
@@ -25628,13 +25628,13 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E1832",
+"gid": "E1815",
 "media": [],
 "part_family": [],
 "part_person": [
 1130
 ],
-"place": 656,
+"place": 655,
 "text": "",
 "type": "Death"
 }
@@ -25645,7 +25645,7 @@ I_events_0 = [
 "date": "1580",
 "date_sdn": 2298143,
 "descr": "",
-"gid": "E1848",
+"gid": "E1831",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25660,7 +25660,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E1849",
+"gid": "E1832",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25677,7 +25677,7 @@ I_events_0 = [
 "date": "1610",
 "date_sdn": 2309101,
 "descr": "",
-"gid": "E1844",
+"gid": "E1827",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25692,7 +25692,7 @@ I_events_0 = [
 "date": "18 July 1705",
 "date_sdn": 2343997,
 "descr": "",
-"gid": "E1845",
+"gid": "E1828",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25709,7 +25709,7 @@ I_events_0 = [
 "date": "29 April 1647",
 "date_sdn": 2322733,
 "descr": "",
-"gid": "E1840",
+"gid": "E1823",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25724,7 +25724,7 @@ I_events_0 = [
 "date": "24 May 1707",
 "date_sdn": 2344672,
 "descr": "",
-"gid": "E1841",
+"gid": "E1824",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25741,7 +25741,7 @@ I_events_0 = [
 "date": "3 March 1682",
 "date_sdn": 2335460,
 "descr": "",
-"gid": "E1836",
+"gid": "E1819",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25756,7 +25756,7 @@ I_events_0 = [
 "date": "1742",
 "date_sdn": 2357313,
 "descr": "",
-"gid": "E1837",
+"gid": "E1820",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25773,7 +25773,7 @@ I_events_0 = [
 "date": "about 1735",
 "date_sdn": 2354756,
 "descr": "",
-"gid": "E0596",
+"gid": "E0588",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25788,7 +25788,7 @@ I_events_0 = [
 "date": "1818",
 "date_sdn": 2385071,
 "descr": "",
-"gid": "E0597",
+"gid": "E0589",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25805,7 +25805,7 @@ I_events_0 = [
 "date": "calculated between 1754 and 1779",
 "date_sdn": 2361696,
 "descr": "",
-"gid": "E0598",
+"gid": "E0590",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25820,7 +25820,7 @@ I_events_0 = [
 "date": "calculated between 1814 and 1879",
 "date_sdn": 2383610,
 "descr": "",
-"gid": "E0599",
+"gid": "E0591",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25837,7 +25837,7 @@ I_events_0 = [
 "date": "between 1716 and 14 November 1729",
 "date_sdn": 2347816,
 "descr": "",
-"gid": "E0600",
+"gid": "E0592",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25852,7 +25852,7 @@ I_events_0 = [
 "date": "8 December 1788",
 "date_sdn": 2374456,
 "descr": "",
-"gid": "E0601",
+"gid": "E0593",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25869,7 +25869,7 @@ I_events_0 = [
 "date": "about 1700",
 "date_sdn": 2341973,
 "descr": "",
-"gid": "E0602",
+"gid": "E0594",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25884,7 +25884,7 @@ I_events_0 = [
 "date": "12 August 1788",
 "date_sdn": 2374338,
 "descr": "",
-"gid": "E0603",
+"gid": "E0595",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25901,7 +25901,7 @@ I_events_0 = [
 "date": "1814",
 "date_sdn": 2383610,
 "descr": "",
-"gid": "E0604",
+"gid": "E0596",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25916,13 +25916,13 @@ I_events_0 = [
 "date": "April 1856",
 "date_sdn": 2399041,
 "descr": "",
-"gid": "E0605",
+"gid": "E0597",
 "media": [],
 "part_family": [],
 "part_person": [
 1139
 ],
-"place": 576,
+"place": 575,
 "text": "",
 "type": "Death"
 }
@@ -25933,7 +25933,7 @@ I_events_0 = [
 "date": "about 1844",
 "date_sdn": 2394567,
 "descr": "",
-"gid": "E2348",
+"gid": "E2329",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25953,7 +25953,7 @@ I_events_0 = [
 "date": "1825",
 "date_sdn": 2387628,
 "descr": "",
-"gid": "E1066",
+"gid": "E1050",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -25968,13 +25968,13 @@ I_events_0 = [
 "date": "July 1884",
 "date_sdn": 2409359,
 "descr": "",
-"gid": "E1067",
+"gid": "E1051",
 "media": [],
 "part_family": [],
 "part_person": [
 1144
 ],
-"place": 631,
+"place": 630,
 "text": "",
 "type": "Death"
 }
@@ -25986,13 +25986,13 @@ I_events_0 = [
 "date": "1704",
 "date_sdn": 2343433,
 "descr": "",
-"gid": "E1828",
+"gid": "E1811",
 "media": [],
 "part_family": [],
 "part_person": [
 1146
 ],
-"place": 624,
+"place": 623,
 "text": "",
 "type": "Death"
 }
@@ -26003,13 +26003,13 @@ I_events_0 = [
 "date": "about 1676",
 "date_sdn": 2333207,
 "descr": "",
-"gid": "E1824",
+"gid": "E1807",
 "media": [],
 "part_family": [],
 "part_person": [
 1147
 ],
-"place": 624,
+"place": 623,
 "text": "",
 "type": "Birth"
 },
@@ -26018,7 +26018,7 @@ I_events_0 = [
 "date": "1706",
 "date_sdn": 2344164,
 "descr": "",
-"gid": "E1825",
+"gid": "E1808",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26035,7 +26035,7 @@ I_events_0 = [
 "date": "about 1685",
 "date_sdn": 2336495,
 "descr": "",
-"gid": "E0606",
+"gid": "E0598",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26053,7 +26053,7 @@ I_events_0 = [
 "date": "about 1835",
 "date_sdn": 2391280,
 "descr": "",
-"gid": "E0607",
+"gid": "E0599",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26068,7 +26068,7 @@ I_events_0 = [
 "date": "October 1892",
 "date_sdn": 2412373,
 "descr": "",
-"gid": "E0608",
+"gid": "E0600",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26085,13 +26085,13 @@ I_events_0 = [
 "date": "about 1836",
 "date_sdn": 2391645,
 "descr": "",
-"gid": "E0609",
+"gid": "E0601",
 "media": [],
 "part_family": [],
 "part_person": [
 1151
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -26100,7 +26100,7 @@ I_events_0 = [
 "date": "January 1877",
 "date_sdn": 2406621,
 "descr": "",
-"gid": "E0610",
+"gid": "E0602",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26117,13 +26117,13 @@ I_events_0 = [
 "date": "about 1806",
 "date_sdn": 2380688,
 "descr": "",
-"gid": "E2090",
+"gid": "E2073",
 "media": [],
 "part_family": [],
 "part_person": [
 1152
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Birth"
 }
@@ -26134,7 +26134,7 @@ I_events_0 = [
 "date": "29 August 1773",
 "date_sdn": 2368876,
 "descr": "",
-"gid": "E2070",
+"gid": "E2053",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26151,13 +26151,13 @@ I_events_0 = [
 "date": "about 1837",
 "date_sdn": 2392011,
 "descr": "",
-"gid": "E0611",
+"gid": "E0603",
 "media": [],
 "part_family": [],
 "part_person": [
 1154
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -26166,7 +26166,7 @@ I_events_0 = [
 "date": "April 1875",
 "date_sdn": 2405980,
 "descr": "",
-"gid": "E0612",
+"gid": "E0604",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26183,7 +26183,7 @@ I_events_0 = [
 "date": "10 November 1771",
 "date_sdn": 2368218,
 "descr": "",
-"gid": "E2069",
+"gid": "E2052",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26200,7 +26200,7 @@ I_events_0 = [
 "date": "1807",
 "date_sdn": 2381053,
 "descr": "",
-"gid": "E2091",
+"gid": "E2074",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26217,7 +26217,7 @@ I_events_0 = [
 "date": "7 September 1739",
 "date_sdn": 2356466,
 "descr": "",
-"gid": "E2068",
+"gid": "E2051",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26234,7 +26234,7 @@ I_events_0 = [
 "date": "about 1776",
 "date_sdn": 2369731,
 "descr": "",
-"gid": "E2071",
+"gid": "E2054",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26249,7 +26249,7 @@ I_events_0 = [
 "date": "between 1792 and 1876",
 "date_sdn": 2375575,
 "descr": "",
-"gid": "E2072",
+"gid": "E2055",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26266,7 +26266,7 @@ I_events_0 = [
 "date": "1801",
 "date_sdn": 2378862,
 "descr": "",
-"gid": "E2088",
+"gid": "E2071",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26283,7 +26283,7 @@ I_events_0 = [
 "date": "about 1772",
 "date_sdn": 2368270,
 "descr": "",
-"gid": "E0613",
+"gid": "E0605",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26298,7 +26298,7 @@ I_events_0 = [
 "date": "about 1832",
 "date_sdn": 2390184,
 "descr": "",
-"gid": "E0614",
+"gid": "E0606",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26315,13 +26315,13 @@ I_events_0 = [
 "date": "about 1831",
 "date_sdn": 2389819,
 "descr": "",
-"gid": "E0615",
+"gid": "E0607",
 "media": [],
 "part_family": [],
 "part_person": [
 1161
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -26330,7 +26330,7 @@ I_events_0 = [
 "date": "April 1910",
 "date_sdn": 2418763,
 "descr": "",
-"gid": "E0616",
+"gid": "E0608",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26347,7 +26347,7 @@ I_events_0 = [
 "date": "about 1725",
 "date_sdn": 2351104,
 "descr": "",
-"gid": "E2064",
+"gid": "E2047",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26364,7 +26364,7 @@ I_events_0 = [
 "date": "11 April 1742",
 "date_sdn": 2357413,
 "descr": "",
-"gid": "E2067",
+"gid": "E2050",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26381,7 +26381,7 @@ I_events_0 = [
 "date": "about 1796",
 "date_sdn": 2377036,
 "descr": "",
-"gid": "E0617",
+"gid": "E0609",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26396,13 +26396,13 @@ I_events_0 = [
 "date": "about 1860",
 "date_sdn": 2400411,
 "descr": "",
-"gid": "E0618",
+"gid": "E0610",
 "media": [],
 "part_family": [],
 "part_person": [
 1164
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Death"
 }
@@ -26413,7 +26413,7 @@ I_events_0 = [
 "date": "24 November 1745",
 "date_sdn": 2358736,
 "descr": "",
-"gid": "E0619",
+"gid": "E0611",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26428,7 +26428,7 @@ I_events_0 = [
 "date": "1813",
 "date_sdn": 2383245,
 "descr": "",
-"gid": "E0620",
+"gid": "E0612",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26445,7 +26445,7 @@ I_events_0 = [
 "date": "5 January 1838",
 "date_sdn": 2392380,
 "descr": "",
-"gid": "E0621",
+"gid": "E0613",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26460,7 +26460,7 @@ I_events_0 = [
 "date": "2 March 1923",
 "date_sdn": 2423481,
 "descr": "",
-"gid": "E0622",
+"gid": "E0614",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26475,7 +26475,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "https://www.findagrave.com/memorial/218147524/kezia-clay",
-"gid": "E0623",
+"gid": "E0615",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26492,7 +26492,7 @@ I_events_0 = [
 "date": "25 December 1777",
 "date_sdn": 2370455,
 "descr": "",
-"gid": "E2075",
+"gid": "E2058",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26509,7 +26509,7 @@ I_events_0 = [
 "date": "1798",
 "date_sdn": 2377767,
 "descr": "",
-"gid": "E2087",
+"gid": "E2070",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26526,13 +26526,13 @@ I_events_0 = [
 "date": "about 1833",
 "date_sdn": 2390550,
 "descr": "",
-"gid": "E0624",
+"gid": "E0616",
 "media": [],
 "part_family": [],
 "part_person": [
 1169
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -26541,7 +26541,7 @@ I_events_0 = [
 "date": "October 1892",
 "date_sdn": 2412373,
 "descr": "",
-"gid": "E0625",
+"gid": "E0617",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26558,7 +26558,7 @@ I_events_0 = [
 "date": "26 February 1744",
 "date_sdn": 2358099,
 "descr": "",
-"gid": "E2066",
+"gid": "E2049",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26575,7 +26575,7 @@ I_events_0 = [
 "date": "1782",
 "date_sdn": 2371923,
 "descr": "",
-"gid": "E2078",
+"gid": "E2061",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26590,7 +26590,7 @@ I_events_0 = [
 "date": "5 December 1812",
 "date_sdn": 2383218,
 "descr": "",
-"gid": "E2079",
+"gid": "E2062",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26607,7 +26607,7 @@ I_events_0 = [
 "date": "25 February 1805",
 "date_sdn": 2380378,
 "descr": "",
-"gid": "E2089",
+"gid": "E2072",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26624,13 +26624,13 @@ I_events_0 = [
 "date": "about 1832",
 "date_sdn": 2390184,
 "descr": "",
-"gid": "E0626",
+"gid": "E0618",
 "media": [],
 "part_family": [],
 "part_person": [
 1173
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -26639,7 +26639,7 @@ I_events_0 = [
 "date": "October 1892",
 "date_sdn": 2412373,
 "descr": "",
-"gid": "E0627",
+"gid": "E0619",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26656,7 +26656,7 @@ I_events_0 = [
 "date": "23 September 1753",
 "date_sdn": 2361596,
 "descr": "",
-"gid": "E2065",
+"gid": "E2048",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26673,7 +26673,7 @@ I_events_0 = [
 "date": "1780",
 "date_sdn": 2371192,
 "descr": "",
-"gid": "E2076",
+"gid": "E2059",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26688,13 +26688,13 @@ I_events_0 = [
 "date": "1850",
 "date_sdn": 2396759,
 "descr": "",
-"gid": "E2077",
+"gid": "E2060",
 "media": [],
 "part_family": [],
 "part_person": [
 1175
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Death"
 }
@@ -26705,7 +26705,7 @@ I_events_0 = [
 "date": "June 1810",
 "date_sdn": 2382300,
 "descr": "",
-"gid": "E2092",
+"gid": "E2075",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26720,7 +26720,7 @@ I_events_0 = [
 "date": "June 1810",
 "date_sdn": 2382300,
 "descr": "",
-"gid": "E2093",
+"gid": "E2076",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26737,7 +26737,7 @@ I_events_0 = [
 "date": "April 1840",
 "date_sdn": 2393197,
 "descr": "",
-"gid": "E0628",
+"gid": "E0620",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26752,7 +26752,7 @@ I_events_0 = [
 "date": "January 1877",
 "date_sdn": 2406621,
 "descr": "",
-"gid": "E0629",
+"gid": "E0621",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26769,7 +26769,7 @@ I_events_0 = [
 "date": "11 July 1725",
 "date_sdn": 2351295,
 "descr": "",
-"gid": "E0630",
+"gid": "E0622",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26786,7 +26786,7 @@ I_events_0 = [
 "date": "20 February 1567",
 "date_sdn": 2293445,
 "descr": "",
-"gid": "E1854",
+"gid": "E1837",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26801,7 +26801,7 @@ I_events_0 = [
 "date": "1615",
 "date_sdn": 2310927,
 "descr": "",
-"gid": "E1855",
+"gid": "E1838",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26818,7 +26818,7 @@ I_events_0 = [
 "date": "1853",
 "date_sdn": 2397855,
 "descr": "",
-"gid": "E1131",
+"gid": "E1115",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26833,7 +26833,7 @@ I_events_0 = [
 "date": "12 January 1918",
 "date_sdn": 2421606,
 "descr": "",
-"gid": "E1132",
+"gid": "E1116",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26850,7 +26850,7 @@ I_events_0 = [
 "date": "October 1891",
 "date_sdn": 2412007,
 "descr": "",
-"gid": "E1174",
+"gid": "E1158",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26865,7 +26865,7 @@ I_events_0 = [
 "date": "March 1975",
 "date_sdn": 2442473,
 "descr": "",
-"gid": "E1175",
+"gid": "E1159",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26882,7 +26882,7 @@ I_events_0 = [
 "date": "19 January 1886",
 "date_sdn": 2409926,
 "descr": "",
-"gid": "E1170",
+"gid": "E1154",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26897,7 +26897,7 @@ I_events_0 = [
 "date": "1967",
 "date_sdn": 2439492,
 "descr": "",
-"gid": "E1171",
+"gid": "E1155",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26914,7 +26914,7 @@ I_events_0 = [
 "date": "8 September 1897",
 "date_sdn": 2414176,
 "descr": "",
-"gid": "E1176",
+"gid": "E1160",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26929,7 +26929,7 @@ I_events_0 = [
 "date": "1984",
 "date_sdn": 2445701,
 "descr": "",
-"gid": "E1177",
+"gid": "E1161",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26946,7 +26946,7 @@ I_events_0 = [
 "date": "20 September 1888",
 "date_sdn": 2410901,
 "descr": "",
-"gid": "E1172",
+"gid": "E1156",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26961,7 +26961,7 @@ I_events_0 = [
 "date": "1962",
 "date_sdn": 2437666,
 "descr": "",
-"gid": "E1173",
+"gid": "E1157",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26978,7 +26978,7 @@ I_events_0 = [
 "date": "July 1884",
 "date_sdn": 2409359,
 "descr": "",
-"gid": "E1169",
+"gid": "E1153",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -26995,7 +26995,7 @@ I_events_0 = [
 "date": "July 1855",
 "date_sdn": 2398766,
 "descr": "",
-"gid": "E1239",
+"gid": "E1223",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27010,7 +27010,7 @@ I_events_0 = [
 "date": "July 1887",
 "date_sdn": 2410454,
 "descr": "",
-"gid": "E1240",
+"gid": "E1224",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27028,7 +27028,7 @@ I_events_0 = [
 "date": "21 August 1878",
 "date_sdn": 2407218,
 "descr": "",
-"gid": "E1002",
+"gid": "E0986",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27043,7 +27043,7 @@ I_events_0 = [
 "date": "1960",
 "date_sdn": 2436935,
 "descr": "",
-"gid": "E1003",
+"gid": "E0987",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27060,13 +27060,13 @@ I_events_0 = [
 "date": "October 1920",
 "date_sdn": 2422599,
 "descr": "",
-"gid": "E2246",
+"gid": "E2229",
 "media": [],
 "part_family": [],
 "part_person": [
 1189
 ],
-"place": 651,
+"place": 650,
 "text": "",
 "type": "Birth"
 },
@@ -27075,13 +27075,13 @@ I_events_0 = [
 "date": "about 1992",
 "date_sdn": 2448623,
 "descr": "",
-"gid": "E2247",
+"gid": "E2230",
 "media": [],
 "part_family": [],
 "part_person": [
 1189
 ],
-"place": 612,
+"place": 611,
 "text": "",
 "type": "Death"
 }
@@ -27092,7 +27092,7 @@ I_events_0 = [
 "date": "5 March 1906",
 "date_sdn": 2417275,
 "descr": "",
-"gid": "E1205",
+"gid": "E1189",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27107,7 +27107,7 @@ I_events_0 = [
 "date": "August 1992",
 "date_sdn": 2448836,
 "descr": "",
-"gid": "E1206",
+"gid": "E1190",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27124,13 +27124,13 @@ I_events_0 = [
 "date": "6 September 1915",
 "date_sdn": 2420747,
 "descr": "",
-"gid": "E2197",
+"gid": "E2180",
 "media": [],
 "part_family": [],
 "part_person": [
 1191
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -27139,7 +27139,7 @@ I_events_0 = [
 "date": "22 September 1997",
 "date_sdn": 2450714,
 "descr": "",
-"gid": "E2198",
+"gid": "E2181",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27156,13 +27156,13 @@ I_events_0 = [
 "date": "about 1899",
 "date_sdn": 2414656,
 "descr": "",
-"gid": "E2191",
+"gid": "E2174",
 "media": [],
 "part_family": [],
 "part_person": [
 1192
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -27171,7 +27171,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E2192",
+"gid": "E2175",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27188,7 +27188,7 @@ I_events_0 = [
 "date": "17 July 1910",
 "date_sdn": 2418870,
 "descr": "",
-"gid": "E2195",
+"gid": "E2178",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27205,13 +27205,13 @@ I_events_0 = [
 "date": "about 1878",
 "date_sdn": 2406986,
 "descr": "",
-"gid": "E2189",
+"gid": "E2172",
 "media": [],
 "part_family": [],
 "part_person": [
 1194
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -27220,7 +27220,7 @@ I_events_0 = [
 "date": "1967",
 "date_sdn": 2439492,
 "descr": "",
-"gid": "E2190",
+"gid": "E2173",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27237,13 +27237,13 @@ I_events_0 = [
 "date": "1910",
 "date_sdn": 2418673,
 "descr": "",
-"gid": "E2196",
+"gid": "E2179",
 "media": [],
 "part_family": [],
 "part_person": [
 1195
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -27254,13 +27254,13 @@ I_events_0 = [
 "date": "about 1900",
 "date_sdn": 2415021,
 "descr": "",
-"gid": "E2193",
+"gid": "E2176",
 "media": [],
 "part_family": [],
 "part_person": [
 1196
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -27271,13 +27271,13 @@ I_events_0 = [
 "date": "about 1905",
 "date_sdn": 2416847,
 "descr": "",
-"gid": "E2194",
+"gid": "E2177",
 "media": [],
 "part_family": [],
 "part_person": [
 1197
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -27288,7 +27288,7 @@ I_events_0 = [
 "date": "16 July 1929",
 "date_sdn": 2425809,
 "descr": "",
-"gid": "E1061",
+"gid": "E1045",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27303,7 +27303,7 @@ I_events_0 = [
 "date": "August 2007",
 "date_sdn": 2454314,
 "descr": "",
-"gid": "E1062",
+"gid": "E1046",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27320,7 +27320,7 @@ I_events_0 = [
 "date": "30 November 1897",
 "date_sdn": 2414259,
 "descr": "",
-"gid": "E1576",
+"gid": "E1559",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27335,7 +27335,7 @@ I_events_0 = [
 "date": "September 1979",
 "date_sdn": 2444118,
 "descr": "",
-"gid": "E1577",
+"gid": "E1560",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27352,7 +27352,7 @@ I_events_0 = [
 "date": "between 1747 and 1820",
 "date_sdn": 2359139,
 "descr": "",
-"gid": "E0979",
+"gid": "E0963",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27367,7 +27367,7 @@ I_events_0 = [
 "date": "between 1807 and 1920",
 "date_sdn": 2381053,
 "descr": "",
-"gid": "E0980",
+"gid": "E0964",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27431,7 +27431,7 @@ I_events_0 = [
 "date": "1702",
 "date_sdn": 2342703,
 "descr": "",
-"gid": "E1865",
+"gid": "E1848",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27448,13 +27448,13 @@ I_events_0 = [
 "date": "about 1775",
 "date_sdn": 2369366,
 "descr": "",
-"gid": "E0632",
+"gid": "E0624",
 "media": [],
 "part_family": [],
 "part_person": [
 1203
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Birth"
 },
@@ -27463,7 +27463,7 @@ I_events_0 = [
 "date": "June 1810",
 "date_sdn": 2382300,
 "descr": "",
-"gid": "E0633",
+"gid": "E0625",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27491,7 +27491,7 @@ I_events_0 = [
 "date": "1500",
 "date_sdn": 2268924,
 "descr": "",
-"gid": "E1382",
+"gid": "E1366",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27506,7 +27506,7 @@ I_events_0 = [
 "date": "1558",
 "date_sdn": 2290108,
 "descr": "",
-"gid": "E1383",
+"gid": "E1367",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27523,7 +27523,7 @@ I_events_0 = [
 "date": "January 1898",
 "date_sdn": 2414291,
 "descr": "",
-"gid": "E2916",
+"gid": "E2888",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27540,7 +27540,7 @@ I_events_0 = [
 "date": "July 1867",
 "date_sdn": 2403149,
 "descr": "",
-"gid": "E2915",
+"gid": "E2887",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27557,7 +27557,7 @@ I_events_0 = [
 "date": "January 1905",
 "date_sdn": 2416847,
 "descr": "",
-"gid": "E2917",
+"gid": "E2889",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27574,7 +27574,7 @@ I_events_0 = [
 "date": "15 May 1910",
 "date_sdn": 2418807,
 "descr": "",
-"gid": "E2001",
+"gid": "E1984",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27589,7 +27589,7 @@ I_events_0 = [
 "date": "June 2000",
 "date_sdn": 2451697,
 "descr": "",
-"gid": "E2002",
+"gid": "E1985",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27606,7 +27606,7 @@ I_events_0 = [
 "date": "about 1695",
 "date_sdn": 2340147,
 "descr": "",
-"gid": "E1345",
+"gid": "E1329",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27621,7 +27621,7 @@ I_events_0 = [
 "date": "about 1770",
 "date_sdn": 2367540,
 "descr": "",
-"gid": "E1346",
+"gid": "E1330",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27638,7 +27638,7 @@ I_events_0 = [
 "date": "22 June 1817",
 "date_sdn": 2384878,
 "descr": "",
-"gid": "E0634",
+"gid": "E0626",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27653,7 +27653,7 @@ I_events_0 = [
 "date": "1870",
 "date_sdn": 2404064,
 "descr": "",
-"gid": "E0635",
+"gid": "E0627",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27670,7 +27670,7 @@ I_events_0 = [
 "date": "about 1810",
 "date_sdn": 2382149,
 "descr": "",
-"gid": "E0636",
+"gid": "E0628",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27687,7 +27687,7 @@ I_events_0 = [
 "date": "between 1700 and 1754",
 "date_sdn": 2341973,
 "descr": "",
-"gid": "E0637",
+"gid": "E0629",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27702,7 +27702,7 @@ I_events_0 = [
 "date": "between 1760 and 1854",
 "date_sdn": 2363887,
 "descr": "",
-"gid": "E0638",
+"gid": "E0630",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27719,7 +27719,7 @@ I_events_0 = [
 "date": "1690",
 "date_sdn": 2338321,
 "descr": "",
-"gid": "E1354",
+"gid": "E1338",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27736,7 +27736,7 @@ I_events_0 = [
 "date": "about 1764",
 "date_sdn": 2365348,
 "descr": "",
-"gid": "E0639",
+"gid": "E0631",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27751,7 +27751,7 @@ I_events_0 = [
 "date": "before 1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E0640",
+"gid": "E0632",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27766,7 +27766,7 @@ I_events_0 = [
 "date": "1 January 1764",
 "date_sdn": 2365348,
 "descr": "",
-"gid": "E0641",
+"gid": "E0633",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27783,7 +27783,7 @@ I_events_0 = [
 "date": "1662",
 "date_sdn": 2328094,
 "descr": "",
-"gid": "E1347",
+"gid": "E1331",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27798,7 +27798,7 @@ I_events_0 = [
 "date": "after 1737",
 "date_sdn": 2355487,
 "descr": "",
-"gid": "E1348",
+"gid": "E1332",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27815,7 +27815,7 @@ I_events_0 = [
 "date": "1692",
 "date_sdn": 2339051,
 "descr": "",
-"gid": "E1353",
+"gid": "E1337",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27832,7 +27832,7 @@ I_events_0 = [
 "date": "1633",
 "date_sdn": 2317502,
 "descr": "",
-"gid": "E1357",
+"gid": "E1341",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27847,13 +27847,13 @@ I_events_0 = [
 "date": "December 1666",
 "date_sdn": 2329889,
 "descr": "",
-"gid": "E1358",
+"gid": "E1342",
 "media": [],
 "part_family": [],
 "part_person": [
 1228
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Death"
 }
@@ -27864,7 +27864,7 @@ I_events_0 = [
 "date": "16 August 1607",
 "date_sdn": 2308232,
 "descr": "",
-"gid": "E1392",
+"gid": "E1376",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27879,7 +27879,7 @@ I_events_0 = [
 "date": "about 1661",
 "date_sdn": 2327729,
 "descr": "",
-"gid": "E1393",
+"gid": "E1377",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27896,7 +27896,7 @@ I_events_0 = [
 "date": "2 February 1587",
 "date_sdn": 2300732,
 "descr": "",
-"gid": "E1396",
+"gid": "E1380",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27913,7 +27913,7 @@ I_events_0 = [
 "date": "1687",
 "date_sdn": 2337225,
 "descr": "",
-"gid": "E1355",
+"gid": "E1339",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27928,7 +27928,7 @@ I_events_0 = [
 "date": "1695",
 "date_sdn": 2340147,
 "descr": "",
-"gid": "E1356",
+"gid": "E1340",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27945,7 +27945,7 @@ I_events_0 = [
 "date": "1698",
 "date_sdn": 2341243,
 "descr": "",
-"gid": "E1351",
+"gid": "E1335",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27960,7 +27960,7 @@ I_events_0 = [
 "date": "1773",
 "date_sdn": 2368636,
 "descr": "",
-"gid": "E1352",
+"gid": "E1336",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27978,7 +27978,7 @@ I_events_0 = [
 "date": "1 October 1910",
 "date_sdn": 2418946,
 "descr": "",
-"gid": "E2600",
+"gid": "E2578",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -27995,7 +27995,7 @@ I_events_0 = [
 "date": "1875",
 "date_sdn": 2405890,
 "descr": "",
-"gid": "E2596",
+"gid": "E2575",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28012,7 +28012,7 @@ I_events_0 = [
 "date": "14 January 1909",
 "date_sdn": 2418321,
 "descr": "",
-"gid": "E2833",
+"gid": "E2806",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28029,7 +28029,7 @@ I_events_0 = [
 "date": "January 1884",
 "date_sdn": 2409177,
 "descr": "",
-"gid": "E1278",
+"gid": "E1262",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28046,7 +28046,7 @@ I_events_0 = [
 "date": "1783",
 "date_sdn": 2372288,
 "descr": "",
-"gid": "E1216",
+"gid": "E1200",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28063,7 +28063,7 @@ I_events_0 = [
 "date": "1781",
 "date_sdn": 2371558,
 "descr": "",
-"gid": "E1211",
+"gid": "E1195",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28078,7 +28078,7 @@ I_events_0 = [
 "date": "December 1849",
 "date_sdn": 2396728,
 "descr": "",
-"gid": "E1212",
+"gid": "E1196",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28095,7 +28095,7 @@ I_events_0 = [
 "date": "1754",
 "date_sdn": 2361696,
 "descr": "",
-"gid": "E1213",
+"gid": "E1197",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28110,7 +28110,7 @@ I_events_0 = [
 "date": "about 1824",
 "date_sdn": 2387262,
 "descr": "",
-"gid": "E1214",
+"gid": "E1198",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28127,7 +28127,7 @@ I_events_0 = [
 "date": "16 May 1780",
 "date_sdn": 2371328,
 "descr": "",
-"gid": "E1598",
+"gid": "E1581",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28142,7 +28142,7 @@ I_events_0 = [
 "date": "October 1859",
 "date_sdn": 2400319,
 "descr": "",
-"gid": "E1599",
+"gid": "E1582",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28159,7 +28159,7 @@ I_events_0 = [
 "date": "12 February 1871",
 "date_sdn": 2404471,
 "descr": "",
-"gid": "E1179",
+"gid": "E1163",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28174,7 +28174,7 @@ I_events_0 = [
 "date": "3 August 1928",
 "date_sdn": 2425462,
 "descr": "",
-"gid": "E1180",
+"gid": "E1164",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28191,7 +28191,7 @@ I_events_0 = [
 "date": "1889",
 "date_sdn": 2411004,
 "descr": "",
-"gid": "E2119",
+"gid": "E2102",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28208,7 +28208,7 @@ I_events_0 = [
 "date": "19 June 1653",
 "date_sdn": 2324976,
 "descr": "",
-"gid": "E1842",
+"gid": "E1825",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28223,7 +28223,7 @@ I_events_0 = [
 "date": "18 November 1697",
 "date_sdn": 2341199,
 "descr": "",
-"gid": "E1843",
+"gid": "E1826",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28240,7 +28240,7 @@ I_events_0 = [
 "date": "December 1574",
 "date_sdn": 2296286,
 "descr": "",
-"gid": "E1653",
+"gid": "E1636",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28257,7 +28257,7 @@ I_events_0 = [
 "date": "about 1550",
 "date_sdn": 2287186,
 "descr": "",
-"gid": "E1659",
+"gid": "E1642",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28272,7 +28272,7 @@ I_events_0 = [
 "date": "about 1623",
 "date_sdn": 2313849,
 "descr": "",
-"gid": "E1660",
+"gid": "E1643",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28289,7 +28289,7 @@ I_events_0 = [
 "date": "1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E2845",
+"gid": "E2818",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28306,7 +28306,7 @@ I_events_0 = [
 "date": "1853",
 "date_sdn": 2397855,
 "descr": "",
-"gid": "E0642",
+"gid": "E0634",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28321,7 +28321,7 @@ I_events_0 = [
 "date": "3 July 1935",
 "date_sdn": 2427987,
 "descr": "",
-"gid": "E0643",
+"gid": "E0635",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28332,18 +28332,17 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[],
 [
 {
 "cita": [],
 "date": "1831",
 "date_sdn": 2389819,
 "descr": "",
-"gid": "E0644",
+"gid": "E0636",
 "media": [],
 "part_family": [],
 "part_person": [
-1250
+1249
 ],
 "place": 350,
 "text": "",
@@ -28354,11 +28353,11 @@ I_events_0 = [
 "date": "12 December 1903",
 "date_sdn": 2416461,
 "descr": "",
-"gid": "E0645",
+"gid": "E0637",
 "media": [],
 "part_family": [],
 "part_person": [
-1250
+1249
 ],
 "place": 38,
 "text": "",
@@ -28371,11 +28370,11 @@ I_events_0 = [
 "date": "1855",
 "date_sdn": 2398585,
 "descr": "",
-"gid": "E0646",
+"gid": "E0638",
 "media": [],
 "part_family": [],
 "part_person": [
-1251
+1250
 ],
 "place": 373,
 "text": "",
@@ -28386,24 +28385,25 @@ I_events_0 = [
 "date": "8 July 1895",
 "date_sdn": 2413383,
 "descr": "",
-"gid": "E0647",
+"gid": "E0639",
 "media": [],
 "part_family": [],
 "part_person": [
-1251
+1250
 ],
 "place": 373,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [
 {
 "cita": [],
 "date": "8 August 1867",
 "date_sdn": 2403187,
 "descr": "",
-"gid": "E0648",
+"gid": "E0640",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28418,7 +28418,7 @@ I_events_0 = [
 "date": "22 July 1937",
 "date_sdn": 2428737,
 "descr": "",
-"gid": "E0649",
+"gid": "E0641",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28435,7 +28435,7 @@ I_events_0 = [
 "date": "6 August 1860",
 "date_sdn": 2400629,
 "descr": "",
-"gid": "E0650",
+"gid": "E0642",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28450,7 +28450,7 @@ I_events_0 = [
 "date": "5 February 1899",
 "date_sdn": 2414691,
 "descr": "",
-"gid": "E0651",
+"gid": "E0643",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28468,7 +28468,7 @@ I_events_0 = [
 "date": "1846",
 "date_sdn": 2395298,
 "descr": "",
-"gid": "E2676",
+"gid": "E2653",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28483,7 +28483,7 @@ I_events_0 = [
 "date": "1862",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E2677",
+"gid": "E2654",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28500,7 +28500,7 @@ I_events_0 = [
 "date": "1832",
 "date_sdn": 2390184,
 "descr": "",
-"gid": "E0652",
+"gid": "E0644",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28515,7 +28515,7 @@ I_events_0 = [
 "date": "25 May 1903",
 "date_sdn": 2416260,
 "descr": "",
-"gid": "E0653",
+"gid": "E0645",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28532,7 +28532,7 @@ I_events_0 = [
 "date": "about 1810",
 "date_sdn": 2382149,
 "descr": "",
-"gid": "E0742",
+"gid": "E0734",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28549,7 +28549,7 @@ I_events_0 = [
 "date": "1821",
 "date_sdn": 2386167,
 "descr": "",
-"gid": "E0654",
+"gid": "E0646",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28567,7 +28567,7 @@ I_events_0 = [
 "date": "1880",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E1532",
+"gid": "E1516",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28584,13 +28584,13 @@ I_events_0 = [
 "date": "1846",
 "date_sdn": 2395298,
 "descr": "",
-"gid": "E0688",
+"gid": "E0680",
 "media": [],
 "part_family": [],
 "part_person": [
 1261
 ],
-"place": 608,
+"place": 607,
 "text": "",
 "type": "Birth"
 },
@@ -28599,7 +28599,7 @@ I_events_0 = [
 "date": "calculated between 1901 and 1946",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E0689",
+"gid": "E0681",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28614,7 +28614,7 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E0690",
+"gid": "E0682",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28631,7 +28631,7 @@ I_events_0 = [
 "date": "calculated between 1786 and 1830",
 "date_sdn": 2373384,
 "descr": "",
-"gid": "E2462",
+"gid": "E2442",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28646,7 +28646,7 @@ I_events_0 = [
 "date": "calculated between 1846 and 1879",
 "date_sdn": 2395298,
 "descr": "",
-"gid": "E2463",
+"gid": "E2443",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28663,7 +28663,7 @@ I_events_0 = [
 "date": "1880",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E0691",
+"gid": "E0683",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28678,7 +28678,7 @@ I_events_0 = [
 "date": "21 April 1938",
 "date_sdn": 2429010,
 "descr": "",
-"gid": "E0692",
+"gid": "E0684",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28695,7 +28695,7 @@ I_events_0 = [
 "date": "1886",
 "date_sdn": 2409908,
 "descr": "",
-"gid": "E1533",
+"gid": "E1517",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28712,7 +28712,7 @@ I_events_0 = [
 "date": "29 March 1999",
 "date_sdn": 2451267,
 "descr": "",
-"gid": "E0656",
+"gid": "E0648",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28731,7 +28731,7 @@ I_events_0 = [
 "date": "27 September 1884",
 "date_sdn": 2409447,
 "descr": "",
-"gid": "E0657",
+"gid": "E0649",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28746,7 +28746,7 @@ I_events_0 = [
 "date": "6 June 1900",
 "date_sdn": 2415177,
 "descr": "",
-"gid": "E0658",
+"gid": "E0650",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28763,7 +28763,7 @@ I_events_0 = [
 "date": "16 July 1913",
 "date_sdn": 2419965,
 "descr": "",
-"gid": "E0660",
+"gid": "E0652",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28778,7 +28778,7 @@ I_events_0 = [
 "date": "May 1999",
 "date_sdn": 2451300,
 "descr": "",
-"gid": "E0661",
+"gid": "E0653",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28795,7 +28795,7 @@ I_events_0 = [
 "date": "about 1852",
 "date_sdn": 2397489,
 "descr": "",
-"gid": "E0662",
+"gid": "E0654",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28810,7 +28810,7 @@ I_events_0 = [
 "date": "14 May 1894",
 "date_sdn": 2412963,
 "descr": "",
-"gid": "E0663",
+"gid": "E0655",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28827,7 +28827,7 @@ I_events_0 = [
 "date": "20 April 1904",
 "date_sdn": 2416591,
 "descr": "",
-"gid": "E0664",
+"gid": "E0656",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28842,7 +28842,7 @@ I_events_0 = [
 "date": "1963",
 "date_sdn": 2438031,
 "descr": "",
-"gid": "E0665",
+"gid": "E0657",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28859,7 +28859,7 @@ I_events_0 = [
 "date": "1993",
 "date_sdn": 2448989,
 "descr": "",
-"gid": "E2771",
+"gid": "E2746",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28874,7 +28874,7 @@ I_events_0 = [
 "date": "calculated between 1963 and 1993",
 "date_sdn": 2438031,
 "descr": "",
-"gid": "E0767",
+"gid": "E3027",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28892,7 +28892,7 @@ I_events_0 = [
 "date": "21 April 1905",
 "date_sdn": 2416957,
 "descr": "",
-"gid": "E0666",
+"gid": "E0658",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28909,7 +28909,7 @@ I_events_0 = [
 "date": "15 October 1889",
 "date_sdn": 2411291,
 "descr": "",
-"gid": "E0667",
+"gid": "E0659",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28924,7 +28924,7 @@ I_events_0 = [
 "date": "1 December 1959",
 "date_sdn": 2436904,
 "descr": "",
-"gid": "E0668",
+"gid": "E0660",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28941,7 +28941,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E2779",
+"gid": "E2754",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28960,7 +28960,7 @@ I_events_0 = [
 "date": "23 August 1882",
 "date_sdn": 2408681,
 "descr": "",
-"gid": "E0670",
+"gid": "E0662",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28975,7 +28975,7 @@ I_events_0 = [
 "date": "15 April 1890",
 "date_sdn": 2411473,
 "descr": "",
-"gid": "E0671",
+"gid": "E0663",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -28986,18 +28986,17 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[],
 [
 {
 "cita": [],
 "date": "9 May 1894",
 "date_sdn": 2412958,
 "descr": "",
-"gid": "E0672",
+"gid": "E0664",
 "media": [],
 "part_family": [],
 "part_person": [
-1281
+1280
 ],
 "place": 11,
 "text": "",
@@ -29006,13 +29005,14 @@ I_events_0 = [
 ],
 [],
 [],
+[],
 [
 {
 "cita": [],
 "date": "11 April 1947",
 "date_sdn": 2432287,
 "descr": "",
-"gid": "E0673",
+"gid": "E0665",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29027,7 +29027,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E2780",
+"gid": "E2755",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29044,7 +29044,7 @@ I_events_0 = [
 "date": "1906",
 "date_sdn": 2417212,
 "descr": "",
-"gid": "E0674",
+"gid": "E0666",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29059,7 +29059,7 @@ I_events_0 = [
 "date": "1907",
 "date_sdn": 2417577,
 "descr": "",
-"gid": "E0675",
+"gid": "E0667",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29076,7 +29076,7 @@ I_events_0 = [
 "date": "1918",
 "date_sdn": 2421595,
 "descr": "",
-"gid": "E0676",
+"gid": "E0668",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29091,7 +29091,7 @@ I_events_0 = [
 "date": "1 June 1940",
 "date_sdn": 2429782,
 "descr": "",
-"gid": "E0677",
+"gid": "E0669",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29108,7 +29108,7 @@ I_events_0 = [
 "date": "4 January 1934",
 "date_sdn": 2427442,
 "descr": "",
-"gid": "E0737",
+"gid": "E0729",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29123,7 +29123,7 @@ I_events_0 = [
 "date": "13 January 2019",
 "date_sdn": 2458497,
 "descr": "",
-"gid": "E0738",
+"gid": "E0730",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29140,7 +29140,7 @@ I_events_0 = [
 "date": "31 October 1873",
 "date_sdn": 2405463,
 "descr": "",
-"gid": "E0678",
+"gid": "E0670",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29155,7 +29155,7 @@ I_events_0 = [
 "date": "19 October 1950",
 "date_sdn": 2433574,
 "descr": "",
-"gid": "E0679",
+"gid": "E0671",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29172,7 +29172,7 @@ I_events_0 = [
 "date": "about 1804",
 "date_sdn": 2379957,
 "descr": "",
-"gid": "E0680",
+"gid": "E0672",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29187,7 +29187,7 @@ I_events_0 = [
 "date": "7 February 1882",
 "date_sdn": 2408484,
 "descr": "",
-"gid": "E0681",
+"gid": "E0673",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29204,7 +29204,7 @@ I_events_0 = [
 "date": "about 1859",
 "date_sdn": 2400046,
 "descr": "",
-"gid": "E0682",
+"gid": "E0674",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29219,7 +29219,7 @@ I_events_0 = [
 "date": "29 May 1917",
 "date_sdn": 2421378,
 "descr": "",
-"gid": "E0683",
+"gid": "E0675",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29236,7 +29236,7 @@ I_events_0 = [
 "date": "3 February 1931",
 "date_sdn": 2426376,
 "descr": "",
-"gid": "E0684",
+"gid": "E0676",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29251,7 +29251,7 @@ I_events_0 = [
 "date": "30 December 1992",
 "date_sdn": 2448987,
 "descr": "",
-"gid": "E0685",
+"gid": "E0677",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29268,7 +29268,7 @@ I_events_0 = [
 "date": "23 May 1902",
 "date_sdn": 2415893,
 "descr": "",
-"gid": "E0686",
+"gid": "E0678",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29283,7 +29283,7 @@ I_events_0 = [
 "date": "5 November 1972",
 "date_sdn": 2441627,
 "descr": "",
-"gid": "E0687",
+"gid": "E0679",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29301,7 +29301,7 @@ I_events_0 = [
 "date": "21 March 1928",
 "date_sdn": 2425327,
 "descr": "",
-"gid": "E0698",
+"gid": "E0690",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29316,7 +29316,7 @@ I_events_0 = [
 "date": "3 June 1929",
 "date_sdn": 2425766,
 "descr": "",
-"gid": "E0699",
+"gid": "E0691",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29334,7 +29334,7 @@ I_events_0 = [
 "date": "1932",
 "date_sdn": 2426708,
 "descr": "",
-"gid": "E0107",
+"gid": "E0106",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29349,7 +29349,7 @@ I_events_0 = [
 "date": "22 April 1986",
 "date_sdn": 2446543,
 "descr": "",
-"gid": "E0108",
+"gid": "E0107",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29368,7 +29368,7 @@ I_events_0 = [
 "date": "15 August 1891",
 "date_sdn": 2411960,
 "descr": "",
-"gid": "E0701",
+"gid": "E0693",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29383,13 +29383,13 @@ I_events_0 = [
 "date": "15 August 1891",
 "date_sdn": 2411960,
 "descr": "",
-"gid": "E0702",
+"gid": "E0694",
 "media": [],
 "part_family": [],
 "part_person": [
 1299
 ],
-"place": 643,
+"place": 642,
 "text": "",
 "type": "Death"
 }
@@ -29400,7 +29400,7 @@ I_events_0 = [
 "date": "1921",
 "date_sdn": 2422691,
 "descr": "",
-"gid": "E0735",
+"gid": "E0727",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29415,7 +29415,7 @@ I_events_0 = [
 "date": "1929",
 "date_sdn": 2425613,
 "descr": "",
-"gid": "E0736",
+"gid": "E0728",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29432,7 +29432,7 @@ I_events_0 = [
 "date": "14 February 1909",
 "date_sdn": 2418352,
 "descr": "",
-"gid": "E0703",
+"gid": "E0695",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29447,7 +29447,7 @@ I_events_0 = [
 "date": "1910",
 "date_sdn": 2418673,
 "descr": "",
-"gid": "E0704",
+"gid": "E0696",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29464,7 +29464,7 @@ I_events_0 = [
 "date": "17 September 1878",
 "date_sdn": 2407245,
 "descr": "",
-"gid": "E0705",
+"gid": "E0697",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29479,7 +29479,7 @@ I_events_0 = [
 "date": "5 July 1939",
 "date_sdn": 2429450,
 "descr": "",
-"gid": "E0706",
+"gid": "E0698",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29496,7 +29496,7 @@ I_events_0 = [
 "date": "26 April 1860",
 "date_sdn": 2400527,
 "descr": "",
-"gid": "E0707",
+"gid": "E0699",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29511,7 +29511,7 @@ I_events_0 = [
 "date": "12 October 1892",
 "date_sdn": 2412384,
 "descr": "",
-"gid": "E0708",
+"gid": "E0700",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29528,7 +29528,7 @@ I_events_0 = [
 "date": "22 December 1907",
 "date_sdn": 2417932,
 "descr": "",
-"gid": "E0709",
+"gid": "E0701",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29543,7 +29543,7 @@ I_events_0 = [
 "date": "1938",
 "date_sdn": 2428900,
 "descr": "",
-"gid": "E0710",
+"gid": "E0702",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29561,7 +29561,7 @@ I_events_0 = [
 "date": "9 May 1876",
 "date_sdn": 2406384,
 "descr": "",
-"gid": "E0712",
+"gid": "E0704",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29576,7 +29576,7 @@ I_events_0 = [
 "date": "18 November 1923",
 "date_sdn": 2423742,
 "descr": "",
-"gid": "E0713",
+"gid": "E0705",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29593,7 +29593,7 @@ I_events_0 = [
 "date": "25 November 1929",
 "date_sdn": 2425941,
 "descr": "",
-"gid": "E0714",
+"gid": "E0706",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29608,13 +29608,13 @@ I_events_0 = [
 "date": "11 June 1949",
 "date_sdn": 2433079,
 "descr": "",
-"gid": "E0715",
+"gid": "E0707",
 "media": [],
 "part_family": [],
 "part_person": [
 1307
 ],
-"place": 607,
+"place": 606,
 "text": "",
 "type": "Death"
 }
@@ -29626,7 +29626,7 @@ I_events_0 = [
 "date": "about 1849",
 "date_sdn": 2396394,
 "descr": "",
-"gid": "E0716",
+"gid": "E0708",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29647,7 +29647,7 @@ I_events_0 = [
 "date": "about 1845",
 "date_sdn": 2394933,
 "descr": "",
-"gid": "E0744",
+"gid": "E0736",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29666,7 +29666,7 @@ I_events_0 = [
 "date": "28 May 1887",
 "date_sdn": 2410420,
 "descr": "",
-"gid": "E0719",
+"gid": "E0711",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29681,7 +29681,7 @@ I_events_0 = [
 "date": "1967",
 "date_sdn": 2439492,
 "descr": "",
-"gid": "E0720",
+"gid": "E0712",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29698,7 +29698,7 @@ I_events_0 = [
 "date": "17 June 1872",
 "date_sdn": 2404962,
 "descr": "",
-"gid": "E0721",
+"gid": "E0713",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29713,7 +29713,7 @@ I_events_0 = [
 "date": "21 September 1946",
 "date_sdn": 2432085,
 "descr": "",
-"gid": "E0722",
+"gid": "E0714",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29724,18 +29724,17 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[],
 [
 {
 "cita": [],
 "date": "1849",
 "date_sdn": 2396394,
 "descr": "",
-"gid": "E0728",
+"gid": "E0720",
 "media": [],
 "part_family": [],
 "part_person": [
-1320
+1319
 ],
 "place": -1,
 "text": "",
@@ -29746,11 +29745,11 @@ I_events_0 = [
 "date": "20 February 1922",
 "date_sdn": 2423106,
 "descr": "",
-"gid": "E0729",
+"gid": "E0721",
 "media": [],
 "part_family": [],
 "part_person": [
-1320
+1319
 ],
 "place": 27,
 "text": "",
@@ -29763,11 +29762,11 @@ I_events_0 = [
 "date": "29 February 1880",
 "date_sdn": 2407775,
 "descr": "",
-"gid": "E0730",
+"gid": "E0722",
 "media": [],
 "part_family": [],
 "part_person": [
-1321
+1320
 ],
 "place": 448,
 "text": "",
@@ -29778,24 +29777,25 @@ I_events_0 = [
 "date": "4 July 1945",
 "date_sdn": 2431641,
 "descr": "",
-"gid": "E0731",
+"gid": "E0723",
 "media": [],
 "part_family": [],
 "part_person": [
-1321
+1320
 ],
 "place": 21,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [
 {
 "cita": [],
 "date": "28 January 1916",
 "date_sdn": 2420891,
 "descr": "",
-"gid": "E0732",
+"gid": "E0724",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29810,7 +29810,7 @@ I_events_0 = [
 "date": "1918",
 "date_sdn": 2421595,
 "descr": "",
-"gid": "E0733",
+"gid": "E0725",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29827,7 +29827,7 @@ I_events_0 = [
 "date": "about 1839",
 "date_sdn": 2392741,
 "descr": "",
-"gid": "E2767",
+"gid": "E2742",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29844,7 +29844,7 @@ I_events_0 = [
 "date": "1884",
 "date_sdn": 2409177,
 "descr": "",
-"gid": "E1545",
+"gid": "E1529",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29859,7 +29859,7 @@ I_events_0 = [
 "date": "December 1910",
 "date_sdn": 2419007,
 "descr": "",
-"gid": "E1546",
+"gid": "E1530",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29876,7 +29876,7 @@ I_events_0 = [
 "date": "about 1856",
 "date_sdn": 2398950,
 "descr": "",
-"gid": "E2473",
+"gid": "E2453",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29893,7 +29893,7 @@ I_events_0 = [
 "date": "21 September 1784",
 "date_sdn": 2372917,
 "descr": "",
-"gid": "E2522",
+"gid": "E2501",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29908,7 +29908,7 @@ I_events_0 = [
 "date": "10 May 1862",
 "date_sdn": 2401271,
 "descr": "",
-"gid": "E2523",
+"gid": "E2502",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29925,7 +29925,7 @@ I_events_0 = [
 "date": "about 1833",
 "date_sdn": 2390550,
 "descr": "",
-"gid": "E2766",
+"gid": "E2741",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29942,7 +29942,7 @@ I_events_0 = [
 "date": "1 April 1793",
 "date_sdn": 2376031,
 "descr": "",
-"gid": "E2516",
+"gid": "E2495",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29957,7 +29957,7 @@ I_events_0 = [
 "date": "21 August 1858",
 "date_sdn": 2399913,
 "descr": "",
-"gid": "E2517",
+"gid": "E2496",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29974,7 +29974,7 @@ I_events_0 = [
 "date": "1826",
 "date_sdn": 2387993,
 "descr": "",
-"gid": "E2468",
+"gid": "E2448",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -29989,7 +29989,7 @@ I_events_0 = [
 "date": "2 March 1899",
 "date_sdn": 2414716,
 "descr": "",
-"gid": "E2469",
+"gid": "E2449",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30006,7 +30006,7 @@ I_events_0 = [
 "date": "19 February 1795",
 "date_sdn": 2376720,
 "descr": "",
-"gid": "E2514",
+"gid": "E2493",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30021,7 +30021,7 @@ I_events_0 = [
 "date": "13 August 1856",
 "date_sdn": 2399175,
 "descr": "",
-"gid": "E2515",
+"gid": "E2494",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30038,7 +30038,7 @@ I_events_0 = [
 "date": "7 June 1893",
 "date_sdn": 2412622,
 "descr": "",
-"gid": "E1547",
+"gid": "E1531",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30053,7 +30053,7 @@ I_events_0 = [
 "date": "April 1853",
 "date_sdn": 2397945,
 "descr": "",
-"gid": "E2332",
+"gid": "E2314",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30070,7 +30070,7 @@ I_events_0 = [
 "date": "1876",
 "date_sdn": 2406255,
 "descr": "",
-"gid": "E2492",
+"gid": "E2471",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30085,7 +30085,7 @@ I_events_0 = [
 "date": "1947",
 "date_sdn": 2432187,
 "descr": "",
-"gid": "E2927",
+"gid": "E2898",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30102,7 +30102,7 @@ I_events_0 = [
 "date": "26 June 1814",
 "date_sdn": 2383786,
 "descr": "",
-"gid": "E2504",
+"gid": "E2483",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30117,7 +30117,7 @@ I_events_0 = [
 "date": "24 April 1878",
 "date_sdn": 2407099,
 "descr": "",
-"gid": "E2505",
+"gid": "E2484",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30135,7 +30135,7 @@ I_events_0 = [
 "date": "13 November 1827",
 "date_sdn": 2388674,
 "descr": "",
-"gid": "E2498",
+"gid": "E2477",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30150,7 +30150,7 @@ I_events_0 = [
 "date": "5 January 1888",
 "date_sdn": 2410642,
 "descr": "",
-"gid": "E2499",
+"gid": "E2478",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30167,7 +30167,7 @@ I_events_0 = [
 "date": "about 1842",
 "date_sdn": 2393837,
 "descr": "",
-"gid": "E2769",
+"gid": "E2744",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30184,7 +30184,7 @@ I_events_0 = [
 "date": "1746",
 "date_sdn": 2358774,
 "descr": "",
-"gid": "E2510",
+"gid": "E2489",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30199,7 +30199,7 @@ I_events_0 = [
 "date": "1831",
 "date_sdn": 2389819,
 "descr": "",
-"gid": "E2511",
+"gid": "E2490",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30216,7 +30216,7 @@ I_events_0 = [
 "date": "1 July 1790",
 "date_sdn": 2375026,
 "descr": "",
-"gid": "E2518",
+"gid": "E2497",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30231,7 +30231,7 @@ I_events_0 = [
 "date": "9 June 1869",
 "date_sdn": 2403858,
 "descr": "",
-"gid": "E2519",
+"gid": "E2498",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30248,7 +30248,7 @@ I_events_0 = [
 "date": "1 December 1785",
 "date_sdn": 2373353,
 "descr": "",
-"gid": "E2520",
+"gid": "E2499",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30263,7 +30263,7 @@ I_events_0 = [
 "date": "9 January 1786",
 "date_sdn": 2373392,
 "descr": "",
-"gid": "E2521",
+"gid": "E2500",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30280,7 +30280,7 @@ I_events_0 = [
 "date": "16 April 1819",
 "date_sdn": 2385541,
 "descr": "",
-"gid": "E2502",
+"gid": "E2481",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30295,7 +30295,7 @@ I_events_0 = [
 "date": "28 February 1882",
 "date_sdn": 2408505,
 "descr": "",
-"gid": "E2503",
+"gid": "E2482",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30312,7 +30312,7 @@ I_events_0 = [
 "date": "1730",
 "date_sdn": 2352930,
 "descr": "",
-"gid": "E2538",
+"gid": "E2517",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30327,7 +30327,7 @@ I_events_0 = [
 "date": "25 March 1796",
 "date_sdn": 2377120,
 "descr": "",
-"gid": "E2539",
+"gid": "E2518",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30344,7 +30344,7 @@ I_events_0 = [
 "date": "10 February 1824",
 "date_sdn": 2387302,
 "descr": "",
-"gid": "E2500",
+"gid": "E2479",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30359,7 +30359,7 @@ I_events_0 = [
 "date": "1 December 1890",
 "date_sdn": 2411703,
 "descr": "",
-"gid": "E2501",
+"gid": "E2480",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30376,7 +30376,7 @@ I_events_0 = [
 "date": "1776",
 "date_sdn": 2369731,
 "descr": "",
-"gid": "E2526",
+"gid": "E2505",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30391,7 +30391,7 @@ I_events_0 = [
 "date": "1790",
 "date_sdn": 2374845,
 "descr": "",
-"gid": "E2527",
+"gid": "E2506",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30408,7 +30408,7 @@ I_events_0 = [
 "date": "about 1831",
 "date_sdn": 2389819,
 "descr": "",
-"gid": "E2765",
+"gid": "E2740",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30425,7 +30425,7 @@ I_events_0 = [
 "date": "6 September 1862",
 "date_sdn": 2401390,
 "descr": "",
-"gid": "E2478",
+"gid": "E2457",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30442,7 +30442,7 @@ I_events_0 = [
 "date": "about 1839",
 "date_sdn": 2392741,
 "descr": "",
-"gid": "E2768",
+"gid": "E2743",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30459,7 +30459,7 @@ I_events_0 = [
 "date": "about 1877",
 "date_sdn": 2406621,
 "descr": "",
-"gid": "E2493",
+"gid": "E2472",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30476,7 +30476,7 @@ I_events_0 = [
 "date": "31 May 1778",
 "date_sdn": 2370612,
 "descr": "",
-"gid": "E2524",
+"gid": "E2503",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30491,7 +30491,7 @@ I_events_0 = [
 "date": "24 February 1871",
 "date_sdn": 2404483,
 "descr": "",
-"gid": "E2525",
+"gid": "E2504",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30508,7 +30508,7 @@ I_events_0 = [
 "date": "3 July 1857",
 "date_sdn": 2399499,
 "descr": "",
-"gid": "E2475",
+"gid": "E2454",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30525,7 +30525,7 @@ I_events_0 = [
 "date": "about 1700",
 "date_sdn": 2341973,
 "descr": "",
-"gid": "E2542",
+"gid": "E2521",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30540,7 +30540,7 @@ I_events_0 = [
 "date": "1775",
 "date_sdn": 2369366,
 "descr": "",
-"gid": "E2543",
+"gid": "E2522",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30557,7 +30557,7 @@ I_events_0 = [
 "date": "1790",
 "date_sdn": 2374845,
 "descr": "",
-"gid": "E2506",
+"gid": "E2485",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30572,7 +30572,7 @@ I_events_0 = [
 "date": "5 September 1870",
 "date_sdn": 2404311,
 "descr": "",
-"gid": "E2507",
+"gid": "E2486",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30590,7 +30590,7 @@ I_events_0 = [
 "date": "about 1849",
 "date_sdn": 2396394,
 "descr": "",
-"gid": "E2476",
+"gid": "E2455",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30605,7 +30605,7 @@ I_events_0 = [
 "date": "14 June 1912",
 "date_sdn": 2419568,
 "descr": "",
-"gid": "E2477",
+"gid": "E2456",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30622,7 +30622,7 @@ I_events_0 = [
 "date": "about 1680",
 "date_sdn": 2334668,
 "descr": "",
-"gid": "E2546",
+"gid": "E2525",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30639,14 +30639,14 @@ I_events_0 = [
 "date": "16 February 1907",
 "date_sdn": 2417623,
 "descr": "",
-"gid": "E0739",
+"gid": "E0731",
 "media": [],
 "part_family": [],
 "part_person": [
 1355
 ],
 "place": 234,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nIllegitimate - father unknown\n</p>\n</div>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nIllegitimate - father unknown\n</p>\n</div>\n</div>",
 "type": "Birth"
 },
 {
@@ -30654,7 +30654,7 @@ I_events_0 = [
 "date": "13 March 1986",
 "date_sdn": 2446503,
 "descr": "",
-"gid": "E0740",
+"gid": "E0732",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30671,7 +30671,7 @@ I_events_0 = [
 "date": "about 1811",
 "date_sdn": 2382514,
 "descr": "",
-"gid": "E1525",
+"gid": "E1509",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30686,7 +30686,7 @@ I_events_0 = [
 "date": "1866",
 "date_sdn": 2402603,
 "descr": "",
-"gid": "E2333",
+"gid": "E2315",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30703,7 +30703,7 @@ I_events_0 = [
 "date": "calculated between 1756 and 1795",
 "date_sdn": 2362426,
 "descr": "",
-"gid": "E2466",
+"gid": "E2446",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30718,7 +30718,7 @@ I_events_0 = [
 "date": "calculated between 1811 and 1895",
 "date_sdn": 2382514,
 "descr": "",
-"gid": "E2467",
+"gid": "E2447",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30736,7 +30736,7 @@ I_events_0 = [
 "date": "about 1810",
 "date_sdn": 2382149,
 "descr": "",
-"gid": "E0743",
+"gid": "E0735",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30753,7 +30753,7 @@ I_events_0 = [
 "date": "April 1872",
 "date_sdn": 2404885,
 "descr": "",
-"gid": "E2849",
+"gid": "E2822",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30768,7 +30768,7 @@ I_events_0 = [
 "date": "27 January 1919",
 "date_sdn": 2421986,
 "descr": "",
-"gid": "E2863",
+"gid": "E2835",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30785,7 +30785,7 @@ I_events_0 = [
 "date": "April 1880",
 "date_sdn": 2407807,
 "descr": "",
-"gid": "E2851",
+"gid": "E2824",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30803,7 +30803,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E2852",
+"gid": "E2825",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30818,7 +30818,7 @@ I_events_0 = [
 "date": "27 July 1912",
 "date_sdn": 2419611,
 "descr": "",
-"gid": "E2872",
+"gid": "E2844",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30835,7 +30835,7 @@ I_events_0 = [
 "date": "July 1899",
 "date_sdn": 2414837,
 "descr": "",
-"gid": "E2871",
+"gid": "E2843",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30852,7 +30852,7 @@ I_events_0 = [
 "date": "1843",
 "date_sdn": 2394202,
 "descr": "",
-"gid": "E2848",
+"gid": "E2821",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30869,7 +30869,7 @@ I_events_0 = [
 "date": "July 1873",
 "date_sdn": 2405341,
 "descr": "",
-"gid": "E2850",
+"gid": "E2823",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30887,7 +30887,7 @@ I_events_0 = [
 "date": "April 1896",
 "date_sdn": 2413651,
 "descr": "",
-"gid": "E2999",
+"gid": "E2969",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30904,7 +30904,7 @@ I_events_0 = [
 "date": "1755",
 "date_sdn": 2362061,
 "descr": "",
-"gid": "E0745",
+"gid": "E0737",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30922,7 +30922,7 @@ I_events_0 = [
 "date": "about 1863",
 "date_sdn": 2401507,
 "descr": "",
-"gid": "E2489",
+"gid": "E2468",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30939,7 +30939,7 @@ I_events_0 = [
 "date": "29 November 1740",
 "date_sdn": 2356915,
 "descr": "",
-"gid": "E2532",
+"gid": "E2511",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30954,7 +30954,7 @@ I_events_0 = [
 "date": "May 1802",
 "date_sdn": 2379347,
 "descr": "",
-"gid": "E2533",
+"gid": "E2512",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30971,7 +30971,7 @@ I_events_0 = [
 "date": "31 August 1746",
 "date_sdn": 2359016,
 "descr": "",
-"gid": "E2512",
+"gid": "E2491",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -30986,7 +30986,7 @@ I_events_0 = [
 "date": "after 6 June 1841",
 "date_sdn": 2393628,
 "descr": "",
-"gid": "E2513",
+"gid": "E2492",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31003,7 +31003,7 @@ I_events_0 = [
 "date": "about 1861",
 "date_sdn": 2400777,
 "descr": "",
-"gid": "E2488",
+"gid": "E2467",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31020,7 +31020,7 @@ I_events_0 = [
 "date": "1718",
 "date_sdn": 2348547,
 "descr": "",
-"gid": "E2528",
+"gid": "E2507",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31035,7 +31035,7 @@ I_events_0 = [
 "date": "1764",
 "date_sdn": 2365348,
 "descr": "",
-"gid": "E2529",
+"gid": "E2508",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31052,7 +31052,7 @@ I_events_0 = [
 "date": "about 1866",
 "date_sdn": 2402603,
 "descr": "",
-"gid": "E2491",
+"gid": "E2470",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31066,46 +31066,14 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "16 October 1744",
-"date_sdn": 2358332,
-"descr": "",
-"gid": "E2534",
-"media": [],
-"part_family": [],
-"part_person": [
-1377
-],
-"place": 397,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "21 October 1812",
-"date_sdn": 2383173,
-"descr": "",
-"gid": "E2535",
-"media": [],
-"part_family": [],
-"part_person": [
-1377
-],
-"place": 195,
-"text": "",
-"type": "Death"
-}
-],
-[
-{
-"cita": [],
 "date": "17 May 1942",
 "date_sdn": 2430497,
 "descr": "",
-"gid": "E2334",
+"gid": "E2316",
 "media": [],
 "part_family": [],
 "part_person": [
-1378
+1377
 ],
 "place": 32,
 "text": "",
@@ -31116,11 +31084,11 @@ I_events_0 = [
 "date": "1853",
 "date_sdn": 2397855,
 "descr": "",
-"gid": "E2335",
+"gid": "E2317",
 "media": [],
 "part_family": [],
 "part_person": [
-1378
+1377
 ],
 "place": -1,
 "text": "",
@@ -31130,10 +31098,42 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "16 October 1744",
+"date_sdn": 2358332,
+"descr": "",
+"gid": "E2513",
+"media": [],
+"part_family": [],
+"part_person": [
+1378
+],
+"place": 397,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "21 October 1812",
+"date_sdn": 2383173,
+"descr": "",
+"gid": "E2514",
+"media": [],
+"part_family": [],
+"part_person": [
+1378
+],
+"place": 195,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
 "date": "1753",
 "date_sdn": 2361331,
 "descr": "",
-"gid": "E2536",
+"gid": "E2515",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31148,7 +31148,7 @@ I_events_0 = [
 "date": "1815",
 "date_sdn": 2383975,
 "descr": "",
-"gid": "E2537",
+"gid": "E2516",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31165,7 +31165,7 @@ I_events_0 = [
 "date": "about 1866",
 "date_sdn": 2402603,
 "descr": "",
-"gid": "E2490",
+"gid": "E2469",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31182,7 +31182,7 @@ I_events_0 = [
 "date": "calculated between 1806 and 1837",
 "date_sdn": 2380688,
 "descr": "",
-"gid": "E2485",
+"gid": "E2464",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31197,7 +31197,7 @@ I_events_0 = [
 "date": "calculated between 1866 and 1937",
 "date_sdn": 2402603,
 "descr": "",
-"gid": "E2486",
+"gid": "E2465",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31214,7 +31214,7 @@ I_events_0 = [
 "date": "about 1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E2487",
+"gid": "E2466",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31231,7 +31231,7 @@ I_events_0 = [
 "date": "28 October 1739",
 "date_sdn": 2356517,
 "descr": "",
-"gid": "E2531",
+"gid": "E2510",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31248,7 +31248,7 @@ I_events_0 = [
 "date": "1741",
 "date_sdn": 2356948,
 "descr": "",
-"gid": "E0746",
+"gid": "E0738",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31263,7 +31263,7 @@ I_events_0 = [
 "date": "about 1801",
 "date_sdn": 2378862,
 "descr": "",
-"gid": "E0747",
+"gid": "E0739",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31280,7 +31280,7 @@ I_events_0 = [
 "date": "between 1660 and 1704",
 "date_sdn": 2327363,
 "descr": "",
-"gid": "E1425",
+"gid": "E1409",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31295,7 +31295,7 @@ I_events_0 = [
 "date": "between 1720 and 1760",
 "date_sdn": 2349277,
 "descr": "",
-"gid": "E1426",
+"gid": "E1410",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31312,7 +31312,7 @@ I_events_0 = [
 "date": "1766",
 "date_sdn": 2366079,
 "descr": "",
-"gid": "E0748",
+"gid": "E0740",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31329,7 +31329,7 @@ I_events_0 = [
 "date": "1720",
 "date_sdn": 2349277,
 "descr": "",
-"gid": "E1424",
+"gid": "E1408",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31346,7 +31346,7 @@ I_events_0 = [
 "date": "1545",
 "date_sdn": 2285360,
 "descr": "",
-"gid": "E1735",
+"gid": "E1718",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31364,13 +31364,13 @@ I_events_0 = [
 "date": "1841",
 "date_sdn": 2393472,
 "descr": "",
-"gid": "E2670",
+"gid": "E2647",
 "media": [],
 "part_family": [],
 "part_person": [
 1390
 ],
-"place": 583,
+"place": 582,
 "text": "",
 "type": "Birth"
 }
@@ -31381,13 +31381,13 @@ I_events_0 = [
 "date": "1846",
 "date_sdn": 2395298,
 "descr": "",
-"gid": "E2671",
+"gid": "E2648",
 "media": [],
 "part_family": [],
 "part_person": [
 1391
 ],
-"place": 583,
+"place": 582,
 "text": "",
 "type": "Birth"
 }
@@ -31398,13 +31398,13 @@ I_events_0 = [
 "date": "1818",
 "date_sdn": 2385071,
 "descr": "",
-"gid": "E2658",
+"gid": "E2635",
 "media": [],
 "part_family": [],
 "part_person": [
 1392
 ],
-"place": 583,
+"place": 582,
 "text": "",
 "type": "Birth"
 },
@@ -31413,7 +31413,7 @@ I_events_0 = [
 "date": "7 June 1880",
 "date_sdn": 2407874,
 "descr": "",
-"gid": "E2659",
+"gid": "E2636",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31433,7 +31433,7 @@ I_events_0 = [
 "date": "about 1885",
 "date_sdn": 2409543,
 "descr": "",
-"gid": "E2825",
+"gid": "E2798",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31453,7 +31453,7 @@ I_events_0 = [
 "date": "about 1886",
 "date_sdn": 2409908,
 "descr": "",
-"gid": "E1302",
+"gid": "E1286",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31473,7 +31473,7 @@ I_events_0 = [
 "date": "1710",
 "date_sdn": 2345625,
 "descr": "",
-"gid": "E0751",
+"gid": "E0743",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31490,7 +31490,7 @@ I_events_0 = [
 "date": "1742",
 "date_sdn": 2357313,
 "descr": "",
-"gid": "E0752",
+"gid": "E0744",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31505,7 +31505,7 @@ I_events_0 = [
 "date": "July 1784",
 "date_sdn": 2372835,
 "descr": "",
-"gid": "E0753",
+"gid": "E0745",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31522,7 +31522,7 @@ I_events_0 = [
 "date": "June 1852",
 "date_sdn": 2397641,
 "descr": "",
-"gid": "E0754",
+"gid": "E0746",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31539,13 +31539,13 @@ I_events_0 = [
 "date": "October 1856",
 "date_sdn": 2399224,
 "descr": "",
-"gid": "E1092",
+"gid": "E1076",
 "media": [],
 "part_family": [],
 "part_person": [
 1407
 ],
-"place": 659,
+"place": 658,
 "text": "",
 "type": "Birth"
 },
@@ -31554,7 +31554,7 @@ I_events_0 = [
 "date": "26 March 1917",
 "date_sdn": 2421314,
 "descr": "",
-"gid": "E1093",
+"gid": "E1077",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31571,13 +31571,13 @@ I_events_0 = [
 "date": "about 1875",
 "date_sdn": 2405890,
 "descr": "",
-"gid": "E2141",
+"gid": "E2124",
 "media": [],
 "part_family": [],
 "part_person": [
 1408
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -31586,7 +31586,7 @@ I_events_0 = [
 "date": "21 March 1945",
 "date_sdn": 2431536,
 "descr": "",
-"gid": "E2142",
+"gid": "E2125",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31603,7 +31603,7 @@ I_events_0 = [
 "date": "28 April 1905",
 "date_sdn": 2416964,
 "descr": "",
-"gid": "E1010",
+"gid": "E0994",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31618,13 +31618,13 @@ I_events_0 = [
 "date": "1 November 1982",
 "date_sdn": 2445275,
 "descr": "",
-"gid": "E1011",
+"gid": "E0995",
 "media": [],
 "part_family": [],
 "part_person": [
 1409
 ],
-"place": 617,
+"place": 616,
 "text": "",
 "type": "Death"
 },
@@ -31633,7 +31633,7 @@ I_events_0 = [
 "date": "1923",
 "date_sdn": 2423421,
 "descr": "",
-"gid": "E1012",
+"gid": "E0996",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31651,13 +31651,13 @@ I_events_0 = [
 "date": "12 August 1898",
 "date_sdn": 2414514,
 "descr": "",
-"gid": "E0755",
+"gid": "E0747",
 "media": [],
 "part_family": [],
 "part_person": [
 1411
 ],
-"place": 582,
+"place": 581,
 "text": "",
 "type": "Birth"
 }
@@ -31668,7 +31668,7 @@ I_events_0 = [
 "date": "9 November 1829",
 "date_sdn": 2389401,
 "descr": "",
-"gid": "E1341",
+"gid": "E1325",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31683,7 +31683,7 @@ I_events_0 = [
 "date": "about 1895",
 "date_sdn": 2413195,
 "descr": "",
-"gid": "E1342",
+"gid": "E1326",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31700,13 +31700,13 @@ I_events_0 = [
 "date": "1712",
 "date_sdn": 2346355,
 "descr": "",
-"gid": "E0756",
+"gid": "E0748",
 "media": [],
 "part_family": [],
 "part_person": [
 1413
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -31715,7 +31715,7 @@ I_events_0 = [
 "date": "January 1799",
 "date_sdn": 2378132,
 "descr": "",
-"gid": "E0757",
+"gid": "E0749",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31730,7 +31730,7 @@ I_events_0 = [
 "date": "29 January 1799",
 "date_sdn": 2378160,
 "descr": "",
-"gid": "E0758",
+"gid": "E0750",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31748,7 +31748,7 @@ I_events_0 = [
 "date": "April 1883",
 "date_sdn": 2408902,
 "descr": "",
-"gid": "E0759",
+"gid": "E0751",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31763,7 +31763,7 @@ I_events_0 = [
 "date": "calculated between 1914 and 1983",
 "date_sdn": 2420134,
 "descr": "",
-"gid": "E0760",
+"gid": "E0752",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31782,7 +31782,7 @@ I_events_0 = [
 "date": "2 September 1853",
 "date_sdn": 2398099,
 "descr": "",
-"gid": "E0763",
+"gid": "E0755",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31797,7 +31797,7 @@ I_events_0 = [
 "date": "January 1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E0764",
+"gid": "E0756",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31812,7 +31812,7 @@ I_events_0 = [
 "date": "30 October 1853",
 "date_sdn": 2398157,
 "descr": "",
-"gid": "E0765",
+"gid": "E0757",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31829,7 +31829,7 @@ I_events_0 = [
 "date": "25 August 1910",
 "date_sdn": 2418909,
 "descr": "",
-"gid": "E1565",
+"gid": "E1548",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31844,13 +31844,13 @@ I_events_0 = [
 "date": "September 1975",
 "date_sdn": 2442657,
 "descr": "",
-"gid": "E1566",
+"gid": "E1549",
 "media": [],
 "part_family": [],
 "part_person": [
 1419
 ],
-"place": 596,
+"place": 595,
 "text": "",
 "type": "Death"
 }
@@ -31861,7 +31861,7 @@ I_events_0 = [
 "date": "27 November 1900",
 "date_sdn": 2415351,
 "descr": "",
-"gid": "E1582",
+"gid": "E1565",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31876,7 +31876,7 @@ I_events_0 = [
 "date": "May 1979",
 "date_sdn": 2443995,
 "descr": "",
-"gid": "E1583",
+"gid": "E1566",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31893,7 +31893,7 @@ I_events_0 = [
 "date": "26 January 1928",
 "date_sdn": 2425272,
 "descr": "",
-"gid": "E1584",
+"gid": "E1567",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31908,13 +31908,13 @@ I_events_0 = [
 "date": "24 September 1979",
 "date_sdn": 2444141,
 "descr": "",
-"gid": "E1585",
+"gid": "E1568",
 "media": [],
 "part_family": [],
 "part_person": [
 1421
 ],
-"place": 612,
+"place": 611,
 "text": "",
 "type": "Death"
 }
@@ -31925,7 +31925,7 @@ I_events_0 = [
 "date": "19 July 1923",
 "date_sdn": 2423620,
 "descr": "",
-"gid": "E2796",
+"gid": "E2770",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31940,7 +31940,7 @@ I_events_0 = [
 "date": "29 January 2007",
 "date_sdn": 2454130,
 "descr": "",
-"gid": "E2797",
+"gid": "E2771",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31958,7 +31958,7 @@ I_events_0 = [
 "date": "1890",
 "date_sdn": 2411369,
 "descr": "",
-"gid": "E2583",
+"gid": "E2562",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -31973,13 +31973,13 @@ I_events_0 = [
 "date": "28 April 1867",
 "date_sdn": 2403085,
 "descr": "",
-"gid": "E2776",
+"gid": "E2751",
 "media": [],
 "part_family": [],
 "part_person": [
 1424
 ],
-"place": 593,
+"place": 592,
 "text": "",
 "type": "Baptism"
 }
@@ -31991,7 +31991,7 @@ I_events_0 = [
 "date": "8 May 1895",
 "date_sdn": 2413322,
 "descr": "",
-"gid": "E2785",
+"gid": "E2759",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32008,13 +32008,13 @@ I_events_0 = [
 "date": "17 October 1911",
 "date_sdn": 2419327,
 "descr": "",
-"gid": "E1016",
+"gid": "E1000",
 "media": [],
 "part_family": [],
 "part_person": [
 1427
 ],
-"place": 617,
+"place": 616,
 "text": "",
 "type": "Birth"
 },
@@ -32023,13 +32023,13 @@ I_events_0 = [
 "date": "23 December 1987",
 "date_sdn": 2447153,
 "descr": "",
-"gid": "E1017",
+"gid": "E1001",
 "media": [],
 "part_family": [],
 "part_person": [
 1427
 ],
-"place": 617,
+"place": 616,
 "text": "",
 "type": "Death"
 }
@@ -32041,7 +32041,7 @@ I_events_0 = [
 "date": "13 July 1910",
 "date_sdn": 2418866,
 "descr": "",
-"gid": "E2117",
+"gid": "E2100",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32056,7 +32056,7 @@ I_events_0 = [
 "date": "December 1961",
 "date_sdn": 2437635,
 "descr": "",
-"gid": "E2118",
+"gid": "E2101",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32073,7 +32073,7 @@ I_events_0 = [
 "date": "about 1888",
 "date_sdn": 2410638,
 "descr": "",
-"gid": "E2115",
+"gid": "E2098",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32088,13 +32088,13 @@ I_events_0 = [
 "date": "March 1956",
 "date_sdn": 2435534,
 "descr": "",
-"gid": "E2116",
+"gid": "E2099",
 "media": [],
 "part_family": [],
 "part_person": [
 1430
 ],
-"place": 605,
+"place": 604,
 "text": "",
 "type": "Death"
 }
@@ -32105,13 +32105,13 @@ I_events_0 = [
 "date": "about 1817",
 "date_sdn": 2384706,
 "descr": "",
-"gid": "E1495",
+"gid": "E1479",
 "media": [],
 "part_family": [],
 "part_person": [
 1431
 ],
-"place": 589,
+"place": 588,
 "text": "",
 "type": "Birth"
 },
@@ -32120,7 +32120,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1496",
+"gid": "E1480",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32137,7 +32137,7 @@ I_events_0 = [
 "date": "12 March 1868",
 "date_sdn": 2403404,
 "descr": "",
-"gid": "E2630",
+"gid": "E2607",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32154,7 +32154,7 @@ I_events_0 = [
 "date": "19 October 1844",
 "date_sdn": 2394859,
 "descr": "",
-"gid": "E2645",
+"gid": "E2622",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32169,7 +32169,7 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E2646",
+"gid": "E2623",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32188,7 +32188,7 @@ I_events_0 = [
 "date": "8 September 1837",
 "date_sdn": 2392261,
 "descr": "",
-"gid": "E2642",
+"gid": "E2619",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32205,7 +32205,7 @@ I_events_0 = [
 "date": "25 December 1862",
 "date_sdn": 2401500,
 "descr": "",
-"gid": "E2628",
+"gid": "E2605",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32222,7 +32222,7 @@ I_events_0 = [
 "date": "about 1866",
 "date_sdn": 2402603,
 "descr": "",
-"gid": "E2629",
+"gid": "E2606",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32239,7 +32239,7 @@ I_events_0 = [
 "date": "1884",
 "date_sdn": 2409177,
 "descr": "",
-"gid": "E2632",
+"gid": "E2609",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32256,7 +32256,7 @@ I_events_0 = [
 "date": "2 June 1840",
 "date_sdn": 2393259,
 "descr": "",
-"gid": "E2643",
+"gid": "E2620",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32271,7 +32271,7 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E2646",
+"gid": "E2623",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32290,7 +32290,7 @@ I_events_0 = [
 "date": "about 1878",
 "date_sdn": 2406986,
 "descr": "",
-"gid": "E0774",
+"gid": "E0762",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32305,7 +32305,7 @@ I_events_0 = [
 "date": "between 1915 and 1921",
 "date_sdn": 2420499,
 "descr": "",
-"gid": "E2336",
+"gid": "E2318",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32320,7 +32320,7 @@ I_events_0 = [
 "date": "1915",
 "date_sdn": 2420499,
 "descr": "",
-"gid": "E2638",
+"gid": "E2615",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32337,7 +32337,7 @@ I_events_0 = [
 "date": "2 April 1910",
 "date_sdn": 2418764,
 "descr": "",
-"gid": "E0775",
+"gid": "E0763",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32352,7 +32352,7 @@ I_events_0 = [
 "date": "30 March 1976",
 "date_sdn": 2442868,
 "descr": "",
-"gid": "E0776",
+"gid": "E0764",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32367,7 +32367,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0777",
+"gid": "E0765",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32381,31 +32381,14 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "about 1859",
-"date_sdn": 2400046,
+"date": "5 August 1797",
+"date_sdn": 2377618,
 "descr": "",
-"gid": "E2627",
+"gid": "E0956",
 "media": [],
 "part_family": [],
 "part_person": [
 1441
-],
-"place": -1,
-"text": "<div>\n<i class=\"NoteType\">\nOccupation\n</i>\n<div class=\"grampsstylednote\">\n<p>\nWholesale stationer\n</p>\n</div>\n</div>",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "5 August 1797",
-"date_sdn": 2377618,
-"descr": "",
-"gid": "E0972",
-"media": [],
-"part_family": [],
-"part_person": [
-1442
 ],
 "place": 165,
 "text": "",
@@ -32416,11 +32399,11 @@ I_events_0 = [
 "date": "21 March 1874",
 "date_sdn": 2405604,
 "descr": "",
-"gid": "E0973",
+"gid": "E0957",
 "media": [],
 "part_family": [],
 "part_person": [
-1442
+1441
 ],
 "place": 474,
 "text": "",
@@ -32430,10 +32413,27 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "about 1859",
+"date_sdn": 2400046,
+"descr": "",
+"gid": "E2604",
+"media": [],
+"part_family": [],
+"part_person": [
+1442
+],
+"place": -1,
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nWholesale stationer\n</p>\n</div>\n</div>",
+"type": "Birth"
+}
+],
+[
+{
+"cita": [],
 "date": "18 May 1833",
 "date_sdn": 2390687,
 "descr": "",
-"gid": "E2640",
+"gid": "E2617",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32448,7 +32448,7 @@ I_events_0 = [
 "date": "3 June 1917",
 "date_sdn": 2421383,
 "descr": "",
-"gid": "E2641",
+"gid": "E2618",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32463,7 +32463,7 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E2646",
+"gid": "E2623",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32482,7 +32482,7 @@ I_events_0 = [
 "date": "1843",
 "date_sdn": 2394202,
 "descr": "",
-"gid": "E2644",
+"gid": "E2621",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32499,7 +32499,7 @@ I_events_0 = [
 "date": "1836",
 "date_sdn": 2391645,
 "descr": "",
-"gid": "E2555",
+"gid": "E2534",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32514,7 +32514,7 @@ I_events_0 = [
 "date": "calculated between 1878 and 1962",
 "date_sdn": 2406986,
 "descr": "",
-"gid": "E2556",
+"gid": "E2535",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32531,7 +32531,7 @@ I_events_0 = [
 "date": "25 September 1870",
 "date_sdn": 2404331,
 "descr": "",
-"gid": "E2631",
+"gid": "E2608",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32548,7 +32548,7 @@ I_events_0 = [
 "date": "11 November 1860",
 "date_sdn": 2400726,
 "descr": "",
-"gid": "E2626",
+"gid": "E2603",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32565,7 +32565,7 @@ I_events_0 = [
 "date": "July 1902",
 "date_sdn": 2415932,
 "descr": "",
-"gid": "E2967",
+"gid": "E2938",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32582,7 +32582,7 @@ I_events_0 = [
 "date": "July 1890",
 "date_sdn": 2411550,
 "descr": "",
-"gid": "E2963",
+"gid": "E2934",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32599,7 +32599,7 @@ I_events_0 = [
 "date": "8 December 1900",
 "date_sdn": 2415362,
 "descr": "",
-"gid": "E2966",
+"gid": "E2937",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32616,7 +32616,7 @@ I_events_0 = [
 "date": "6 August 1896",
 "date_sdn": 2413778,
 "descr": "",
-"gid": "E2965",
+"gid": "E2936",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32633,7 +32633,7 @@ I_events_0 = [
 "date": "October 1864",
 "date_sdn": 2402146,
 "descr": "",
-"gid": "E2960",
+"gid": "E2931",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32648,7 +32648,7 @@ I_events_0 = [
 "date": "before 1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E2962",
+"gid": "E2933",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32666,7 +32666,7 @@ I_events_0 = [
 "date": "October 1891",
 "date_sdn": 2412007,
 "descr": "",
-"gid": "E2964",
+"gid": "E2935",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32683,7 +32683,7 @@ I_events_0 = [
 "date": "10 March 1907",
 "date_sdn": 2417645,
 "descr": "",
-"gid": "E2969",
+"gid": "E2940",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32701,7 +32701,7 @@ I_events_0 = [
 "date": "January 1891",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E2170",
+"gid": "E2153",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32718,13 +32718,13 @@ I_events_0 = [
 "date": "about 1898",
 "date_sdn": 2414291,
 "descr": "",
-"gid": "E2172",
+"gid": "E2155",
 "media": [],
 "part_family": [],
 "part_person": [
 1458
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -32735,7 +32735,7 @@ I_events_0 = [
 "date": "October 1868",
 "date_sdn": 2403607,
 "descr": "",
-"gid": "E2167",
+"gid": "E2150",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32752,13 +32752,13 @@ I_events_0 = [
 "date": "July 1889",
 "date_sdn": 2411185,
 "descr": "",
-"gid": "E2168",
+"gid": "E2151",
 "media": [],
 "part_family": [],
 "part_person": [
 1460
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -32767,7 +32767,7 @@ I_events_0 = [
 "date": "October 1892",
 "date_sdn": 2412373,
 "descr": "",
-"gid": "E2169",
+"gid": "E2152",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32784,13 +32784,13 @@ I_events_0 = [
 "date": "about 1896",
 "date_sdn": 2413560,
 "descr": "",
-"gid": "E2171",
+"gid": "E2154",
 "media": [],
 "part_family": [],
 "part_person": [
 1461
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -32802,13 +32802,13 @@ I_events_0 = [
 "date": "1717",
 "date_sdn": 2348182,
 "descr": "",
-"gid": "E0783",
+"gid": "E0768",
 "media": [],
 "part_family": [],
 "part_person": [
 1463
 ],
-"place": 591,
+"place": 590,
 "text": "",
 "type": "Birth"
 }
@@ -32819,13 +32819,13 @@ I_events_0 = [
 "date": "1726",
 "date_sdn": 2351469,
 "descr": "",
-"gid": "E0784",
+"gid": "E0769",
 "media": [],
 "part_family": [],
 "part_person": [
 1464
 ],
-"place": 591,
+"place": 590,
 "text": "",
 "type": "Birth"
 }
@@ -32836,7 +32836,7 @@ I_events_0 = [
 "date": "1755",
 "date_sdn": 2362061,
 "descr": "",
-"gid": "E0781",
+"gid": "E0766",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32851,7 +32851,7 @@ I_events_0 = [
 "date": "7 May 1826",
 "date_sdn": 2388119,
 "descr": "",
-"gid": "E0782",
+"gid": "E0767",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32868,7 +32868,7 @@ I_events_0 = [
 "date": "1596",
 "date_sdn": 2303987,
 "descr": "",
-"gid": "E1668",
+"gid": "E1651",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32883,7 +32883,7 @@ I_events_0 = [
 "date": "1693",
 "date_sdn": 2339417,
 "descr": "",
-"gid": "E1669",
+"gid": "E1652",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32900,7 +32900,7 @@ I_events_0 = [
 "date": "between 1694 and 1723",
 "date_sdn": 2339782,
 "descr": "",
-"gid": "E1397",
+"gid": "E1381",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32915,7 +32915,7 @@ I_events_0 = [
 "date": "between 1739 and 1823",
 "date_sdn": 2356217,
 "descr": "",
-"gid": "E1398",
+"gid": "E1382",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32936,7 +32936,7 @@ I_events_0 = [
 "date": "1826",
 "date_sdn": 2387993,
 "descr": "",
-"gid": "E1123",
+"gid": "E1107",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32951,7 +32951,7 @@ I_events_0 = [
 "date": "1886",
 "date_sdn": 2409908,
 "descr": "",
-"gid": "E1124",
+"gid": "E1108",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32968,7 +32968,7 @@ I_events_0 = [
 "date": "about 1791",
 "date_sdn": 2375210,
 "descr": "",
-"gid": "E1157",
+"gid": "E1141",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -32983,7 +32983,7 @@ I_events_0 = [
 "date": "September 1863",
 "date_sdn": 2401750,
 "descr": "",
-"gid": "E1158",
+"gid": "E1142",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33000,7 +33000,7 @@ I_events_0 = [
 "date": "1905",
 "date_sdn": 2416847,
 "descr": "",
-"gid": "E2694",
+"gid": "E2671",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33019,7 +33019,7 @@ I_events_0 = [
 "date": "4 September 1904",
 "date_sdn": 2416728,
 "descr": "",
-"gid": "E0787",
+"gid": "E0772",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33034,7 +33034,7 @@ I_events_0 = [
 "date": "1 October 1987",
 "date_sdn": 2447070,
 "descr": "",
-"gid": "E0788",
+"gid": "E0773",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33053,7 +33053,7 @@ I_events_0 = [
 "date": "1610",
 "date_sdn": 2309101,
 "descr": "",
-"gid": "E1723",
+"gid": "E1706",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33071,7 +33071,7 @@ I_events_0 = [
 "date": "about 1858",
 "date_sdn": 2399681,
 "descr": "",
-"gid": "E2733",
+"gid": "E2709",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33088,7 +33088,7 @@ I_events_0 = [
 "date": "1982",
 "date_sdn": 2444971,
 "descr": "",
-"gid": "E0786",
+"gid": "E0771",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33105,13 +33105,13 @@ I_events_0 = [
 "date": "April 1905",
 "date_sdn": 2416937,
 "descr": "",
-"gid": "E2897",
+"gid": "E2869",
 "media": [],
 "part_family": [],
 "part_person": [
 1484
 ],
-"place": 627,
+"place": 626,
 "text": "",
 "type": "Birth"
 }
@@ -33122,7 +33122,7 @@ I_events_0 = [
 "date": "17 September 1928",
 "date_sdn": 2425507,
 "descr": "",
-"gid": "E3004",
+"gid": "E2974",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33137,7 +33137,7 @@ I_events_0 = [
 "date": "14 January 2008",
 "date_sdn": 2454480,
 "descr": "",
-"gid": "E3005",
+"gid": "E2975",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33154,7 +33154,7 @@ I_events_0 = [
 "date": "between 1695 and 1729",
 "date_sdn": 2340147,
 "descr": "",
-"gid": "E0789",
+"gid": "E0774",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33169,7 +33169,7 @@ I_events_0 = [
 "date": "between 1740 and 1829",
 "date_sdn": 2356582,
 "descr": "",
-"gid": "E0790",
+"gid": "E0775",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33186,13 +33186,13 @@ I_events_0 = [
 "date": "about 1890",
 "date_sdn": 2411369,
 "descr": "",
-"gid": "E2165",
+"gid": "E2148",
 "media": [],
 "part_family": [],
 "part_person": [
 1487
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -33203,13 +33203,13 @@ I_events_0 = [
 "date": "20 December 1874",
 "date_sdn": 2405878,
 "descr": "",
-"gid": "E2060",
+"gid": "E2043",
 "media": [],
 "part_family": [],
 "part_person": [
 1488
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -33218,7 +33218,7 @@ I_events_0 = [
 "date": "December 1969",
 "date_sdn": 2440557,
 "descr": "",
-"gid": "E2061",
+"gid": "E2044",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33235,7 +33235,7 @@ I_events_0 = [
 "date": "October 1855",
 "date_sdn": 2398858,
 "descr": "",
-"gid": "E2046",
+"gid": "E2029",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33250,7 +33250,7 @@ I_events_0 = [
 "date": "July 1857",
 "date_sdn": 2399497,
 "descr": "",
-"gid": "E2047",
+"gid": "E2030",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33267,13 +33267,13 @@ I_events_0 = [
 "date": "about 1889",
 "date_sdn": 2411004,
 "descr": "",
-"gid": "E2162",
+"gid": "E2145",
 "media": [],
 "part_family": [],
 "part_person": [
 1490
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -33284,13 +33284,13 @@ I_events_0 = [
 "date": "about 1862",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E2051",
+"gid": "E2034",
 "media": [],
 "part_family": [],
 "part_person": [
 1491
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -33301,13 +33301,13 @@ I_events_0 = [
 "date": "about 1882",
 "date_sdn": 2408447,
 "descr": "",
-"gid": "E2159",
+"gid": "E2142",
 "media": [],
 "part_family": [],
 "part_person": [
 1492
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -33318,13 +33318,13 @@ I_events_0 = [
 "date": "1853",
 "date_sdn": 2397855,
 "descr": "",
-"gid": "E2044",
+"gid": "E2027",
 "media": [],
 "part_family": [],
 "part_person": [
 1493
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -33333,7 +33333,7 @@ I_events_0 = [
 "date": "31 May 1945",
 "date_sdn": 2431607,
 "descr": "",
-"gid": "E2045",
+"gid": "E2028",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33350,13 +33350,13 @@ I_events_0 = [
 "date": "about 1884",
 "date_sdn": 2409177,
 "descr": "",
-"gid": "E2160",
+"gid": "E2143",
 "media": [],
 "part_family": [],
 "part_person": [
 1494
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -33367,13 +33367,13 @@ I_events_0 = [
 "date": "about 1904",
 "date_sdn": 2416481,
 "descr": "",
-"gid": "E2166",
+"gid": "E2149",
 "media": [],
 "part_family": [],
 "part_person": [
 1495
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -33384,7 +33384,7 @@ I_events_0 = [
 "date": "about 1899",
 "date_sdn": 2414656,
 "descr": "",
-"gid": "E2175",
+"gid": "E2158",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33401,7 +33401,7 @@ I_events_0 = [
 "date": "about 1904",
 "date_sdn": 2416481,
 "descr": "",
-"gid": "E2178",
+"gid": "E2161",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33418,13 +33418,13 @@ I_events_0 = [
 "date": "1866",
 "date_sdn": 2402603,
 "descr": "",
-"gid": "E2052",
+"gid": "E2035",
 "media": [],
 "part_family": [],
 "part_person": [
 1498
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -33433,7 +33433,7 @@ I_events_0 = [
 "date": "1940",
 "date_sdn": 2429630,
 "descr": "",
-"gid": "E2053",
+"gid": "E2036",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33450,7 +33450,7 @@ I_events_0 = [
 "date": "about 1906",
 "date_sdn": 2417212,
 "descr": "",
-"gid": "E2179",
+"gid": "E2162",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33467,13 +33467,13 @@ I_events_0 = [
 "date": "about 1872",
 "date_sdn": 2404794,
 "descr": "",
-"gid": "E2058",
+"gid": "E2041",
 "media": [],
 "part_family": [],
 "part_person": [
 1500
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -33482,7 +33482,7 @@ I_events_0 = [
 "date": "1955",
 "date_sdn": 2435109,
 "descr": "",
-"gid": "E2059",
+"gid": "E2042",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33499,13 +33499,13 @@ I_events_0 = [
 "date": "about 1868",
 "date_sdn": 2403333,
 "descr": "",
-"gid": "E2054",
+"gid": "E2037",
 "media": [],
 "part_family": [],
 "part_person": [
 1501
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -33514,7 +33514,7 @@ I_events_0 = [
 "date": "December 1953",
 "date_sdn": 2434713,
 "descr": "",
-"gid": "E2055",
+"gid": "E2038",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33531,7 +33531,7 @@ I_events_0 = [
 "date": "about 1902",
 "date_sdn": 2415751,
 "descr": "",
-"gid": "E2177",
+"gid": "E2160",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33548,13 +33548,13 @@ I_events_0 = [
 "date": "about 1859",
 "date_sdn": 2400046,
 "descr": "",
-"gid": "E2048",
+"gid": "E2031",
 "media": [],
 "part_family": [],
 "part_person": [
 1503
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -33563,7 +33563,7 @@ I_events_0 = [
 "date": "1947",
 "date_sdn": 2432187,
 "descr": "",
-"gid": "E2049",
+"gid": "E2032",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33580,13 +33580,13 @@ I_events_0 = [
 "date": "about 1894",
 "date_sdn": 2412830,
 "descr": "",
-"gid": "E2163",
+"gid": "E2146",
 "media": [],
 "part_family": [],
 "part_person": [
 1504
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -33597,13 +33597,13 @@ I_events_0 = [
 "date": "about 1900",
 "date_sdn": 2415021,
 "descr": "",
-"gid": "E2176",
+"gid": "E2159",
 "media": [],
 "part_family": [],
 "part_person": [
 1505
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -33614,13 +33614,13 @@ I_events_0 = [
 "date": "1870",
 "date_sdn": 2404064,
 "descr": "",
-"gid": "E2056",
+"gid": "E2039",
 "media": [],
 "part_family": [],
 "part_person": [
 1506
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -33629,7 +33629,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E2057",
+"gid": "E2040",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33646,13 +33646,13 @@ I_events_0 = [
 "date": "about 1886",
 "date_sdn": 2409908,
 "descr": "",
-"gid": "E2161",
+"gid": "E2144",
 "media": [],
 "part_family": [],
 "part_person": [
 1507
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -33663,13 +33663,13 @@ I_events_0 = [
 "date": "1831",
 "date_sdn": 2389819,
 "descr": "",
-"gid": "E2042",
+"gid": "E2025",
 "media": [],
 "part_family": [],
 "part_person": [
 1508
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -33678,7 +33678,7 @@ I_events_0 = [
 "date": "16 January 1919",
 "date_sdn": 2421975,
 "descr": "",
-"gid": "E2043",
+"gid": "E2026",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33695,13 +33695,13 @@ I_events_0 = [
 "date": "about 1860",
 "date_sdn": 2400411,
 "descr": "",
-"gid": "E2050",
+"gid": "E2033",
 "media": [],
 "part_family": [],
 "part_person": [
 1509
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -33713,7 +33713,7 @@ I_events_0 = [
 "date": "about 1876",
 "date_sdn": 2406255,
 "descr": "",
-"gid": "E2870",
+"gid": "E2842",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33734,7 +33734,7 @@ I_events_0 = [
 "date": "between 1790 and 1810",
 "date_sdn": 2374845,
 "descr": "",
-"gid": "E1227",
+"gid": "E1211",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33749,7 +33749,7 @@ I_events_0 = [
 "date": "between 1806 and 1910",
 "date_sdn": 2380688,
 "descr": "",
-"gid": "E1228",
+"gid": "E1212",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33768,7 +33768,7 @@ I_events_0 = [
 "date": "1935",
 "date_sdn": 2427804,
 "descr": "",
-"gid": "E0791",
+"gid": "E0776",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33783,7 +33783,7 @@ I_events_0 = [
 "date": "2013",
 "date_sdn": 2456294,
 "descr": "",
-"gid": "E0792",
+"gid": "E0777",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33798,7 +33798,7 @@ I_events_0 = [
 "date": "2021",
 "date_sdn": 2459216,
 "descr": "",
-"gid": "E2354",
+"gid": "E2335",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33815,7 +33815,7 @@ I_events_0 = [
 "date": "before 2022",
 "date_sdn": 2459581,
 "descr": "",
-"gid": "E3032",
+"gid": "E3001",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33832,13 +33832,13 @@ I_events_0 = [
 "date": "11 September 1932",
 "date_sdn": 2426962,
 "descr": "",
-"gid": "E1594",
+"gid": "E1577",
 "media": [],
 "part_family": [],
 "part_person": [
 1521
 ],
-"place": 569,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -33847,7 +33847,7 @@ I_events_0 = [
 "date": "1 August 2021",
 "date_sdn": 2459428,
 "descr": "",
-"gid": "E1595",
+"gid": "E1578",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33864,7 +33864,7 @@ I_events_0 = [
 "date": "1630",
 "date_sdn": 2316406,
 "descr": "",
-"gid": "E1645",
+"gid": "E1628",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33879,7 +33879,7 @@ I_events_0 = [
 "date": "1680",
 "date_sdn": 2334668,
 "descr": "",
-"gid": "E1646",
+"gid": "E1629",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33896,7 +33896,7 @@ I_events_0 = [
 "date": "1652",
 "date_sdn": 2324441,
 "descr": "",
-"gid": "E1633",
+"gid": "E1616",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33911,7 +33911,7 @@ I_events_0 = [
 "date": "19 January 1702",
 "date_sdn": 2342721,
 "descr": "",
-"gid": "E1634",
+"gid": "E1617",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33928,7 +33928,7 @@ I_events_0 = [
 "date": "about 1819",
 "date_sdn": 2385436,
 "descr": "",
-"gid": "E0793",
+"gid": "E0778",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33943,7 +33943,7 @@ I_events_0 = [
 "date": "October 1878",
 "date_sdn": 2407259,
 "descr": "",
-"gid": "E0794",
+"gid": "E0779",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33960,7 +33960,7 @@ I_events_0 = [
 "date": "calculated between 1731 and 1760",
 "date_sdn": 2353295,
 "descr": "",
-"gid": "E2703",
+"gid": "E2680",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33975,7 +33975,7 @@ I_events_0 = [
 "date": "calculated between 1788 and 1860",
 "date_sdn": 2374114,
 "descr": "",
-"gid": "E2704",
+"gid": "E2681",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -33992,7 +33992,7 @@ I_events_0 = [
 "date": "1787",
 "date_sdn": 2373749,
 "descr": "",
-"gid": "E0795",
+"gid": "E0780",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34007,7 +34007,7 @@ I_events_0 = [
 "date": "9 September 1787",
 "date_sdn": 2374000,
 "descr": "",
-"gid": "E2702",
+"gid": "E2679",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34024,7 +34024,7 @@ I_events_0 = [
 "date": "about 1897",
 "date_sdn": 2413926,
 "descr": "",
-"gid": "E2155",
+"gid": "E2138",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34041,7 +34041,7 @@ I_events_0 = [
 "date": "about 1900",
 "date_sdn": 2415021,
 "descr": "",
-"gid": "E2156",
+"gid": "E2139",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34058,7 +34058,7 @@ I_events_0 = [
 "date": "June 1882",
 "date_sdn": 2408598,
 "descr": "",
-"gid": "E2151",
+"gid": "E2134",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34075,13 +34075,13 @@ I_events_0 = [
 "date": "about 1885",
 "date_sdn": 2409543,
 "descr": "",
-"gid": "E2152",
+"gid": "E2135",
 "media": [],
 "part_family": [],
 "part_person": [
 1530
 ],
-"place": 639,
+"place": 638,
 "text": "",
 "type": "Birth"
 },
@@ -34090,7 +34090,7 @@ I_events_0 = [
 "date": "2 March 1967",
 "date_sdn": 2439552,
 "descr": "",
-"gid": "E2153",
+"gid": "E2136",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34107,7 +34107,7 @@ I_events_0 = [
 "date": "1859",
 "date_sdn": 2400046,
 "descr": "",
-"gid": "E2150",
+"gid": "E2133",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34124,13 +34124,13 @@ I_events_0 = [
 "date": "about 1887",
 "date_sdn": 2410273,
 "descr": "",
-"gid": "E2154",
+"gid": "E2137",
 "media": [],
 "part_family": [],
 "part_person": [
 1532
 ],
-"place": 639,
+"place": 638,
 "text": "",
 "type": "Birth"
 }
@@ -34141,7 +34141,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E1293",
+"gid": "E1277",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34156,13 +34156,13 @@ I_events_0 = [
 "date": "7 August 1963",
 "date_sdn": 2438249,
 "descr": "",
-"gid": "E1294",
+"gid": "E1278",
 "media": [],
 "part_family": [],
 "part_person": [
 1533
 ],
-"place": 638,
+"place": 637,
 "text": "",
 "type": "Death"
 }
@@ -34173,13 +34173,13 @@ I_events_0 = [
 "date": "7 October 1903",
 "date_sdn": 2416395,
 "descr": "",
-"gid": "E2756",
+"gid": "E2731",
 "media": [],
 "part_family": [],
 "part_person": [
 1534
 ],
-"place": 638,
+"place": 637,
 "text": "",
 "type": "Birth"
 },
@@ -34188,7 +34188,7 @@ I_events_0 = [
 "date": "January 1997",
 "date_sdn": 2450450,
 "descr": "",
-"gid": "E2757",
+"gid": "E2732",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34205,7 +34205,7 @@ I_events_0 = [
 "date": "1890",
 "date_sdn": 2411369,
 "descr": "",
-"gid": "E1298",
+"gid": "E1282",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34220,7 +34220,7 @@ I_events_0 = [
 "date": "January 1958",
 "date_sdn": 2436205,
 "descr": "",
-"gid": "E1299",
+"gid": "E1283",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34237,7 +34237,7 @@ I_events_0 = [
 "date": "1883",
 "date_sdn": 2408812,
 "descr": "",
-"gid": "E1295",
+"gid": "E1279",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34255,13 +34255,13 @@ I_events_0 = [
 "date": "1846",
 "date_sdn": 2395298,
 "descr": "",
-"gid": "E0486",
+"gid": "E0478",
 "media": [],
 "part_family": [],
 "part_person": [
 1538
 ],
-"place": 655,
+"place": 654,
 "text": "",
 "type": "Birth"
 },
@@ -34270,7 +34270,7 @@ I_events_0 = [
 "date": "April 1926",
 "date_sdn": 2424607,
 "descr": "",
-"gid": "E0487",
+"gid": "E0479",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34287,7 +34287,7 @@ I_events_0 = [
 "date": "about 1879",
 "date_sdn": 2407351,
 "descr": "",
-"gid": "E1291",
+"gid": "E1275",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34302,7 +34302,7 @@ I_events_0 = [
 "date": "July 1951",
 "date_sdn": 2433829,
 "descr": "",
-"gid": "E1292",
+"gid": "E1276",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34319,13 +34319,13 @@ I_events_0 = [
 "date": "22 July 1916",
 "date_sdn": 2421067,
 "descr": "",
-"gid": "E2760",
+"gid": "E2735",
 "media": [],
 "part_family": [],
 "part_person": [
 1540
 ],
-"place": 638,
+"place": 637,
 "text": "",
 "type": "Birth"
 },
@@ -34334,7 +34334,7 @@ I_events_0 = [
 "date": "1944",
 "date_sdn": 2431091,
 "descr": "",
-"gid": "E2761",
+"gid": "E2736",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34352,13 +34352,13 @@ I_events_0 = [
 "date": "1818",
 "date_sdn": 2385071,
 "descr": "",
-"gid": "E1282",
+"gid": "E1266",
 "media": [],
 "part_family": [],
 "part_person": [
 1542
 ],
-"place": 655,
+"place": 654,
 "text": "",
 "type": "Birth"
 },
@@ -34367,7 +34367,7 @@ I_events_0 = [
 "date": "1863",
 "date_sdn": 2401507,
 "descr": "",
-"gid": "E1283",
+"gid": "E1267",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34384,7 +34384,7 @@ I_events_0 = [
 "date": "about 1877",
 "date_sdn": 2406621,
 "descr": "",
-"gid": "E1290",
+"gid": "E1274",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34401,13 +34401,13 @@ I_events_0 = [
 "date": "10 January 1911",
 "date_sdn": 2419047,
 "descr": "",
-"gid": "E2758",
+"gid": "E2733",
 "media": [],
 "part_family": [],
 "part_person": [
 1544
 ],
-"place": 638,
+"place": 637,
 "text": "",
 "type": "Birth"
 },
@@ -34416,7 +34416,7 @@ I_events_0 = [
 "date": "12 April 1966",
 "date_sdn": 2439228,
 "descr": "",
-"gid": "E2759",
+"gid": "E2734",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34427,18 +34427,17 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[],
 [
 {
 "cita": [],
 "date": "1850",
 "date_sdn": 2396759,
 "descr": "",
-"gid": "E1284",
+"gid": "E1268",
 "media": [],
 "part_family": [],
 "part_person": [
-1546
+1545
 ],
 "place": 174,
 "text": "",
@@ -34449,13 +34448,13 @@ I_events_0 = [
 "date": "13 August 1901",
 "date_sdn": 2415610,
 "descr": "",
-"gid": "E1285",
+"gid": "E1269",
 "media": [],
 "part_family": [],
 "part_person": [
-1546
+1545
 ],
-"place": 638,
+"place": 637,
 "text": "",
 "type": "Death"
 }
@@ -34466,11 +34465,11 @@ I_events_0 = [
 "date": "October 1844",
 "date_sdn": 2394841,
 "descr": "",
-"gid": "E1296",
+"gid": "E1280",
 "media": [],
 "part_family": [],
 "part_person": [
-1547
+1546
 ],
 "place": 346,
 "text": "",
@@ -34481,24 +34480,25 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E1297",
+"gid": "E1281",
 "media": [],
 "part_family": [],
 "part_person": [
-1547
+1546
 ],
-"place": 638,
+"place": 637,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [
 {
 "cita": [],
 "date": "about 1874",
 "date_sdn": 2405525,
 "descr": "",
-"gid": "E1288",
+"gid": "E1272",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34513,13 +34513,13 @@ I_events_0 = [
 "date": "17 October 1938",
 "date_sdn": 2429189,
 "descr": "",
-"gid": "E1289",
+"gid": "E1273",
 "media": [],
 "part_family": [],
 "part_person": [
 1548
 ],
-"place": 638,
+"place": 637,
 "text": "",
 "type": "Death"
 }
@@ -34530,7 +34530,7 @@ I_events_0 = [
 "date": "between 1811 and 1840",
 "date_sdn": 2382514,
 "descr": "",
-"gid": "E2103",
+"gid": "E2086",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34545,7 +34545,7 @@ I_events_0 = [
 "date": "between 1856 and 1940",
 "date_sdn": 2398950,
 "descr": "",
-"gid": "E2104",
+"gid": "E2087",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34562,7 +34562,7 @@ I_events_0 = [
 "date": "23 April 1867",
 "date_sdn": 2403080,
 "descr": "",
-"gid": "E1920",
+"gid": "E1903",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34579,7 +34579,7 @@ I_events_0 = [
 "date": "13 May 1863",
 "date_sdn": 2401639,
 "descr": "",
-"gid": "E1916",
+"gid": "E1899",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34594,7 +34594,7 @@ I_events_0 = [
 "date": "13 June 1933",
 "date_sdn": 2427237,
 "descr": "",
-"gid": "E1917",
+"gid": "E1900",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34611,13 +34611,13 @@ I_events_0 = [
 "date": "19 June 1895",
 "date_sdn": 2413364,
 "descr": "",
-"gid": "E1947",
+"gid": "E1930",
 "media": [],
 "part_family": [],
 "part_person": [
 1552
 ],
-"place": 628,
+"place": 627,
 "text": "",
 "type": "Birth"
 },
@@ -34626,7 +34626,7 @@ I_events_0 = [
 "date": "March 1935",
 "date_sdn": 2427863,
 "descr": "",
-"gid": "E1948",
+"gid": "E1931",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34643,7 +34643,7 @@ I_events_0 = [
 "date": "1888",
 "date_sdn": 2410638,
 "descr": "",
-"gid": "E1908",
+"gid": "E1891",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34660,7 +34660,7 @@ I_events_0 = [
 "date": "26 May 1861",
 "date_sdn": 2400922,
 "descr": "",
-"gid": "E1912",
+"gid": "E1895",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34675,7 +34675,7 @@ I_events_0 = [
 "date": "March 1937",
 "date_sdn": 2428594,
 "descr": "",
-"gid": "E1913",
+"gid": "E1896",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34692,7 +34692,7 @@ I_events_0 = [
 "date": "23 November 1911",
 "date_sdn": 2419364,
 "descr": "",
-"gid": "E1991",
+"gid": "E1974",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34707,7 +34707,7 @@ I_events_0 = [
 "date": "April 1988",
 "date_sdn": 2447253,
 "descr": "",
-"gid": "E1992",
+"gid": "E1975",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34724,13 +34724,13 @@ I_events_0 = [
 "date": "July 1900",
 "date_sdn": 2415202,
 "descr": "",
-"gid": "E1974",
+"gid": "E1957",
 "media": [],
 "part_family": [],
 "part_person": [
 1556
 ],
-"place": 610,
+"place": 609,
 "text": "",
 "type": "Birth"
 },
@@ -34739,7 +34739,7 @@ I_events_0 = [
 "date": "10 September 1929",
 "date_sdn": 2425865,
 "descr": "",
-"gid": "E1975",
+"gid": "E1958",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34756,7 +34756,7 @@ I_events_0 = [
 "date": "1890",
 "date_sdn": 2411369,
 "descr": "",
-"gid": "E1909",
+"gid": "E1892",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34774,13 +34774,13 @@ I_events_0 = [
 "date": "16 April 1891",
 "date_sdn": 2411839,
 "descr": "",
-"gid": "E1943",
+"gid": "E1926",
 "media": [],
 "part_family": [],
 "part_person": [
 1559
 ],
-"place": 628,
+"place": 627,
 "text": "",
 "type": "Birth"
 },
@@ -34789,7 +34789,7 @@ I_events_0 = [
 "date": "October 1986",
 "date_sdn": 2446705,
 "descr": "",
-"gid": "E1944",
+"gid": "E1927",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34806,7 +34806,7 @@ I_events_0 = [
 "date": "24 October 1908",
 "date_sdn": 2418239,
 "descr": "",
-"gid": "E1987",
+"gid": "E1970",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34821,13 +34821,13 @@ I_events_0 = [
 "date": "December 1995",
 "date_sdn": 2450053,
 "descr": "",
-"gid": "E1988",
+"gid": "E1971",
 "media": [],
 "part_family": [],
 "part_person": [
 1560
 ],
-"place": 596,
+"place": 595,
 "text": "",
 "type": "Death"
 }
@@ -34838,13 +34838,13 @@ I_events_0 = [
 "date": "20 December 1906",
 "date_sdn": 2417565,
 "descr": "",
-"gid": "E1956",
+"gid": "E1939",
 "media": [],
 "part_family": [],
 "part_person": [
 1561
 ],
-"place": 628,
+"place": 627,
 "text": "",
 "type": "Birth"
 }
@@ -34855,13 +34855,13 @@ I_events_0 = [
 "date": "about 1909",
 "date_sdn": 2418308,
 "descr": "",
-"gid": "E1982",
+"gid": "E1965",
 "media": [],
 "part_family": [],
 "part_person": [
 1562
 ],
-"place": 616,
+"place": 615,
 "text": "",
 "type": "Birth"
 },
@@ -34870,13 +34870,13 @@ I_events_0 = [
 "date": "12 July 1937",
 "date_sdn": 2428727,
 "descr": "",
-"gid": "E1983",
+"gid": "E1966",
 "media": [],
 "part_family": [],
 "part_person": [
 1562
 ],
-"place": 625,
+"place": 624,
 "text": "",
 "type": "Death"
 }
@@ -34887,7 +34887,7 @@ I_events_0 = [
 "date": "19 September 1913",
 "date_sdn": 2420030,
 "descr": "",
-"gid": "E1993",
+"gid": "E1976",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34902,13 +34902,13 @@ I_events_0 = [
 "date": "25 December 2012",
 "date_sdn": 2456287,
 "descr": "",
-"gid": "E1994",
+"gid": "E1977",
 "media": [],
 "part_family": [],
 "part_person": [
 1563
 ],
-"place": 661,
+"place": 660,
 "text": "",
 "type": "Death"
 }
@@ -34919,7 +34919,7 @@ I_events_0 = [
 "date": "13 December 1880",
 "date_sdn": 2408063,
 "descr": "",
-"gid": "E1903",
+"gid": "E1886",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34934,13 +34934,13 @@ I_events_0 = [
 "date": "March 1974",
 "date_sdn": 2442108,
 "descr": "",
-"gid": "E1904",
+"gid": "E1887",
 "media": [],
 "part_family": [],
 "part_person": [
 1564
 ],
-"place": 637,
+"place": 636,
 "text": "",
 "type": "Death"
 }
@@ -34951,7 +34951,7 @@ I_events_0 = [
 "date": "14 November 1869",
 "date_sdn": 2404016,
 "descr": "",
-"gid": "E1922",
+"gid": "E1905",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34968,7 +34968,7 @@ I_events_0 = [
 "date": "21 August 1907",
 "date_sdn": 2417809,
 "descr": "",
-"gid": "E1980",
+"gid": "E1963",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -34983,7 +34983,7 @@ I_events_0 = [
 "date": "19 July 1996",
 "date_sdn": 2450284,
 "descr": "",
-"gid": "E1981",
+"gid": "E1964",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35000,13 +35000,13 @@ I_events_0 = [
 "date": "25 July 1902",
 "date_sdn": 2415956,
 "descr": "",
-"gid": "E1951",
+"gid": "E1934",
 "media": [],
 "part_family": [],
 "part_person": [
 1567
 ],
-"place": 628,
+"place": 627,
 "text": "",
 "type": "Birth"
 },
@@ -35015,13 +35015,13 @@ I_events_0 = [
 "date": "3 September 1973",
 "date_sdn": 2441929,
 "descr": "",
-"gid": "E1952",
+"gid": "E1935",
 "media": [],
 "part_family": [],
 "part_person": [
 1567
 ],
-"place": 664,
+"place": 663,
 "text": "",
 "type": "Death"
 }
@@ -35032,7 +35032,7 @@ I_events_0 = [
 "date": "12 April 1829",
 "date_sdn": 2389190,
 "descr": "",
-"gid": "E0796",
+"gid": "E0781",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35047,7 +35047,7 @@ I_events_0 = [
 "date": "October 1881",
 "date_sdn": 2408355,
 "descr": "",
-"gid": "E0797",
+"gid": "E0782",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35064,7 +35064,7 @@ I_events_0 = [
 "date": "19 June 1859",
 "date_sdn": 2400215,
 "descr": "",
-"gid": "E1911",
+"gid": "E1894",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35081,7 +35081,7 @@ I_events_0 = [
 "date": "1880",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E1907",
+"gid": "E1890",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35098,7 +35098,7 @@ I_events_0 = [
 "date": "25 August 1884",
 "date_sdn": 2409414,
 "descr": "",
-"gid": "E1939",
+"gid": "E1922",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35113,7 +35113,7 @@ I_events_0 = [
 "date": "January 1949",
 "date_sdn": 2432918,
 "descr": "",
-"gid": "E1940",
+"gid": "E1923",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35130,7 +35130,7 @@ I_events_0 = [
 "date": "about 1840",
 "date_sdn": 2393106,
 "descr": "",
-"gid": "E2113",
+"gid": "E2096",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35145,7 +35145,7 @@ I_events_0 = [
 "date": "1 January 1889",
 "date_sdn": 2411004,
 "descr": "",
-"gid": "E2114",
+"gid": "E2097",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35162,7 +35162,7 @@ I_events_0 = [
 "date": "1826",
 "date_sdn": 2387993,
 "descr": "",
-"gid": "E2483",
+"gid": "E2462",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35177,7 +35177,7 @@ I_events_0 = [
 "date": "calculated between 1881 and 1926",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E2484",
+"gid": "E2463",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35194,7 +35194,7 @@ I_events_0 = [
 "date": "1800",
 "date_sdn": 2378497,
 "descr": "",
-"gid": "E1881",
+"gid": "E1864",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35211,7 +35211,7 @@ I_events_0 = [
 "date": "1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E1910",
+"gid": "E1893",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35228,7 +35228,7 @@ I_events_0 = [
 "date": "July 1903",
 "date_sdn": 2416297,
 "descr": "",
-"gid": "E1976",
+"gid": "E1959",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35243,7 +35243,7 @@ I_events_0 = [
 "date": "15 August 1933",
 "date_sdn": 2427300,
 "descr": "",
-"gid": "E1977",
+"gid": "E1960",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35260,13 +35260,13 @@ I_events_0 = [
 "date": "12 March 1896",
 "date_sdn": 2413631,
 "descr": "",
-"gid": "E1971",
+"gid": "E1954",
 "media": [],
 "part_family": [],
 "part_person": [
 1577
 ],
-"place": 614,
+"place": 613,
 "text": "",
 "type": "Birth"
 },
@@ -35275,7 +35275,7 @@ I_events_0 = [
 "date": "December 1972",
 "date_sdn": 2441653,
 "descr": "",
-"gid": "E1972",
+"gid": "E1955",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35292,7 +35292,7 @@ I_events_0 = [
 "date": "3 November 1924",
 "date_sdn": 2424093,
 "descr": "",
-"gid": "E1984",
+"gid": "E1967",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35307,13 +35307,13 @@ I_events_0 = [
 "date": "September 1969",
 "date_sdn": 2440466,
 "descr": "",
-"gid": "E1985",
+"gid": "E1968",
 "media": [],
 "part_family": [],
 "part_person": [
 1578
 ],
-"place": 646,
+"place": 645,
 "text": "",
 "type": "Death"
 }
@@ -35324,13 +35324,13 @@ I_events_0 = [
 "date": "28 February 1767",
 "date_sdn": 2366502,
 "descr": "",
-"gid": "E1886",
+"gid": "E1869",
 "media": [],
 "part_family": [],
 "part_person": [
 1579
 ],
-"place": 581,
+"place": 580,
 "text": "",
 "type": "Birth"
 }
@@ -35341,7 +35341,7 @@ I_events_0 = [
 "date": "July 1905",
 "date_sdn": 2417028,
 "descr": "",
-"gid": "E1978",
+"gid": "E1961",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35356,13 +35356,13 @@ I_events_0 = [
 "date": "24 January 1934",
 "date_sdn": 2427462,
 "descr": "",
-"gid": "E1979",
+"gid": "E1962",
 "media": [],
 "part_family": [],
 "part_person": [
 1580
 ],
-"place": 625,
+"place": 624,
 "text": "",
 "type": "Death"
 }
@@ -35373,13 +35373,13 @@ I_events_0 = [
 "date": "10 May 1768",
 "date_sdn": 2366939,
 "descr": "",
-"gid": "E1887",
+"gid": "E1870",
 "media": [],
 "part_family": [],
 "part_person": [
 1581
 ],
-"place": 622,
+"place": 621,
 "text": "",
 "type": "Birth"
 }
@@ -35390,7 +35390,7 @@ I_events_0 = [
 "date": "about 1736",
 "date_sdn": 2355121,
 "descr": "",
-"gid": "E1882",
+"gid": "E1865",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35405,13 +35405,13 @@ I_events_0 = [
 "date": "1802",
 "date_sdn": 2379227,
 "descr": "",
-"gid": "E1883",
+"gid": "E1866",
 "media": [],
 "part_family": [],
 "part_person": [
 1582
 ],
-"place": 622,
+"place": 621,
 "text": "",
 "type": "Death"
 }
@@ -35422,13 +35422,13 @@ I_events_0 = [
 "date": "16 November 1770",
 "date_sdn": 2367859,
 "descr": "",
-"gid": "E1877",
+"gid": "E1860",
 "media": [],
 "part_family": [],
 "part_person": [
 1583
 ],
-"place": 622,
+"place": 621,
 "text": "",
 "type": "Birth"
 },
@@ -35437,7 +35437,7 @@ I_events_0 = [
 "date": "July 1844",
 "date_sdn": 2394749,
 "descr": "",
-"gid": "E1878",
+"gid": "E1861",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35454,7 +35454,7 @@ I_events_0 = [
 "date": "17 October 1800",
 "date_sdn": 2378786,
 "descr": "",
-"gid": "E0798",
+"gid": "E0783",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35469,7 +35469,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0799",
+"gid": "E0784",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35486,7 +35486,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1900",
+"gid": "E1883",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35503,7 +35503,7 @@ I_events_0 = [
 "date": "13 March 1877",
 "date_sdn": 2406692,
 "descr": "",
-"gid": "E1902",
+"gid": "E1885",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35521,7 +35521,7 @@ I_events_0 = [
 "date": "1534",
 "date_sdn": 2281342,
 "descr": "",
-"gid": "E1673",
+"gid": "E1656",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35536,7 +35536,7 @@ I_events_0 = [
 "date": "7 April 1604",
 "date_sdn": 2307006,
 "descr": "",
-"gid": "E1674",
+"gid": "E1657",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35553,7 +35553,7 @@ I_events_0 = [
 "date": "1748",
 "date_sdn": 2359504,
 "descr": "",
-"gid": "E1622",
+"gid": "E1605",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35568,7 +35568,7 @@ I_events_0 = [
 "date": "September 1752",
 "date_sdn": 2361209,
 "descr": "",
-"gid": "E1623",
+"gid": "E1606",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35585,7 +35585,7 @@ I_events_0 = [
 "date": "1755",
 "date_sdn": 2362061,
 "descr": "",
-"gid": "E1624",
+"gid": "E1607",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35602,7 +35602,7 @@ I_events_0 = [
 "date": "16 July 1683",
 "date_sdn": 2335960,
 "descr": "",
-"gid": "E1643",
+"gid": "E1626",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35617,7 +35617,7 @@ I_events_0 = [
 "date": "1686",
 "date_sdn": 2336860,
 "descr": "",
-"gid": "E1644",
+"gid": "E1627",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35634,7 +35634,7 @@ I_events_0 = [
 "date": "about 1542",
 "date_sdn": 2284264,
 "descr": "",
-"gid": "E1697",
+"gid": "E1680",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35649,7 +35649,7 @@ I_events_0 = [
 "date": "about 1579",
 "date_sdn": 2297778,
 "descr": "",
-"gid": "E1698",
+"gid": "E1681",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35666,7 +35666,7 @@ I_events_0 = [
 "date": "about 1604",
 "date_sdn": 2306909,
 "descr": "",
-"gid": "E1677",
+"gid": "E1660",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35683,7 +35683,7 @@ I_events_0 = [
 "date": "1541",
 "date_sdn": 2283899,
 "descr": "",
-"gid": "E1731",
+"gid": "E1714",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35700,7 +35700,7 @@ I_events_0 = [
 "date": "1679",
 "date_sdn": 2334303,
 "descr": "",
-"gid": "E1641",
+"gid": "E1624",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35715,7 +35715,7 @@ I_events_0 = [
 "date": "1726",
 "date_sdn": 2351469,
 "descr": "",
-"gid": "E1642",
+"gid": "E1625",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35732,7 +35732,7 @@ I_events_0 = [
 "date": "1751",
 "date_sdn": 2360600,
 "descr": "",
-"gid": "E0801",
+"gid": "E0786",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35747,7 +35747,7 @@ I_events_0 = [
 "date": "November 1825",
 "date_sdn": 2387932,
 "descr": "",
-"gid": "E0802",
+"gid": "E0787",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35764,7 +35764,7 @@ I_events_0 = [
 "date": "1418",
 "date_sdn": 2238974,
 "descr": "",
-"gid": "E1719",
+"gid": "E1702",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35779,7 +35779,7 @@ I_events_0 = [
 "date": "between 1443 and 1518",
 "date_sdn": 2248105,
 "descr": "",
-"gid": "E1720",
+"gid": "E1703",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35796,7 +35796,7 @@ I_events_0 = [
 "date": "1493",
 "date_sdn": 2266368,
 "descr": "",
-"gid": "E1682",
+"gid": "E1665",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35811,7 +35811,7 @@ I_events_0 = [
 "date": "21 April 1583",
 "date_sdn": 2299349,
 "descr": "",
-"gid": "E1683",
+"gid": "E1666",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35828,7 +35828,7 @@ I_events_0 = [
 "date": "1543",
 "date_sdn": 2284629,
 "descr": "",
-"gid": "E1699",
+"gid": "E1682",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35845,7 +35845,7 @@ I_events_0 = [
 "date": "1708",
 "date_sdn": 2344894,
 "descr": "",
-"gid": "E1611",
+"gid": "E1594",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35860,7 +35860,7 @@ I_events_0 = [
 "date": "9 March 1735",
 "date_sdn": 2354823,
 "descr": "",
-"gid": "E1612",
+"gid": "E1595",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35877,7 +35877,7 @@ I_events_0 = [
 "date": "about 1737",
 "date_sdn": 2355487,
 "descr": "",
-"gid": "E1615",
+"gid": "E1598",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35892,7 +35892,7 @@ I_events_0 = [
 "date": "September 1752",
 "date_sdn": 2361209,
 "descr": "",
-"gid": "E1616",
+"gid": "E1599",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35909,7 +35909,7 @@ I_events_0 = [
 "date": "about 1650",
 "date_sdn": 2323711,
 "descr": "",
-"gid": "E1635",
+"gid": "E1618",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35924,7 +35924,7 @@ I_events_0 = [
 "date": "10 October 1707",
 "date_sdn": 2344811,
 "descr": "",
-"gid": "E1636",
+"gid": "E1619",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35941,7 +35941,7 @@ I_events_0 = [
 "date": "9 November 1685",
 "date_sdn": 2336807,
 "descr": "",
-"gid": "E1628",
+"gid": "E1611",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35956,7 +35956,7 @@ I_events_0 = [
 "date": "22 May 1747",
 "date_sdn": 2359280,
 "descr": "",
-"gid": "E1629",
+"gid": "E1612",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35973,7 +35973,7 @@ I_events_0 = [
 "date": "1707",
 "date_sdn": 2344529,
 "descr": "",
-"gid": "E1630",
+"gid": "E1613",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -35990,7 +35990,7 @@ I_events_0 = [
 "date": "1468",
 "date_sdn": 2257236,
 "descr": "",
-"gid": "E1686",
+"gid": "E1669",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36005,7 +36005,7 @@ I_events_0 = [
 "date": "12 April 1518",
 "date_sdn": 2275599,
 "descr": "",
-"gid": "E1687",
+"gid": "E1670",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36022,13 +36022,13 @@ I_events_0 = [
 "date": "about 1543",
 "date_sdn": 2284629,
 "descr": "",
-"gid": "E1700",
+"gid": "E1683",
 "media": [],
 "part_family": [],
 "part_person": [
 1606
 ],
-"place": 649,
+"place": 648,
 "text": "",
 "type": "Birth"
 },
@@ -36037,7 +36037,7 @@ I_events_0 = [
 "date": "12 August 1622",
 "date_sdn": 2313707,
 "descr": "",
-"gid": "E1701",
+"gid": "E1684",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36054,7 +36054,7 @@ I_events_0 = [
 "date": "December 1676",
 "date_sdn": 2333542,
 "descr": "",
-"gid": "E1639",
+"gid": "E1622",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36069,7 +36069,7 @@ I_events_0 = [
 "date": "22 May 1747",
 "date_sdn": 2359280,
 "descr": "",
-"gid": "E1640",
+"gid": "E1623",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36086,7 +36086,7 @@ I_events_0 = [
 "date": "1615",
 "date_sdn": 2310927,
 "descr": "",
-"gid": "E1649",
+"gid": "E1632",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36101,7 +36101,7 @@ I_events_0 = [
 "date": "9 February 1684",
 "date_sdn": 2336168,
 "descr": "",
-"gid": "E1650",
+"gid": "E1633",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36118,7 +36118,7 @@ I_events_0 = [
 "date": "1540",
 "date_sdn": 2283533,
 "descr": "",
-"gid": "E1695",
+"gid": "E1678",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36133,7 +36133,7 @@ I_events_0 = [
 "date": "1578",
 "date_sdn": 2297413,
 "descr": "",
-"gid": "E1696",
+"gid": "E1679",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36150,7 +36150,7 @@ I_events_0 = [
 "date": "6 January 1745",
 "date_sdn": 2358414,
 "descr": "",
-"gid": "E1620",
+"gid": "E1603",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36165,7 +36165,7 @@ I_events_0 = [
 "date": "July 1850",
 "date_sdn": 2396940,
 "descr": "",
-"gid": "E1621",
+"gid": "E1604",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36182,7 +36182,7 @@ I_events_0 = [
 "date": "1740",
 "date_sdn": 2356582,
 "descr": "",
-"gid": "E1617",
+"gid": "E1600",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36199,7 +36199,7 @@ I_events_0 = [
 "date": "6 October 1675",
 "date_sdn": 2333120,
 "descr": "",
-"gid": "E1637",
+"gid": "E1620",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36214,7 +36214,7 @@ I_events_0 = [
 "date": "5 December 1765",
 "date_sdn": 2366052,
 "descr": "",
-"gid": "E1638",
+"gid": "E1621",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36231,7 +36231,7 @@ I_events_0 = [
 "date": "1560",
 "date_sdn": 2290838,
 "descr": "",
-"gid": "E1678",
+"gid": "E1661",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36246,13 +36246,13 @@ I_events_0 = [
 "date": "15 May 1623",
 "date_sdn": 2313983,
 "descr": "",
-"gid": "E1679",
+"gid": "E1662",
 "media": [],
 "part_family": [],
 "part_person": [
 1613
 ],
-"place": 635,
+"place": 634,
 "text": "",
 "type": "Death"
 }
@@ -36263,7 +36263,7 @@ I_events_0 = [
 "date": "1620",
 "date_sdn": 2312753,
 "descr": "",
-"gid": "E1672",
+"gid": "E1655",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36280,7 +36280,7 @@ I_events_0 = [
 "date": "about 1538",
 "date_sdn": 2282803,
 "descr": "",
-"gid": "E1693",
+"gid": "E1676",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36295,7 +36295,7 @@ I_events_0 = [
 "date": "1585",
 "date_sdn": 2299970,
 "descr": "",
-"gid": "E1694",
+"gid": "E1677",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36312,7 +36312,7 @@ I_events_0 = [
 "date": "1562",
 "date_sdn": 2291569,
 "descr": "",
-"gid": "E1680",
+"gid": "E1663",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36327,7 +36327,7 @@ I_events_0 = [
 "date": "23 September 1640",
 "date_sdn": 2320324,
 "descr": "",
-"gid": "E1681",
+"gid": "E1664",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36346,7 +36346,7 @@ I_events_0 = [
 "date": "1443",
 "date_sdn": 2248105,
 "descr": "",
-"gid": "E1717",
+"gid": "E1700",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36361,7 +36361,7 @@ I_events_0 = [
 "date": "23 August 1576",
 "date_sdn": 2296917,
 "descr": "",
-"gid": "E1718",
+"gid": "E1701",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36378,7 +36378,7 @@ I_events_0 = [
 "date": "1548",
 "date_sdn": 2286455,
 "descr": "",
-"gid": "E1704",
+"gid": "E1687",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36393,7 +36393,7 @@ I_events_0 = [
 "date": "2 April 1586",
 "date_sdn": 2300426,
 "descr": "",
-"gid": "E1705",
+"gid": "E1688",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36410,7 +36410,7 @@ I_events_0 = [
 "date": "1758",
 "date_sdn": 2363157,
 "descr": "",
-"gid": "E1625",
+"gid": "E1608",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36427,7 +36427,7 @@ I_events_0 = [
 "date": "1569",
 "date_sdn": 2294126,
 "descr": "",
-"gid": "E1666",
+"gid": "E1649",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36442,7 +36442,7 @@ I_events_0 = [
 "date": "1647",
 "date_sdn": 2322615,
 "descr": "",
-"gid": "E1667",
+"gid": "E1650",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36459,7 +36459,7 @@ I_events_0 = [
 "date": "1595",
 "date_sdn": 2303622,
 "descr": "",
-"gid": "E1670",
+"gid": "E1653",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36474,7 +36474,7 @@ I_events_0 = [
 "date": "1647",
 "date_sdn": 2322615,
 "descr": "",
-"gid": "E1671",
+"gid": "E1654",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36491,7 +36491,7 @@ I_events_0 = [
 "date": "1532",
 "date_sdn": 2280611,
 "descr": "",
-"gid": "E1691",
+"gid": "E1674",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36506,7 +36506,7 @@ I_events_0 = [
 "date": "2 April 1586",
 "date_sdn": 2300426,
 "descr": "",
-"gid": "E1692",
+"gid": "E1675",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36523,7 +36523,7 @@ I_events_0 = [
 "date": "between 1358 and 1402",
 "date_sdn": 2217060,
 "descr": "",
-"gid": "E1721",
+"gid": "E1704",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36538,7 +36538,7 @@ I_events_0 = [
 "date": "between 1418 and 1502",
 "date_sdn": 2238974,
 "descr": "",
-"gid": "E1722",
+"gid": "E1705",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36555,7 +36555,7 @@ I_events_0 = [
 "date": "1641",
 "date_sdn": 2320424,
 "descr": "",
-"gid": "E1736",
+"gid": "E1719",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36572,7 +36572,7 @@ I_events_0 = [
 "date": "1580",
 "date_sdn": 2298143,
 "descr": "",
-"gid": "E1724",
+"gid": "E1707",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36587,13 +36587,13 @@ I_events_0 = [
 "date": "1640",
 "date_sdn": 2320058,
 "descr": "",
-"gid": "E1725",
+"gid": "E1708",
 "media": [],
 "part_family": [],
 "part_person": [
 1627
 ],
-"place": 649,
+"place": 648,
 "text": "",
 "type": "Death"
 },
@@ -36602,7 +36602,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E1726",
+"gid": "E1709",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36619,7 +36619,7 @@ I_events_0 = [
 "date": "about 1545",
 "date_sdn": 2285360,
 "descr": "",
-"gid": "E1702",
+"gid": "E1685",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36634,7 +36634,7 @@ I_events_0 = [
 "date": "12 August 1622",
 "date_sdn": 2313707,
 "descr": "",
-"gid": "E1703",
+"gid": "E1686",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36651,7 +36651,7 @@ I_events_0 = [
 "date": "1743",
 "date_sdn": 2357678,
 "descr": "",
-"gid": "E1618",
+"gid": "E1601",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36666,7 +36666,7 @@ I_events_0 = [
 "date": "May 1779",
 "date_sdn": 2370947,
 "descr": "",
-"gid": "E1619",
+"gid": "E1602",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36683,13 +36683,13 @@ I_events_0 = [
 "date": "about 1915",
 "date_sdn": 2420499,
 "descr": "",
-"gid": "E1036",
+"gid": "E1020",
 "media": [],
 "part_family": [],
 "part_person": [
 1630
 ],
-"place": 640,
+"place": 639,
 "text": "",
 "type": "Birth"
 },
@@ -36698,7 +36698,7 @@ I_events_0 = [
 "date": "24 December 2016",
 "date_sdn": 2457747,
 "descr": "",
-"gid": "E1037",
+"gid": "E1021",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36715,7 +36715,7 @@ I_events_0 = [
 "date": "1518",
 "date_sdn": 2275498,
 "descr": "",
-"gid": "E1375",
+"gid": "E1359",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36730,13 +36730,13 @@ I_events_0 = [
 "date": "1575",
 "date_sdn": 2296317,
 "descr": "",
-"gid": "E1376",
+"gid": "E1360",
 "media": [],
 "part_family": [],
 "part_person": [
 1631
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Death"
 }
@@ -36747,7 +36747,7 @@ I_events_0 = [
 "date": "24 November 1892",
 "date_sdn": 2412427,
 "descr": "",
-"gid": "E1961",
+"gid": "E1944",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36762,13 +36762,13 @@ I_events_0 = [
 "date": "10 December 1973",
 "date_sdn": 2442027,
 "descr": "",
-"gid": "E1962",
+"gid": "E1945",
 "media": [],
 "part_family": [],
 "part_person": [
 1632
 ],
-"place": 617,
+"place": 616,
 "text": "",
 "type": "Death"
 }
@@ -36779,7 +36779,7 @@ I_events_0 = [
 "date": "April 1859",
 "date_sdn": 2400136,
 "descr": "",
-"gid": "E1918",
+"gid": "E1901",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36794,7 +36794,7 @@ I_events_0 = [
 "date": "20 May 1908",
 "date_sdn": 2418082,
 "descr": "",
-"gid": "E1919",
+"gid": "E1902",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36811,7 +36811,7 @@ I_events_0 = [
 "date": "July 1887",
 "date_sdn": 2410454,
 "descr": "",
-"gid": "E1957",
+"gid": "E1940",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36826,7 +36826,7 @@ I_events_0 = [
 "date": "October 1891",
 "date_sdn": 2412007,
 "descr": "",
-"gid": "E1958",
+"gid": "E1941",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36843,7 +36843,7 @@ I_events_0 = [
 "date": "28 September 1895",
 "date_sdn": 2413465,
 "descr": "",
-"gid": "E1963",
+"gid": "E1946",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36858,7 +36858,7 @@ I_events_0 = [
 "date": "10 January 1978",
 "date_sdn": 2443519,
 "descr": "",
-"gid": "E1964",
+"gid": "E1947",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36875,7 +36875,7 @@ I_events_0 = [
 "date": "4 September 1897",
 "date_sdn": 2414172,
 "descr": "",
-"gid": "E1965",
+"gid": "E1948",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36890,7 +36890,7 @@ I_events_0 = [
 "date": "November 1988",
 "date_sdn": 2447467,
 "descr": "",
-"gid": "E1966",
+"gid": "E1949",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36907,7 +36907,7 @@ I_events_0 = [
 "date": "7 March 1900",
 "date_sdn": 2415086,
 "descr": "",
-"gid": "E1967",
+"gid": "E1950",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36922,7 +36922,7 @@ I_events_0 = [
 "date": "December 1970",
 "date_sdn": 2440922,
 "descr": "",
-"gid": "E1968",
+"gid": "E1951",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36939,7 +36939,7 @@ I_events_0 = [
 "date": "October 1890",
 "date_sdn": 2411642,
 "descr": "",
-"gid": "E1959",
+"gid": "E1942",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36954,7 +36954,7 @@ I_events_0 = [
 "date": "about 1916",
 "date_sdn": 2420864,
 "descr": "",
-"gid": "E1960",
+"gid": "E1943",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36971,7 +36971,7 @@ I_events_0 = [
 "date": "about 1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1494",
+"gid": "E1478",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -36988,7 +36988,7 @@ I_events_0 = [
 "date": "about 1846",
 "date_sdn": 2395298,
 "descr": "",
-"gid": "E1492",
+"gid": "E1476",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37003,7 +37003,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1493",
+"gid": "E1477",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37020,7 +37020,7 @@ I_events_0 = [
 "date": "about 1844",
 "date_sdn": 2394567,
 "descr": "",
-"gid": "E1490",
+"gid": "E1474",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37035,7 +37035,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1491",
+"gid": "E1475",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37052,7 +37052,7 @@ I_events_0 = [
 "date": "October 1851",
 "date_sdn": 2397397,
 "descr": "",
-"gid": "E1488",
+"gid": "E1472",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37067,7 +37067,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1489",
+"gid": "E1473",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37084,7 +37084,7 @@ I_events_0 = [
 "date": "January 1848",
 "date_sdn": 2396028,
 "descr": "",
-"gid": "E1463",
+"gid": "E1447",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37099,13 +37099,13 @@ I_events_0 = [
 "date": "1891",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E1464",
+"gid": "E1448",
 "media": [],
 "part_family": [],
 "part_person": [
 1643
 ],
-"place": 585,
+"place": 584,
 "text": "",
 "type": "Residence"
 },
@@ -37114,7 +37114,7 @@ I_events_0 = [
 "date": "1870",
 "date_sdn": 2404064,
 "descr": "",
-"gid": "E1465",
+"gid": "E1449",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37131,7 +37131,7 @@ I_events_0 = [
 "date": "July 1838",
 "date_sdn": 2392557,
 "descr": "",
-"gid": "E1484",
+"gid": "E1468",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37146,7 +37146,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1485",
+"gid": "E1469",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37163,7 +37163,7 @@ I_events_0 = [
 "date": "about 1838",
 "date_sdn": 2392376,
 "descr": "",
-"gid": "E1486",
+"gid": "E1470",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37178,7 +37178,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1487",
+"gid": "E1471",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37195,7 +37195,7 @@ I_events_0 = [
 "date": "about 1812",
 "date_sdn": 2382879,
 "descr": "",
-"gid": "E1478",
+"gid": "E1462",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37210,7 +37210,7 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E1479",
+"gid": "E1463",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37227,7 +37227,7 @@ I_events_0 = [
 "date": "1818",
 "date_sdn": 2385071,
 "descr": "",
-"gid": "E1320",
+"gid": "E1304",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37245,7 +37245,7 @@ I_events_0 = [
 "date": "about 1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E1197",
+"gid": "E1181",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37262,7 +37262,7 @@ I_events_0 = [
 "date": "1745",
 "date_sdn": 2358409,
 "descr": "",
-"gid": "E0805",
+"gid": "E0790",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37277,7 +37277,7 @@ I_events_0 = [
 "date": "27 November 1783",
 "date_sdn": 2372618,
 "descr": "",
-"gid": "E0806",
+"gid": "E0791",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37294,7 +37294,7 @@ I_events_0 = [
 "date": "after 1807",
 "date_sdn": 2381053,
 "descr": "",
-"gid": "E1868",
+"gid": "E1851",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37309,13 +37309,13 @@ I_events_0 = [
 "date": "7 November 1790",
 "date_sdn": 2375155,
 "descr": "",
-"gid": "E1869",
+"gid": "E1852",
 "media": [],
 "part_family": [],
 "part_person": [
 1651
 ],
-"place": 652,
+"place": 651,
 "text": "",
 "type": "Baptism"
 }
@@ -37326,7 +37326,7 @@ I_events_0 = [
 "date": "calculated between 1738 and 1767",
 "date_sdn": 2355852,
 "descr": "",
-"gid": "E2622",
+"gid": "E2599",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37341,7 +37341,7 @@ I_events_0 = [
 "date": "about 1796",
 "date_sdn": 2377036,
 "descr": "",
-"gid": "E2623",
+"gid": "E2600",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37358,7 +37358,7 @@ I_events_0 = [
 "date": "1684",
 "date_sdn": 2336129,
 "descr": "",
-"gid": "E0807",
+"gid": "E0792",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37373,7 +37373,7 @@ I_events_0 = [
 "date": "1728",
 "date_sdn": 2352199,
 "descr": "",
-"gid": "E0808",
+"gid": "E0793",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37390,7 +37390,7 @@ I_events_0 = [
 "date": "1630",
 "date_sdn": 2316406,
 "descr": "",
-"gid": "E0809",
+"gid": "E0794",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37407,7 +37407,7 @@ I_events_0 = [
 "date": "1630",
 "date_sdn": 2316406,
 "descr": "",
-"gid": "E0810",
+"gid": "E0795",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37424,14 +37424,14 @@ I_events_0 = [
 "date": "1834",
 "date_sdn": 2390915,
 "descr": "",
-"gid": "E0811",
+"gid": "E0796",
 "media": [],
 "part_family": [],
 "part_person": [
 1656
 ],
 "place": 350,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBorn in a poor house.\n</p>\n</div>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nBorn in a poor house.\n</p>\n</div>\n</div>",
 "type": "Birth"
 },
 {
@@ -37439,7 +37439,7 @@ I_events_0 = [
 "date": "30 December 1892",
 "date_sdn": 2412463,
 "descr": "",
-"gid": "E0812",
+"gid": "E0797",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37457,7 +37457,7 @@ I_events_0 = [
 "date": "about 1690",
 "date_sdn": 2338321,
 "descr": "",
-"gid": "E0813",
+"gid": "E0798",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37474,7 +37474,7 @@ I_events_0 = [
 "date": "July 1931",
 "date_sdn": 2426524,
 "descr": "",
-"gid": "E0814",
+"gid": "E0799",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37489,7 +37489,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0815",
+"gid": "E0800",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37506,7 +37506,7 @@ I_events_0 = [
 "date": "1790",
 "date_sdn": 2374845,
 "descr": "",
-"gid": "E2508",
+"gid": "E2487",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37521,7 +37521,7 @@ I_events_0 = [
 "date": "21 December 1865",
 "date_sdn": 2402592,
 "descr": "",
-"gid": "E2509",
+"gid": "E2488",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37538,7 +37538,7 @@ I_events_0 = [
 "date": "calculated between 1730 and 1774",
 "date_sdn": 2352930,
 "descr": "",
-"gid": "E2548",
+"gid": "E2527",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37553,7 +37553,7 @@ I_events_0 = [
 "date": "calculated between 1790 and 1874",
 "date_sdn": 2374845,
 "descr": "",
-"gid": "E2549",
+"gid": "E2528",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37571,7 +37571,7 @@ I_events_0 = [
 "date": "about 1808",
 "date_sdn": 2381418,
 "descr": "",
-"gid": "E0816",
+"gid": "E0801",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37588,7 +37588,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E2203",
+"gid": "E2186",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37606,7 +37606,7 @@ I_events_0 = [
 "date": "1880",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E2201",
+"gid": "E2184",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37621,7 +37621,7 @@ I_events_0 = [
 "date": "1949",
 "date_sdn": 2432918,
 "descr": "",
-"gid": "E2202",
+"gid": "E2185",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37638,7 +37638,7 @@ I_events_0 = [
 "date": "October 1909",
 "date_sdn": 2418581,
 "descr": "",
-"gid": "E2980",
+"gid": "E2951",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37655,7 +37655,7 @@ I_events_0 = [
 "date": "July 1883",
 "date_sdn": 2408993,
 "descr": "",
-"gid": "E2981",
+"gid": "E2952",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37672,7 +37672,7 @@ I_events_0 = [
 "date": "1626",
 "date_sdn": 2314945,
 "descr": "",
-"gid": "E0817",
+"gid": "E0802",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37687,7 +37687,7 @@ I_events_0 = [
 "date": "15 April 1676",
 "date_sdn": 2333312,
 "descr": "",
-"gid": "E0818",
+"gid": "E0803",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37704,7 +37704,7 @@ I_events_0 = [
 "date": "before 15 January 1659",
 "date_sdn": 2327012,
 "descr": "",
-"gid": "E0819",
+"gid": "E0804",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37719,7 +37719,7 @@ I_events_0 = [
 "date": "26 July 1728",
 "date_sdn": 2352406,
 "descr": "",
-"gid": "E0820",
+"gid": "E0805",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37736,7 +37736,7 @@ I_events_0 = [
 "date": "1772",
 "date_sdn": 2368270,
 "descr": "",
-"gid": "E0821",
+"gid": "E0806",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37753,7 +37753,7 @@ I_events_0 = [
 "date": "1772",
 "date_sdn": 2368270,
 "descr": "",
-"gid": "E0822",
+"gid": "E0807",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37770,7 +37770,7 @@ I_events_0 = [
 "date": "3 May 1732",
 "date_sdn": 2353783,
 "descr": "",
-"gid": "E0823",
+"gid": "E0808",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37785,7 +37785,7 @@ I_events_0 = [
 "date": "11 May 1812",
 "date_sdn": 2383010,
 "descr": "",
-"gid": "E0824",
+"gid": "E0809",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37802,7 +37802,7 @@ I_events_0 = [
 "date": "11 February 1696",
 "date_sdn": 2340553,
 "descr": "",
-"gid": "E0825",
+"gid": "E0810",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37817,7 +37817,7 @@ I_events_0 = [
 "date": "27 January 1760",
 "date_sdn": 2363913,
 "descr": "",
-"gid": "E0826",
+"gid": "E0811",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37832,7 +37832,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0827",
+"gid": "E0812",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37849,7 +37849,7 @@ I_events_0 = [
 "date": "9 August 1613",
 "date_sdn": 2310417,
 "descr": "",
-"gid": "E0828",
+"gid": "E0813",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37864,7 +37864,7 @@ I_events_0 = [
 "date": "19 September 1680",
 "date_sdn": 2334930,
 "descr": "",
-"gid": "E0829",
+"gid": "E0814",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37881,7 +37881,7 @@ I_events_0 = [
 "date": "about 1667",
 "date_sdn": 2329920,
 "descr": "",
-"gid": "E0803",
+"gid": "E0788",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37896,7 +37896,7 @@ I_events_0 = [
 "date": "March 1700",
 "date_sdn": 2342032,
 "descr": "",
-"gid": "E0804",
+"gid": "E0789",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37913,7 +37913,7 @@ I_events_0 = [
 "date": "between 1849 and 1893",
 "date_sdn": 2396394,
 "descr": "",
-"gid": "E2098",
+"gid": "E2081",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37928,7 +37928,7 @@ I_events_0 = [
 "date": "between 1909 and 1993",
 "date_sdn": 2418308,
 "descr": "",
-"gid": "E2099",
+"gid": "E2082",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37947,7 +37947,7 @@ I_events_0 = [
 "date": "1870",
 "date_sdn": 2404064,
 "descr": "",
-"gid": "E1085",
+"gid": "E1069",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37964,7 +37964,7 @@ I_events_0 = [
 "date": "1839",
 "date_sdn": 2392741,
 "descr": "",
-"gid": "E1086",
+"gid": "E1070",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37981,7 +37981,7 @@ I_events_0 = [
 "date": "8 September 1901",
 "date_sdn": 2415636,
 "descr": "",
-"gid": "E0830",
+"gid": "E0815",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -37996,13 +37996,13 @@ I_events_0 = [
 "date": "30 November 1983",
 "date_sdn": 2445669,
 "descr": "",
-"gid": "E0831",
+"gid": "E0816",
 "media": [],
 "part_family": [],
 "part_person": [
 1682
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Death"
 }
@@ -38013,7 +38013,7 @@ I_events_0 = [
 "date": "14 September 1728",
 "date_sdn": 2352456,
 "descr": "",
-"gid": "E0832",
+"gid": "E0817",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38025,23 +38025,7 @@ I_events_0 = [
 }
 ],
 [],
-[
-{
-"cita": [],
-"date": "1811",
-"date_sdn": 2382514,
-"descr": "",
-"gid": "E2408",
-"media": [],
-"part_family": [],
-"part_person": [
-1685
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [],
 [],
 [
@@ -38050,7 +38034,7 @@ I_events_0 = [
 "date": "28 January 1904",
 "date_sdn": 2416508,
 "descr": "",
-"gid": "E0459",
+"gid": "E0451",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38065,7 +38049,7 @@ I_events_0 = [
 "date": "February 1985",
 "date_sdn": 2446098,
 "descr": "",
-"gid": "E0460",
+"gid": "E0452",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38080,7 +38064,7 @@ I_events_0 = [
 "date": "9 May 1904",
 "date_sdn": 2416610,
 "descr": "",
-"gid": "E2370",
+"gid": "E2351",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38098,7 +38082,7 @@ I_events_0 = [
 "date": "10 April 1902",
 "date_sdn": 2415850,
 "descr": "",
-"gid": "E3002",
+"gid": "E2972",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38116,7 +38100,7 @@ I_events_0 = [
 "date": "April 1884",
 "date_sdn": 2409268,
 "descr": "",
-"gid": "E1516",
+"gid": "E1500",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38131,7 +38115,7 @@ I_events_0 = [
 "date": "between 1911 and 1993",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E1517",
+"gid": "E1501",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38146,13 +38130,13 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E1518",
+"gid": "E1502",
 "media": [],
 "part_family": [],
 "part_person": [
 1692
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Residence"
 }
@@ -38164,7 +38148,7 @@ I_events_0 = [
 "date": "6 February 1911",
 "date_sdn": 2419074,
 "descr": "",
-"gid": "E1520",
+"gid": "E1504",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38179,13 +38163,13 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E1521",
+"gid": "E1505",
 "media": [],
 "part_family": [],
 "part_person": [
 1694
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Residence"
 },
@@ -38194,7 +38178,7 @@ I_events_0 = [
 "date": "July 1998",
 "date_sdn": 2450996,
 "descr": "",
-"gid": "E3046",
+"gid": "E3015",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38211,7 +38195,7 @@ I_events_0 = [
 "date": "25 January 1909",
 "date_sdn": 2418332,
 "descr": "",
-"gid": "E1519",
+"gid": "E1503",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38226,13 +38210,13 @@ I_events_0 = [
 "date": "19 May 1991",
 "date_sdn": 2448396,
 "descr": "",
-"gid": "E3035",
+"gid": "E3004",
 "media": [],
 "part_family": [],
 "part_person": [
 1695
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Death"
 }
@@ -38244,7 +38228,7 @@ I_events_0 = [
 "date": "1884",
 "date_sdn": 2409177,
 "descr": "",
-"gid": "E2217",
+"gid": "E2200",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38259,7 +38243,7 @@ I_events_0 = [
 "date": "1951",
 "date_sdn": 2433648,
 "descr": "",
-"gid": "E2218",
+"gid": "E2201",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38276,7 +38260,7 @@ I_events_0 = [
 "date": "about 1890",
 "date_sdn": 2411369,
 "descr": "",
-"gid": "E1120",
+"gid": "E1104",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38293,13 +38277,13 @@ I_events_0 = [
 "date": "about 1873",
 "date_sdn": 2405160,
 "descr": "",
-"gid": "E2164",
+"gid": "E2147",
 "media": [],
 "part_family": [],
 "part_person": [
 1699
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -38310,7 +38294,7 @@ I_events_0 = [
 "date": "1833",
 "date_sdn": 2390550,
 "descr": "",
-"gid": "E2634",
+"gid": "E2611",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38325,7 +38309,7 @@ I_events_0 = [
 "date": "30 March 1875",
 "date_sdn": 2405978,
 "descr": "",
-"gid": "E2636",
+"gid": "E2613",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38342,7 +38326,7 @@ I_events_0 = [
 "date": "1780",
 "date_sdn": 2371192,
 "descr": "",
-"gid": "E1106",
+"gid": "E1090",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38357,7 +38341,7 @@ I_events_0 = [
 "date": "about 1853",
 "date_sdn": 2397855,
 "descr": "",
-"gid": "E1107",
+"gid": "E1091",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38374,7 +38358,7 @@ I_events_0 = [
 "date": "September 1876",
 "date_sdn": 2406499,
 "descr": "",
-"gid": "E1269",
+"gid": "E1253",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38389,7 +38373,7 @@ I_events_0 = [
 "date": "about 1950",
 "date_sdn": 2433283,
 "descr": "",
-"gid": "E1270",
+"gid": "E1254",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38406,7 +38390,7 @@ I_events_0 = [
 "date": "1571",
 "date_sdn": 2294856,
 "descr": "",
-"gid": "E1417",
+"gid": "E1401",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38421,7 +38405,7 @@ I_events_0 = [
 "date": "31 October 1623",
 "date_sdn": 2314152,
 "descr": "",
-"gid": "E1418",
+"gid": "E1402",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38438,7 +38422,7 @@ I_events_0 = [
 "date": "about 1518",
 "date_sdn": 2275498,
 "descr": "",
-"gid": "E1386",
+"gid": "E1370",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38453,7 +38437,7 @@ I_events_0 = [
 "date": "about 1542",
 "date_sdn": 2284264,
 "descr": "",
-"gid": "E1387",
+"gid": "E1371",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38470,7 +38454,7 @@ I_events_0 = [
 "date": "July 1890",
 "date_sdn": 2411550,
 "descr": "",
-"gid": "E1261",
+"gid": "E1245",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38485,7 +38469,7 @@ I_events_0 = [
 "date": "1970",
 "date_sdn": 2440588,
 "descr": "",
-"gid": "E1262",
+"gid": "E1246",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38502,7 +38486,7 @@ I_events_0 = [
 "date": "January 1884",
 "date_sdn": 2409177,
 "descr": "",
-"gid": "E1255",
+"gid": "E1239",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38517,7 +38501,7 @@ I_events_0 = [
 "date": "1977",
 "date_sdn": 2443145,
 "descr": "",
-"gid": "E1256",
+"gid": "E1240",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38534,7 +38518,7 @@ I_events_0 = [
 "date": "October 1888",
 "date_sdn": 2410912,
 "descr": "",
-"gid": "E1259",
+"gid": "E1243",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38549,7 +38533,7 @@ I_events_0 = [
 "date": "1971",
 "date_sdn": 2440953,
 "descr": "",
-"gid": "E1260",
+"gid": "E1244",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38566,13 +38550,13 @@ I_events_0 = [
 "date": "5 July 1900",
 "date_sdn": 2415206,
 "descr": "",
-"gid": "E1271",
+"gid": "E1255",
 "media": [],
 "part_family": [],
 "part_person": [
 1708
 ],
-"place": 633,
+"place": 632,
 "text": "",
 "type": "Birth"
 },
@@ -38581,7 +38565,7 @@ I_events_0 = [
 "date": "about 1979",
 "date_sdn": 2443875,
 "descr": "",
-"gid": "E1272",
+"gid": "E1256",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38598,7 +38582,7 @@ I_events_0 = [
 "date": "11 May 1910",
 "date_sdn": 2418803,
 "descr": "",
-"gid": "E1275",
+"gid": "E1259",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38615,7 +38599,7 @@ I_events_0 = [
 "date": "January 1898",
 "date_sdn": 2414291,
 "descr": "",
-"gid": "E1267",
+"gid": "E1251",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38630,7 +38614,7 @@ I_events_0 = [
 "date": "1990",
 "date_sdn": 2447893,
 "descr": "",
-"gid": "E1268",
+"gid": "E1252",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38647,7 +38631,7 @@ I_events_0 = [
 "date": "1893",
 "date_sdn": 2412465,
 "descr": "",
-"gid": "E1263",
+"gid": "E1247",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38662,7 +38646,7 @@ I_events_0 = [
 "date": "1921",
 "date_sdn": 2422691,
 "descr": "",
-"gid": "E1264",
+"gid": "E1248",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38679,7 +38663,7 @@ I_events_0 = [
 "date": "January 1880",
 "date_sdn": 2407716,
 "descr": "",
-"gid": "E1251",
+"gid": "E1235",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38694,7 +38678,7 @@ I_events_0 = [
 "date": "1968",
 "date_sdn": 2439857,
 "descr": "",
-"gid": "E1252",
+"gid": "E1236",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38711,7 +38695,7 @@ I_events_0 = [
 "date": "6 July 1895",
 "date_sdn": 2413381,
 "descr": "",
-"gid": "E1265",
+"gid": "E1249",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38726,7 +38710,7 @@ I_events_0 = [
 "date": "15 September 1895",
 "date_sdn": 2413452,
 "descr": "",
-"gid": "E1266",
+"gid": "E1250",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38743,7 +38727,7 @@ I_events_0 = [
 "date": "January 1882",
 "date_sdn": 2408447,
 "descr": "",
-"gid": "E1253",
+"gid": "E1237",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38758,7 +38742,7 @@ I_events_0 = [
 "date": "January 1899",
 "date_sdn": 2414656,
 "descr": "",
-"gid": "E1254",
+"gid": "E1238",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38775,7 +38759,7 @@ I_events_0 = [
 "date": "January 1877",
 "date_sdn": 2406621,
 "descr": "",
-"gid": "E1249",
+"gid": "E1233",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38790,13 +38774,13 @@ I_events_0 = [
 "date": "1961",
 "date_sdn": 2437301,
 "descr": "",
-"gid": "E1250",
+"gid": "E1234",
 "media": [],
 "part_family": [],
 "part_person": [
 1715
 ],
-"place": 605,
+"place": 604,
 "text": "",
 "type": "Death"
 }
@@ -38807,7 +38791,7 @@ I_events_0 = [
 "date": "15 June 1858",
 "date_sdn": 2399846,
 "descr": "",
-"gid": "E1245",
+"gid": "E1229",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38822,7 +38806,7 @@ I_events_0 = [
 "date": "1935",
 "date_sdn": 2427804,
 "descr": "",
-"gid": "E1246",
+"gid": "E1230",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38839,13 +38823,13 @@ I_events_0 = [
 "date": "2 December 1902",
 "date_sdn": 2416086,
 "descr": "",
-"gid": "E1274",
+"gid": "E1258",
 "media": [],
 "part_family": [],
 "part_person": [
 1717
 ],
-"place": 633,
+"place": 632,
 "text": "",
 "type": "Birth"
 }
@@ -38856,7 +38840,7 @@ I_events_0 = [
 "date": "27 September 1901",
 "date_sdn": 2415655,
 "descr": "",
-"gid": "E1273",
+"gid": "E1257",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38873,7 +38857,7 @@ I_events_0 = [
 "date": "July 1876",
 "date_sdn": 2406437,
 "descr": "",
-"gid": "E1247",
+"gid": "E1231",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38888,7 +38872,7 @@ I_events_0 = [
 "date": "1935",
 "date_sdn": 2427804,
 "descr": "",
-"gid": "E1248",
+"gid": "E1232",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38905,7 +38889,7 @@ I_events_0 = [
 "date": "October 1886",
 "date_sdn": 2410181,
 "descr": "",
-"gid": "E1257",
+"gid": "E1241",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38920,13 +38904,13 @@ I_events_0 = [
 "date": "1970",
 "date_sdn": 2440588,
 "descr": "",
-"gid": "E1258",
+"gid": "E1242",
 "media": [],
 "part_family": [],
 "part_person": [
 1720
 ],
-"place": 645,
+"place": 644,
 "text": "",
 "type": "Death"
 }
@@ -38937,13 +38921,13 @@ I_events_0 = [
 "date": "5 June 1891",
 "date_sdn": 2411889,
 "descr": "",
-"gid": "E1151",
+"gid": "E1135",
 "media": [],
 "part_family": [],
 "part_person": [
 1721
 ],
-"place": 641,
+"place": 640,
 "text": "",
 "type": "Birth"
 },
@@ -38952,7 +38936,7 @@ I_events_0 = [
 "date": "24 March 1944",
 "date_sdn": 2431174,
 "descr": "",
-"gid": "E1152",
+"gid": "E1136",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38969,7 +38953,7 @@ I_events_0 = [
 "date": "about 1751",
 "date_sdn": 2360600,
 "descr": "",
-"gid": "E0833",
+"gid": "E0818",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -38986,7 +38970,7 @@ I_events_0 = [
 "date": "about 1751",
 "date_sdn": 2360600,
 "descr": "",
-"gid": "E1436",
+"gid": "E1420",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39003,7 +38987,7 @@ I_events_0 = [
 "date": "12 January 1875",
 "date_sdn": 2405901,
 "descr": "",
-"gid": "E0834",
+"gid": "E0819",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39018,13 +39002,13 @@ I_events_0 = [
 "date": "29 March 1927",
 "date_sdn": 2424969,
 "descr": "",
-"gid": "E0835",
+"gid": "E0820",
 "media": [],
 "part_family": [],
 "part_person": [
 1724
 ],
-"place": 617,
+"place": 616,
 "text": "",
 "type": "Death"
 },
@@ -39033,13 +39017,13 @@ I_events_0 = [
 "date": "1903",
 "date_sdn": 2416116,
 "descr": "",
-"gid": "E0836",
+"gid": "E0821",
 "media": [],
 "part_family": [],
 "part_person": [
 1724
 ],
-"place": 615,
+"place": 614,
 "text": "",
 "type": "Residence"
 },
@@ -39048,7 +39032,7 @@ I_events_0 = [
 "date": "1927",
 "date_sdn": 2424882,
 "descr": "",
-"gid": "E0837",
+"gid": "E0822",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39065,7 +39049,7 @@ I_events_0 = [
 "date": "1877",
 "date_sdn": 2406621,
 "descr": "",
-"gid": "E1088",
+"gid": "E1072",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39080,13 +39064,13 @@ I_events_0 = [
 "date": "1919",
 "date_sdn": 2421960,
 "descr": "",
-"gid": "E1089",
+"gid": "E1073",
 "media": [],
 "part_family": [],
 "part_person": [
 1725
 ],
-"place": 617,
+"place": 616,
 "text": "",
 "type": "Death"
 }
@@ -39097,13 +39081,13 @@ I_events_0 = [
 "date": "about 1825",
 "date_sdn": 2387628,
 "descr": "",
-"gid": "E1064",
+"gid": "E1048",
 "media": [],
 "part_family": [],
 "part_person": [
 1726
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Birth"
 },
@@ -39112,13 +39096,13 @@ I_events_0 = [
 "date": "15 August 1891",
 "date_sdn": 2411960,
 "descr": "",
-"gid": "E1065",
+"gid": "E1049",
 "media": [],
 "part_family": [],
 "part_person": [
 1726
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Death"
 }
@@ -39129,7 +39113,7 @@ I_events_0 = [
 "date": "1855",
 "date_sdn": 2398585,
 "descr": "",
-"gid": "E1102",
+"gid": "E1086",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39146,7 +39130,7 @@ I_events_0 = [
 "date": "1845",
 "date_sdn": 2394933,
 "descr": "",
-"gid": "E1100",
+"gid": "E1084",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39163,7 +39147,7 @@ I_events_0 = [
 "date": "1862",
 "date_sdn": 2401142,
 "descr": "",
-"gid": "E1103",
+"gid": "E1087",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39180,7 +39164,7 @@ I_events_0 = [
 "date": "1865",
 "date_sdn": 2402238,
 "descr": "",
-"gid": "E1104",
+"gid": "E1088",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39197,13 +39181,13 @@ I_events_0 = [
 "date": "April 1851",
 "date_sdn": 2397214,
 "descr": "",
-"gid": "E1101",
+"gid": "E1085",
 "media": [],
 "part_family": [],
 "part_person": [
 1731
 ],
-"place": 631,
+"place": 630,
 "text": "",
 "type": "Birth"
 }
@@ -39214,7 +39198,7 @@ I_events_0 = [
 "date": "23 September 1847",
 "date_sdn": 2395928,
 "descr": "",
-"gid": "E1063",
+"gid": "E1047",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39231,13 +39215,13 @@ I_events_0 = [
 "date": "March 1884",
 "date_sdn": 2409237,
 "descr": "",
-"gid": "E1090",
+"gid": "E1074",
 "media": [],
 "part_family": [],
 "part_person": [
 1733
 ],
-"place": 631,
+"place": 630,
 "text": "",
 "type": "Birth"
 },
@@ -39246,7 +39230,7 @@ I_events_0 = [
 "date": "18 October 1962",
 "date_sdn": 2437956,
 "descr": "",
-"gid": "E1091",
+"gid": "E1075",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39263,7 +39247,7 @@ I_events_0 = [
 "date": "between 1741 and 1770",
 "date_sdn": 2356948,
 "descr": "",
-"gid": "E0838",
+"gid": "E0823",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39278,7 +39262,7 @@ I_events_0 = [
 "date": "between 1741 and 1870",
 "date_sdn": 2356948,
 "descr": "",
-"gid": "E0839",
+"gid": "E0824",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39289,18 +39273,17 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[],
 [
 {
 "cita": [],
 "date": "between 1780 and 1809",
 "date_sdn": 2371192,
 "descr": "",
-"gid": "E0840",
+"gid": "E0825",
 "media": [],
 "part_family": [],
 "part_person": [
-1736
+1735
 ],
 "place": -1,
 "text": "",
@@ -39311,11 +39294,11 @@ I_events_0 = [
 "date": "between 1780 and 1909",
 "date_sdn": 2371192,
 "descr": "",
-"gid": "E0841",
+"gid": "E0826",
 "media": [],
 "part_family": [],
 "part_person": [
-1736
+1735
 ],
 "place": -1,
 "text": "",
@@ -39328,11 +39311,11 @@ I_events_0 = [
 "date": "between 1741 and 1770",
 "date_sdn": 2356948,
 "descr": "",
-"gid": "E0842",
+"gid": "E0827",
 "media": [],
 "part_family": [],
 "part_person": [
-1737
+1736
 ],
 "place": -1,
 "text": "",
@@ -39343,24 +39326,25 @@ I_events_0 = [
 "date": "between 1741 and 1870",
 "date_sdn": 2356948,
 "descr": "",
-"gid": "E0843",
+"gid": "E0828",
 "media": [],
 "part_family": [],
 "part_person": [
-1737
+1736
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [
 {
 "cita": [],
 "date": "1784",
 "date_sdn": 2372653,
 "descr": "",
-"gid": "E2650",
+"gid": "E2627",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39375,7 +39359,7 @@ I_events_0 = [
 "date": "16 October 1816",
 "date_sdn": 2384629,
 "descr": "",
-"gid": "E2651",
+"gid": "E2628",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39386,6 +39370,23 @@ I_events_0 = [
 "type": "Death"
 }
 ],
+[
+{
+"cita": [],
+"date": "9 March 1729",
+"date_sdn": 2352632,
+"descr": "",
+"gid": "E0829",
+"media": [],
+"part_family": [],
+"part_person": [
+1739
+],
+"place": 348,
+"text": "",
+"type": "Birth"
+}
+],
 [],
 [
 {
@@ -39393,11 +39394,11 @@ I_events_0 = [
 "date": "6 December 1760",
 "date_sdn": 2364227,
 "descr": "",
-"gid": "E2665",
+"gid": "E2642",
 "media": [],
 "part_family": [],
 "part_person": [
-1740
+1741
 ],
 "place": -1,
 "text": "",
@@ -39408,11 +39409,11 @@ I_events_0 = [
 "date": "14 December 1760",
 "date_sdn": 2364235,
 "descr": "",
-"gid": "E2666",
+"gid": "E2643",
 "media": [],
 "part_family": [],
 "part_person": [
-1740
+1741
 ],
 "place": 474,
 "text": "",
@@ -39422,27 +39423,10 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "9 March 1729",
-"date_sdn": 2352632,
-"descr": "",
-"gid": "E0844",
-"media": [],
-"part_family": [],
-"part_person": [
-1741
-],
-"place": 348,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
 "date": "23 February 1758",
 "date_sdn": 2363210,
 "descr": "",
-"gid": "E0845",
+"gid": "E0830",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39459,7 +39443,7 @@ I_events_0 = [
 "date": "about 1710",
 "date_sdn": 2345625,
 "descr": "",
-"gid": "E0846",
+"gid": "E0831",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39476,7 +39460,7 @@ I_events_0 = [
 "date": "7 August 1785",
 "date_sdn": 2373237,
 "descr": "",
-"gid": "E0847",
+"gid": "E0832",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39491,7 +39475,7 @@ I_events_0 = [
 "date": "16 October 1816",
 "date_sdn": 2384629,
 "descr": "",
-"gid": "E0848",
+"gid": "E0833",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39508,7 +39492,7 @@ I_events_0 = [
 "date": "22 September 1878",
 "date_sdn": 2407250,
 "descr": "",
-"gid": "E2236",
+"gid": "E2219",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39523,13 +39507,13 @@ I_events_0 = [
 "date": "28 October 1949",
 "date_sdn": 2433218,
 "descr": "",
-"gid": "E2237",
+"gid": "E2220",
 "media": [],
 "part_family": [],
 "part_person": [
 1745
 ],
-"place": 603,
+"place": 602,
 "text": "",
 "type": "Death"
 }
@@ -39540,7 +39524,7 @@ I_events_0 = [
 "date": "between 1848 and 1877",
 "date_sdn": 2396028,
 "descr": "",
-"gid": "E2107",
+"gid": "E2090",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39555,7 +39539,7 @@ I_events_0 = [
 "date": "between 1893 and 1977",
 "date_sdn": 2412465,
 "descr": "",
-"gid": "E2108",
+"gid": "E2091",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39572,7 +39556,7 @@ I_events_0 = [
 "date": "between 1855 and 1884",
 "date_sdn": 2398585,
 "descr": "",
-"gid": "E2062",
+"gid": "E2045",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39587,7 +39571,7 @@ I_events_0 = [
 "date": "between 1900 and 1984",
 "date_sdn": 2415021,
 "descr": "",
-"gid": "E2063",
+"gid": "E2046",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39604,7 +39588,7 @@ I_events_0 = [
 "date": "July 1901",
 "date_sdn": 2415567,
 "descr": "",
-"gid": "E1973",
+"gid": "E1956",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39621,7 +39605,7 @@ I_events_0 = [
 "date": "about 1902",
 "date_sdn": 2415751,
 "descr": "",
-"gid": "E1305",
+"gid": "E1289",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39638,7 +39622,7 @@ I_events_0 = [
 "date": "8 January 1911",
 "date_sdn": 2419045,
 "descr": "",
-"gid": "E1569",
+"gid": "E1552",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39653,13 +39637,13 @@ I_events_0 = [
 "date": "27 November 1986",
 "date_sdn": 2446762,
 "descr": "",
-"gid": "E1570",
+"gid": "E1553",
 "media": [],
 "part_family": [],
 "part_person": [
 1750
 ],
-"place": 653,
+"place": 652,
 "text": "",
 "type": "Death"
 }
@@ -39670,7 +39654,7 @@ I_events_0 = [
 "date": "April 1881",
 "date_sdn": 2408172,
 "descr": "",
-"gid": "E2211",
+"gid": "E2194",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39685,7 +39669,7 @@ I_events_0 = [
 "date": "December 1965",
 "date_sdn": 2439096,
 "descr": "",
-"gid": "E2212",
+"gid": "E2195",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39702,14 +39686,14 @@ I_events_0 = [
 "date": "1832",
 "date_sdn": 2390184,
 "descr": "",
-"gid": "E0849",
+"gid": "E0834",
 "media": [],
 "part_family": [],
 "part_person": [
 1752
 ],
 "place": 298,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nGRO: <br />\nVol 09A<br />\nPage 453\n</p>\n</div>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nGRO: <br />\nVol 09A<br />\nPage 453\n</p>\n</div>\n</div>",
 "type": "Birth"
 },
 {
@@ -39717,14 +39701,14 @@ I_events_0 = [
 "date": "March 1891",
 "date_sdn": 2411793,
 "descr": "",
-"gid": "E0850",
+"gid": "E0835",
 "media": [],
 "part_family": [],
 "part_person": [
 1752
 ],
 "place": 298,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nGRO Reference: 1891  M Quarter in HALIFAX  Volume 09A  Page 397\n</p>\n</div>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nGRO Reference: 1891  M Quarter in HALIFAX  Volume 09A  Page 397\n</p>\n</div>\n</div>",
 "type": "Death"
 }
 ],
@@ -39734,13 +39718,13 @@ I_events_0 = [
 "date": "about 1839",
 "date_sdn": 2392741,
 "descr": "",
-"gid": "E2412",
+"gid": "E2392",
 "media": [],
 "part_family": [],
 "part_person": [
 1753
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 }
@@ -39751,7 +39735,7 @@ I_events_0 = [
 "date": "1 February 1848",
 "date_sdn": 2396059,
 "descr": "",
-"gid": "E2414",
+"gid": "E2394",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39768,7 +39752,7 @@ I_events_0 = [
 "date": "October 1844",
 "date_sdn": 2394841,
 "descr": "",
-"gid": "E2413",
+"gid": "E2393",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39785,7 +39769,7 @@ I_events_0 = [
 "date": "about 1805",
 "date_sdn": 2380323,
 "descr": "",
-"gid": "E0852",
+"gid": "E0837",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39800,7 +39784,7 @@ I_events_0 = [
 "date": "between 1849 and 1861",
 "date_sdn": 2396394,
 "descr": "",
-"gid": "E2418",
+"gid": "E2398",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39817,7 +39801,7 @@ I_events_0 = [
 "date": "April 1849",
 "date_sdn": 2396484,
 "descr": "",
-"gid": "E2415",
+"gid": "E2395",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39834,7 +39818,7 @@ I_events_0 = [
 "date": "January 1877",
 "date_sdn": 2406621,
 "descr": "",
-"gid": "E1116",
+"gid": "E1100",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39849,7 +39833,7 @@ I_events_0 = [
 "date": "September 1939",
 "date_sdn": 2429508,
 "descr": "",
-"gid": "E1117",
+"gid": "E1101",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39867,7 +39851,7 @@ I_events_0 = [
 "date": "1527",
 "date_sdn": 2278785,
 "descr": "",
-"gid": "E1729",
+"gid": "E1712",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39882,7 +39866,7 @@ I_events_0 = [
 "date": "1608",
 "date_sdn": 2308370,
 "descr": "",
-"gid": "E1730",
+"gid": "E1713",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39899,13 +39883,13 @@ I_events_0 = [
 "date": "about 1834",
 "date_sdn": 2390915,
 "descr": "",
-"gid": "E0854",
+"gid": "E0839",
 "media": [],
 "part_family": [],
 "part_person": [
 1761
 ],
-"place": 662,
+"place": 661,
 "text": "",
 "type": "Birth"
 },
@@ -39914,13 +39898,13 @@ I_events_0 = [
 "date": "19 February 1916",
 "date_sdn": 2420913,
 "descr": "",
-"gid": "E0855",
+"gid": "E0840",
 "media": [],
 "part_family": [],
 "part_person": [
 1761
 ],
-"place": 657,
+"place": 656,
 "text": "",
 "type": "Death"
 }
@@ -39932,7 +39916,7 @@ I_events_0 = [
 "date": "January 1900",
 "date_sdn": 2415021,
 "descr": "",
-"gid": "E2865",
+"gid": "E2837",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39949,7 +39933,7 @@ I_events_0 = [
 "date": "April 1897",
 "date_sdn": 2414016,
 "descr": "",
-"gid": "E2864",
+"gid": "E2836",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39966,7 +39950,7 @@ I_events_0 = [
 "date": "October 1906",
 "date_sdn": 2417485,
 "descr": "",
-"gid": "E2869",
+"gid": "E2841",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -39983,7 +39967,7 @@ I_events_0 = [
 "date": "April 1901",
 "date_sdn": 2415476,
 "descr": "",
-"gid": "E2866",
+"gid": "E2838",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40000,7 +39984,7 @@ I_events_0 = [
 "date": "October 1904",
 "date_sdn": 2416755,
 "descr": "",
-"gid": "E2868",
+"gid": "E2840",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40017,7 +40001,7 @@ I_events_0 = [
 "date": "July 1902",
 "date_sdn": 2415932,
 "descr": "",
-"gid": "E2867",
+"gid": "E2839",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40034,7 +40018,7 @@ I_events_0 = [
 "date": "30 June 1812",
 "date_sdn": 2383060,
 "descr": "",
-"gid": "E0856",
+"gid": "E0841",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40049,7 +40033,7 @@ I_events_0 = [
 "date": "13 August 1888",
 "date_sdn": 2410863,
 "descr": "",
-"gid": "E0857",
+"gid": "E0842",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40066,7 +40050,7 @@ I_events_0 = [
 "date": "about 1836",
 "date_sdn": 2391645,
 "descr": "",
-"gid": "E0859",
+"gid": "E0844",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40081,7 +40065,7 @@ I_events_0 = [
 "date": "December 1922",
 "date_sdn": 2423390,
 "descr": "",
-"gid": "E0860",
+"gid": "E0845",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40098,13 +40082,13 @@ I_events_0 = [
 "date": "January 1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E1322",
+"gid": "E1306",
 "media": [],
 "part_family": [],
 "part_person": [
 1771
 ],
-"place": 637,
+"place": 636,
 "text": "",
 "type": "Birth"
 }
@@ -40115,7 +40099,7 @@ I_events_0 = [
 "date": "about 1842",
 "date_sdn": 2393837,
 "descr": "",
-"gid": "E0861",
+"gid": "E0846",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40130,7 +40114,7 @@ I_events_0 = [
 "date": "1906",
 "date_sdn": 2417212,
 "descr": "",
-"gid": "E0862",
+"gid": "E0847",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40147,7 +40131,7 @@ I_events_0 = [
 "date": "1 June 1803",
 "date_sdn": 2379743,
 "descr": "",
-"gid": "E0863",
+"gid": "E0848",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40164,7 +40148,7 @@ I_events_0 = [
 "date": "January 1860",
 "date_sdn": 2400411,
 "descr": "",
-"gid": "E0858",
+"gid": "E0843",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40181,7 +40165,7 @@ I_events_0 = [
 "date": "1730",
 "date_sdn": 2352930,
 "descr": "",
-"gid": "E0864",
+"gid": "E0849",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40198,7 +40182,7 @@ I_events_0 = [
 "date": "about 1855",
 "date_sdn": 2398585,
 "descr": "",
-"gid": "E1905",
+"gid": "E1888",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40213,7 +40197,7 @@ I_events_0 = [
 "date": "September 1940",
 "date_sdn": 2429874,
 "descr": "",
-"gid": "E1906",
+"gid": "E1889",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40230,7 +40214,7 @@ I_events_0 = [
 "date": "6 May 1834",
 "date_sdn": 2391040,
 "descr": "",
-"gid": "E1087",
+"gid": "E1071",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40247,7 +40231,7 @@ I_events_0 = [
 "date": "1728",
 "date_sdn": 2352199,
 "descr": "",
-"gid": "E0866",
+"gid": "E0850",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40264,7 +40248,7 @@ I_events_0 = [
 "date": "1754",
 "date_sdn": 2361696,
 "descr": "",
-"gid": "E0974",
+"gid": "E0958",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40279,7 +40263,7 @@ I_events_0 = [
 "date": "August 1825",
 "date_sdn": 2387840,
 "descr": "",
-"gid": "E0975",
+"gid": "E0959",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40296,7 +40280,7 @@ I_events_0 = [
 "date": "1735",
 "date_sdn": 2354756,
 "descr": "",
-"gid": "E0867",
+"gid": "E0851",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40311,7 +40295,7 @@ I_events_0 = [
 "date": "10 October 1803",
 "date_sdn": 2379874,
 "descr": "",
-"gid": "E0868",
+"gid": "E0852",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40328,7 +40312,7 @@ I_events_0 = [
 "date": "1710",
 "date_sdn": 2345625,
 "descr": "",
-"gid": "E1858",
+"gid": "E1841",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40345,7 +40329,7 @@ I_events_0 = [
 "date": "about 1845",
 "date_sdn": 2394933,
 "descr": "",
-"gid": "E2013",
+"gid": "E1996",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40360,7 +40344,7 @@ I_events_0 = [
 "date": "October 1900",
 "date_sdn": 2415294,
 "descr": "",
-"gid": "E2014",
+"gid": "E1997",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40377,7 +40361,7 @@ I_events_0 = [
 "date": "1786",
 "date_sdn": 2373384,
 "descr": "",
-"gid": "E0869",
+"gid": "E0853",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40392,7 +40376,7 @@ I_events_0 = [
 "date": "24 September 1865",
 "date_sdn": 2402504,
 "descr": "",
-"gid": "E0870",
+"gid": "E0854",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40407,7 +40391,7 @@ I_events_0 = [
 "date": "1861",
 "date_sdn": 2400777,
 "descr": "",
-"gid": "E0871",
+"gid": "E0855",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40424,7 +40408,7 @@ I_events_0 = [
 "date": "between 1556 and 1564",
 "date_sdn": 2289377,
 "descr": "",
-"gid": "E1370",
+"gid": "E1354",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40439,7 +40423,7 @@ I_events_0 = [
 "date": "1597",
 "date_sdn": 2304353,
 "descr": "",
-"gid": "E1371",
+"gid": "E1355",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40456,7 +40440,7 @@ I_events_0 = [
 "date": "1714",
 "date_sdn": 2347086,
 "descr": "",
-"gid": "E0872",
+"gid": "E0856",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40471,7 +40455,7 @@ I_events_0 = [
 "date": "1763",
 "date_sdn": 2364983,
 "descr": "",
-"gid": "E0873",
+"gid": "E0857",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40488,7 +40472,7 @@ I_events_0 = [
 "date": "1754",
 "date_sdn": 2361696,
 "descr": "",
-"gid": "E0874",
+"gid": "E0858",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40503,7 +40487,7 @@ I_events_0 = [
 "date": "17 September 1786",
 "date_sdn": 2373643,
 "descr": "",
-"gid": "E0875",
+"gid": "E0859",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40522,7 +40506,7 @@ I_events_0 = [
 "date": "27 July 1901",
 "date_sdn": 2415593,
 "descr": "",
-"gid": "E1006",
+"gid": "E0990",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40537,7 +40521,7 @@ I_events_0 = [
 "date": "21 February 1985",
 "date_sdn": 2446118,
 "descr": "",
-"gid": "E1007",
+"gid": "E0991",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40552,7 +40536,7 @@ I_events_0 = [
 "date": "1923",
 "date_sdn": 2423421,
 "descr": "",
-"gid": "E1008",
+"gid": "E0992",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40567,7 +40551,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E1009",
+"gid": "E0993",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40589,7 +40573,7 @@ I_events_0 = [
 "date": "July 1890",
 "date_sdn": 2411550,
 "descr": "",
-"gid": "E2606",
+"gid": "E2584",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40604,7 +40588,7 @@ I_events_0 = [
 "date": "before 1950",
 "date_sdn": 2433283,
 "descr": "",
-"gid": "E2611",
+"gid": "E2589",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40621,7 +40605,7 @@ I_events_0 = [
 "date": "24 August 1920",
 "date_sdn": 2422561,
 "descr": "",
-"gid": "E2608",
+"gid": "E2586",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40636,7 +40620,7 @@ I_events_0 = [
 "date": "25 May 2007",
 "date_sdn": 2454246,
 "descr": "",
-"gid": "E2612",
+"gid": "E2590",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40654,7 +40638,7 @@ I_events_0 = [
 "date": "1752",
 "date_sdn": 2360965,
 "descr": "",
-"gid": "E1215",
+"gid": "E1199",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40671,7 +40655,7 @@ I_events_0 = [
 "date": "July 1866",
 "date_sdn": 2402784,
 "descr": "",
-"gid": "E0876",
+"gid": "E0860",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40686,7 +40670,7 @@ I_events_0 = [
 "date": "between 1885 and 1977",
 "date_sdn": 2409543,
 "descr": "",
-"gid": "E0877",
+"gid": "E0861",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40703,7 +40687,7 @@ I_events_0 = [
 "date": "July 1837",
 "date_sdn": 2392192,
 "descr": "",
-"gid": "E0878",
+"gid": "E0862",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40718,7 +40702,7 @@ I_events_0 = [
 "date": "1908",
 "date_sdn": 2417942,
 "descr": "",
-"gid": "E0879",
+"gid": "E0863",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40735,7 +40719,7 @@ I_events_0 = [
 "date": "26 May 1864",
 "date_sdn": 2402018,
 "descr": "",
-"gid": "E0880",
+"gid": "E0864",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40750,14 +40734,14 @@ I_events_0 = [
 "date": "27 February 1896",
 "date_sdn": 2413617,
 "descr": "",
-"gid": "E0881",
+"gid": "E0865",
 "media": [],
 "part_family": [],
 "part_person": [
 1801
 ],
 "place": 28,
-"text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDied of Ulceration Endocarditis\n</p>\n</div>\n</div>",
+"text": "<div>\n<div class=\"grampsstylednote\">\n<p>\nDied of Ulceration Endocarditis\n</p>\n</div>\n</div>",
 "type": "Death"
 },
 {
@@ -40765,7 +40749,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0882",
+"gid": "E0866",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40782,7 +40766,7 @@ I_events_0 = [
 "date": "April 1848",
 "date_sdn": 2396119,
 "descr": "",
-"gid": "E0883",
+"gid": "E0867",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40799,7 +40783,7 @@ I_events_0 = [
 "date": "about 1848",
 "date_sdn": 2396028,
 "descr": "",
-"gid": "E0884",
+"gid": "E0868",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40816,7 +40800,7 @@ I_events_0 = [
 "date": "about 1832",
 "date_sdn": 2390184,
 "descr": "",
-"gid": "E0885",
+"gid": "E0869",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40833,7 +40817,7 @@ I_events_0 = [
 "date": "17 November 1868",
 "date_sdn": 2403654,
 "descr": "",
-"gid": "E0886",
+"gid": "E0870",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40848,7 +40832,7 @@ I_events_0 = [
 "date": "28 February 1933",
 "date_sdn": 2427132,
 "descr": "",
-"gid": "E0887",
+"gid": "E0871",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40863,7 +40847,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0888",
+"gid": "E0872",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40880,13 +40864,13 @@ I_events_0 = [
 "date": "1854",
 "date_sdn": 2398220,
 "descr": "",
-"gid": "E0889",
+"gid": "E0873",
 "media": [],
 "part_family": [],
 "part_person": [
 1806
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Birth"
 }
@@ -40897,13 +40881,13 @@ I_events_0 = [
 "date": "27 October 1856",
 "date_sdn": 2399250,
 "descr": "",
-"gid": "E0890",
+"gid": "E0874",
 "media": [],
 "part_family": [],
 "part_person": [
 1807
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Birth"
 },
@@ -40912,7 +40896,7 @@ I_events_0 = [
 "date": "11 December 1856",
 "date_sdn": 2399295,
 "descr": "",
-"gid": "E0891",
+"gid": "E0875",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40929,7 +40913,7 @@ I_events_0 = [
 "date": "26 February 1748",
 "date_sdn": 2359560,
 "descr": "",
-"gid": "E0853",
+"gid": "E0838",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40946,7 +40930,7 @@ I_events_0 = [
 "date": "1725",
 "date_sdn": 2351104,
 "descr": "",
-"gid": "E0892",
+"gid": "E0876",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40961,13 +40945,13 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0893",
+"gid": "E0877",
 "media": [],
 "part_family": [],
 "part_person": [
 1809
 ],
-"place": 588,
+"place": 587,
 "text": "",
 "type": "Death"
 }
@@ -40978,7 +40962,7 @@ I_events_0 = [
 "date": "1828",
 "date_sdn": 2388723,
 "descr": "",
-"gid": "E0894",
+"gid": "E0878",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -40993,7 +40977,7 @@ I_events_0 = [
 "date": "14 November 1874",
 "date_sdn": 2405842,
 "descr": "",
-"gid": "E0895",
+"gid": "E0879",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41008,7 +40992,7 @@ I_events_0 = [
 "date": "1852",
 "date_sdn": 2397489,
 "descr": "",
-"gid": "E0896",
+"gid": "E0880",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41025,7 +41009,7 @@ I_events_0 = [
 "date": "about 1700",
 "date_sdn": 2341973,
 "descr": "",
-"gid": "E0897",
+"gid": "E0881",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41042,7 +41026,7 @@ I_events_0 = [
 "date": "about 1826",
 "date_sdn": 2387993,
 "descr": "",
-"gid": "E0898",
+"gid": "E0882",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41059,7 +41043,7 @@ I_events_0 = [
 "date": "15 January 1826",
 "date_sdn": 2388007,
 "descr": "",
-"gid": "E0899",
+"gid": "E0883",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41074,7 +41058,7 @@ I_events_0 = [
 "date": "1899",
 "date_sdn": 2414656,
 "descr": "",
-"gid": "E0900",
+"gid": "E0884",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41091,13 +41075,13 @@ I_events_0 = [
 "date": "about 1876",
 "date_sdn": 2406255,
 "descr": "",
-"gid": "E2754",
+"gid": "E2729",
 "media": [],
 "part_family": [],
 "part_person": [
 1814
 ],
-"place": 638,
+"place": 637,
 "text": "",
 "type": "Birth"
 },
@@ -41106,7 +41090,7 @@ I_events_0 = [
 "date": "1964",
 "date_sdn": 2438396,
 "descr": "",
-"gid": "E2755",
+"gid": "E2730",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41123,7 +41107,7 @@ I_events_0 = [
 "date": "1665",
 "date_sdn": 2329190,
 "descr": "",
-"gid": "E0901",
+"gid": "E0885",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41140,7 +41124,7 @@ I_events_0 = [
 "date": "1645",
 "date_sdn": 2321885,
 "descr": "",
-"gid": "E0902",
+"gid": "E0886",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41157,7 +41141,7 @@ I_events_0 = [
 "date": "about 1605",
 "date_sdn": 2307275,
 "descr": "",
-"gid": "E0903",
+"gid": "E0887",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41174,13 +41158,13 @@ I_events_0 = [
 "date": "about 1644",
 "date_sdn": 2321519,
 "descr": "",
-"gid": "E1336",
+"gid": "E1320",
 "media": [],
 "part_family": [],
 "part_person": [
 1818
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Birth"
 },
@@ -41189,13 +41173,13 @@ I_events_0 = [
 "date": "July 1733",
 "date_sdn": 2354207,
 "descr": "",
-"gid": "E1337",
+"gid": "E1321",
 "media": [],
 "part_family": [],
 "part_person": [
 1818
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Death"
 }
@@ -41206,7 +41190,7 @@ I_events_0 = [
 "date": "about 1801",
 "date_sdn": 2378862,
 "descr": "",
-"gid": "E0904",
+"gid": "E0888",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41221,7 +41205,7 @@ I_events_0 = [
 "date": "calculated between 1881 and 1910",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E2577",
+"gid": "E2556",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41238,7 +41222,7 @@ I_events_0 = [
 "date": "1774",
 "date_sdn": 2369001,
 "descr": "",
-"gid": "E0906",
+"gid": "E0890",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41253,7 +41237,7 @@ I_events_0 = [
 "date": "1839",
 "date_sdn": 2392741,
 "descr": "",
-"gid": "E0907",
+"gid": "E0891",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41270,7 +41254,7 @@ I_events_0 = [
 "date": "about 1835",
 "date_sdn": 2391280,
 "descr": "",
-"gid": "E0908",
+"gid": "E0892",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41287,7 +41271,7 @@ I_events_0 = [
 "date": "28 April 1801",
 "date_sdn": 2378979,
 "descr": "",
-"gid": "E0909",
+"gid": "E0893",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41302,7 +41286,7 @@ I_events_0 = [
 "date": "about 1888",
 "date_sdn": 2410638,
 "descr": "",
-"gid": "E0910",
+"gid": "E0894",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41319,7 +41303,7 @@ I_events_0 = [
 "date": "1774",
 "date_sdn": 2369001,
 "descr": "",
-"gid": "E0911",
+"gid": "E0895",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41334,7 +41318,7 @@ I_events_0 = [
 "date": "1839",
 "date_sdn": 2392741,
 "descr": "",
-"gid": "E0912",
+"gid": "E0896",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41351,7 +41335,7 @@ I_events_0 = [
 "date": "about 1836",
 "date_sdn": 2391645,
 "descr": "",
-"gid": "E0913",
+"gid": "E0897",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41366,7 +41350,7 @@ I_events_0 = [
 "date": "",
 "date_sdn": 0,
 "descr": "",
-"gid": "E0914",
+"gid": "E0898",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41383,7 +41367,7 @@ I_events_0 = [
 "date": "calculated between 1710 and 1739",
 "date_sdn": 2345625,
 "descr": "",
-"gid": "E1872",
+"gid": "E1855",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41398,7 +41382,7 @@ I_events_0 = [
 "date": "calculated between 1710 and 1839",
 "date_sdn": 2345625,
 "descr": "",
-"gid": "E1873",
+"gid": "E1856",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41413,13 +41397,13 @@ I_events_0 = [
 "date": "21 May 1759",
 "date_sdn": 2363662,
 "descr": "",
-"gid": "E1874",
+"gid": "E1857",
 "media": [],
 "part_family": [],
 "part_person": [
 1825
 ],
-"place": 652,
+"place": 651,
 "text": "",
 "type": "Baptism"
 }
@@ -41431,7 +41415,7 @@ I_events_0 = [
 "date": "1923",
 "date_sdn": 2423421,
 "descr": "",
-"gid": "E0915",
+"gid": "E0899",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41446,7 +41430,7 @@ I_events_0 = [
 "date": "1959",
 "date_sdn": 2436570,
 "descr": "",
-"gid": "E0916",
+"gid": "E0900",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41463,7 +41447,7 @@ I_events_0 = [
 "date": "1690",
 "date_sdn": 2338321,
 "descr": "",
-"gid": "E0917",
+"gid": "E0901",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41478,7 +41462,7 @@ I_events_0 = [
 "date": "7 October 1779",
 "date_sdn": 2371106,
 "descr": "",
-"gid": "E0918",
+"gid": "E0902",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41495,7 +41479,7 @@ I_events_0 = [
 "date": "about 1906",
 "date_sdn": 2417212,
 "descr": "",
-"gid": "E2692",
+"gid": "E2669",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41512,7 +41496,7 @@ I_events_0 = [
 "date": "1897",
 "date_sdn": 2413926,
 "descr": "",
-"gid": "E1161",
+"gid": "E1145",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41527,7 +41511,7 @@ I_events_0 = [
 "date": "1974",
 "date_sdn": 2442049,
 "descr": "",
-"gid": "E1162",
+"gid": "E1146",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41544,7 +41528,7 @@ I_events_0 = [
 "date": "24 December 1849",
 "date_sdn": 2396751,
 "descr": "",
-"gid": "E1127",
+"gid": "E1111",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41559,7 +41543,7 @@ I_events_0 = [
 "date": "March 1936",
 "date_sdn": 2428229,
 "descr": "",
-"gid": "E1128",
+"gid": "E1112",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41576,7 +41560,7 @@ I_events_0 = [
 "date": "March 1875",
 "date_sdn": 2405949,
 "descr": "",
-"gid": "E2127",
+"gid": "E2110",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41593,7 +41577,7 @@ I_events_0 = [
 "date": "27 September 1879",
 "date_sdn": 2407620,
 "descr": "",
-"gid": "E2130",
+"gid": "E2113",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41608,7 +41592,7 @@ I_events_0 = [
 "date": "19 December 1957",
 "date_sdn": 2436192,
 "descr": "",
-"gid": "E2131",
+"gid": "E2114",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41625,7 +41609,7 @@ I_events_0 = [
 "date": "March 1890",
 "date_sdn": 2411428,
 "descr": "",
-"gid": "E2137",
+"gid": "E2120",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41640,7 +41624,7 @@ I_events_0 = [
 "date": "July 1894",
 "date_sdn": 2413011,
 "descr": "",
-"gid": "E2138",
+"gid": "E2121",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41657,7 +41641,7 @@ I_events_0 = [
 "date": "December 1850",
 "date_sdn": 2397093,
 "descr": "",
-"gid": "E2125",
+"gid": "E2108",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41672,7 +41656,7 @@ I_events_0 = [
 "date": "6 March 1928",
 "date_sdn": 2425312,
 "descr": "",
-"gid": "E2126",
+"gid": "E2109",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41689,7 +41673,7 @@ I_events_0 = [
 "date": "June 1877",
 "date_sdn": 2406772,
 "descr": "",
-"gid": "E2128",
+"gid": "E2111",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41704,7 +41688,7 @@ I_events_0 = [
 "date": "12 December 1963",
 "date_sdn": 2438376,
 "descr": "",
-"gid": "E2129",
+"gid": "E2112",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41721,7 +41705,7 @@ I_events_0 = [
 "date": "September 1887",
 "date_sdn": 2410516,
 "descr": "",
-"gid": "E2136",
+"gid": "E2119",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41738,7 +41722,7 @@ I_events_0 = [
 "date": "December 1884",
 "date_sdn": 2409512,
 "descr": "",
-"gid": "E2134",
+"gid": "E2117",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41753,7 +41737,7 @@ I_events_0 = [
 "date": "8 December 1963",
 "date_sdn": 2438372,
 "descr": "",
-"gid": "E2135",
+"gid": "E2118",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41770,7 +41754,7 @@ I_events_0 = [
 "date": "March 1882",
 "date_sdn": 2408506,
 "descr": "",
-"gid": "E2132",
+"gid": "E2115",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41785,7 +41769,7 @@ I_events_0 = [
 "date": "September 1945",
 "date_sdn": 2431700,
 "descr": "",
-"gid": "E2133",
+"gid": "E2116",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41802,13 +41786,13 @@ I_events_0 = [
 "date": "26 October 1899",
 "date_sdn": 2414954,
 "descr": "",
-"gid": "E2147",
+"gid": "E2130",
 "media": [],
 "part_family": [],
 "part_person": [
 1840
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -41819,13 +41803,13 @@ I_events_0 = [
 "date": "3 July 1909",
 "date_sdn": 2418491,
 "descr": "",
-"gid": "E2148",
+"gid": "E2131",
 "media": [],
 "part_family": [],
 "part_person": [
 1841
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -41836,7 +41820,7 @@ I_events_0 = [
 "date": "9 October 1895",
 "date_sdn": 2413476,
 "descr": "",
-"gid": "E2139",
+"gid": "E2122",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41851,7 +41835,7 @@ I_events_0 = [
 "date": "March 1971",
 "date_sdn": 2441012,
 "descr": "",
-"gid": "E2140",
+"gid": "E2123",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41869,7 +41853,7 @@ I_events_0 = [
 "date": "about 1857",
 "date_sdn": 2399316,
 "descr": "",
-"gid": "E2350",
+"gid": "E2331",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41886,7 +41870,7 @@ I_events_0 = [
 "date": "between 1625 and 1669",
 "date_sdn": 2314580,
 "descr": "",
-"gid": "E1631",
+"gid": "E1614",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41901,7 +41885,7 @@ I_events_0 = [
 "date": "1685",
 "date_sdn": 2336495,
 "descr": "",
-"gid": "E1632",
+"gid": "E1615",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41918,7 +41902,7 @@ I_events_0 = [
 "date": "about 1821",
 "date_sdn": 2386167,
 "descr": "",
-"gid": "E0919",
+"gid": "E0903",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41935,7 +41919,7 @@ I_events_0 = [
 "date": "1878",
 "date_sdn": 2406986,
 "descr": "",
-"gid": "E1149",
+"gid": "E1133",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41950,7 +41934,7 @@ I_events_0 = [
 "date": "1967",
 "date_sdn": 2439492,
 "descr": "",
-"gid": "E1150",
+"gid": "E1134",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -41965,31 +41949,14 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "1869",
-"date_sdn": 2403699,
+"date": "17 August 1817",
+"date_sdn": 2384934,
 "descr": "",
-"gid": "E2973",
+"gid": "E2899",
 "media": [],
 "part_family": [],
 "part_person": [
 1849
-],
-"place": 287,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "17 August 1817",
-"date_sdn": 2384934,
-"descr": "",
-"gid": "E2928",
-"media": [],
-"part_family": [],
-"part_person": [
-1850
 ],
 "place": 396,
 "text": "",
@@ -41999,10 +41966,27 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "1869",
+"date_sdn": 2403699,
+"descr": "",
+"gid": "E2944",
+"media": [],
+"part_family": [],
+"part_person": [
+1850
+],
+"place": 287,
+"text": "",
+"type": "Birth"
+}
+],
+[
+{
+"cita": [],
 "date": "October 1863",
 "date_sdn": 2401780,
 "descr": "",
-"gid": "E2972",
+"gid": "E2943",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42017,7 +42001,7 @@ I_events_0 = [
 "date": "after 1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E2994",
+"gid": "E2964",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42034,7 +42018,7 @@ I_events_0 = [
 "date": "about 1834",
 "date_sdn": 2390915,
 "descr": "",
-"gid": "E2346",
+"gid": "E2327",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42051,7 +42035,7 @@ I_events_0 = [
 "date": "1795",
 "date_sdn": 2376671,
 "descr": "",
-"gid": "E2342",
+"gid": "E2324",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42068,7 +42052,7 @@ I_events_0 = [
 "date": "January 1871",
 "date_sdn": 2404429,
 "descr": "",
-"gid": "E2974",
+"gid": "E2945",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42085,7 +42069,7 @@ I_events_0 = [
 "date": "April 1856",
 "date_sdn": 2399041,
 "descr": "",
-"gid": "E2970",
+"gid": "E2941",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42100,7 +42084,7 @@ I_events_0 = [
 "date": "15 May 1856",
 "date_sdn": 2399085,
 "descr": "",
-"gid": "E2983",
+"gid": "E2954",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42115,7 +42099,7 @@ I_events_0 = [
 "date": "28 February 1916",
 "date_sdn": 2420922,
 "descr": "",
-"gid": "E2995",
+"gid": "E2965",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42132,7 +42116,7 @@ I_events_0 = [
 "date": "January 1860",
 "date_sdn": 2400411,
 "descr": "",
-"gid": "E2971",
+"gid": "E2942",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42150,7 +42134,7 @@ I_events_0 = [
 "date": "about 1829",
 "date_sdn": 2389089,
 "descr": "",
-"gid": "E2345",
+"gid": "E2326",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42167,7 +42151,7 @@ I_events_0 = [
 "date": "about 1811",
 "date_sdn": 2382514,
 "descr": "",
-"gid": "E2481",
+"gid": "E2460",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42182,7 +42166,7 @@ I_events_0 = [
 "date": "calculated between 1827 and 1911",
 "date_sdn": 2388358,
 "descr": "",
-"gid": "E2482",
+"gid": "E2461",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42199,7 +42183,7 @@ I_events_0 = [
 "date": "1886",
 "date_sdn": 2409908,
 "descr": "",
-"gid": "E2214",
+"gid": "E2197",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42216,7 +42200,7 @@ I_events_0 = [
 "date": "13 January 1908",
 "date_sdn": 2417954,
 "descr": "",
-"gid": "E2918",
+"gid": "E2890",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42233,7 +42217,7 @@ I_events_0 = [
 "date": "about 1905",
 "date_sdn": 2416847,
 "descr": "",
-"gid": "E2700",
+"gid": "E2677",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42248,7 +42232,7 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E2701",
+"gid": "E2678",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42265,7 +42249,7 @@ I_events_0 = [
 "date": "17 April 1926",
 "date_sdn": 2424623,
 "descr": "",
-"gid": "E2698",
+"gid": "E2675",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42280,7 +42264,7 @@ I_events_0 = [
 "date": "26 December 2009",
 "date_sdn": 2455192,
 "descr": "",
-"gid": "E2699",
+"gid": "E2676",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42298,13 +42282,13 @@ I_events_0 = [
 "date": "2 March 1877",
 "date_sdn": 2406681,
 "descr": "",
-"gid": "E2457",
+"gid": "E2437",
 "media": [],
 "part_family": [],
 "part_person": [
 1865
 ],
-"place": 575,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -42315,7 +42299,7 @@ I_events_0 = [
 "date": "24 May 1756",
 "date_sdn": 2362570,
 "descr": "",
-"gid": "E0920",
+"gid": "E0904",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42330,7 +42314,7 @@ I_events_0 = [
 "date": "2 December 1820",
 "date_sdn": 2386137,
 "descr": "",
-"gid": "E0921",
+"gid": "E0905",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42347,7 +42331,7 @@ I_events_0 = [
 "date": "1782",
 "date_sdn": 2371923,
 "descr": "",
-"gid": "E0922",
+"gid": "E0906",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42362,7 +42346,7 @@ I_events_0 = [
 "date": "24 November 1838",
 "date_sdn": 2392703,
 "descr": "",
-"gid": "E0923",
+"gid": "E0907",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42379,7 +42363,7 @@ I_events_0 = [
 "date": "about 1753",
 "date_sdn": 2361331,
 "descr": "",
-"gid": "E0924",
+"gid": "E0908",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42394,7 +42378,7 @@ I_events_0 = [
 "date": "1834",
 "date_sdn": 2390915,
 "descr": "",
-"gid": "E0925",
+"gid": "E0909",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42411,7 +42395,7 @@ I_events_0 = [
 "date": "3 July 1894",
 "date_sdn": 2413013,
 "descr": "",
-"gid": "E2829",
+"gid": "E2802",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42428,7 +42412,7 @@ I_events_0 = [
 "date": "21 July 1895",
 "date_sdn": 2413396,
 "descr": "",
-"gid": "E2830",
+"gid": "E2803",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42445,7 +42429,7 @@ I_events_0 = [
 "date": "January 1891",
 "date_sdn": 2411734,
 "descr": "",
-"gid": "E2821",
+"gid": "E2794",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42462,7 +42446,7 @@ I_events_0 = [
 "date": "13 February 1907",
 "date_sdn": 2417620,
 "descr": "",
-"gid": "E2831",
+"gid": "E2804",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42479,7 +42463,7 @@ I_events_0 = [
 "date": "12 March 1921",
 "date_sdn": 2422761,
 "descr": "",
-"gid": "E2838",
+"gid": "E2811",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42494,7 +42478,7 @@ I_events_0 = [
 "date": "11 June 1992",
 "date_sdn": 2448785,
 "descr": "",
-"gid": "E2839",
+"gid": "E2812",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42511,13 +42495,13 @@ I_events_0 = [
 "date": "about 1870",
 "date_sdn": 2404064,
 "descr": "",
-"gid": "E2814",
+"gid": "E2787",
 "media": [],
 "part_family": [],
 "part_person": [
 1874
 ],
-"place": 581,
+"place": 580,
 "text": "",
 "type": "Birth"
 }
@@ -42528,13 +42512,13 @@ I_events_0 = [
 "date": "October 1870",
 "date_sdn": 2404337,
 "descr": "",
-"gid": "E2817",
+"gid": "E2790",
 "media": [],
 "part_family": [],
 "part_person": [
 1875
 ],
-"place": 581,
+"place": 580,
 "text": "",
 "type": "Birth"
 }
@@ -42545,13 +42529,13 @@ I_events_0 = [
 "date": "July 1865",
 "date_sdn": 2402419,
 "descr": "",
-"gid": "E2812",
+"gid": "E2785",
 "media": [],
 "part_family": [],
 "part_person": [
 1876
 ],
-"place": 581,
+"place": 580,
 "text": "",
 "type": "Birth"
 }
@@ -42562,13 +42546,13 @@ I_events_0 = [
 "date": "January 1909",
 "date_sdn": 2418308,
 "descr": "",
-"gid": "E2844",
+"gid": "E2817",
 "media": [],
 "part_family": [],
 "part_person": [
 1877
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 }
@@ -42579,13 +42563,13 @@ I_events_0 = [
 "date": "July 1097",
 "date_sdn": 2121913,
 "descr": "",
-"gid": "E2843",
+"gid": "E2816",
 "media": [],
 "part_family": [],
 "part_person": [
 1878
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Birth"
 }
@@ -42596,13 +42580,13 @@ I_events_0 = [
 "date": "January 1878",
 "date_sdn": 2406986,
 "descr": "",
-"gid": "E2816",
+"gid": "E2789",
 "media": [],
 "part_family": [],
 "part_person": [
 1879
 ],
-"place": 581,
+"place": 580,
 "text": "",
 "type": "Birth"
 }
@@ -42613,7 +42597,7 @@ I_events_0 = [
 "date": "24 April 1918",
 "date_sdn": 2421708,
 "descr": "",
-"gid": "E2837",
+"gid": "E2810",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42628,7 +42612,7 @@ I_events_0 = [
 "date": "29 November 2008",
 "date_sdn": 2454800,
 "descr": "",
-"gid": "E2840",
+"gid": "E2813",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42645,7 +42629,7 @@ I_events_0 = [
 "date": "17 November 1891",
 "date_sdn": 2412054,
 "descr": "",
-"gid": "E2828",
+"gid": "E2801",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42662,13 +42646,13 @@ I_events_0 = [
 "date": "April 1867",
 "date_sdn": 2403058,
 "descr": "",
-"gid": "E2813",
+"gid": "E2786",
 "media": [],
 "part_family": [],
 "part_person": [
 1882
 ],
-"place": 581,
+"place": 580,
 "text": "",
 "type": "Birth"
 }
@@ -42679,7 +42663,7 @@ I_events_0 = [
 "date": "January 1843",
 "date_sdn": 2394202,
 "descr": "",
-"gid": "E2815",
+"gid": "E2788",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42694,7 +42678,7 @@ I_events_0 = [
 "date": "after 1911",
 "date_sdn": 2419038,
 "descr": "",
-"gid": "E2818",
+"gid": "E2791",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42711,7 +42695,7 @@ I_events_0 = [
 "date": "July 1895",
 "date_sdn": 2413376,
 "descr": "",
-"gid": "E2822",
+"gid": "E2795",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42728,7 +42712,7 @@ I_events_0 = [
 "date": "4 December 1914",
 "date_sdn": 2420471,
 "descr": "",
-"gid": "E1995",
+"gid": "E1978",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42743,13 +42727,13 @@ I_events_0 = [
 "date": "11 January 1998",
 "date_sdn": 2450825,
 "descr": "",
-"gid": "E1996",
+"gid": "E1979",
 "media": [],
 "part_family": [],
 "part_person": [
 1885
 ],
-"place": 661,
+"place": 660,
 "text": "",
 "type": "Death"
 }
@@ -42762,13 +42746,13 @@ I_events_0 = [
 "date": "October 1897",
 "date_sdn": 2414199,
 "descr": "",
-"gid": "E2185",
+"gid": "E2168",
 "media": [],
 "part_family": [],
 "part_person": [
 1888
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -42780,13 +42764,13 @@ I_events_0 = [
 "date": "about 1905",
 "date_sdn": 2416847,
 "descr": "",
-"gid": "E2186",
+"gid": "E2169",
 "media": [],
 "part_family": [],
 "part_person": [
 1890
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -42797,13 +42781,13 @@ I_events_0 = [
 "date": "28 April 1894",
 "date_sdn": 2412947,
 "descr": "",
-"gid": "E2183",
+"gid": "E2166",
 "media": [],
 "part_family": [],
 "part_person": [
 1891
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -42812,7 +42796,7 @@ I_events_0 = [
 "date": "5 September 1949",
 "date_sdn": 2433165,
 "descr": "",
-"gid": "E2184",
+"gid": "E2167",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42829,13 +42813,13 @@ I_events_0 = [
 "date": "about 1873",
 "date_sdn": 2405160,
 "descr": "",
-"gid": "E2182",
+"gid": "E2165",
 "media": [],
 "part_family": [],
 "part_person": [
 1892
 ],
-"place": 634,
+"place": 633,
 "text": "",
 "type": "Birth"
 }
@@ -42846,7 +42830,7 @@ I_events_0 = [
 "date": "26 November 1906",
 "date_sdn": 2417541,
 "descr": "",
-"gid": "E2389",
+"gid": "E2369",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42861,7 +42845,7 @@ I_events_0 = [
 "date": "28 June 1957",
 "date_sdn": 2436018,
 "descr": "",
-"gid": "E2390",
+"gid": "E2370",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42878,7 +42862,7 @@ I_events_0 = [
 "date": "about 1685",
 "date_sdn": 2336495,
 "descr": "",
-"gid": "E1626",
+"gid": "E1609",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42893,7 +42877,7 @@ I_events_0 = [
 "date": "January 1750",
 "date_sdn": 2360235,
 "descr": "",
-"gid": "E1627",
+"gid": "E1610",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42910,7 +42894,7 @@ I_events_0 = [
 "date": "1821",
 "date_sdn": 2386167,
 "descr": "",
-"gid": "E0926",
+"gid": "E0910",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42927,13 +42911,13 @@ I_events_0 = [
 "date": "January 1865",
 "date_sdn": 2402238,
 "descr": "",
-"gid": "E0927",
+"gid": "E0911",
 "media": [],
 "part_family": [],
 "part_person": [
 1896
 ],
-"place": 576,
+"place": 575,
 "text": "",
 "type": "Birth"
 },
@@ -42942,7 +42926,7 @@ I_events_0 = [
 "date": "1881",
 "date_sdn": 2408082,
 "descr": "",
-"gid": "E0928",
+"gid": "E0912",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42959,7 +42943,7 @@ I_events_0 = [
 "date": "17 October 1784",
 "date_sdn": 2372943,
 "descr": "",
-"gid": "E0929",
+"gid": "E0913",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42974,7 +42958,7 @@ I_events_0 = [
 "date": "9 May 1855",
 "date_sdn": 2398713,
 "descr": "",
-"gid": "E0930",
+"gid": "E0914",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -42991,13 +42975,13 @@ I_events_0 = [
 "date": "1851",
 "date_sdn": 2397124,
 "descr": "",
-"gid": "E0931",
+"gid": "E0915",
 "media": [],
 "part_family": [],
 "part_person": [
 1898
 ],
-"place": 576,
+"place": 575,
 "text": "",
 "type": "Birth"
 }
@@ -43008,13 +42992,13 @@ I_events_0 = [
 "date": "1860",
 "date_sdn": 2400411,
 "descr": "",
-"gid": "E0932",
+"gid": "E0916",
 "media": [],
 "part_family": [],
 "part_person": [
 1899
 ],
-"place": 576,
+"place": 575,
 "text": "",
 "type": "Birth"
 }
@@ -43025,7 +43009,7 @@ I_events_0 = [
 "date": "8 November 1848",
 "date_sdn": 2396340,
 "descr": "",
-"gid": "E0939",
+"gid": "E0923",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43040,7 +43024,7 @@ I_events_0 = [
 "date": "after 1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E0940",
+"gid": "E0924",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43055,13 +43039,13 @@ I_events_0 = [
 "date": "1939",
 "date_sdn": 2429265,
 "descr": "",
-"gid": "E0941",
+"gid": "E0925",
 "media": [],
 "part_family": [],
 "part_person": [
 1900
 ],
-"place": 621,
+"place": 620,
 "text": "",
 "type": "Residence"
 }
@@ -43072,7 +43056,7 @@ I_events_0 = [
 "date": "July 1856",
 "date_sdn": 2399132,
 "descr": "",
-"gid": "E0933",
+"gid": "E0917",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43089,13 +43073,13 @@ I_events_0 = [
 "date": "1751",
 "date_sdn": 2360600,
 "descr": "",
-"gid": "E0934",
+"gid": "E0918",
 "media": [],
 "part_family": [],
 "part_person": [
 1902
 ],
-"place": 623,
+"place": 622,
 "text": "",
 "type": "Birth"
 },
@@ -43104,7 +43088,7 @@ I_events_0 = [
 "date": "before 1826",
 "date_sdn": 2387993,
 "descr": "",
-"gid": "E0935",
+"gid": "E0919",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43121,7 +43105,7 @@ I_events_0 = [
 "date": "1712",
 "date_sdn": 2346355,
 "descr": "",
-"gid": "E0936",
+"gid": "E0920",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43136,13 +43120,13 @@ I_events_0 = [
 "date": "1771",
 "date_sdn": 2367905,
 "descr": "",
-"gid": "E0937",
+"gid": "E0921",
 "media": [],
 "part_family": [],
 "part_person": [
 1903
 ],
-"place": 623,
+"place": 622,
 "text": "",
 "type": "Death"
 }
@@ -43153,7 +43137,7 @@ I_events_0 = [
 "date": "from 1852 to 1853",
 "date_sdn": 2397489,
 "descr": "",
-"gid": "E0938",
+"gid": "E0922",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43170,7 +43154,7 @@ I_events_0 = [
 "date": "27 October 1700",
 "date_sdn": 2342272,
 "descr": "",
-"gid": "E0942",
+"gid": "E0926",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43187,7 +43171,7 @@ I_events_0 = [
 "date": "1823",
 "date_sdn": 2386897,
 "descr": "",
-"gid": "E2985",
+"gid": "E2956",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43204,7 +43188,7 @@ I_events_0 = [
 "date": "1740",
 "date_sdn": 2356582,
 "descr": "",
-"gid": "E0943",
+"gid": "E0927",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43219,7 +43203,7 @@ I_events_0 = [
 "date": "between 1768 and 1852",
 "date_sdn": 2366809,
 "descr": "",
-"gid": "E0944",
+"gid": "E0928",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43236,7 +43220,7 @@ I_events_0 = [
 "date": "1803",
 "date_sdn": 2379592,
 "descr": "",
-"gid": "E0945",
+"gid": "E0929",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43247,31 +43231,31 @@ I_events_0 = [
 "type": "Birth"
 }
 ],
-[],
 [
 {
 "cita": [],
 "date": "1773",
 "date_sdn": 2368636,
 "descr": "",
-"gid": "E2012",
+"gid": "E1995",
 "media": [],
 "part_family": [],
 "part_person": [
-1910
+1909
 ],
 "place": 495,
 "text": "",
 "type": "Birth"
 }
 ],
+[],
 [
 {
 "cita": [],
 "date": "about 1901",
 "date_sdn": 2415386,
 "descr": "",
-"gid": "E2405",
+"gid": "E2385",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43288,7 +43272,7 @@ I_events_0 = [
 "date": "9 October 1737",
 "date_sdn": 2355768,
 "descr": "",
-"gid": "E0946",
+"gid": "E0930",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43305,7 +43289,7 @@ I_events_0 = [
 "date": "between 1845 and 1874",
 "date_sdn": 2394933,
 "descr": "",
-"gid": "E2100",
+"gid": "E2083",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43320,7 +43304,7 @@ I_events_0 = [
 "date": "between 1890 and 1974",
 "date_sdn": 2411369,
 "descr": "",
-"gid": "E2101",
+"gid": "E2084",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43337,7 +43321,7 @@ I_events_0 = [
 "date": "1885",
 "date_sdn": 2409543,
 "descr": "",
-"gid": "E1178",
+"gid": "E1162",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43354,7 +43338,7 @@ I_events_0 = [
 "date": "about 1813",
 "date_sdn": 2383245,
 "descr": "",
-"gid": "E0947",
+"gid": "E0931",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43371,7 +43355,7 @@ I_events_0 = [
 "date": "April 1890",
 "date_sdn": 2411459,
 "descr": "",
-"gid": "E2947",
+"gid": "E2918",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43388,7 +43372,7 @@ I_events_0 = [
 "date": "8 March 1838",
 "date_sdn": 2392442,
 "descr": "",
-"gid": "E1787",
+"gid": "E1770",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43405,7 +43389,7 @@ I_events_0 = [
 "date": "about 1833",
 "date_sdn": 2390550,
 "descr": "",
-"gid": "E2709",
+"gid": "E2686",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43420,7 +43404,7 @@ I_events_0 = [
 "date": "March 1907",
 "date_sdn": 2417636,
 "descr": "",
-"gid": "E2711",
+"gid": "E2688",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43437,7 +43421,7 @@ I_events_0 = [
 "date": "October 1843",
 "date_sdn": 2394475,
 "descr": "",
-"gid": "E1785",
+"gid": "E1768",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43452,7 +43436,7 @@ I_events_0 = [
 "date": "December 1922",
 "date_sdn": 2423390,
 "descr": "",
-"gid": "E1786",
+"gid": "E1769",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43470,7 +43454,7 @@ I_events_0 = [
 "date": "about 1718",
 "date_sdn": 2348547,
 "descr": "",
-"gid": "E0948",
+"gid": "E0932",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43487,7 +43471,7 @@ I_events_0 = [
 "date": "1836",
 "date_sdn": 2391645,
 "descr": "",
-"gid": "E1788",
+"gid": "E1771",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43502,7 +43486,7 @@ I_events_0 = [
 "date": "January 1910",
 "date_sdn": 2418673,
 "descr": "",
-"gid": "E1789",
+"gid": "E1772",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43519,7 +43503,7 @@ I_events_0 = [
 "date": "26 January 1834",
 "date_sdn": 2390940,
 "descr": "",
-"gid": "E1790",
+"gid": "E1773",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43534,7 +43518,7 @@ I_events_0 = [
 "date": "January 1915",
 "date_sdn": 2420499,
 "descr": "",
-"gid": "E1791",
+"gid": "E1774",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43551,7 +43535,7 @@ I_events_0 = [
 "date": "12 August 1754",
 "date_sdn": 2361919,
 "descr": "",
-"gid": "E0949",
+"gid": "E0933",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43566,7 +43550,7 @@ I_events_0 = [
 "date": "1828",
 "date_sdn": 2388723,
 "descr": "",
-"gid": "E0950",
+"gid": "E0934",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43583,7 +43567,7 @@ I_events_0 = [
 "date": "13 December 1818",
 "date_sdn": 2385417,
 "descr": "",
-"gid": "E1795",
+"gid": "E1778",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43598,7 +43582,7 @@ I_events_0 = [
 "date": "October 1881",
 "date_sdn": 2408355,
 "descr": "",
-"gid": "E1796",
+"gid": "E1779",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43615,7 +43599,7 @@ I_events_0 = [
 "date": "about 1830",
 "date_sdn": 2389454,
 "descr": "",
-"gid": "E1792",
+"gid": "E1775",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43630,7 +43614,7 @@ I_events_0 = [
 "date": "January 1902",
 "date_sdn": 2415751,
 "descr": "",
-"gid": "E1793",
+"gid": "E1776",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43647,7 +43631,7 @@ I_events_0 = [
 "date": "10 June 1822",
 "date_sdn": 2386692,
 "descr": "",
-"gid": "E1794",
+"gid": "E1777",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43664,7 +43648,7 @@ I_events_0 = [
 "date": "1793",
 "date_sdn": 2375941,
 "descr": "",
-"gid": "E1768",
+"gid": "E1751",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43679,13 +43663,13 @@ I_events_0 = [
 "date": "April 1863",
 "date_sdn": 2401597,
 "descr": "",
-"gid": "E1769",
+"gid": "E1752",
 "media": [],
 "part_family": [],
 "part_person": [
 1928
 ],
-"place": 588,
+"place": 587,
 "text": "",
 "type": "Death"
 }
@@ -43696,7 +43680,7 @@ I_events_0 = [
 "date": "1798",
 "date_sdn": 2377767,
 "descr": "",
-"gid": "E0951",
+"gid": "E0935",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43711,7 +43695,7 @@ I_events_0 = [
 "date": "July 1858",
 "date_sdn": 2399862,
 "descr": "",
-"gid": "E0952",
+"gid": "E0936",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43728,13 +43712,13 @@ I_events_0 = [
 "date": "1766",
 "date_sdn": 2366079,
 "descr": "",
-"gid": "E0953",
+"gid": "E0937",
 "media": [],
 "part_family": [],
 "part_person": [
 1930
 ],
-"place": 663,
+"place": 662,
 "text": "",
 "type": "Birth"
 },
@@ -43743,7 +43727,7 @@ I_events_0 = [
 "date": "June 1841",
 "date_sdn": 2393623,
 "descr": "",
-"gid": "E0954",
+"gid": "E0938",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43760,7 +43744,7 @@ I_events_0 = [
 "date": "14 December 1726",
 "date_sdn": 2351816,
 "descr": "",
-"gid": "E0955",
+"gid": "E0939",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43775,7 +43759,7 @@ I_events_0 = [
 "date": "10 February 1789",
 "date_sdn": 2374520,
 "descr": "",
-"gid": "E0956",
+"gid": "E0940",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43792,13 +43776,13 @@ I_events_0 = [
 "date": "1801",
 "date_sdn": 2378862,
 "descr": "",
-"gid": "E0957",
+"gid": "E0941",
 "media": [],
 "part_family": [],
 "part_person": [
 1932
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 }
@@ -43809,13 +43793,13 @@ I_events_0 = [
 "date": "1790",
 "date_sdn": 2374845,
 "descr": "",
-"gid": "E0958",
+"gid": "E0942",
 "media": [],
 "part_family": [],
 "part_person": [
 1933
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -43824,7 +43808,7 @@ I_events_0 = [
 "date": "October 1868",
 "date_sdn": 2403607,
 "descr": "",
-"gid": "E0959",
+"gid": "E0943",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43841,13 +43825,13 @@ I_events_0 = [
 "date": "about 1791",
 "date_sdn": 2375210,
 "descr": "",
-"gid": "E0960",
+"gid": "E0944",
 "media": [],
 "part_family": [],
 "part_person": [
 1934
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -43856,7 +43840,7 @@ I_events_0 = [
 "date": "1832",
 "date_sdn": 2390184,
 "descr": "",
-"gid": "E0961",
+"gid": "E0945",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43873,7 +43857,7 @@ I_events_0 = [
 "date": "1795",
 "date_sdn": 2376671,
 "descr": "",
-"gid": "E0962",
+"gid": "E0946",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43888,13 +43872,13 @@ I_events_0 = [
 "date": "20 December 1871",
 "date_sdn": 2404782,
 "descr": "",
-"gid": "E0963",
+"gid": "E0947",
 "media": [],
 "part_family": [],
 "part_person": [
 1935
 ],
-"place": 631,
+"place": 630,
 "text": "",
 "type": "Death"
 }
@@ -43905,13 +43889,13 @@ I_events_0 = [
 "date": "1789",
 "date_sdn": 2374480,
 "descr": "",
-"gid": "E0964",
+"gid": "E0948",
 "media": [],
 "part_family": [],
 "part_person": [
 1936
 ],
-"place": 626,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -43920,7 +43904,7 @@ I_events_0 = [
 "date": "April 1860",
 "date_sdn": 2400502,
 "descr": "",
-"gid": "E0965",
+"gid": "E0949",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43938,7 +43922,7 @@ I_events_0 = [
 "date": "1836",
 "date_sdn": 2391645,
 "descr": "",
-"gid": "E2111",
+"gid": "E2094",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43953,7 +43937,7 @@ I_events_0 = [
 "date": "17 March 1871",
 "date_sdn": 2404504,
 "descr": "",
-"gid": "E2112",
+"gid": "E2095",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43970,7 +43954,7 @@ I_events_0 = [
 "date": "1843",
 "date_sdn": 2394202,
 "descr": "",
-"gid": "E2204",
+"gid": "E2187",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -43987,7 +43971,7 @@ I_events_0 = [
 "date": "calculated between 1762 and 1786",
 "date_sdn": 2364618,
 "descr": "",
-"gid": "E2570",
+"gid": "E2549",
 "media": [],
 "part_family": [],
 "part_person": [
@@ -44002,7 +43986,7 @@ I_events_0 = [
 "date": "calculated between 1807 and 1889",
 "date_sdn": 2381053,
 "descr": "",
-"gid": "E2571",
+"gid": "E2550",
 "media": [],
 "part_family": [],
 "part_person": [
