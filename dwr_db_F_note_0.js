@@ -175,6 +175,7 @@ F_note_0 = [
 "",
 "",
 "",
+"",
 "<div>\n<div class=\"grampsstylednote\">\n<p>\n5 children, but 3 of them are still alive as of 2021, so information is restricted.\n</p>\n</div>\n</div>",
 "",
 "",

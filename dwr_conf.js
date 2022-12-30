@@ -8,11 +8,11 @@ TITLE = "Family: Past and Present";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 0,
-    "F": 682,
-    "I": 1941,
+    "F": 683,
+    "I": 1951,
     "M": 103,
     "N": 487,
-    "P": 664,
+    "P": 666,
     "R": 0,
     "S": 0
 };NB_GENERATIONS_MAX = 30;

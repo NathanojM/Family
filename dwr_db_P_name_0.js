@@ -1,6 +1,7 @@
 // This file is generated
 
 P_name_0 = [
+"#Dumfries, Dumfries and Galloway, Scotland",
 "1 Drake Street, Enfield, Greate London, England",
 "1 Huntsmoor Road, Ruxley Lane, Surrey, England",
 "103 Seymour Avenue, Ewell,Surrey, England",
@@ -22,6 +23,7 @@ P_name_0 = [
 "15 Woodland Drive, Bromham, Bedfordshire, England",
 "16 Berrylands Road, Caversham, Berkshire, England",
 "173 Drummond Street, St Pancras, Greater London, England",
+"19 Loreburn Street (Ewe & Lamb Close), Dumfries, Dumfries and Galloway, Scotland",
 "19 Municipal Terrace, Dumfries, Dumfries and Galloway, Scotland",
 "2 Chichester Close, Bidwell Park, Bexhill on Sea, East Sussex, England",
 "2 Southcroft Road, Streatham, Greater London, England",
@@ -158,6 +160,7 @@ P_name_0 = [
 "Burton upon Trent, Staffordshire, England",
 "Bury, Greater Manchseter, England",
 "Calgary, Alberta, Canada",
+"Calside RC Cemetery, Dumfries, Dumfries and Galloway, Scotland",
 "Camberwell Old Cemetery Square 31 Grave 14909,London,England",
 "Camberwell,London,England",
 "Cambridge, Cambridgeshire, England",
@@ -235,7 +238,6 @@ P_name_0 = [
 "Dryfesdale, Dumfries and Galloway, Scotland",
 "Duluth, St Louis, Minnesota, USA",
 "Dulwich, Greater London, England",
-"Dumfries, Dumfries and Galloway, Scotland",
 "Dunmow, Essex, England",
 "Durban, South Africa",
 "Durham, England",

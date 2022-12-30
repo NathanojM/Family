@@ -721,6 +721,13 @@ I_media_0 = [
 [],
 [],
 [],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
 [
 {
 "cita": [],
@@ -789,6 +796,8 @@ I_media_0 = [
 "thumb": "thumb/4/9/f15bbea2a2b4f6ae86a866bc194-43,8-72,33.png"
 }
 ],
+[],
+[],
 [],
 [],
 [],
@@ -1564,12 +1573,12 @@ I_media_0 = [
 "m_idx": 81,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+38,
+8,
+62,
+29
 ],
-"thumb": "thumb/7/1/f252db3b9e9482474e7eb1e6917.png"
+"thumb": "thumb/7/1/f252db3b9e9482474e7eb1e6917-38,8-62,29.png"
 }
 ],
 [
@@ -1578,12 +1587,12 @@ I_media_0 = [
 "m_idx": 90,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+31,
+15,
+53,
+33
 ],
-"thumb": "thumb/f/2/f252db6e6a193bd981dfeb6a2f.png"
+"thumb": "thumb/f/2/f252db6e6a193bd981dfeb6a2f-31,15-53,33.png"
 }
 ],
 [],
@@ -2033,12 +2042,12 @@ I_media_0 = [
 "m_idx": 90,
 "note": "",
 "rect": [
-0,
-0,
-100,
-100
+58,
+41,
+82,
+60
 ],
-"thumb": "thumb/f/2/f252db6e6a193bd981dfeb6a2f.png"
+"thumb": "thumb/f/2/f252db6e6a193bd981dfeb6a2f-58,41-82,60.png"
 }
 ],
 [],
@@ -2674,6 +2683,7 @@ I_media_0 = [
 "thumb": "thumb/b/4/ef525d85a02484d0573b7d1c4b.png"
 }
 ],
+[],
 [],
 [],
 [],

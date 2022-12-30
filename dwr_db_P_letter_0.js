@@ -1,6 +1,8 @@
 // This file is generated
 
 P_letter_0 = [
+"#",
+"1",
 "1",
 "1",
 "1",
@@ -213,7 +215,7 @@ P_letter_0 = [
 "C",
 "C",
 "C",
-"D",
+"C",
 "D",
 "D",
 "D",

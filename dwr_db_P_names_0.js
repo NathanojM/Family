@@ -5,6 +5,23 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "#Dumfries, Dumfries and Galloway, Scotland"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Dumfries Chapel, Dumfries, Dumfries and Galloway, Scotland"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Rolleston, Dumfries, Dumfries and Galloway, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "1 Drake Street, Enfield, Greate London, England"
 }
 ],
@@ -146,6 +163,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "173 Drummond Street, St Pancras, Greater London, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "19 Loreburn Street (Ewe & Lamb Close), Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
 [
@@ -1104,6 +1128,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Calside RC Cemetery, Dumfries, Dumfries and Galloway, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Camberwell Old Cemetery Square 31 Grave 14909,London,England"
 }
 ],
@@ -1637,23 +1668,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Dulwich, Greater London, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Dumfries, Dumfries and Galloway, Scotland"
-},
-{
-"date": "",
-"date_sdn": 0,
-"name": "Dumfries Chapel, Dumfries, Dumfries and Galloway, Scotland"
-},
-{
-"date": "",
-"date_sdn": 0,
-"name": "Rolleston, Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
 [
