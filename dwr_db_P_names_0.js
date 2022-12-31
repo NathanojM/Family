@@ -106,6 +106,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "120 High Street, Dumfries, Dumfries and Galloway, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "13 Well Street, Whitechapel, London, England"
 }
 ],
@@ -2490,6 +2497,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Ireland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Irongray, Kirkcudbrightshire, Scotland"
 }
 ],
 [
