@@ -104,6 +104,7 @@ M_gramps_path_0 = [
 "Documents/Family tree/Barrett/Barrett/Clay/Susannah Woodhead.jpeg",
 "Documents/Family tree/Barrett/Barrett/Clay/The Clays3.jpe",
 "/home/jonathan/Documents/Family tree/Barrett/Barber/Barber/Louise/Untitled2.png",
+"Documents/Family tree/Barrett/Barber/Barber/Violet Green.png",
 "Documents/Family tree/McFarlane/Paterson/New Photos/William Boniwell.png",
 "Documents/Family tree/Barrett/Barrett/Clay/William Henry Clay.png",
 "Documents/Family tree/McFarlane/McFarlane/William McFarlane.jpg",
