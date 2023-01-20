@@ -1772,13 +1772,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "East Witton,North Yorkshire,England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Eastbourne, East Sussex, England"
 }
 ],

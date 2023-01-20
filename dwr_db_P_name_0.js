@@ -252,7 +252,6 @@ P_name_0 = [
 "Earlsfield, Greater London, England",
 "East Down, Devon, England",
 "East Molesey, Surrey, England",
-"East Witton,North Yorkshire,England",
 "Eastbourne, East Sussex, England",
 "Easthampstead, Berkshire, England",
 "Eaton Bray, Bedfordshire, England",

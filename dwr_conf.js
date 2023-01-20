@@ -9,10 +9,10 @@ SPLIT = 5000;
 DB_SIZES = {
     "C": 0,
     "F": 717,
-    "I": 2035,
-    "M": 108,
+    "I": 2034,
+    "M": 106,
     "N": 512,
-    "P": 680,
+    "P": 679,
     "R": 0,
     "S": 0
 };NB_GENERATIONS_MAX = 30;
@@ -78,7 +78,7 @@ INDEX_PLACES_TYPE=true;
 INDEX_SHOW_DATES=true;
 INDEX_SHOW_PARTNER=true;
 INDEX_SHOW_PARENTS=true;
-INDEX_SHOW_PATH=true;
+INDEX_SHOW_PATH=false;
 INDEX_SHOW_BKREF_TYPE=true;
 INDEX_DEFAULT_SIZE = 5;
 INDEXES_SIZES = [[10, 50, 100, 500, 1000, 5000], ['10', '50', '100', '500', '1000', '5000']];

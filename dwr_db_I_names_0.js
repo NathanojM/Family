@@ -14072,24 +14072,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Florence Favell",
-"given": "Florence",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Favell"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Frederick Favell",
 "given": "Frederick",
 "nick": "",
@@ -14252,8 +14234,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Joyce Favell",
-"given": "Joyce",
+"full": "Joyce Maureen Favell",
+"given": "Joyce Maureen",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -21099,6 +21081,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Knaggs"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Florence Matilda Knight",
+"given": "Florence Matilda",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Knight"
 ],
 "title": "",
 "type": "Birth Name"
@@ -30004,24 +30004,6 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Michael John Rickard",
 "given": "Michael John",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Rickard"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Simone Rickard",
-"given": "Simone",
 "nick": "",
 "note": "",
 "suffix": "",
