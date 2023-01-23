@@ -612,6 +612,7 @@ P_name_0 = [
 "Talke On The Hill, Staffordshire, England",
 "Tankerton, Kent, England",
 "Taunton, Somerset, England",
+"Tavistock, Devon, England",
 "Thackaringa, New South Wales, Australia",
 "Thornton Heath, Greater London, England",
 "Thornton in Lonsdale, North Yorkshire, England",

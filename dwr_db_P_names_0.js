@@ -4302,6 +4302,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Tavistock, Devon, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Thackaringa, New South Wales, Australia"
 }
 ],

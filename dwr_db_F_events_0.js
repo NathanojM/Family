@@ -136,7 +136,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 635,
+"place": 636,
 "text": "",
 "type": "Marriage"
 }
@@ -204,7 +204,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 627,
+"place": 628,
 "text": "",
 "type": "Marriage"
 }
@@ -377,7 +377,51 @@ F_events_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"date": "1943",
+"date_sdn": 2430726,
+"descr": "",
+"gid": "E3186",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 636,
+"text": "",
+"type": "Marriage"
+}
+],
+[
+{
+"cita": [],
+"date": "3 April 1899",
+"date_sdn": 2414748,
+"descr": "",
+"gid": "E3184",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 347,
+"text": "",
+"type": "Marriage"
+}
+],
+[
+{
+"cita": [],
+"date": "1928",
+"date_sdn": 2425247,
+"descr": "",
+"gid": "E3180",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 636,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [],
 [],
@@ -398,15 +442,72 @@ F_events_0 = [
 "type": "Marriage"
 }
 ],
+[
+{
+"cita": [],
+"date": "23 June 1839",
+"date_sdn": 2392914,
+"descr": "",
+"gid": "E3188",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 270,
+"text": "",
+"type": "Marriage"
+}
+],
+[
+{
+"cita": [],
+"date": "1930",
+"date_sdn": 2425978,
+"descr": "",
+"gid": "E3183",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 636,
+"text": "",
+"type": "Marriage"
+}
+],
+[],
+[],
+[
+{
+"cita": [],
+"date": "10 December 1798",
+"date_sdn": 2378110,
+"descr": "",
+"gid": "E3189",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 212,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [],
 [],
 [],
-[],
-[],
-[],
-[],
-[],
+[
+{
+"cita": [],
+"date": "27 February 1773",
+"date_sdn": 2368693,
+"descr": "",
+"gid": "E3190",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 611,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [],
 [],
@@ -642,7 +743,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-477
+485
 ],
 "place": 270,
 "text": "",
@@ -918,6 +1019,7 @@ F_events_0 = [
 ],
 [],
 [],
+[],
 [
 {
 "cita": [],
@@ -1147,7 +1249,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 669,
+"place": 670,
 "text": "",
 "type": "Marriage"
 }
@@ -1162,7 +1264,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 669,
+"place": 670,
 "text": "",
 "type": "Marriage"
 }
@@ -1193,7 +1295,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 669,
+"place": 670,
 "text": "",
 "type": "Marriage"
 }
@@ -1277,6 +1379,21 @@ F_events_0 = [
 [],
 [],
 [],
+[
+{
+"cita": [],
+"date": "1922",
+"date_sdn": 2423056,
+"descr": "",
+"gid": "E3172",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": -1,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [],
 [],
@@ -1341,7 +1458,21 @@ F_events_0 = [
 "type": "Marriage"
 }
 ],
-[],
+[
+{
+"cita": [],
+"date": "1932",
+"date_sdn": 2426708,
+"descr": "",
+"gid": "E3181",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 636,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [],
 [
@@ -1401,7 +1532,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 666,
+"place": 667,
 "text": "",
 "type": "Marriage"
 }
@@ -1485,7 +1616,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 666,
+"place": 667,
 "text": "",
 "type": "Marriage Banns"
 }
@@ -1503,7 +1634,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 658,
+"place": 659,
 "text": "",
 "type": "Marriage"
 }
@@ -1729,7 +1860,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 628,
+"place": 629,
 "text": "",
 "type": "Marriage"
 }
@@ -2443,7 +2574,6 @@ F_events_0 = [
 ],
 [],
 [],
-[],
 [
 {
 "cita": [],
@@ -2593,7 +2723,21 @@ F_events_0 = [
 "type": "Marriage"
 }
 ],
-[],
+[
+{
+"cita": [],
+"date": "1950",
+"date_sdn": 2433283,
+"descr": "",
+"gid": "E3182",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": -1,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [],
 [
@@ -2770,7 +2914,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 658,
+"place": 659,
 "text": "",
 "type": "Marriage"
 }
