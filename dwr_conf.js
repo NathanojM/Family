@@ -12,7 +12,7 @@ DB_SIZES = {
     "I": 2046,
     "M": 106,
     "N": 516,
-    "P": 680,
+    "P": 675,
     "R": 0,
     "S": 0
 };NB_GENERATIONS_MAX = 30;
@@ -91,11 +91,11 @@ INC_PLACES=true;
 INC_REPOSITORIES=false;
 INC_NOTES=true;
 INC_ADDRESSES=false;
-MAP_PLACE=true;
-MAP_FAMILY=true;
+MAP_PLACE=false;
+MAP_FAMILY=false;
 MAP_SERVICE="OpenStreetMap";
 SOURCE_AUTHOR_IN_TITLE=false;
-TABBED_PANELS=true;
+TABBED_PANELS=false;
 INC_CHANGE_TIME=true;
 HIDE_GID=false;
 INC_PAGECONF = true;

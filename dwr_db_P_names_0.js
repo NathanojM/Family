@@ -5,23 +5,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "#Dumfries, Dumfries and Galloway, Scotland"
-},
-{
-"date": "",
-"date_sdn": 0,
-"name": "Dumfries Chapel, Dumfries, Dumfries and Galloway, Scotland"
-},
-{
-"date": "",
-"date_sdn": 0,
-"name": "Rolleston, Dumfries, Dumfries and Galloway, Scotland"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "1 Drake Street, Enfield, Greate London, England"
 }
 ],
@@ -568,6 +551,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "All Saints with St Margaret, Crystal Palace, Greater London, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Almondbury, West Yorkshire, England"
 }
 ],
@@ -806,6 +796,18 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Bedford Hospital,Bedford,Bedfordshire,England"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "St Peter's Hospital, 3 Kimbolton Road, Bedford, Bedfordshire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Bedford, Bedfordshire, England"
 }
 ],
@@ -876,7 +878,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Bexley Heath, Kent, England"
+"name": "Bexleyheath, Greater London, England"
 }
 ],
 [
@@ -1157,13 +1159,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Calgary, Alberta, Canada"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Calside RC Cemetery, Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
 [
@@ -1716,6 +1711,23 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Dumfries, Dumfries and Galloway, Scotland"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Dumfries Chapel, Dumfries, Dumfries and Galloway, Scotland"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Rolleston, Dumfries, Dumfries and Galloway, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Dunmow, Essex, England"
 }
 ],
@@ -2234,7 +2246,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Havering, Essex, England"
+"name": "Havering, Greater London, England"
 }
 ],
 [
@@ -2552,13 +2564,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Irongray, Kirkcudbrightshire, Scotland"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Islington, London, England"
 }
 ],
@@ -2714,6 +2719,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Kirkcudbright, Kirkcudbrightshire, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Kirkcudbrightshire, Scotland"
 }
 ],
 [
@@ -3833,21 +3845,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Southacre, Cambridgeshire"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Southend on Sea, Essex, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Southend, Cambridgeshire, England"
 }
 ],
 [
@@ -3918,13 +3916,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "St Andrews Catholic Church,Dumfries, Dumfries and Galloway, Scotland"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "St Ausustine, Yorkshire"
 }
 ],
 [
@@ -4099,21 +4090,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "St Peter's Hospital, 3 Kimbolton Road, Bedford, Bedfordshire, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "St Savior, St Pancras, Greater London, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "St Saviour, Surrey"
 }
 ],
 [
@@ -4226,6 +4203,11 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Surrey, England"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "St Saviour, Surrey"
 }
 ],
 [
@@ -4253,7 +4235,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Sutton, Surrey, England"
+"name": "Sutton, Greater London, England"
 }
 ],
 [
@@ -4415,13 +4397,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Twyford, Berkshire, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Upper Norwood, All Saints with St Margaret, Surrey, England"
 }
 ],
 [

@@ -34387,22 +34387,6 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Birth Name"
-},
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "John Barfield Turner",
-"given": "John Barfield",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Turner"
-],
-"title": "",
-"type": "Also Known As"
 }
 ],
 [
