@@ -2021,7 +2021,38 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[],
+[
+{
+"cita": [],
+"date": "calculated between 1786 and 1815",
+"date_sdn": 2373384,
+"descr": "",
+"gid": "E3199",
+"media": [],
+"part_family": [],
+"part_person": [
+124
+],
+"place": -1,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "calculated between 1831 and 1915",
+"date_sdn": 2389819,
+"descr": "",
+"gid": "E3200",
+"media": [],
+"part_family": [],
+"part_person": [
+124
+],
+"place": -1,
+"text": "",
+"type": "Death"
+}
+],
 [
 {
 "cita": [],
@@ -21104,7 +21135,38 @@ I_events_0 = [
 }
 ],
 [],
-[],
+[
+{
+"cita": [],
+"date": "calculated between 1759 and 1788",
+"date_sdn": 2363522,
+"descr": "",
+"gid": "E3205",
+"media": [],
+"part_family": [],
+"part_person": [
+929
+],
+"place": -1,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "calculated between 1804 and 1882",
+"date_sdn": 2379957,
+"descr": "",
+"gid": "E3206",
+"media": [],
+"part_family": [],
+"part_person": [
+929
+],
+"place": -1,
+"text": "",
+"type": "Death"
+}
+],
 [
 {
 "cita": [],
@@ -29451,7 +29513,38 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[],
+[
+{
+"cita": [],
+"date": "calculated between 1771 and 1815",
+"date_sdn": 2367905,
+"descr": "",
+"gid": "E3201",
+"media": [],
+"part_family": [],
+"part_person": [
+1320
+],
+"place": -1,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "calculated between 1831 and 1915",
+"date_sdn": 2389819,
+"descr": "",
+"gid": "E3202",
+"media": [],
+"part_family": [],
+"part_person": [
+1320
+],
+"place": -1,
+"text": "",
+"type": "Death"
+}
+],
 [
 {
 "cita": [],
@@ -30983,7 +31076,38 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[],
+[
+{
+"cita": [],
+"date": "calculated between 1744 and 1788",
+"date_sdn": 2358043,
+"descr": "",
+"gid": "E3207",
+"media": [],
+"part_family": [],
+"part_person": [
+1391
+],
+"place": -1,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "calculated between 1804 and 1882",
+"date_sdn": 2379957,
+"descr": "",
+"gid": "E3208",
+"media": [],
+"part_family": [],
+"part_person": [
+1391
+],
+"place": -1,
+"text": "",
+"type": "Death"
+}
+],
 [
 {
 "cita": [],
@@ -38989,7 +39113,38 @@ I_events_0 = [
 "type": "Death"
 }
 ],
-[],
+[
+{
+"cita": [],
+"date": "calculated between 1789 and 1818",
+"date_sdn": 2374480,
+"descr": "",
+"gid": "E3203",
+"media": [],
+"part_family": [],
+"part_person": [
+1744
+],
+"place": -1,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "calculated between 1834 and 1918",
+"date_sdn": 2390915,
+"descr": "",
+"gid": "E3204",
+"media": [],
+"part_family": [],
+"part_person": [
+1744
+],
+"place": -1,
+"text": "",
+"type": "Death"
+}
+],
 [],
 [
 {
