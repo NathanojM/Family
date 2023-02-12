@@ -12,7 +12,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 243,
+"place": 249,
 "text": "",
 "type": "Marriage"
 }
@@ -52,7 +52,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 581,
+"place": 593,
 "text": "",
 "type": "Marriage"
 }
@@ -68,7 +68,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 569,
+"place": 581,
 "text": "",
 "type": "Marriage"
 }
@@ -86,7 +86,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 279,
+"place": 287,
 "text": "",
 "type": "Marriage"
 }
@@ -102,7 +102,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 538,
+"place": 550,
 "text": "",
 "type": "Marriage"
 }
@@ -121,7 +121,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 554,
+"place": 566,
 "text": "",
 "type": "Marriage"
 }
@@ -136,7 +136,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 631,
+"place": 643,
 "text": "",
 "type": "Marriage"
 }
@@ -156,7 +156,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 554,
+"place": 566,
 "text": "",
 "type": "Marriage"
 }
@@ -171,7 +171,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 575,
+"place": 587,
 "text": "",
 "type": "Marriage"
 }
@@ -204,7 +204,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 78,
+"place": 79,
 "text": "",
 "type": "Marriage"
 }
@@ -223,7 +223,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 575,
+"place": 587,
 "text": "",
 "type": "Marriage"
 }
@@ -246,7 +246,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 548,
+"place": 560,
 "text": "",
 "type": "Marriage"
 }
@@ -261,7 +261,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 568,
+"place": 580,
 "text": "",
 "type": "Marriage"
 }
@@ -276,7 +276,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 528,
+"place": 540,
 "text": "",
 "type": "Marriage"
 }
@@ -292,7 +292,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 556,
+"place": 568,
 "text": "",
 "type": "Marriage"
 }
@@ -307,7 +307,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 560,
+"place": 572,
 "text": "",
 "type": "Marriage"
 }
@@ -322,7 +322,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 568,
+"place": 580,
 "text": "",
 "type": "Marriage"
 }
@@ -343,7 +343,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 595,
+"place": 607,
 "text": "",
 "type": "Marriage"
 }
@@ -367,7 +367,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 478,
+"place": 490,
 "text": "",
 "type": "Marriage"
 }
@@ -387,7 +387,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 631,
+"place": 643,
 "text": "",
 "type": "Marriage"
 }
@@ -402,7 +402,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 348,
+"place": 358,
 "text": "",
 "type": "Marriage"
 }
@@ -417,11 +417,17 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 631,
+"place": 643,
 "text": "",
 "type": "Marriage"
 }
 ],
+[],
+[],
+[],
+[],
+[],
+[],
 [],
 [],
 [],
@@ -437,11 +443,12 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 583,
+"place": 595,
 "text": "",
 "type": "Marriage"
 }
 ],
+[],
 [
 {
 "cita": [],
@@ -452,7 +459,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 271,
+"place": 279,
 "text": "",
 "type": "Marriage"
 }
@@ -467,7 +474,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 631,
+"place": 643,
 "text": "",
 "type": "Marriage"
 }
@@ -484,7 +491,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 212,
+"place": 217,
 "text": "",
 "type": "Marriage"
 }
@@ -503,11 +510,13 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 607,
+"place": 619,
 "text": "",
 "type": "Marriage"
 }
 ],
+[],
+[],
 [],
 [],
 [],
@@ -527,11 +536,12 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 551,
+"place": 563,
 "text": "",
 "type": "Marriage"
 }
 ],
+[],
 [],
 [
 {
@@ -543,7 +553,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 546,
+"place": 558,
 "text": "",
 "type": "Marriage"
 }
@@ -560,7 +570,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 368,
+"place": 378,
 "text": "",
 "type": "Marriage"
 }
@@ -584,7 +594,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 555,
+"place": 567,
 "text": "",
 "type": "Marriage"
 }
@@ -600,7 +610,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 555,
+"place": 567,
 "text": "",
 "type": "Marriage"
 }
@@ -622,7 +632,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 603,
+"place": 615,
 "text": "",
 "type": "Marriage"
 }
@@ -638,7 +648,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 201,
+"place": 206,
 "text": "",
 "type": "Marriage"
 }
@@ -668,7 +678,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 453,
+"place": 464,
 "text": "",
 "type": "Marriage"
 }
@@ -683,7 +693,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 200,
+"place": 205,
 "text": "",
 "type": "Marriage"
 }
@@ -699,7 +709,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 571,
+"place": 583,
 "text": "",
 "type": "Marriage"
 }
@@ -717,7 +727,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 354,
+"place": 364,
 "text": "",
 "type": "Marriage"
 }
@@ -743,9 +753,9 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-485
+521
 ],
-"place": 271,
+"place": 279,
 "text": "",
 "type": "Marriage (Unknown)"
 }
@@ -761,7 +771,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 271,
+"place": 279,
 "text": "",
 "type": "Marriage"
 }
@@ -807,7 +817,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 327,
+"place": 335,
 "text": "",
 "type": "Marriage"
 }
@@ -829,7 +839,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 207,
+"place": 212,
 "text": "",
 "type": "Marriage"
 }
@@ -846,7 +856,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 242,
+"place": 248,
 "text": "",
 "type": "Marriage"
 }
@@ -861,7 +871,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 548,
+"place": 560,
 "text": "",
 "type": "Marriage"
 }
@@ -877,7 +887,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 568,
+"place": 580,
 "text": "",
 "type": "Marriage"
 }
@@ -896,7 +906,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 568,
+"place": 580,
 "text": "",
 "type": "Marriage"
 }
@@ -912,7 +922,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 307,
+"place": 315,
 "text": "",
 "type": "Marriage"
 }
@@ -933,7 +943,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 243,
+"place": 249,
 "text": "",
 "type": "Marriage"
 }
@@ -948,7 +958,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 243,
+"place": 249,
 "text": "",
 "type": "Marriage"
 }
@@ -964,7 +974,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 114,
+"place": 117,
 "text": "",
 "type": "Marriage"
 }
@@ -997,7 +1007,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 347,
+"place": 357,
 "text": "",
 "type": "Marriage"
 }
@@ -1012,7 +1022,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 362,
+"place": 372,
 "text": "",
 "type": "Marriage"
 }
@@ -1030,7 +1040,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 571,
+"place": 583,
 "text": "",
 "type": "Marriage"
 }
@@ -1046,11 +1056,13 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 396,
+"place": 406,
 "text": "",
 "type": "Marriage"
 }
 ],
+[],
+[],
 [],
 [
 {
@@ -1062,12 +1074,11 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 512,
+"place": 524,
 "text": "",
 "type": "Marriage"
 }
 ],
-[],
 [],
 [],
 [],
@@ -1087,6 +1098,7 @@ F_events_0 = [
 }
 ],
 [],
+[],
 [
 {
 "cita": [],
@@ -1097,7 +1109,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 212,
+"place": 217,
 "text": "",
 "type": "Marriage"
 }
@@ -1133,7 +1145,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 240,
+"place": 246,
 "text": "",
 "type": "Marriage"
 }
@@ -1151,7 +1163,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 401,
+"place": 411,
 "text": "",
 "type": "Marriage"
 }
@@ -1185,7 +1197,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 578,
+"place": 590,
 "text": "",
 "type": "Marriage"
 }
@@ -1200,7 +1212,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 168,
+"place": 172,
 "text": "",
 "type": "Marriage"
 }
@@ -1233,7 +1245,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 194,
+"place": 198,
 "text": "",
 "type": "Marriage"
 }
@@ -1249,7 +1261,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 665,
+"place": 679,
 "text": "",
 "type": "Marriage"
 }
@@ -1264,7 +1276,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 665,
+"place": 679,
 "text": "",
 "type": "Marriage"
 }
@@ -1279,7 +1291,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 273,
+"place": 281,
 "text": "",
 "type": "Marriage"
 }
@@ -1295,7 +1307,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 665,
+"place": 679,
 "text": "",
 "type": "Marriage"
 }
@@ -1312,7 +1324,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 568,
+"place": 580,
 "text": "",
 "type": "Marriage"
 }
@@ -1327,7 +1339,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 568,
+"place": 580,
 "text": "",
 "type": "Marriage"
 }
@@ -1345,11 +1357,12 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 578,
+"place": 590,
 "text": "",
 "type": "Marriage"
 }
 ],
+[],
 [],
 [],
 [],
@@ -1409,7 +1422,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 584,
+"place": 596,
 "text": "",
 "type": "Marriage"
 }
@@ -1453,7 +1466,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 197,
+"place": 201,
 "text": "",
 "type": "Marriage"
 }
@@ -1468,7 +1481,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 631,
+"place": 643,
 "text": "",
 "type": "Marriage"
 }
@@ -1485,7 +1498,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 108,
+"place": 111,
 "text": "",
 "type": "Marriage"
 }
@@ -1517,7 +1530,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 296,
+"place": 304,
 "text": "",
 "type": "Marriage"
 }
@@ -1532,7 +1545,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 662,
+"place": 676,
 "text": "",
 "type": "Marriage"
 }
@@ -1565,7 +1578,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 135,
+"place": 138,
 "text": "",
 "type": "Residence"
 },
@@ -1578,7 +1591,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 336,
+"place": 344,
 "text": "",
 "type": "Marriage"
 }
@@ -1595,7 +1608,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 296,
+"place": 304,
 "text": "",
 "type": "Marriage"
 }
@@ -1616,7 +1629,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 662,
+"place": 676,
 "text": "",
 "type": "Marriage Banns"
 }
@@ -1634,7 +1647,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 654,
+"place": 668,
 "text": "",
 "type": "Marriage"
 }
@@ -1653,7 +1666,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 486,
+"place": 498,
 "text": "",
 "type": "Marriage"
 }
@@ -1669,7 +1682,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 591,
+"place": 603,
 "text": "",
 "type": "Marriage"
 }
@@ -1688,7 +1701,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 386,
+"place": 396,
 "text": "",
 "type": "Marriage"
 }
@@ -1711,7 +1724,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 304,
+"place": 312,
 "text": "",
 "type": "Marriage"
 }
@@ -1744,7 +1757,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 224,
+"place": 229,
 "text": "",
 "type": "Marriage"
 }
@@ -1760,7 +1773,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 563,
+"place": 575,
 "text": "",
 "type": "Marriage"
 }
@@ -1776,7 +1789,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 554,
+"place": 566,
 "text": "",
 "type": "Marriage"
 }
@@ -1795,7 +1808,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 260,
+"place": 266,
 "text": "",
 "type": "Marriage"
 }
@@ -1810,7 +1823,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 260,
+"place": 266,
 "text": "",
 "type": "Marriage"
 }
@@ -1828,7 +1841,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 568,
+"place": 580,
 "text": "",
 "type": "Marriage"
 }
@@ -1860,7 +1873,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 624,
+"place": 636,
 "text": "",
 "type": "Marriage"
 }
@@ -1887,7 +1900,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 568,
+"place": 580,
 "text": "",
 "type": "Marriage"
 }
@@ -1907,7 +1920,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 342,
+"place": 351,
 "text": "",
 "type": "Marriage"
 },
@@ -1920,7 +1933,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 66,
+"place": 67,
 "text": "",
 "type": "Residence"
 }
@@ -1939,7 +1952,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 390,
+"place": 400,
 "text": "",
 "type": "Marriage"
 }
@@ -1955,7 +1968,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 320,
+"place": 328,
 "text": "",
 "type": "Marriage"
 }
@@ -1970,7 +1983,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 486,
+"place": 498,
 "text": "",
 "type": "Marriage"
 }
@@ -1986,7 +1999,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 243,
+"place": 249,
 "text": "",
 "type": "Marriage"
 }
@@ -2007,7 +2020,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 555,
+"place": 567,
 "text": "",
 "type": "Marriage"
 }
@@ -2024,7 +2037,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 555,
+"place": 567,
 "text": "",
 "type": "Marriage"
 }
@@ -2043,7 +2056,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 555,
+"place": 567,
 "text": "",
 "type": "Marriage"
 }
@@ -2061,7 +2074,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 243,
+"place": 249,
 "text": "",
 "type": "Marriage"
 }
@@ -2077,7 +2090,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 555,
+"place": 567,
 "text": "",
 "type": "Marriage"
 }
@@ -2092,7 +2105,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 570,
+"place": 582,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nMary is still listed as Spinster in 1910 (more proof that she wasn't married when she had Jeannie)\n</p>\n</div>\n</div>",
 "type": "Marriage"
 }
@@ -2107,7 +2120,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 243,
+"place": 249,
 "text": "",
 "type": "Marriage"
 }
@@ -2123,7 +2136,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 243,
+"place": 249,
 "text": "",
 "type": "Marriage"
 }
@@ -2162,11 +2175,12 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 354,
+"place": 364,
 "text": "",
 "type": "Marriage"
 }
 ],
+[],
 [],
 [],
 [],
@@ -2192,7 +2206,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 590,
+"place": 602,
 "text": "",
 "type": "Marriage"
 }
@@ -2209,7 +2223,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 554,
+"place": 566,
 "text": "",
 "type": "Marriage"
 },
@@ -2242,7 +2256,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 304,
+"place": 312,
 "text": "",
 "type": "Marriage"
 }
@@ -2258,7 +2272,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 304,
+"place": 312,
 "text": "",
 "type": "Marriage"
 }
@@ -2288,7 +2302,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 94,
+"place": 97,
 "text": "",
 "type": "Marriage"
 }
@@ -2320,7 +2334,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 578,
+"place": 590,
 "text": "",
 "type": "Marriage"
 }
@@ -2335,7 +2349,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 486,
+"place": 498,
 "text": "",
 "type": "Marriage"
 }
@@ -2350,7 +2364,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 60,
+"place": 61,
 "text": "",
 "type": "Residence"
 },
@@ -2378,7 +2392,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 257,
+"place": 263,
 "text": "",
 "type": "Marriage"
 }
@@ -2393,7 +2407,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 500,
+"place": 512,
 "text": "",
 "type": "Marriage"
 }
@@ -2408,7 +2422,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 545,
+"place": 557,
 "text": "",
 "type": "Marriage"
 }
@@ -2430,7 +2444,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 347,
+"place": 357,
 "text": "",
 "type": "Marriage"
 }
@@ -2450,7 +2464,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 571,
+"place": 583,
 "text": "",
 "type": "Marriage"
 }
@@ -2476,7 +2490,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 530,
+"place": 542,
 "text": "",
 "type": "Marriage Banns"
 }
@@ -2495,7 +2509,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 88,
+"place": 91,
 "text": "",
 "type": "Marriage"
 }
@@ -2584,7 +2598,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 166,
+"place": 170,
 "text": "",
 "type": "Marriage"
 }
@@ -2612,7 +2626,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 580,
+"place": 592,
 "text": "",
 "type": "Marriage"
 }
@@ -2643,11 +2657,12 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 249,
+"place": 255,
 "text": "",
 "type": "Marriage"
 }
 ],
+[],
 [],
 [],
 [],
@@ -2667,7 +2682,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 377,
+"place": 387,
 "text": "",
 "type": "Marriage"
 }
@@ -2683,7 +2698,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 486,
+"place": 498,
 "text": "",
 "type": "Marriage"
 }
@@ -2699,7 +2714,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 257,
+"place": 263,
 "text": "",
 "type": "Marriage"
 }
@@ -2750,7 +2765,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 526,
+"place": 538,
 "text": "",
 "type": "Marriage"
 }
@@ -2773,7 +2788,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 241,
+"place": 247,
 "text": "",
 "type": "Residence"
 }
@@ -2791,7 +2806,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 568,
+"place": 580,
 "text": "",
 "type": "Marriage"
 }
@@ -2810,7 +2825,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 512,
+"place": 524,
 "text": "",
 "type": "Marriage"
 }
@@ -2825,7 +2840,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 574,
+"place": 586,
 "text": "",
 "type": "Marriage"
 }
@@ -2855,11 +2870,13 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 390,
+"place": 400,
 "text": "",
 "type": "Marriage"
 }
 ],
+[],
+[],
 [],
 [],
 [],
@@ -2895,7 +2912,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 296,
+"place": 304,
 "text": "",
 "type": "Marriage"
 }
@@ -2914,7 +2931,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 654,
+"place": 668,
 "text": "",
 "type": "Marriage"
 }
@@ -2929,7 +2946,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 168,
+"place": 172,
 "text": "",
 "type": "Marriage"
 }
@@ -2944,7 +2961,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 390,
+"place": 400,
 "text": "",
 "type": "Marriage"
 }
@@ -2959,7 +2976,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 154,
+"place": 158,
 "text": "",
 "type": "Marriage"
 }
@@ -2974,7 +2991,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 390,
+"place": 400,
 "text": "",
 "type": "Marriage"
 }
@@ -2990,7 +3007,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 354,
+"place": 364,
 "text": "",
 "type": "Marriage"
 }
@@ -3030,7 +3047,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 554,
+"place": 566,
 "text": "",
 "type": "Marriage"
 }
@@ -3050,7 +3067,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 568,
+"place": 580,
 "text": "",
 "type": "Marriage"
 }

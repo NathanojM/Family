@@ -397,6 +397,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "55 Regent Square, Heavitree, Devon, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "60 Green Lane, , Surrey, Engand"
 }
 ],
@@ -579,6 +586,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Andaman Islands, India"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Andover, Hampshire, England"
 }
 ],
@@ -615,6 +629,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Atworth, Wiltshire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Auckland, New Zealand"
 }
 ],
 [
@@ -991,6 +1012,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Bosham, West Sussex, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Boston, Lincolnshire, England"
 }
 ],
 [
@@ -1410,6 +1438,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Clyst Hydon, Devon, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Colchester Register Office, Colchester,Essex,England"
 }
 ],
@@ -1662,6 +1697,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Dorchester, Devon, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Dorking, Surrey, England"
 }
 ],
@@ -1889,6 +1931,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Essex, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Essex, New Jersey, USA"
 }
 ],
@@ -1911,6 +1960,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Exbourne, Devon, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Exeter Royal Theatre, Exeter, Devon, England"
 }
 ],
 [
@@ -2407,6 +2463,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Holsworthy, Devon"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Holy Innocents, Kingsbury, Middlesex,England"
 }
 ],
@@ -2415,6 +2478,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Holy Trinity, Brent, Greater London, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Honiton, Devon, England"
 }
 ],
 [
@@ -3005,6 +3075,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Mary Tavy, Devon, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Marylebone, Greater London, England"
 }
 ],
@@ -3258,6 +3335,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Norland, West Yorkshire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "North Bovey, Devon, England"
 }
 ],
 [
@@ -4499,6 +4583,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Warrington, Lancashire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Watford"
 }
 ],
@@ -4542,6 +4633,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Weston Super Mare, Somerset, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Weymouth, Dorset, England"
 }
 ],
 [
