@@ -1694,7 +1694,7 @@ I_death_age_0 = [
 "",
 "",
 "",
-"",
+"between 33 years, 1 day and 111 years, 11 months, 30 days",
 "(between 5 years, 1 day and 120 years, 11 months, 30 days)",
 "",
 "52 years",

@@ -1694,7 +1694,7 @@ I_death_date_0 = [
 "",
 "",
 "",
-"",
+"calculated between 1852 and 1918",
 "between 1806 and 1910",
 "",
 "1957",

@@ -37742,7 +37742,38 @@ I_events_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"date": "calculated between 1807 and 1818",
+"date_sdn": 2381053,
+"descr": "",
+"gid": "E3370",
+"media": [],
+"part_family": [],
+"part_person": [
+1693
+],
+"place": -1,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "calculated between 1852 and 1918",
+"date_sdn": 2397489,
+"descr": "",
+"gid": "E3371",
+"media": [],
+"part_family": [],
+"part_person": [
+1693
+],
+"place": -1,
+"text": "",
+"type": "Death"
+}
+],
 [
 {
 "cita": [],

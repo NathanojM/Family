@@ -542,7 +542,21 @@ F_events_0 = [
 ],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"date": "4 November 1832",
+"date_sdn": 2390492,
+"descr": "",
+"gid": "E3372",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 218,
+"text": "",
+"type": "Marriage"
+}
+],
 [
 {
 "cita": [],
