@@ -4,6 +4,7 @@ M_title_0 = [
 "Albert Clay",
 "Alex McFarlane",
 "Alfred Thomas Favell",
+"Alice Bennellick",
 "Alice Goldsworthy Dickens",
 "Alma Slade Obituary",
 "Amy Louisa Turner",

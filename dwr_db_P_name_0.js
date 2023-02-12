@@ -213,6 +213,7 @@ P_name_0 = [
 "Colvend, Dumfries and Galloway, Scotland",
 "Coningsby, Lincolnshire, England",
 "Cononley, North Yorkshire, England",
+"Conway, Wales",
 "Cook, Illinois, USA",
 "Cookham, Berkshire, England",
 "Cornwall,England",

@@ -4,6 +4,7 @@ M_gramps_path_0 = [
 "Documents/Family tree/Barrett/Barrett/Clay/Albert Clay.png",
 "Documents/Family tree/Misc/Alex.png",
 "Documents/Family tree/McFarlane/Paterson/New Photos/Alfred Thomas Favell.png",
+"/home/jonathan/Documents/Family tree/Barrett/Barber/Alice Bennellick.jpg",
 "Documents/Family tree/Barrett/Barber/Alice.png",
 "Documents/Family tree/McFarlane/Paterson/Alma Slade Obituary.pdf",
 "Documents/Family tree/Barrett/Barrett/Clay/Amy Louisa Turner.png",
