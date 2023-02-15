@@ -1221,6 +1221,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Canada"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Canterbury, Kent, England"
 }
 ],
@@ -1670,6 +1677,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Derbyshire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Detriot, Michigan, USA"
 }
 ],
 [
@@ -2641,6 +2655,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Isle of Mann, UK"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Islington, London, England"
 }
 ],
@@ -3125,6 +3146,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Michael Street, Dumfries"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Michigan, USA"
 }
 ],
 [
