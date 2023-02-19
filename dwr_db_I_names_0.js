@@ -1339,6 +1339,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Richard Stanley Luff",
+"given": "Richard Stanley Luff",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Sarah",
 "given": "Sarah",
 "nick": "",
@@ -9955,6 +9973,42 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Marie Diane Carriere",
+"given": "Marie Diane",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Carriere"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Thomas Carriere",
+"given": "Thomas",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Carriere"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Janet Carsan",
 "given": "Janet",
 "nick": "",
@@ -10389,6 +10443,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "David Chamberlain",
 "given": "David",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Chamberlain"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Frederick George Chamberlain",
+"given": "Frederick George",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -13141,8 +13213,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Rosie Deacon",
-"given": "Rosie",
+"full": "Rosie Mary Deacon",
+"given": "Rosie Mary",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -17456,6 +17528,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Stanley Furzer",
+"given": "Stanley",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Furzer"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Charles Henry Gadsby",
 "given": "Charles Henry",
 "nick": "",
@@ -19562,6 +19652,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Florence Harvey",
+"given": "Florence",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Harvey"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "John Edward Harwood",
 "given": "John Edward",
 "nick": "",
@@ -19623,6 +19731,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Hawkins"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Hayes",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hayes"
 ],
 "title": "",
 "type": "Birth Name"
@@ -20595,6 +20721,276 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Hinke/ Henke/ Hunke/ Milroy"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Ellen Hitt",
+"given": "Ellen",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Florenece Maud Hitt",
+"given": "Florenece Maud",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Freddy Hitt",
+"given": "Freddy",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "James Hitt",
+"given": "James",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Jessie Hitt",
+"given": "Jessie",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Jessie Hitt",
+"given": "Jessie",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Kate Hitt",
+"given": "Kate",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary Hitt",
+"given": "Mary",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary Jane Hitt",
+"given": "Mary Jane",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Maud Hitt",
+"given": "Maud",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Maude Hitt",
+"given": "Maude",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Nelly Hitt",
+"given": "Nelly",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Polly Hitt",
+"given": "Polly",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Thomas Hitt",
+"given": "Thomas",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Thomas James Hitt",
+"given": "Thomas James",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hitt"
 ],
 "title": "",
 "type": "Birth Name"
@@ -24962,6 +25358,96 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "George Madge",
+"given": "George",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Madge"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "George Edward Madge",
+"given": "George Edward",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Madge"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Gertrude Mary Madge",
+"given": "Gertrude Mary",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Madge"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mable Annie Madge",
+"given": "Mable Annie",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Madge"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Rose Queenie Madge",
+"given": "Rose Queenie",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Madge"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "David Magson",
 "given": "David",
 "nick": "",
@@ -29012,6 +29498,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "John D Orr",
+"given": "John D",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Orr"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Henry John Osbourne",
 "given": "Henry John",
 "nick": "",
@@ -29199,6 +29703,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Parnell"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Stirling Phain Pastorius",
+"given": "Stirling Phain",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Pastorius"
 ],
 "title": "",
 "type": "Birth Name"
@@ -30171,6 +30693,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Plumridge"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Harold Podvin",
+"given": "Harold",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Podvin"
 ],
 "title": "",
 "type": "Birth Name"
@@ -31514,6 +32054,150 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Charles Rice",
+"given": "Charles",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Rice"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Elizabeth Rice",
+"given": "Elizabeth",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Rice"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Hilda Rice",
+"given": "Hilda",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Rice"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Ivy Jessie Rice",
+"given": "Ivy Jessie",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Rice"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Lily Rice",
+"given": "Lily",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Rice"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Maud Rice",
+"given": "Maud",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Rice"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "William John Rice",
+"given": "William John",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Rice"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "William John Rice",
+"given": "William John",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Rice"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Richards",
 "given": "",
 "nick": "",
@@ -31838,6 +32522,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Guy A Richardson",
+"given": "Guy A",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Richardson"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Harold Richardson",
 "given": "Harold",
 "nick": "",
@@ -32002,6 +32704,42 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Leslie Andrew John Richardson",
 "given": "Leslie Andrew John",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Richardson"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Luella Richardson",
+"given": "Luella",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Richardson"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Marie Madeline Richardson",
+"given": "Marie Madeline",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -33393,6 +34131,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Rutter"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Frederick Thomas Sadler",
+"given": "Frederick Thomas",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Sadler"
 ],
 "title": "",
 "type": "Birth Name"
@@ -35565,6 +36321,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Archibald Henry Taylor",
+"given": "Archibald Henry",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Taylor"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Charles George Taylor",
 "given": "Charles George",
 "nick": "",
@@ -35655,8 +36429,44 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Joyce Gertrude Madge Taylor",
+"given": "Joyce Gertrude Madge",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Taylor"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Thomas Arthur James Taylor",
 "given": "Thomas Arthur James",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Taylor"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Vera M Taylor",
+"given": "Vera M",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -36825,6 +37635,96 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Beverly Vickers",
+"given": "Beverly",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Vickers"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Carmine Vickers",
+"given": "Carmine",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Vickers"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Earl Randon David Vickers",
+"given": "Earl  Randon David",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Vickers"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Edison Jay Vickers",
+"given": "Edison Jay",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Vickers"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Lottie Rosetta Vickers",
+"given": "Lottie Rosetta",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Vickers"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Ida M Vile",
 "given": "Ida M",
 "nick": "",
@@ -37624,6 +38524,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Watts"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Helena Mary Wearne",
+"given": "Helena Mary",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Wearne"
 ],
 "title": "",
 "type": "Birth Name"
