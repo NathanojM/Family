@@ -313,6 +313,7 @@ P_name_0 = [
 "Great Staughton, Cambridgeshire, England",
 "Greenwich, Greenwich, Greater London, England",
 "Greetland, West Yorkshire, England",
+"Greymouth, New Zealand",
 "Groby, Leicestershire, England",
 "Guiana",
 "Guilford, Surrey, England",
