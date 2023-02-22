@@ -5545,6 +5545,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Anthony Bennellick",
+"given": "Anthony",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Bennellick"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Audrey May Bennellick",
 "given": "Audrey May",
 "nick": "",
@@ -7687,6 +7705,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Stanley Berry",
+"given": "Stanley",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Berry"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Dorothy A E Betink",
 "given": "Dorothy A E",
 "nick": "",
@@ -8828,6 +8864,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Booth"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Bridget Mary Bowden",
+"given": "Bridget Mary",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Bowden"
 ],
 "title": "",
 "type": "Birth Name"
@@ -15393,6 +15447,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Epps"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Peggy Everett",
+"given": "Peggy",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Everett"
 ],
 "title": "",
 "type": "Birth Name"
@@ -22521,6 +22593,24 @@ I_names_0 = [
 "suffix": "Keddie",
 "surnames": [
 "Kedea"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Douglas Ewald Cecil Keel",
+"given": "Douglas Ewald Cecil",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Keel"
 ],
 "title": "",
 "type": "Birth Name"
@@ -36791,6 +36881,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Mary Thomas",
 "given": "Mary",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Thomas"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Shirley Anne Thomas",
+"given": "Shirley Anne",
 "nick": "",
 "note": "",
 "suffix": "",
