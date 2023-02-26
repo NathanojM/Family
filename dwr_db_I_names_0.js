@@ -9883,6 +9883,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Edith Clara Byrchmore",
+"given": "Edith Clara",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Byrchmore"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Jane Byron",
 "given": "Jane",
 "nick": "",
@@ -14702,6 +14720,114 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Ethel Dowd",
+"given": "Ethel",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Dowd"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "George Dowd",
+"given": "George",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Dowd"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "George Dowd",
+"given": "George",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Dowd"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Grace Dowd",
+"given": "Grace",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Dowd"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Jane Dowd",
+"given": "Jane",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Dowd"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Violet Dowd",
+"given": "Violet",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Dowd"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "John James Draper",
 "given": "John James",
 "nick": "",
@@ -18302,8 +18428,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "John Gillard",
-"given": "John",
+"full": "John James Gillard",
+"given": "John James",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -19078,6 +19204,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Michael Hall",
 "given": "Michael",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hall"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Reginald Thomas Harry Hall",
+"given": "Reginald Thomas Harry",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -31802,6 +31946,186 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Alfred Quinton",
+"given": "Alfred",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Alfred Patrick Quinton",
+"given": "Alfred Patrick",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Annie Quinton",
+"given": "Annie",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Bernard Quinton",
+"given": "Bernard",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Daniel Quinton",
+"given": "Daniel",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Edward Quinton",
+"given": "Edward",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Ernest Quinton",
+"given": "Ernest",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Freddy Francis Quinton",
+"given": "Freddy Francis",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Moyde Quinton [sic]",
+"given": "Moyde",
+"nick": "",
+"note": "",
+"suffix": "[sic]",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Rosy Quinton [sic]",
+"given": "Rosy",
+"nick": "",
+"note": "",
+"suffix": "[sic]",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Pamela G Rashley",
 "given": "Pamela G",
 "nick": "",
@@ -38429,6 +38753,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Walton",
 "given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Walton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Sidney Walton",
+"given": "Sidney",
 "nick": "",
 "note": "",
 "suffix": "",

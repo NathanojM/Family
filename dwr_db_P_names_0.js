@@ -3943,6 +3943,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Shaftesbury, Dorset, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Sheffield, South Yorkshire, England"
 }
 ],
@@ -4335,6 +4342,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Sturminster Newton, Dorset, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Suffolk, England"
 }
 ],
@@ -4495,6 +4509,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Totnes, Devon, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Tottenham, London, England"
 }
 ],
 [
@@ -4787,6 +4808,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Wimborne, Dorset, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Wincanton, Somerset, England"
 }
 ],
 [
