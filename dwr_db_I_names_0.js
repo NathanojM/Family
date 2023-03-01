@@ -31064,6 +31064,42 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Charles Edward Clifford Pitman",
+"given": "Charles Edward Clifford",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Pitman"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Joseph Thomas Pitman",
+"given": "Joseph Thomas",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Pitman"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Plowman",
 "given": "",
 "nick": "",
@@ -31784,6 +31820,42 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Esmond Whyndham Prowton",
+"given": "Esmond Whyndham",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Prowton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Sheila A Prowton",
+"given": "Sheila A",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Prowton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Jocelyn Puddephatt",
 "given": "Jocelyn",
 "nick": "",
@@ -32090,11 +32162,11 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Moyde Quinton [sic]",
-"given": "Moyde",
+"full": "Lucy Maud Quinton",
+"given": "Lucy Maud",
 "nick": "",
 "note": "",
-"suffix": "[sic]",
+"suffix": "",
 "surnames": [
 "Quinton"
 ],

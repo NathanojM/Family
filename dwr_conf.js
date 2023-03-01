@@ -8,10 +8,10 @@ TITLE = "Family: Past and Present";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 0,
-    "F": 785,
-    "I": 2256,
+    "F": 787,
+    "I": 2260,
     "M": 112,
-    "N": 563,
+    "N": 565,
     "P": 702,
     "R": 0,
     "S": 0

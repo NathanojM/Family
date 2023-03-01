@@ -2846,6 +2846,21 @@ F_events_0 = [
 "type": "Marriage"
 }
 ],
+[
+{
+"cita": [],
+"date": "July 1922",
+"date_sdn": 2423237,
+"descr": "",
+"gid": "E3549",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 244,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [],
 [
@@ -2887,6 +2902,21 @@ F_events_0 = [
 [],
 [],
 [],
+[
+{
+"cita": [],
+"date": "April 1932",
+"date_sdn": 2426799,
+"descr": "",
+"gid": "E3547",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 244,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [],
 [],
