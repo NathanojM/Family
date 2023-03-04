@@ -2131,6 +2131,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Winifred Atkins",
+"given": "Winifred",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Atkins"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "George Earle Babcock",
 "given": "George Earle",
 "nick": "",
@@ -10981,6 +10999,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Raymond Herbert George Clark",
+"given": "Raymond Herbert George",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Clark"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Sarah Ann Clarkson",
 "given": "Sarah Ann",
 "nick": "",
@@ -14288,6 +14324,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Robert George Victor Dorrell",
+"given": "Robert George Victor",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Dorrell"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Anna Dove",
 "given": "Anna",
 "nick": "",
@@ -15368,6 +15422,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Rita May Ellis",
+"given": "Rita May",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ellis"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Thomas Abel Ellison",
 "given": "Thomas Abel",
 "nick": "",
@@ -15591,6 +15663,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Everett"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Frances Ellen Eyers",
+"given": "Frances Ellen",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Eyers"
 ],
 "title": "",
 "type": "Birth Name"
@@ -18482,6 +18572,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Gladwin",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Gladwin"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Arthur Percy Glen",
 "given": "Arthur Percy",
 "nick": "",
@@ -19983,6 +20091,24 @@ I_names_0 = [
 "suffix": "[sic]",
 "surnames": [
 "Harwood"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Susan Eunice Hatcher",
+"given": "Susan Eunice",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hatcher"
 ],
 "title": "",
 "type": "Birth Name"
@@ -21657,6 +21783,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "How"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Olive May Lily Howes",
+"given": "Olive May Lily",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Howes"
 ],
 "title": "",
 "type": "Birth Name"
@@ -25203,6 +25347,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Lloyd"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Pamela S Long",
+"given": "Pamela S",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Long"
 ],
 "title": "",
 "type": "Birth Name"
@@ -30992,6 +31154,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Ralph Pickersgill",
+"given": "Ralph",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Pickersgill"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Jane Pickford",
 "given": "Jane",
 "nick": "",
@@ -32090,8 +32270,26 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Daniel Quinton",
-"given": "Daniel",
+"full": "Daniel James Quinton",
+"given": "Daniel James",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "David Quinton",
+"given": "David",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -32126,8 +32324,26 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Ernest Quinton",
-"given": "Ernest",
+"full": "Eileen Elizabeth Quinton",
+"given": "Eileen Elizabeth",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Ernest Anthony Quinton",
+"given": "Ernest Anthony",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -32162,6 +32378,42 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Joan Quinton",
+"given": "Joan",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Leslie Bernard Quinton",
+"given": "Leslie Bernard",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Lucy Maud Quinton",
 "given": "Lucy Maud",
 "nick": "",
@@ -32180,11 +32432,47 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Rosy Quinton [sic]",
-"given": "Rosy",
+"full": "Phyllis Mary Quinton",
+"given": "Phyllis Mary",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Rose Mary Quinton [sic]",
+"given": "Rose Mary",
 "nick": "",
 "note": "",
 "suffix": "[sic]",
+"surnames": [
+"Quinton"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Wyndham James Quinton",
+"given": "Wyndham James",
+"nick": "",
+"note": "",
+"suffix": "",
 "surnames": [
 "Quinton"
 ],
@@ -39208,6 +39496,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Watkins"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Elizabeth A Watson",
+"given": "Elizabeth A",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Watson"
 ],
 "title": "",
 "type": "Birth Name"

@@ -1081,6 +1081,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Bridport, Dorset, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Brierley, South Yorkshire, England"
 }
 ],
@@ -1439,6 +1446,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Clerkhill Cottage Burns Street, Dumfries, Dumfries and Galloway, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Clifton, West Yorkshire, England"
 }
 ],
 [
