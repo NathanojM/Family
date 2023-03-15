@@ -94,6 +94,51 @@ F_events_0 = [
 [
 {
 "cita": [],
+"date": "August 1918",
+"date_sdn": 2421807,
+"descr": "",
+"gid": "E3608",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 243,
+"text": "",
+"type": "Marriage"
+}
+],
+[
+{
+"cita": [],
+"date": "July 1944",
+"date_sdn": 2431273,
+"descr": "",
+"gid": "E3625",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 517,
+"text": "",
+"type": "Marriage"
+}
+],
+[
+{
+"cita": [],
+"date": "1890",
+"date_sdn": 2411369,
+"descr": "",
+"gid": "E3603",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 517,
+"text": "",
+"type": "Marriage"
+}
+],
+[
+{
+"cita": [],
 "date": "15 December 1915",
 "date_sdn": 2420847,
 "descr": "",
@@ -890,7 +935,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-538
+545
 ],
 "place": 284,
 "text": "",
@@ -1634,6 +1679,34 @@ F_events_0 = [
 }
 ],
 [],
+[
+{
+"cita": [],
+"date": "January 1929",
+"date_sdn": 2425613,
+"descr": "",
+"gid": "E3616",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 517,
+"text": "",
+"type": "Marriage"
+},
+{
+"cita": [],
+"date": "before 1939",
+"date_sdn": 2429265,
+"descr": "",
+"gid": "E3617",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": -1,
+"text": "",
+"type": "Divorce"
+}
+],
 [],
 [],
 [],
@@ -1829,6 +1902,21 @@ F_events_0 = [
 }
 ],
 [],
+[
+{
+"cita": [],
+"date": "April 1926",
+"date_sdn": 2424607,
+"descr": "",
+"gid": "E3619",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": -1,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [
 {
@@ -1912,6 +2000,21 @@ F_events_0 = [
 [],
 [],
 [],
+[
+{
+"cita": [],
+"date": "April 1932",
+"date_sdn": 2426799,
+"descr": "",
+"gid": "E3623",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 517,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [
 {
@@ -2306,6 +2409,7 @@ F_events_0 = [
 "type": "Residence"
 }
 ],
+[],
 [],
 [],
 [],
@@ -2936,6 +3040,37 @@ F_events_0 = [
 }
 ],
 [],
+[],
+[
+{
+"cita": [],
+"date": "8 September 1794",
+"date_sdn": 2376556,
+"descr": "",
+"gid": "E3588",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 221,
+"text": "",
+"type": "Marriage"
+}
+],
+[
+{
+"cita": [],
+"date": "10 July 1825",
+"date_sdn": 2387818,
+"descr": "",
+"gid": "E3580",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 221,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [],
 [],

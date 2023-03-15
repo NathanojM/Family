@@ -2149,6 +2149,132 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Claude Ernest Ayres",
+"given": "Claude Ernest",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ayres"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Doris Ida Ayres",
+"given": "Doris Ida",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ayres"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Myra Irene Ayres [sic]",
+"given": "Myra Irene",
+"nick": "",
+"note": "",
+"suffix": "[sic]",
+"surnames": [
+"Ayres"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Reginald Samuel Ayres",
+"given": "Reginald Samuel",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ayres"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Samuel William Ayres",
+"given": "Samuel William",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ayres"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Violet Mabel Ayres",
+"given": "Violet Mabel",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ayres"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Winifred Ethel Ayres",
+"given": "Winifred Ethel",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ayres"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "George Earle Babcock",
 "given": "George Earle",
 "nick": "",
@@ -5995,8 +6121,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Frances Bennellick",
-"given": "Frances",
+"full": "Frances 'Fanny' Bennellick",
+"given": "Frances 'Fanny'",
 "nick": "Fanny",
 "note": "",
 "suffix": "",
@@ -12601,6 +12727,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Amelia Crispin",
+"given": "Amelia",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Crispin"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Louisa Emily Critchley",
 "given": "Louisa Emily",
 "nick": "",
@@ -13179,6 +13323,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Ella Marguerite Davis",
 "given": "Ella Marguerite",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Davis"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Phyllis M.C. Davis",
+"given": "Phyllis M.C.",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -19382,6 +19544,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "William Frederick Ham",
+"given": "William Frederick",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ham"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Laura Hammet",
 "given": "Laura",
 "nick": "",
@@ -20050,6 +20230,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Florence Harvey",
 "given": "Florence",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Harvey"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary Harvey",
+"given": "Mary",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -21506,6 +21704,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Frank Winton Holding",
+"given": "Frank Winton",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Holding"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "William John Holloway",
 "given": "William John",
 "nick": "",
@@ -22179,6 +22395,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Hunter"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Alfred John Hurrell",
+"given": "Alfred John",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hurrell"
 ],
 "title": "",
 "type": "Birth Name"
@@ -26301,6 +26535,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Mann"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Evan Mansfield",
+"given": "Evan",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Mansfield"
 ],
 "title": "",
 "type": "Birth Name"
@@ -30956,6 +31208,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Hilda Elizabeth Maud Pearce",
+"given": "Hilda Elizabeth Maud",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Pearce"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Mary Pears",
 "given": "Mary",
 "nick": "",
@@ -32090,8 +32360,224 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Sally Puddicombe",
-"given": "Sally",
+"full": "Ann Amelia Puddicombe",
+"given": "Ann Amelia",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Fanny Puddicombe",
+"given": "Fanny",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Harriet Puddicombe",
+"given": "Harriet",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "James Puddicombe",
+"given": "James",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "John Puddicombe",
+"given": "John",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "John Puddicombe",
+"given": "John",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary Puddicombe",
+"given": "Mary",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Milly Elizabeth Puddicombe [sic]",
+"given": "Milly Elizabeth",
+"nick": "",
+"note": "",
+"suffix": "[sic]",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Richard Puddicombe",
+"given": "Richard",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Richard Puddicombe",
+"given": "Richard",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Richard Puddicombe",
+"given": "Richard",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Sarah 'Sally' Puddicombe",
+"given": "Sarah 'Sally'",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Thomazin Puddicombe",
+"given": "Thomazin",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -32110,6 +32596,42 @@ I_names_0 = [
 "fam_nick": "",
 "full": "William Puddicombe",
 "given": "William",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "William Puddicombe",
+"given": "William",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Puddicombe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "William Ernest Puddicombe",
+"given": "William Ernest",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -35373,6 +35895,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Sharpe"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Charlotte Sampson Shaw",
+"given": "Charlotte Sampson",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Shaw"
 ],
 "title": "",
 "type": "Birth Name"
