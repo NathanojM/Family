@@ -1193,7 +1193,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Buttershaw, Yorkshire, England"
+"name": "Buttershaw, West Yorkshire, England"
 }
 ],
 [
@@ -1704,7 +1704,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Detriot, Michigan, USA"
+"name": "Detroit, Michigan, USA"
 }
 ],
 [
@@ -3425,7 +3425,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "North Bierley, Yorkshire, England"
+"name": "North Bierley, West Yorkshire, England"
 }
 ],
 [
