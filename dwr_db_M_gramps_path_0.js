@@ -105,6 +105,7 @@ M_gramps_path_0 = [
 "Documents/Family tree/McFarlane/Paterson/Rose Boniwell.png",
 "Documents/Family tree/McFarlane/Paterson/Rose Favell.png",
 "Documents/Family tree/McFarlane/Paterson/New Photos/Doris Favell Aunt.png",
+"Documents/Family tree/McFarlane/Paterson/Roy Gore.png",
 "Documents/Family tree/Barrett/Barber/Sidney H Watkins.jpg",
 "Documents/Family tree/Barrett/Barrett/Clay/Susannah Woodhead.jpeg",
 "Documents/Family tree/Barrett/Barrett/Clay/The Clays3.jpe",

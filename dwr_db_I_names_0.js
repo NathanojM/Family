@@ -277,6 +277,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Brooke",
+"given": "Brooke",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Casper",
 "given": "Casper",
 "nick": "",
@@ -4904,6 +4922,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Batholomew"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Benjamin James Beagley",
+"given": "Benjamin James",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Beagley"
 ],
 "title": "",
 "type": "Birth Name"
@@ -13861,6 +13897,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Beryl Dickens",
+"given": "Beryl",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Dickens"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Charles William Dickens",
 "given": "Charles William",
 "nick": "",
@@ -16180,6 +16234,42 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Annie Maria Favell",
 "given": "Annie Maria",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Favell"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Brian Favell",
+"given": "Brian",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Favell"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Carol Favell",
+"given": "Carol",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -19058,6 +19148,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Lillian Granose",
+"given": "Lillian",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Granose"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Ernest Joseph Green",
 "given": "Ernest Joseph",
 "nick": "",
@@ -19713,24 +19821,6 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Hands"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Edwin Hanson",
-"given": "Edwin",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Hanson"
 ],
 "title": "",
 "type": "Birth Name"
@@ -30092,6 +30182,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Beryl Mountain",
+"given": "Beryl",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Mountain"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Phillipa Mountjoy",
 "given": "Phillipa",
 "nick": "",
@@ -31228,6 +31336,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Gladys Maud Patten",
 "given": "Gladys Maud",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Patten"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "James Cyril Patten",
+"given": "James Cyril",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -33332,11 +33458,11 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Rose Mary Quinton [sic]",
+"full": "Rose Mary Quinton",
 "given": "Rose Mary",
 "nick": "",
 "note": "",
-"suffix": "[sic]",
+"suffix": "",
 "surnames": [
 "Quinton"
 ],
@@ -34828,6 +34954,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Michael John Rickard",
 "given": "Michael John",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Rickard"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Simone Rickard",
+"given": "Simone",
 "nick": "",
 "note": "",
 "suffix": "",

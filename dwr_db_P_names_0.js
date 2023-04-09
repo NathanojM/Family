@@ -4265,6 +4265,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "St Matthew's Church, Fulham, London, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "St Matthew's Church, St Matthew's Row, Bethnal Green, London, England"
 }
 ],
@@ -4287,6 +4294,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "St Savior, St Pancras, Greater London, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "St Stephen's Church, Bexhill on Sea, East Sussex, England"
 }
 ],
 [

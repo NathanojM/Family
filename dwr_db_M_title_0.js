@@ -105,6 +105,7 @@ M_title_0 = [
 "Rose Boniwell",
 "Rose Favell",
 "Rose Favell",
+"Roy Gore",
 "Sidney H Watkins",
 "Susannah Woodhead",
 "The Clays3",
