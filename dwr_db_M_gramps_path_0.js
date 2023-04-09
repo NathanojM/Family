@@ -14,6 +14,7 @@ M_gramps_path_0 = [
 "Documents/Family tree/Barrett/Barber/Annie Louise Hillier.png",
 "Documents/Family tree/Barrett/Barrett/Clay/Audrey Clay.png",
 "Documents/Family tree/McFarlane/Paterson/New Photos/Barbara Mander.png",
+"Documents/Family tree/McFarlane/Paterson/Barbara Paterson.png",
 "Documents/Family tree/Barrett/Barber/Dickens/Bessie2.png",
 "Documents/Family tree/Barrett/Barber/Dickens/BessieColoured.png",
 "Documents/Family tree/McFarlane/McFarlane/Beuno McFarlane.png",

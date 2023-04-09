@@ -151,6 +151,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Annie",
+"given": "Annie",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Annie Eliza",
 "given": "Annie Eliza",
 "nick": "",
@@ -19364,8 +19382,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "William E E Gubbins",
-"given": "William E E",
+"full": "William Edward Cyril Gubbins",
+"given": "William Edward Cyril",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -27392,6 +27410,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Annie McFarlane",
+"given": "Annie",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Beuno McFarlane",
 "given": "Beuno",
 "nick": "",
@@ -27680,6 +27716,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "James McFarlane",
+"given": "James",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "James Donaldson McFarlane",
 "given": "James Donaldson",
 "nick": "",
@@ -27797,6 +27851,24 @@ I_names_0 = [
 "McFarlane"
 ],
 "title": "Private",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "John McFarlane",
+"given": "John",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
 "type": "Birth Name"
 }
 ],
@@ -27988,6 +28060,42 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Maria McDowall McFarlane",
 "given": "Maria McDowall",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Martin McFarlane",
+"given": "Martin",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary McFarlane",
+"given": "Mary",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -28294,6 +28402,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Thomas McFarlane",
 "given": "Thomas",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "William McFarlane",
+"given": "William",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -32468,8 +32594,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Jocelyn Puddephatt",
-"given": "Jocelyn",
+"full": "Jocelyn Susan Puddephatt",
+"given": "Jocelyn Susan",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -32504,8 +32630,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Rosealy Puddephatt",
-"given": "Rosealy",
+"full": "Rosaley Sara Puddephatt",
+"given": "Rosaley Sara",
 "nick": "",
 "note": "",
 "suffix": "",

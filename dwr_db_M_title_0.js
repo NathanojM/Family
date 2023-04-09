@@ -14,6 +14,7 @@ M_title_0 = [
 "Annie Louise Hillier",
 "Audrey Clay",
 "Barbara Mander",
+"Barbara Paterson",
 "Bessie Bennellick",
 "BessieColoured",
 "Beuno McFarlane",
