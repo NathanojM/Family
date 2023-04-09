@@ -34137,6 +34137,21 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "1937",
+"date_sdn": 2428535,
+"descr": "",
+"gid": "E0651",
+"media": [],
+"part_family": [],
+"part_person": [
+1530
+],
+"place": 255,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
 "date": "1987",
 "date_sdn": 2446797,
 "descr": "",

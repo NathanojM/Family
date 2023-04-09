@@ -1531,7 +1531,7 @@ I_birth_place_0 = [
 "",
 "Dumfries, Dumfries and Galloway, Scotland",
 "7 Wilton Park, Wilton, Roxburghshire, Scotland",
-"",
+"Dumfries, Dumfries and Galloway, Scotland",
 "",
 "",
 "Queensberry Street, Dumfries, Dumfries and Galloway, Scotland",
