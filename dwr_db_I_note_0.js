@@ -454,7 +454,6 @@ I_note_0 = [
 "",
 "",
 "",
-"",
 "<div>\n<i class=\"NoteType\">\nOccupation\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\"Outdoor worker\"\n</p>\n</div>\n</div>",
 "",
 "",

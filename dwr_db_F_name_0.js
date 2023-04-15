@@ -782,7 +782,7 @@ F_name_0 = [
 "Family of George William Walters and Eleanor Louisa Dillon",
 "Family of Walton and Valerie Griffin",
 "Family of Sidney Walton and Jane Dowd",
-"Family of Isaac Ward and Mary Barber?",
+"Family of Isaac Ward and Mary Barber",
 "Family of William Ward and Elizabeth Ashton",
 "Family of William T Warne and Lucy Bennellick",
 "Family of Richard J Waterfield and Ethel L Elderbrand",

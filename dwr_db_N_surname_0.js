@@ -19,7 +19,6 @@ N_surname_0 = [
 "Bambridge",
 "Bans",
 "Barber",
-"Barber?",
 "Barbour",
 "Barfield",
 "Barlow",

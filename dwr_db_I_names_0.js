@@ -3317,6 +3317,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Mary Barber",
+"given": "Mary",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Barber"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Matthew William Barber",
 "given": "Matthew William",
 "nick": "",
@@ -3556,24 +3574,6 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Barber"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Mary Barber?",
-"given": "Mary",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Barber?"
 ],
 "title": "",
 "type": "Birth Name"
@@ -8162,24 +8162,6 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Birtwhistle"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Black",
-"given": "",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Black"
 ],
 "title": "",
 "type": "Birth Name"

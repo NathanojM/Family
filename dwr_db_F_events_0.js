@@ -964,7 +964,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-550
+549
 ],
 "place": 285,
 "text": "",
