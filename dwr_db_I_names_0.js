@@ -16862,42 +16862,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Mary Margaret Ferguson",
-"given": "Mary Margaret",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Ferguson"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Richard Ferguson",
-"given": "Richard",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Ferguson"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Emma Fergusson",
 "given": "Emma",
 "nick": "",
@@ -16970,8 +16934,44 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Jeanie Nelson McGeorge Fergusson",
+"given": "Jeanie Nelson McGeorge",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Fergusson"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "John 'Ian' Fergusson",
 "given": "John 'Ian'",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Fergusson"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary Margaret Fergusson",
+"given": "Mary Margaret",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -17008,6 +17008,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Miley Fergusson",
 "given": "Miley",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Fergusson"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Richard Fergusson",
+"given": "Richard",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -28040,13 +28058,13 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Joyce Mcfarlane",
+"full": "Joyce McFarlane",
 "given": "Joyce",
 "nick": "",
 "note": "",
 "suffix": "",
 "surnames": [
-"Mcfarlane"
+"McFarlane"
 ],
 "title": "",
 "type": "Birth Name"
@@ -28418,13 +28436,13 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Sienna Mcfarlane",
+"full": "Sienna McFarlane",
 "given": "Sienna",
 "nick": "",
 "note": "",
 "suffix": "",
 "surnames": [
-"Mcfarlane"
+"McFarlane"
 ],
 "title": "",
 "type": "Birth Name"
@@ -29217,24 +29235,6 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "McGeorge"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Jeanie Nelson McGeorge Fergusson",
-"given": "Jeanie Nelson",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"McGeorge Fergusson"
 ],
 "title": "",
 "type": "Birth Name"

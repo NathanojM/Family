@@ -30,7 +30,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 307,
+"index": 306,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -60,7 +60,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 307,
+"index": 306,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -100,7 +100,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 307,
+"index": 306,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -6158,7 +6158,71 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 306,
+"index": 307,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 308,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 307,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 310,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 542,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
+[
+{
+"cita": [],
+"index": 309,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 310,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 310,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -6177,62 +6241,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 309,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 308,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 310,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
-[
-{
-"cita": [],
-"index": 310,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 310,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 309,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 308,
+"index": 307,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -10602,15 +10611,6 @@ I_famc_0 = [
 }
 ],
 [],
-[
-{
-"cita": [],
-"index": 542,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
 [
 {
 "cita": [],
