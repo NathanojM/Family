@@ -73,6 +73,7 @@ M_gramps_path_0 = [
 "Documents/Family tree/McFarlane/McFarlane/New new photos/John McDowall II Enhanced.png",
 "Documents/Family tree/McFarlane/McFarlane/John McFarlane (P0410).jpg",
 "Documents/Family tree/McFarlane/Paterson/New Photos/Johnanna.png",
+"Documents/Family tree/McFarlane/McFarlane/New new photos/Joseph Lacey.png",
 "Documents/Family tree/McFarlane/McFarlane/New Photos/Joyce.png",
 "Documents/Family tree/McFarlane/Paterson/Joyce and Harold.png",
 "Documents/Family tree/McFarlane/Paterson/James William Paterson/JWP.png",

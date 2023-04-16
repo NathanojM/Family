@@ -964,7 +964,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-549
+546
 ],
 "place": 285,
 "text": "",
@@ -2193,7 +2193,21 @@ F_events_0 = [
 [],
 [],
 [],
-[],
+[
+{
+"cita": [],
+"date": "1936",
+"date_sdn": 2428169,
+"descr": "",
+"gid": "E3688",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 255,
+"text": "",
+"type": "Marriage"
+}
+],
 [],
 [],
 [],
@@ -3532,6 +3546,7 @@ F_events_0 = [
 "type": "Marriage"
 }
 ],
+[],
 [],
 [],
 [],
