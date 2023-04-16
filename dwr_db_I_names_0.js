@@ -25,6 +25,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Alex",
 "given": "Alex",
 "nick": "",
@@ -37984,24 +38002,6 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Stephenson"
-],
-"title": "",
-"type": "Birth Name"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Stiel?",
-"given": "",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Stiel?"
 ],
 "title": "",
 "type": "Birth Name"

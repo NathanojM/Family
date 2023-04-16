@@ -3,6 +3,7 @@
 I_birth_date_0 = [
 "between 1891 and 1911",
 "?",
+"?",
 "1889",
 "about 1797",
 "1835",
@@ -2106,7 +2107,6 @@ I_birth_date_0 = [
 "7 August 1785",
 "22 September 1878",
 "between 1848 and 1877",
-"?",
 "between 1855 and 1884",
 "?",
 "?",

@@ -505,7 +505,6 @@ N_surname_0 = [
 "Steel Steal",
 "Steer",
 "Stephenson",
-"Stiel?",
 "Still",
 "Stokes",
 "Stone",

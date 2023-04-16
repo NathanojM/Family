@@ -964,7 +964,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-546
+547
 ],
 "place": 285,
 "text": "",
@@ -1491,6 +1491,7 @@ F_events_0 = [
 "type": "Marriage"
 }
 ],
+[],
 [],
 [],
 [],
@@ -3546,7 +3547,6 @@ F_events_0 = [
 "type": "Marriage"
 }
 ],
-[],
 [],
 [],
 [],
