@@ -227,7 +227,7 @@ F_marr_place_0 = [
 "",
 "",
 "St John The Baptist Church, Halifax, Yorkshire, England",
-"",
+"Ontario, Canada",
 "Halifax, West Yorkshire, England",
 "",
 "",

@@ -878,6 +878,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Bethany, Ontario, Canada"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Bethnal Green,London,England"
 }
 ],

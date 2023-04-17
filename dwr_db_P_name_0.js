@@ -125,6 +125,7 @@ P_name_0 = [
 "Belvedere, London, England",
 "Berkshire, England",
 "Bernard Heath, Hertfordshire, England",
+"Bethany, Ontario, Canada",
 "Bethnal Green,London,England",
 "Bewcastle, Cumbria,England",
 "Bexhill-on-Sea, East Sussex, England",
