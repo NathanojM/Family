@@ -16,8 +16,8 @@ DB_SIZES = {
     "R": 0,
     "S": 0
 };NB_GENERATIONS_MAX = 30;
-PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html"];
-PAGES_TITLE = ["Home", "Indexes", "Tree", "Contribute", "Download"];
+PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html", "custom_3.html"];
+PAGES_TITLE = ["Home", "Indexes", "Tree", "Contribute", "Download", "Share"];
 PAGES_FILE_INDEX = ["surnames.html", "persons.html", "families.html", "medias.html", "places.html"];
 PAGES_TITLE_INDEX = ["Surnames", "Individuals", "Families", "Media", "Places"];
 SVG_TREE_TYPES_NAMES = ["Ascending tree", "Descending tree", "Descending tree with spouses", "Ascending and descending tree", "Ascending and descending tree with spouses"];
