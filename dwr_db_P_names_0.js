@@ -5,6 +5,23 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "#Dumfries, Dumfries and Galloway, Scotland"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Dumfries Chapel, Dumfries, Dumfries and Galloway, Scotland"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Rolleston, Dumfries, Dumfries and Galloway, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "1 Drake Street, Enfield, Greate London, England"
 }
 ],
@@ -145,6 +162,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "153 College Street, , Dumfries, Dumfries and Galloway, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "16 Berrylands Road, Caversham, Berkshire, England"
 }
 ],
@@ -215,6 +239,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "21 Poplar Road, Lincluden, Dumfries, Dumfries and Galloway, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "21 Shakespeare Street, Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
@@ -237,6 +268,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "24 Munches Street, Dumfries, Dumfries and Galloway, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "25 Burns Street, Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
 [
@@ -432,6 +470,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "69 George Street, Dumfries, Dumfries and Galloway, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "7 Oakhursrt Grove, Camberwell, London, England"
 }
 ],
@@ -460,7 +505,21 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "75 Lincluden Road, Dumfries, Dumfries and Galloway, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "775 Francis Avenue, Kelowna,British Columbia,Canada"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "8 Burns Street, Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
 [
@@ -1796,23 +1855,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Dulwich, Greater London, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Dumfries, Dumfries and Galloway, Scotland"
-},
-{
-"date": "",
-"date_sdn": 0,
-"name": "Dumfries Chapel, Dumfries, Dumfries and Galloway, Scotland"
-},
-{
-"date": "",
-"date_sdn": 0,
-"name": "Rolleston, Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
 [
@@ -3460,6 +3502,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Northampton, Northamptonshire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Norton St Phillip, Somerset, England"
 }
 ],
@@ -4593,6 +4642,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Tripoli,Libya"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Troqueer Road, Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
 [

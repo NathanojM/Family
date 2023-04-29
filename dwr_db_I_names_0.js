@@ -259,6 +259,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Bobby",
+"given": "Bobby",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Brian",
 "given": "Brian",
 "nick": "",
@@ -603,6 +621,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "George",
 "given": "George",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Ginnie",
+"given": "Ginnie",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -2849,8 +2885,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "George Barber",
-"given": "George",
+"full": "George Augustus Barber",
+"given": "George Augustus",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -7885,6 +7921,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Billy Best",
+"given": "Billy",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Best"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Dorothy A E Betink",
 "given": "Dorothy A E",
 "nick": "",
@@ -10178,6 +10232,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Cadman"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Christina Lennox Campbell",
+"given": "Christina Lennox",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Campbell"
 ],
 "title": "",
 "type": "Birth Name"
@@ -18482,6 +18554,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Charles Nelson Gemmell",
+"given": "Charles Nelson",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Gemmell"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Gibbs",
 "given": "",
 "nick": "",
@@ -22856,6 +22946,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "John Fergusson Jardine",
+"given": "John Fergusson",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Jardine"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Ivy Jenkins",
 "given": "Ivy",
 "nick": "",
@@ -23439,6 +23547,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Kelsall"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Johnanne Gallacher Kempsell",
+"given": "Johnanne Gallacher",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Kempsell"
 ],
 "title": "",
 "type": "Birth Name"
@@ -27410,6 +27536,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "McFarlane",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Alexander John McFarlane",
 "given": "Alexander John",
 "nick": "",
@@ -27770,8 +27914,44 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "George William Craik McFarlane",
+"given": "George William Craik",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Gerald Michael McFarlane",
 "given": "Gerald Michael",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Harold James Nelson McFarlane",
+"given": "Harold James Nelson",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -27986,6 +28166,42 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "John Shearman McFarlane",
+"given": "John Shearman",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Johnann Craik McFarlane",
+"given": "Johnann Craik",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Jonathan James McFarlane",
 "given": "Jonathan James",
 "nick": "",
@@ -28058,6 +28274,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Leonard Anthony McFarlane",
+"given": "Leonard Anthony",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Linda McFarlane",
 "given": "Linda",
 "nick": "",
@@ -28114,6 +28348,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Margaret McFarlane",
 "given": "Margaret",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Margaret Gallagher McFarlane",
+"given": "Margaret Gallagher",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -28204,6 +28456,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Mary McFarlane",
 "given": "Mary",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary Jane Kempsell McFarlane",
+"given": "Mary Jane Kempsell",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -28330,6 +28600,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Ralph Yardley McFarlane",
 "given": "Ralph Yardley",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Reginald Junior McFarlane",
+"given": "Reginald Junior",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -28474,6 +28762,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Thomas McFarlane",
 "given": "Thomas",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"McFarlane"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Thomas Kempsell McFarlane",
+"given": "Thomas Kempsell",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -30333,6 +30639,24 @@ I_names_0 = [
 "suffix": "[sic]",
 "surnames": [
 "Mudge"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mary Agness Mundell",
+"given": "Mary Agness",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Mundell"
 ],
 "title": "",
 "type": "Birth Name"
@@ -36951,6 +37275,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Leonard Skachill",
+"given": "Leonard",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Skachill"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Arthur James Skipper/ Slipper",
 "given": "Arthur James",
 "nick": "",
@@ -37210,6 +37552,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Spence"
+],
+"title": "",
+"type": "Birth Name"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Norah Spong",
+"given": "Norah",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Spong"
 ],
 "title": "",
 "type": "Birth Name"
