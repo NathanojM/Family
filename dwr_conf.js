@@ -4,15 +4,15 @@ DWR_VERSION_410 = true;
 DWR_VERSION_412 = true;
 DWR_VERSION_420 = true;
 DWR_VERSION_500 = true;
-TITLE = "Family: Past and Present";
+TITLE = "Family History Project";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 0,
-    "F": 824,
-    "I": 2358,
-    "M": 117,
-    "N": 592,
-    "P": 719,
+    "F": 836,
+    "I": 2398,
+    "M": 115,
+    "N": 599,
+    "P": 716,
     "R": 0,
     "S": 0
 };NB_GENERATIONS_MAX = 30;
@@ -24,7 +24,7 @@ SVG_TREE_TYPES_NAMES = ["Ascending tree", "Descending tree", "Descending tree wi
 SVG_TREE_SHAPES_NAMES = ["Vertical (↓)", "Vertical (↑)", "Horizontal (→)", "Horizontal (←)", "Full Circle", "Half Circle", "Quadrant"];
 SVG_TREE_DISTRIB_ASC_NAMES = ["Size proportional to number of ancestors", "Homogeneous parents distribution"];
 SVG_TREE_DISTRIB_DSC_NAMES = ["Size proportional to number of descendants", "Homogeneous children distribution"];
-SVG_TREE_BACKGROUND_NAMES = ["Gender colours", "Generation based gradient", "Age based gradient", "Single main (filter) colour", "Time period based gradient", "White", "Colour scheme classic report", "Colour scheme classic view"];
+SVG_TREE_BACKGROUND_NAMES = ["Gender colors", "Generation based gradient", "Age based gradient", "Single main (filter) color", "Time period based gradient", "White", "Color scheme classic report", "Color scheme classic view"];
 SVG_TREE_BACKGROUND_GENDER = 0;
 SVG_TREE_BACKGROUND_GENERATION = 1;
 SVG_TREE_BACKGROUND_AGE = 2;
@@ -42,7 +42,7 @@ SVG_TREE_COLOR1 = "#EF2929";
 SVG_TREE_COLOR2 = "#3D37E9";
 SVG_TREE_SHOW_DUP = true;
 SVG_TREE_COLOR_DUP = "#888A85";
-CHART_BACKGROUND_NAMES = ["Single main (filter) colour", "Gender colours", "Gradient", "Colour scheme classic report", "Colour scheme classic view", "White"];
+CHART_BACKGROUND_NAMES = ["Single main (filter) color", "Gender colors", "Gradient", "Color scheme classic report", "Color scheme classic view", "White"];
 CHART_BACKGROUND_GENDER = 1;
 CHART_BACKGROUND_GRADIENT = 2;
 CHART_BACKGROUND_SINGLE = 0;
@@ -79,7 +79,7 @@ INDEX_SHOW_DATES=true;
 INDEX_SHOW_PARTNER=true;
 INDEX_SHOW_PARENTS=true;
 INDEX_SHOW_PATH=false;
-INDEX_SHOW_BKREF_TYPE=true;
+INDEX_SHOW_BKREF_TYPE=false;
 INDEX_DEFAULT_SIZE = 5;
 INDEXES_SIZES = [[10, 50, 100, 500, 1000, 5000], ['10', '50', '100', '500', '1000', '5000']];
 SHOW_ALL_SIBLINGS=true;
@@ -95,7 +95,7 @@ MAP_PLACE=true;
 MAP_FAMILY=true;
 MAP_SERVICE="Google";
 SOURCE_AUTHOR_IN_TITLE=false;
-TABBED_PANELS=false;
+TABBED_PANELS=true;
 INC_CHANGE_TIME=true;
 HIDE_GID=false;
 INC_PAGECONF = true;

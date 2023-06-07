@@ -183,13 +183,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "19 Loreburn Street (Ewe & Lamb Close), Dumfries, Dumfries and Galloway, Scotland"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "19 Municipal Terrace, Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
@@ -757,13 +750,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Bargoed, Wales"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Barkby, Leicestershire, England"
 }
 ],
@@ -800,6 +786,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Barrow upon Soar, Leicestershire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Barthomley, Cheshire, England"
 }
 ],
 [
@@ -903,6 +896,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Belle Vue Avenue, Southend, Essex, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Bellshill, Lanarkshire, Scotland"
 }
 ],
 [
@@ -1301,13 +1301,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Canada"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Canterbury, Kent, England"
 }
 ],
@@ -1568,6 +1561,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Colvend, Dumfries and Galloway, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Congleton, Cheshire, England"
 }
 ],
 [
@@ -1890,13 +1890,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Ealing, Greater London, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Earlsfield, Greater London, England"
 }
 ],
 [
@@ -2519,6 +2512,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Hillhead, Glasgow, Lanarkshire, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Hillingdon, Greater London, England"
 }
 ],
@@ -2733,13 +2733,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Ireland"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Isle of Mann, UK"
 }
 ],
 [
@@ -3096,13 +3089,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Lucas, Ohio, USA"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Luddenden, West Yorkshire, England"
 }
 ],
@@ -3139,6 +3125,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Lyneham, Wiltshire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Macclesfield, Cheshire, England"
 }
 ],
 [
@@ -3250,13 +3243,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Michigan, USA"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Middlebie, Dumfries and Galloway, Scotland"
 }
 ],
@@ -3279,6 +3265,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Midlothian, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Midsteeple, Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
 [
@@ -3321,13 +3314,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Morchard Bishop, Devon, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Mortlake, Greater London, England"
 }
 ],
 [
@@ -3419,13 +3405,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "New South Wales"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "New York, USA"
 }
 ],
 [
@@ -3628,6 +3607,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Paisley, Renfrewshire, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Papcastle, Cumbria, England"
 }
 ],
@@ -3685,13 +3671,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Pendleton, Lancashire, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Penge, Bromley, Greater London, England"
 }
 ],
 [
@@ -4536,13 +4515,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Talke On The Hill, Staffordshire, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Tankerton, Kent, England"
 }
 ],
@@ -4814,6 +4786,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "West Cluden, Irongray, Kirkcudbrightshire, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "West Ham, Greater London, England"
 }
 ],
@@ -4975,13 +4954,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Wirral, Mersyside, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Wivenhoe, Essex, England"
 }
 ],
@@ -5053,6 +5025,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Wye, Kent, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Yearsley, Yorkshire, England"
 }
 ],
 [

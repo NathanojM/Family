@@ -64,7 +64,7 @@ I_events_0 = [
 "part_person": [
 4
 ],
-"place": 470,
+"place": 469,
 "text": "",
 "type": "Birth"
 }
@@ -81,7 +81,7 @@ I_events_0 = [
 "part_person": [
 5
 ],
-"place": 107,
+"place": 105,
 "text": "",
 "type": "Birth"
 },
@@ -96,7 +96,7 @@ I_events_0 = [
 "part_person": [
 5
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -175,7 +175,7 @@ I_events_0 = [
 "part_person": [
 7
 ],
-"place": 616,
+"place": 613,
 "text": "",
 "type": "Burial"
 }
@@ -192,7 +192,7 @@ I_events_0 = [
 "part_person": [
 8
 ],
-"place": 442,
+"place": 440,
 "text": "",
 "type": "Birth"
 }
@@ -214,23 +214,7 @@ I_events_0 = [
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1871",
-"date_sdn": 2404429,
-"descr": "",
-"gid": "E2157",
-"media": [],
-"part_family": [],
-"part_person": [
-10
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [],
 [
 {
@@ -279,7 +263,7 @@ I_events_0 = [
 "part_person": [
 16
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -294,7 +278,7 @@ I_events_0 = [
 "part_person": [
 16
 ],
-"place": 463,
+"place": 461,
 "text": "",
 "type": "Death"
 }
@@ -350,7 +334,7 @@ I_events_0 = [
 "part_person": [
 25
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -365,7 +349,7 @@ I_events_0 = [
 "part_person": [
 25
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Death"
 }
@@ -382,7 +366,7 @@ I_events_0 = [
 "part_person": [
 26
 ],
-"place": 117,
+"place": 116,
 "text": "",
 "type": "Birth"
 },
@@ -448,7 +432,7 @@ I_events_0 = [
 "part_person": [
 29
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -551,7 +535,7 @@ I_events_0 = [
 "part_person": [
 39
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Birth"
 },
@@ -566,7 +550,7 @@ I_events_0 = [
 "part_person": [
 39
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Death"
 }
@@ -684,7 +668,7 @@ I_events_0 = [
 "part_person": [
 47
 ],
-"place": 481,
+"place": 479,
 "text": "",
 "type": "Birth"
 },
@@ -705,23 +689,7 @@ I_events_0 = [
 }
 ],
 [],
-[
-{
-"cita": [],
-"date": "about 2015",
-"date_sdn": 2457024,
-"descr": "",
-"gid": "E0017",
-"media": [],
-"part_family": [],
-"part_person": [
-49
-],
-"place": -1,
-"text": "",
-"type": "Death"
-}
-],
+[],
 [],
 [],
 [],
@@ -738,7 +706,7 @@ I_events_0 = [
 "part_person": [
 54
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 },
@@ -753,7 +721,7 @@ I_events_0 = [
 "part_person": [
 54
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Death"
 }
@@ -788,7 +756,7 @@ I_events_0 = [
 "part_person": [
 57
 ],
-"place": 108,
+"place": 106,
 "text": "",
 "type": "Birth"
 }
@@ -838,7 +806,7 @@ I_events_0 = [
 "part_person": [
 60
 ],
-"place": 626,
+"place": 623,
 "text": "",
 "type": "Birth"
 }
@@ -969,7 +937,7 @@ I_events_0 = [
 "part_person": [
 66
 ],
-"place": 536,
+"place": 533,
 "text": "",
 "type": "Birth"
 }
@@ -986,7 +954,7 @@ I_events_0 = [
 "part_person": [
 67
 ],
-"place": 457,
+"place": 456,
 "text": "",
 "type": "Birth"
 },
@@ -1001,7 +969,7 @@ I_events_0 = [
 "part_person": [
 67
 ],
-"place": 299,
+"place": 298,
 "text": "",
 "type": "Death"
 }
@@ -1019,7 +987,7 @@ I_events_0 = [
 "part_person": [
 69
 ],
-"place": 453,
+"place": 452,
 "text": "",
 "type": "Birth"
 },
@@ -1034,7 +1002,7 @@ I_events_0 = [
 "part_person": [
 69
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -1051,7 +1019,7 @@ I_events_0 = [
 "part_person": [
 70
 ],
-"place": 628,
+"place": 625,
 "text": "",
 "type": "Birth"
 },
@@ -1066,7 +1034,7 @@ I_events_0 = [
 "part_person": [
 70
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Death"
 }
@@ -1101,9 +1069,41 @@ I_events_0 = [
 "part_person": [
 73
 ],
-"place": 681,
+"place": 677,
 "text": "",
 "type": "Birth"
+}
+],
+[
+{
+"cita": [],
+"date": "1949",
+"date_sdn": 2432918,
+"descr": "",
+"gid": "E3793",
+"media": [],
+"part_family": [],
+"part_person": [
+74
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "5 May 1994",
+"date_sdn": 2449478,
+"descr": "",
+"gid": "E3794",
+"media": [],
+"part_family": [],
+"part_person": [
+74
+],
+"place": 0,
+"text": "",
+"type": "Death"
 }
 ],
 [],
@@ -1117,9 +1117,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-75
+76
 ],
-"place": 442,
+"place": 440,
 "text": "",
 "type": "Birth"
 },
@@ -1132,7 +1132,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-75
+76
 ],
 "place": -1,
 "text": "",
@@ -1146,6 +1146,38 @@ I_events_0 = [
 [],
 [],
 [],
+[
+{
+"cita": [],
+"date": "6 July 1882",
+"date_sdn": 2408633,
+"descr": "",
+"gid": "E3739",
+"media": [],
+"part_family": [],
+"part_person": [
+84
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "7 April 1932",
+"date_sdn": 2426805,
+"descr": "",
+"gid": "E3740",
+"media": [],
+"part_family": [],
+"part_person": [
+84
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
 [],
 [],
 [],
@@ -1165,9 +1197,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-92
+94
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Birth"
 },
@@ -1180,9 +1212,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-92
+94
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Residence"
 }
@@ -1197,9 +1229,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-93
+95
 ],
-"place": 102,
+"place": 101,
 "text": "",
 "type": "Birth"
 },
@@ -1212,9 +1244,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-93
+95
 ],
-"place": 631,
+"place": 628,
 "text": "",
 "type": "Residence"
 }
@@ -1229,9 +1261,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-94
+96
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -1244,9 +1276,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-94
+96
 ],
-"place": 280,
+"place": 279,
 "text": "",
 "type": "Death"
 },
@@ -1259,9 +1291,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-94
+96
 ],
-"place": 694,
+"place": 691,
 "text": "",
 "type": "Residence"
 },
@@ -1274,9 +1306,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-94
+96
 ],
-"place": 28,
+"place": 27,
 "text": "",
 "type": "Residence"
 }
@@ -1291,9 +1323,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-95
+97
 ],
-"place": 102,
+"place": 101,
 "text": "",
 "type": "Birth"
 },
@@ -1306,9 +1338,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-95
+97
 ],
-"place": 631,
+"place": 628,
 "text": "",
 "type": "Residence"
 }
@@ -1324,9 +1356,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-97
+99
 ],
-"place": 102,
+"place": 101,
 "text": "",
 "type": "Birth"
 },
@@ -1339,9 +1371,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-97
+99
 ],
-"place": 28,
+"place": 27,
 "text": "",
 "type": "Residence"
 },
@@ -1354,9 +1386,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-97
+99
 ],
-"place": 631,
+"place": 628,
 "text": "",
 "type": "Residence"
 }
@@ -1371,9 +1403,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-98
+100
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Birth"
 },
@@ -1386,9 +1418,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-98
+100
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Residence"
 }
@@ -1403,9 +1435,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99
+101
 ],
-"place": 102,
+"place": 101,
 "text": "",
 "type": "Birth"
 },
@@ -1418,9 +1450,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-99
+101
 ],
-"place": 631,
+"place": 628,
 "text": "",
 "type": "Residence"
 }
@@ -1435,9 +1467,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-100
+102
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Birth"
 },
@@ -1450,9 +1482,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-100
+102
 ],
-"place": 631,
+"place": 628,
 "text": "",
 "type": "Residence"
 },
@@ -1465,9 +1497,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-100
+102
 ],
-"place": 499,
+"place": 496,
 "text": "",
 "type": "Residence"
 },
@@ -1480,7 +1512,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-100
+102
 ],
 "place": 362,
 "text": "",
@@ -1497,9 +1529,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-101
+103
 ],
-"place": 102,
+"place": 101,
 "text": "",
 "type": "Birth"
 },
@@ -1512,9 +1544,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-101
+103
 ],
-"place": 631,
+"place": 628,
 "text": "",
 "type": "Residence"
 }
@@ -1529,9 +1561,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-102
+104
 ],
-"place": 555,
+"place": 552,
 "text": "",
 "type": "Birth"
 },
@@ -1544,9 +1576,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-102
+104
 ],
-"place": 28,
+"place": 27,
 "text": "",
 "type": "Residence"
 }
@@ -1561,7 +1593,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-103
+105
 ],
 "place": 368,
 "text": "",
@@ -1576,9 +1608,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-103
+105
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Residence"
 }
@@ -1593,9 +1625,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-104
+106
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Birth"
 },
@@ -1608,9 +1640,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-104
+106
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Residence"
 }
@@ -1625,9 +1657,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-105
+107
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Birth"
 },
@@ -1640,9 +1672,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-105
+107
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Residence"
 }
@@ -1657,9 +1689,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-106
+108
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Birth"
 },
@@ -1672,9 +1704,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-106
+108
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Residence"
 }
@@ -1690,9 +1722,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-108
+110
 ],
-"place": 102,
+"place": 101,
 "text": "",
 "type": "Birth"
 },
@@ -1705,9 +1737,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-108
+110
 ],
-"place": 631,
+"place": 628,
 "text": "",
 "type": "Residence"
 }
@@ -1722,9 +1754,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-109
+111
 ],
-"place": 408,
+"place": 407,
 "text": "",
 "type": "Birth"
 },
@@ -1737,7 +1769,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-109
+111
 ],
 "place": -1,
 "text": "",
@@ -1756,7 +1788,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-112
+114
 ],
 "place": -1,
 "text": "",
@@ -1771,7 +1803,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-112
+114
 ],
 "place": -1,
 "text": "",
@@ -1788,7 +1820,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-113
+115
 ],
 "place": -1,
 "text": "",
@@ -1803,9 +1835,41 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-113
+115
 ],
-"place": 97,
+"place": 96,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "1936",
+"date_sdn": 2428169,
+"descr": "",
+"gid": "E3784",
+"media": [],
+"part_family": [],
+"part_person": [
+116
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "17 August 2000",
+"date_sdn": 2451774,
+"descr": "",
+"gid": "E3785",
+"media": [],
+"part_family": [],
+"part_person": [
+116
+],
+"place": 0,
 "text": "",
 "type": "Death"
 }
@@ -1823,9 +1887,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-117
+120
 ],
-"place": 216,
+"place": 215,
 "text": "",
 "type": "Birth"
 },
@@ -1838,9 +1902,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-117
+120
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -1855,9 +1919,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-118
+121
 ],
-"place": 317,
+"place": 316,
 "text": "",
 "type": "Birth"
 }
@@ -1873,7 +1937,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-120
+123
 ],
 "place": -1,
 "text": "",
@@ -1890,7 +1954,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-121
+124
 ],
 "place": -1,
 "text": "",
@@ -1905,7 +1969,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-121
+124
 ],
 "place": 252,
 "text": "",
@@ -1922,9 +1986,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-122
+125
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 },
@@ -1937,7 +2001,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-122
+125
 ],
 "place": -1,
 "text": "",
@@ -1954,9 +2018,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-123
+126
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 }
@@ -1971,9 +2035,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-124
+127
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 }
@@ -1988,7 +2052,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-125
+128
 ],
 "place": -1,
 "text": "",
@@ -2003,7 +2067,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-125
+128
 ],
 "place": -1,
 "text": "",
@@ -2020,7 +2084,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-126
+129
 ],
 "place": 252,
 "text": "",
@@ -2037,9 +2101,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-127
+130
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 },
@@ -2052,9 +2116,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-127
+130
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -2069,9 +2133,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-128
+131
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 },
@@ -2084,7 +2148,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-128
+131
 ],
 "place": -1,
 "text": "",
@@ -2101,9 +2165,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-129
+132
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 },
@@ -2116,9 +2180,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-129
+132
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Death"
 },
@@ -2131,9 +2195,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-129
+132
 ],
-"place": 695,
+"place": 692,
 "text": "",
 "type": "Burial"
 }
@@ -2148,9 +2212,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-130
+133
 ],
-"place": 505,
+"place": 502,
 "text": "",
 "type": "Birth"
 },
@@ -2163,9 +2227,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-130
+133
 ],
-"place": 408,
+"place": 407,
 "text": "",
 "type": "Death"
 }
@@ -2181,7 +2245,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-132
+135
 ],
 "place": -1,
 "text": "",
@@ -2196,7 +2260,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-132
+135
 ],
 "place": -1,
 "text": "",
@@ -2211,9 +2275,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-132
+135
 ],
-"place": 695,
+"place": 692,
 "text": "",
 "type": "Burial"
 }
@@ -2228,9 +2292,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-133
+136
 ],
-"place": 571,
+"place": 568,
 "text": "",
 "type": "Birth"
 },
@@ -2243,9 +2307,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-133
+136
 ],
-"place": 573,
+"place": 570,
 "text": "",
 "type": "Death"
 }
@@ -2260,7 +2324,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-134
+137
 ],
 "place": -1,
 "text": "",
@@ -2275,7 +2339,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-134
+137
 ],
 "place": -1,
 "text": "",
@@ -2292,7 +2356,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-135
+138
 ],
 "place": -1,
 "text": "",
@@ -2309,7 +2373,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-136
+139
 ],
 "place": -1,
 "text": "",
@@ -2324,7 +2388,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-136
+139
 ],
 "place": -1,
 "text": "",
@@ -2341,7 +2405,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-137
+140
 ],
 "place": -1,
 "text": "",
@@ -2356,9 +2420,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-137
+140
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Death"
 }
@@ -2373,7 +2437,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138
+141
 ],
 "place": -1,
 "text": "",
@@ -2388,7 +2452,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-138
+141
 ],
 "place": -1,
 "text": "",
@@ -2405,7 +2469,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-139
+142
 ],
 "place": 230,
 "text": "",
@@ -2420,7 +2484,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-139
+142
 ],
 "place": -1,
 "text": "",
@@ -2439,9 +2503,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-142
+145
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Birth"
 }
@@ -2456,9 +2520,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-143
+146
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -2473,9 +2537,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-144
+147
 ],
-"place": 394,
+"place": 393,
 "text": "",
 "type": "Birth"
 },
@@ -2488,9 +2552,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-144
+147
 ],
-"place": 283,
+"place": 282,
 "text": "",
 "type": "Death"
 }
@@ -2505,9 +2569,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-145
+148
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Birth"
 },
@@ -2520,9 +2584,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-145
+148
 ],
-"place": 115,
+"place": 114,
 "text": "",
 "type": "Death"
 }
@@ -2537,9 +2601,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-146
+149
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -2552,9 +2616,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-146
+149
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Death"
 }
@@ -2569,9 +2633,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-147
+150
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 },
@@ -2584,7 +2648,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-147
+150
 ],
 "place": -1,
 "text": "",
@@ -2604,9 +2668,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-151
+154
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -2619,9 +2683,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-151
+154
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Death"
 }
@@ -2636,9 +2700,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-152
+155
 ],
-"place": 116,
+"place": 115,
 "text": "",
 "type": "Birth"
 },
@@ -2651,9 +2715,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-152
+155
 ],
-"place": 407,
+"place": 406,
 "text": "",
 "type": "Death"
 }
@@ -2668,9 +2732,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-153
+156
 ],
-"place": 320,
+"place": 319,
 "text": "",
 "type": "Birth"
 },
@@ -2683,9 +2747,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-153
+156
 ],
-"place": 123,
+"place": 122,
 "text": "",
 "type": "Death"
 }
@@ -2700,9 +2764,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-154
+157
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Birth"
 },
@@ -2715,9 +2779,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-154
+157
 ],
-"place": 608,
+"place": 605,
 "text": "",
 "type": "Baptism"
 }
@@ -2732,9 +2796,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-155
+158
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 },
@@ -2747,9 +2811,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-155
+158
 ],
-"place": 623,
+"place": 620,
 "text": "",
 "type": "Baptism"
 }
@@ -2766,7 +2830,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-158
+161
 ],
 "place": -1,
 "text": "",
@@ -2783,9 +2847,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-159
+162
 ],
-"place": 116,
+"place": 115,
 "text": "",
 "type": "Birth"
 },
@@ -2798,7 +2862,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-159
+162
 ],
 "place": -1,
 "text": "",
@@ -2815,9 +2879,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-160
+163
 ],
-"place": 320,
+"place": 319,
 "text": "",
 "type": "Birth"
 },
@@ -2830,9 +2894,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-160
+163
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Death"
 },
@@ -2845,7 +2909,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-160
+163
 ],
 "place": 2,
 "text": "",
@@ -2860,9 +2924,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-160
+163
 ],
-"place": 75,
+"place": 74,
 "text": "",
 "type": "Residence"
 },
@@ -2875,9 +2939,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-160
+163
 ],
-"place": 47,
+"place": 46,
 "text": "",
 "type": "Residence"
 },
@@ -2890,9 +2954,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-160
+163
 ],
-"place": 61,
+"place": 60,
 "text": "",
 "type": "Residence"
 },
@@ -2905,9 +2969,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-160
+163
 ],
-"place": 79,
+"place": 78,
 "text": "",
 "type": "Residence"
 },
@@ -2920,7 +2984,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-160
+163
 ],
 "place": 3,
 "text": "",
@@ -2935,9 +2999,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-160
+163
 ],
-"place": 49,
+"place": 48,
 "text": "",
 "type": "Residence"
 }
@@ -2952,9 +3016,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-161
+164
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -2969,9 +3033,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-162
+165
 ],
-"place": 583,
+"place": 580,
 "text": "",
 "type": "Birth"
 },
@@ -2984,9 +3048,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-162
+165
 ],
-"place": 495,
+"place": 492,
 "text": "",
 "type": "Death"
 },
@@ -2999,7 +3063,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-162
+165
 ],
 "place": -1,
 "text": "",
@@ -3014,9 +3078,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-162
+165
 ],
-"place": 594,
+"place": 591,
 "text": "",
 "type": "Baptism"
 },
@@ -3029,9 +3093,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-162
+165
 ],
-"place": 49,
+"place": 48,
 "text": "",
 "type": "Residence"
 },
@@ -3044,9 +3108,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-162
+165
 ],
-"place": 46,
+"place": 45,
 "text": "",
 "type": "Residence"
 },
@@ -3059,9 +3123,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-162
+165
 ],
-"place": 27,
+"place": 26,
 "text": "",
 "type": "Residence"
 },
@@ -3074,7 +3138,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-162
+165
 ],
 "place": 2,
 "text": "",
@@ -3093,9 +3157,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-165
+168
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -3108,9 +3172,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-165
+168
 ],
-"place": 343,
+"place": 342,
 "text": "",
 "type": "Death"
 }
@@ -3125,9 +3189,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-166
+169
 ],
-"place": 26,
+"place": 25,
 "text": "",
 "type": "Birth"
 },
@@ -3140,7 +3204,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-166
+169
 ],
 "place": -1,
 "text": "",
@@ -3155,26 +3219,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-166
+169
 ],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAdded death event based on birth date\n</p>\n</div>\n</div>",
 "type": "Death"
-},
-{
-"cita": [],
-"date": "4 December 1893",
-"date_sdn": 2412802,
-"descr": "",
-"gid": "E3729",
-"media": [],
-"part_family": [],
-"part_person": [
-166
-],
-"place": -1,
-"text": "",
-"type": "Left the police"
 },
 {
 "cita": [],
@@ -3185,11 +3234,26 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-166
+169
 ],
 "place": -1,
 "text": "",
 "type": "Joined the police"
+},
+{
+"cita": [],
+"date": "4 December 1893",
+"date_sdn": 2412802,
+"descr": "",
+"gid": "E3729",
+"media": [],
+"part_family": [],
+"part_person": [
+169
+],
+"place": -1,
+"text": "",
+"type": "Left the police"
 }
 ],
 [
@@ -3202,9 +3266,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-167
+170
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -3217,9 +3281,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-167
+170
 ],
-"place": 92,
+"place": 91,
 "text": "",
 "type": "Death"
 }
@@ -3234,9 +3298,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-168
+171
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -3249,7 +3313,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-168
+171
 ],
 "place": -1,
 "text": "",
@@ -3266,9 +3330,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-169
+172
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -3284,9 +3348,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-171
+174
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -3302,9 +3366,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-173
+176
 ],
-"place": 116,
+"place": 115,
 "text": "",
 "type": "Birth"
 }
@@ -3320,9 +3384,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-175
+178
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -3337,9 +3401,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-176
+179
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -3352,7 +3416,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-176
+179
 ],
 "place": 234,
 "text": "",
@@ -3369,9 +3433,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-177
+180
 ],
-"place": 631,
+"place": 628,
 "text": "",
 "type": "Birth"
 },
@@ -3384,7 +3448,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-177
+180
 ],
 "place": 20,
 "text": "",
@@ -3399,9 +3463,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-177
+180
 ],
-"place": 30,
+"place": 29,
 "text": "",
 "type": "Residence"
 },
@@ -3414,9 +3478,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-177
+180
 ],
-"place": 466,
+"place": 465,
 "text": "",
 "type": "Death"
 }
@@ -3433,9 +3497,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-180
+183
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -3448,9 +3512,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-180
+183
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Death"
 }
@@ -3465,9 +3529,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-181
+184
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -3483,7 +3547,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-183
+186
 ],
 "place": -1,
 "text": "",
@@ -3506,9 +3570,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190
+193
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -3521,9 +3585,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-190
+193
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Death"
 }
@@ -3538,7 +3602,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-191
+194
 ],
 "place": -1,
 "text": "",
@@ -3559,9 +3623,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-196
+199
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -3580,7 +3644,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-201
+204
 ],
 "place": -1,
 "text": "",
@@ -3595,8 +3659,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-201,
-1564
+204,
+1568
 ],
 "place": -1,
 "text": "",
@@ -3616,9 +3680,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-205
+208
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Birth"
 },
@@ -3631,7 +3695,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-205
+208
 ],
 "place": 263,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDied in Dunmow union workhouse\n</p>\n</div>\n</div>",
@@ -3648,7 +3712,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-206
+209
 ],
 "place": -1,
 "text": "",
@@ -3663,7 +3727,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-206
+209
 ],
 "place": -1,
 "text": "",
@@ -3680,9 +3744,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-207
+210
 ],
-"place": 289,
+"place": 288,
 "text": "",
 "type": "Birth"
 }
@@ -3697,9 +3761,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208
+211
 ],
-"place": 289,
+"place": 288,
 "text": "",
 "type": "Birth"
 },
@@ -3712,9 +3776,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-208
+211
 ],
-"place": 558,
+"place": 555,
 "text": "",
 "type": "Death"
 }
@@ -3729,9 +3793,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209
+212
 ],
-"place": 712,
+"place": 708,
 "text": "",
 "type": "Birth"
 },
@@ -3744,9 +3808,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-209
+212
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -3761,9 +3825,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-210
+213
 ],
-"place": 318,
+"place": 317,
 "text": "",
 "type": "Birth"
 },
@@ -3776,9 +3840,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-210
+213
 ],
-"place": 318,
+"place": 317,
 "text": "",
 "type": "Death"
 }
@@ -3793,9 +3857,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-211
+214
 ],
-"place": 633,
+"place": 630,
 "text": "",
 "type": "Birth"
 },
@@ -3808,9 +3872,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-211
+214
 ],
-"place": 633,
+"place": 630,
 "text": "",
 "type": "Death"
 }
@@ -3825,9 +3889,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-212
+215
 ],
-"place": 633,
+"place": 630,
 "text": "",
 "type": "Birth"
 },
@@ -3840,9 +3904,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-212
+215
 ],
-"place": 187,
+"place": 186,
 "text": "",
 "type": "Death"
 }
@@ -3857,9 +3921,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-213
+216
 ],
-"place": 289,
+"place": 288,
 "text": "",
 "type": "Birth"
 },
@@ -3872,7 +3936,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-213
+216
 ],
 "place": 259,
 "text": "",
@@ -3889,9 +3953,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-214
+217
 ],
-"place": 316,
+"place": 315,
 "text": "",
 "type": "Birth"
 },
@@ -3904,9 +3968,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-214
+217
 ],
-"place": 115,
+"place": 114,
 "text": "",
 "type": "Death"
 }
@@ -3921,7 +3985,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-215
+218
 ],
 "place": 370,
 "text": "",
@@ -3936,7 +4000,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-215
+218
 ],
 "place": 370,
 "text": "",
@@ -3953,9 +4017,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216
+219
 ],
-"place": 502,
+"place": 499,
 "text": "",
 "type": "Birth"
 },
@@ -3968,7 +4032,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-216
+219
 ],
 "place": 370,
 "text": "",
@@ -3985,9 +4049,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-217
+220
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -4000,9 +4064,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-217
+220
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -4017,9 +4081,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-218
+221
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -4032,9 +4096,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-218
+221
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Death"
 }
@@ -4049,7 +4113,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-219
+222
 ],
 "place": 175,
 "text": "",
@@ -4064,9 +4128,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-219
+222
 ],
-"place": 628,
+"place": 625,
 "text": "",
 "type": "Death"
 }
@@ -4082,9 +4146,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-221
+224
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -4097,7 +4161,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-221
+224
 ],
 "place": -1,
 "text": "",
@@ -4112,9 +4176,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-221
+224
 ],
-"place": 504,
+"place": 501,
 "text": "",
 "type": "Residence"
 },
@@ -4127,10 +4191,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-221,
-845
+224,
+848
 ],
-"place": 83,
+"place": 82,
 "text": "",
 "type": "Emigration"
 }
@@ -4145,7 +4209,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-222
+225
 ],
 "place": -1,
 "text": "",
@@ -4160,7 +4224,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-222
+225
 ],
 "place": -1,
 "text": "",
@@ -4177,7 +4241,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-223
+226
 ],
 "place": 232,
 "text": "",
@@ -4195,9 +4259,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-225
+228
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -4210,9 +4274,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-225
+228
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -4227,7 +4291,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-226
+229
 ],
 "place": 174,
 "text": "",
@@ -4242,9 +4306,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-226
+229
 ],
-"place": 628,
+"place": 625,
 "text": "",
 "type": "Death"
 },
@@ -4257,7 +4321,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-226
+229
 ],
 "place": 9,
 "text": "",
@@ -4274,9 +4338,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-227
+230
 ],
-"place": 709,
+"place": 705,
 "text": "",
 "type": "Birth"
 },
@@ -4289,7 +4353,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-227
+230
 ],
 "place": 9,
 "text": "",
@@ -4304,7 +4368,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-227
+230
 ],
 "place": -1,
 "text": "",
@@ -4321,9 +4385,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-228
+231
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 }
@@ -4338,9 +4402,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-229
+232
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -4353,9 +4417,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-229
+232
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -4370,9 +4434,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-230
+233
 ],
-"place": 477,
+"place": 475,
 "text": "",
 "type": "Birth"
 }
@@ -4387,9 +4451,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-231
+234
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -4402,7 +4466,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-231
+234
 ],
 "place": 9,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDied of Abscess of ear, meningitis and  hyperexia (according to death certificate). According to John Nicholas Barrett, Herbert died of lead poisoning as a result of the toxic chemicals used to make glazes.\n</p>\n</div>\n</div>",
@@ -4417,9 +4481,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-231
+234
 ],
-"place": 297,
+"place": 296,
 "text": "",
 "type": "Residence"
 },
@@ -4432,9 +4496,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-231
+234
 ],
-"place": 41,
+"place": 40,
 "text": "",
 "type": "Residence"
 },
@@ -4447,7 +4511,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-231
+234
 ],
 "place": 9,
 "text": "",
@@ -4464,9 +4528,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-232
+235
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -4479,7 +4543,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-232
+235
 ],
 "place": -1,
 "text": "",
@@ -4494,9 +4558,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-232
+235
 ],
-"place": 488,
+"place": 485,
 "text": "",
 "type": "Residence"
 }
@@ -4511,7 +4575,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-233
+236
 ],
 "place": 232,
 "text": "",
@@ -4526,9 +4590,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-233
+236
 ],
-"place": 532,
+"place": 529,
 "text": "",
 "type": "Residence"
 },
@@ -4541,7 +4605,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-233
+236
 ],
 "place": 231,
 "text": "",
@@ -4556,9 +4620,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-233
+236
 ],
-"place": 532,
+"place": 529,
 "text": "",
 "type": "Death"
 }
@@ -4573,9 +4637,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-234
+237
 ],
-"place": 333,
+"place": 332,
 "text": "",
 "type": "Birth"
 }
@@ -4590,9 +4654,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-235
+238
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -4605,9 +4669,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-235
+238
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -4622,9 +4686,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-236
+239
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -4637,9 +4701,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-236
+239
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Death"
 }
@@ -4654,9 +4718,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-237
+240
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 }
@@ -4671,9 +4735,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-238
+241
 ],
-"place": 488,
+"place": 485,
 "text": "",
 "type": "Birth"
 },
@@ -4686,9 +4750,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-238
+241
 ],
-"place": 466,
+"place": 465,
 "text": "",
 "type": "Death"
 },
@@ -4701,9 +4765,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-238
+241
 ],
-"place": 30,
+"place": 29,
 "text": "",
 "type": "Residence"
 }
@@ -4718,9 +4782,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-239
+242
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -4733,9 +4797,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-239
+242
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Death"
 }
@@ -4752,9 +4816,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-242
+245
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 }
@@ -4769,9 +4833,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-243
+246
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 }
@@ -4786,9 +4850,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-244
+247
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -4801,9 +4865,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-244
+247
 ],
-"place": 500,
+"place": 497,
 "text": "",
 "type": "Death"
 },
@@ -4816,9 +4880,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-244
+247
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Baptism"
 },
@@ -4831,9 +4895,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-244
+247
 ],
-"place": 31,
+"place": 30,
 "text": "",
 "type": "Residence"
 }
@@ -4848,9 +4912,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-245
+248
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 }
@@ -4865,9 +4929,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-246
+249
 ],
-"place": 535,
+"place": 532,
 "text": "",
 "type": "Birth"
 },
@@ -4880,7 +4944,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-246
+249
 ],
 "place": -1,
 "text": "",
@@ -4897,9 +4961,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-247
+250
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -4912,9 +4976,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-247
+250
 ],
-"place": 59,
+"place": 58,
 "text": "",
 "type": "Residence"
 },
@@ -4927,9 +4991,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-247
+250
 ],
-"place": 477,
+"place": 475,
 "text": "",
 "type": "Residence"
 },
@@ -4942,9 +5006,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-247
+250
 ],
-"place": 277,
+"place": 276,
 "text": "",
 "type": "Residence"
 },
@@ -4957,9 +5021,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-247
+250
 ],
-"place": 500,
+"place": 497,
 "text": "",
 "type": "Death"
 }
@@ -4974,9 +5038,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-248
+251
 ],
-"place": 477,
+"place": 475,
 "text": "",
 "type": "Birth"
 },
@@ -4989,9 +5053,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-248
+251
 ],
-"place": 539,
+"place": 536,
 "text": "",
 "type": "Death"
 },
@@ -5004,7 +5068,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-248
+251
 ],
 "place": 232,
 "text": "",
@@ -5022,9 +5086,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-250
+253
 ],
-"place": 488,
+"place": 485,
 "text": "",
 "type": "Birth"
 },
@@ -5037,9 +5101,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-250
+253
 ],
-"place": 655,
+"place": 651,
 "text": "",
 "type": "Death"
 },
@@ -5052,9 +5116,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-250
+253
 ],
-"place": 405,
+"place": 404,
 "text": "",
 "type": "Residence"
 },
@@ -5067,9 +5131,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-250
+253
 ],
-"place": 634,
+"place": 631,
 "text": "",
 "type": "Residence"
 },
@@ -5082,9 +5146,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-250
+253
 ],
-"place": 124,
+"place": 123,
 "text": "",
 "type": "Residence"
 }
@@ -5099,9 +5163,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-251
+254
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 }
@@ -5116,9 +5180,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-252
+255
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -5131,9 +5195,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-252
+255
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Death"
 }
@@ -5149,9 +5213,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-254
+257
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 }
@@ -5166,9 +5230,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255
+258
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -5181,9 +5245,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-255
+258
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -5198,9 +5262,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-256
+259
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -5213,9 +5277,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-256
+259
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -5231,9 +5295,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-258
+261
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -5246,7 +5310,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-258
+261
 ],
 "place": -1,
 "text": "",
@@ -5263,9 +5327,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-259
+262
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 }
@@ -5283,9 +5347,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-263
+266
 ],
-"place": 718,
+"place": 715,
 "text": "",
 "type": "Birth"
 },
@@ -5298,7 +5362,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-263
+266
 ],
 "place": 264,
 "text": "",
@@ -5315,9 +5379,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-264
+267
 ],
-"place": 425,
+"place": 424,
 "text": "",
 "type": "Birth"
 },
@@ -5330,7 +5394,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-264
+267
 ],
 "place": -1,
 "text": "",
@@ -5347,9 +5411,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-265
+268
 ],
-"place": 185,
+"place": 184,
 "text": "",
 "type": "Birth"
 },
@@ -5362,7 +5426,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-265
+268
 ],
 "place": -1,
 "text": "",
@@ -5377,7 +5441,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-265
+268
 ],
 "place": 363,
 "text": "",
@@ -5392,9 +5456,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-265
+268
 ],
-"place": 185,
+"place": 184,
 "text": "",
 "type": "Baptism"
 }
@@ -5410,7 +5474,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267
+270
 ],
 "place": 233,
 "text": "",
@@ -5425,7 +5489,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-267
+270
 ],
 "place": 153,
 "text": "",
@@ -5442,9 +5506,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-268
+271
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Birth"
 },
@@ -5457,9 +5521,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-268
+271
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Death"
 }
@@ -5474,7 +5538,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-269
+272
 ],
 "place": 167,
 "text": "",
@@ -5496,9 +5560,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-275
+278
 ],
-"place": 549,
+"place": 546,
 "text": "",
 "type": "Birth"
 },
@@ -5511,9 +5575,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-275
+278
 ],
-"place": 553,
+"place": 550,
 "text": "",
 "type": "Death"
 }
@@ -5528,7 +5592,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-276
+279
 ],
 "place": 0,
 "text": "",
@@ -5543,9 +5607,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-276
+279
 ],
-"place": 62,
+"place": 61,
 "text": "",
 "type": "Death"
 }
@@ -5560,7 +5624,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-277
+280
 ],
 "place": -1,
 "text": "",
@@ -5575,7 +5639,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-277
+280
 ],
 "place": -1,
 "text": "",
@@ -5592,9 +5656,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-278
+281
 ],
-"place": 315,
+"place": 314,
 "text": "",
 "type": "Birth"
 }
@@ -5609,9 +5673,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-279
+282
 ],
-"place": 282,
+"place": 281,
 "text": "",
 "type": "Birth"
 },
@@ -5624,9 +5688,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-279
+282
 ],
-"place": 622,
+"place": 619,
 "text": "",
 "type": "Death"
 }
@@ -5641,9 +5705,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-280
+283
 ],
-"place": 315,
+"place": 314,
 "text": "",
 "type": "Birth"
 },
@@ -5656,9 +5720,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-280
+283
 ],
-"place": 282,
+"place": 281,
 "text": "",
 "type": "Death"
 }
@@ -5673,9 +5737,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-281
+284
 ],
-"place": 198,
+"place": 197,
 "text": "",
 "type": "Birth"
 },
@@ -5688,7 +5752,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-281
+284
 ],
 "place": -1,
 "text": "",
@@ -5705,7 +5769,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-282
+285
 ],
 "place": 132,
 "text": "",
@@ -5720,9 +5784,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-282
+285
 ],
-"place": 682,
+"place": 679,
 "text": "",
 "type": "Death"
 }
@@ -5738,9 +5802,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-284
+287
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 },
@@ -5753,7 +5817,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-284
+287
 ],
 "place": -1,
 "text": "",
@@ -5768,7 +5832,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-284
+287
 ],
 "place": 250,
 "text": "",
@@ -5785,9 +5849,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-285
+288
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 },
@@ -5800,7 +5864,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-285
+288
 ],
 "place": -1,
 "text": "",
@@ -5817,30 +5881,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-286
+289
 ],
 "place": -1,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1871",
-"date_sdn": 2404429,
-"descr": "",
-"gid": "E2409",
-"media": [],
-"part_family": [],
-"part_person": [
-287
-],
-"place": 523,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -5851,25 +5899,6 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-288
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
-[],
-[],
-[
-{
-"cita": [],
-"date": "about 1906",
-"date_sdn": 2417212,
-"descr": "",
-"gid": "E3388",
-"media": [],
-"part_family": [],
-"part_person": [
 291
 ],
 "place": -1,
@@ -5877,6 +5906,9 @@ I_events_0 = [
 "type": "Birth"
 }
 ],
+[],
+[],
+[],
 [
 {
 "cita": [],
@@ -5887,9 +5919,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-292
+295
 ],
-"place": 324,
+"place": 323,
 "text": "",
 "type": "Birth"
 },
@@ -5902,9 +5934,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-292
+295
 ],
-"place": 697,
+"place": 694,
 "text": "",
 "type": "Death"
 }
@@ -5919,7 +5951,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-293
+296
 ],
 "place": 149,
 "text": "",
@@ -5934,9 +5966,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-293
+296
 ],
-"place": 426,
+"place": 425,
 "text": "",
 "type": "Death"
 }
@@ -5955,9 +5987,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-298
+301
 ],
-"place": 105,
+"place": 104,
 "text": "",
 "type": "Birth"
 },
@@ -5970,9 +6002,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-298
+301
 ],
-"place": 303,
+"place": 302,
 "text": "",
 "type": "Death"
 }
@@ -5990,7 +6022,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-302
+305
 ],
 "place": -1,
 "text": "",
@@ -6010,7 +6042,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-306
+309
 ],
 "place": 0,
 "text": "",
@@ -6025,10 +6057,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-306,
-460
+309,
+463
 ],
-"place": 44,
+"place": 43,
 "text": "",
 "type": "Residence"
 }
@@ -6043,9 +6075,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-307
+310
 ],
-"place": 334,
+"place": 333,
 "text": "",
 "type": "Birth"
 },
@@ -6058,9 +6090,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-307
+310
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Death"
 }
@@ -6075,9 +6107,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-308
+311
 ],
-"place": 97,
+"place": 96,
 "text": "",
 "type": "Birth"
 },
@@ -6090,9 +6122,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-308
+311
 ],
-"place": 97,
+"place": 96,
 "text": "",
 "type": "Death"
 }
@@ -6107,7 +6139,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-309
+312
 ],
 "place": 230,
 "text": "",
@@ -6122,9 +6154,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-309
+312
 ],
-"place": 75,
+"place": 74,
 "text": "",
 "type": "Death"
 }
@@ -6139,9 +6171,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-310
+313
 ],
-"place": 583,
+"place": 580,
 "text": "",
 "type": "Birth"
 },
@@ -6154,9 +6186,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-310
+313
 ],
-"place": 338,
+"place": 337,
 "text": "",
 "type": "Death"
 }
@@ -6171,7 +6203,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-311
+314
 ],
 "place": 230,
 "text": "",
@@ -6186,9 +6218,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-311
+314
 ],
-"place": 609,
+"place": 606,
 "text": "",
 "type": "Death"
 }
@@ -6205,7 +6237,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-314
+317
 ],
 "place": 230,
 "text": "",
@@ -6220,7 +6252,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-314
+317
 ],
 "place": 230,
 "text": "",
@@ -6237,9 +6269,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-315
+318
 ],
-"place": 298,
+"place": 297,
 "text": "",
 "type": "Death"
 }
@@ -6254,7 +6286,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-316
+319
 ],
 "place": -1,
 "text": "",
@@ -6269,7 +6301,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-316
+319
 ],
 "place": 251,
 "text": "",
@@ -6287,9 +6319,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-318
+321
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -6302,9 +6334,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-318
+321
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -6319,7 +6351,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-319
+322
 ],
 "place": 244,
 "text": "",
@@ -6334,9 +6366,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-319
+322
 ],
-"place": 42,
+"place": 41,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBroncopneumonia<br />\nHemiplyia<br />\nDiabetes Mellitis\n</p>\n</div>\n</div>",
 "type": "Death"
 },
@@ -6349,9 +6381,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-319
+322
 ],
-"place": 68,
+"place": 67,
 "text": "",
 "type": "Residence"
 }
@@ -6366,9 +6398,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-320
+323
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -6381,13 +6413,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-320,
-350,
-361,
-755,
-1204
+323,
+353,
+364,
+758,
+1207
 ],
-"place": 291,
+"place": 290,
 "text": "",
 "type": "Death"
 }
@@ -6402,7 +6434,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-321
+324
 ],
 "place": 230,
 "text": "",
@@ -6417,9 +6449,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-321
+324
 ],
-"place": 583,
+"place": 580,
 "text": "",
 "type": "Death"
 }
@@ -6434,7 +6466,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-322
+325
 ],
 "place": 230,
 "text": "",
@@ -6449,7 +6481,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-322
+325
 ],
 "place": 230,
 "text": "",
@@ -6464,9 +6496,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-322
+325
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Baptism"
 }
@@ -6481,9 +6513,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-323
+326
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -6496,9 +6528,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-323
+326
 ],
-"place": 197,
+"place": 196,
 "text": "",
 "type": "Death"
 }
@@ -6513,9 +6545,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-324
+327
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -6528,9 +6560,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-324
+327
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -6545,9 +6577,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-325
+328
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -6560,9 +6592,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-325
+328
 ],
-"place": 707,
+"place": 703,
 "text": "",
 "type": "Death"
 }
@@ -6577,9 +6609,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-326
+329
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 }
@@ -6594,9 +6626,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-327
+330
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 }
@@ -6611,7 +6643,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-328
+331
 ],
 "place": 364,
 "text": "",
@@ -6626,9 +6658,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-328
+331
 ],
-"place": 316,
+"place": 315,
 "text": "",
 "type": "Death"
 }
@@ -6643,7 +6675,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-329
+332
 ],
 "place": 230,
 "text": "",
@@ -6658,7 +6690,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-329
+332
 ],
 "place": 155,
 "text": "",
@@ -6675,9 +6707,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-330
+333
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -6693,7 +6725,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-332
+335
 ],
 "place": 230,
 "text": "",
@@ -6710,7 +6742,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-333
+336
 ],
 "place": 230,
 "text": "",
@@ -6725,9 +6757,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-333
+336
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -6742,9 +6774,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-334
+337
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -6759,9 +6791,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-335
+338
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -6776,9 +6808,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-336
+339
 ],
-"place": 621,
+"place": 618,
 "text": "",
 "type": "Birth"
 }
@@ -6793,7 +6825,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-337
+340
 ],
 "place": 364,
 "text": "",
@@ -6808,9 +6840,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-337
+340
 ],
-"place": 639,
+"place": 636,
 "text": "",
 "type": "Death"
 }
@@ -6825,7 +6857,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338
+341
 ],
 "place": 364,
 "text": "",
@@ -6840,7 +6872,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-338
+341
 ],
 "place": 251,
 "text": "",
@@ -6857,9 +6889,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-339
+342
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -6872,9 +6904,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-339
+342
 ],
-"place": 544,
+"place": 541,
 "text": "",
 "type": "Death"
 }
@@ -6889,7 +6921,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-340
+343
 ],
 "place": 230,
 "text": "",
@@ -6904,9 +6936,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-340
+343
 ],
-"place": 119,
+"place": 118,
 "text": "",
 "type": "Death"
 }
@@ -6921,7 +6953,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-341
+344
 ],
 "place": 230,
 "text": "",
@@ -6936,9 +6968,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-341
+344
 ],
-"place": 190,
+"place": 189,
 "text": "",
 "type": "Death"
 }
@@ -6953,9 +6985,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-342
+345
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -6968,9 +7000,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-342
+345
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Death"
 }
@@ -6985,7 +7017,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-343
+346
 ],
 "place": 230,
 "text": "",
@@ -7000,30 +7032,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-343
+346
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1867",
-"date_sdn": 2402968,
-"descr": "",
-"gid": "E3373",
-"media": [],
-"part_family": [],
-"part_person": [
-344
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -7034,7 +7050,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-345
+348
 ],
 "place": 230,
 "text": "",
@@ -7049,7 +7065,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-345
+348
 ],
 "place": 235,
 "text": "",
@@ -7066,7 +7082,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-346
+349
 ],
 "place": 230,
 "text": "",
@@ -7081,9 +7097,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-346
+349
 ],
-"place": 50,
+"place": 49,
 "text": "",
 "type": "Death"
 }
@@ -7098,9 +7114,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-347
+350
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -7113,9 +7129,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-347
+350
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -7130,9 +7146,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-348
+351
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -7147,9 +7163,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-349
+352
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -7162,9 +7178,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-349
+352
 ],
-"place": 60,
+"place": 59,
 "text": "",
 "type": "Death"
 }
@@ -7179,9 +7195,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-350
+353
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -7194,13 +7210,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-320,
-350,
-361,
-755,
-1204
+323,
+353,
+364,
+758,
+1207
 ],
-"place": 291,
+"place": 290,
 "text": "",
 "type": "Death"
 }
@@ -7215,9 +7231,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-351
+354
 ],
-"place": 582,
+"place": 579,
 "text": "",
 "type": "Birth"
 },
@@ -7230,9 +7246,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-351
+354
 ],
-"place": 545,
+"place": 542,
 "text": "",
 "type": "Death"
 }
@@ -7247,9 +7263,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-352
+355
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Baptism"
 },
@@ -7262,9 +7278,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-352
+355
 ],
-"place": 486,
+"place": 483,
 "text": "",
 "type": "Death"
 }
@@ -7279,7 +7295,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353
+356
 ],
 "place": 230,
 "text": "",
@@ -7294,9 +7310,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-353
+356
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -7311,7 +7327,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-354
+357
 ],
 "place": -1,
 "text": "",
@@ -7328,7 +7344,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-355
+358
 ],
 "place": -1,
 "text": "",
@@ -7343,7 +7359,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-355
+358
 ],
 "place": -1,
 "text": "",
@@ -7360,7 +7376,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-356
+359
 ],
 "place": 230,
 "text": "",
@@ -7377,9 +7393,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-357
+360
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -7392,9 +7408,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-357
+360
 ],
-"place": 271,
+"place": 270,
 "text": "",
 "type": "Death"
 }
@@ -7409,9 +7425,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-358
+361
 ],
-"place": 545,
+"place": 542,
 "text": "",
 "type": "Birth"
 },
@@ -7424,9 +7440,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-358
+361
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -7441,7 +7457,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-359
+362
 ],
 "place": 230,
 "text": "",
@@ -7456,7 +7472,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-359
+362
 ],
 "place": 230,
 "text": "",
@@ -7473,7 +7489,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-360
+363
 ],
 "place": 230,
 "text": "",
@@ -7488,7 +7504,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-360
+363
 ],
 "place": 230,
 "text": "",
@@ -7505,7 +7521,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-361
+364
 ],
 "place": 230,
 "text": "",
@@ -7520,13 +7536,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-320,
-350,
-361,
-755,
-1204
+323,
+353,
+364,
+758,
+1207
 ],
-"place": 291,
+"place": 290,
 "text": "",
 "type": "Death"
 }
@@ -7541,7 +7557,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-362
+365
 ],
 "place": 251,
 "text": "",
@@ -7556,9 +7572,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-362
+365
 ],
-"place": 490,
+"place": 487,
 "text": "",
 "type": "Death"
 }
@@ -7573,9 +7589,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-363
+366
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -7590,9 +7606,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-364
+367
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -7605,9 +7621,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-364
+367
 ],
-"place": 121,
+"place": 120,
 "text": "",
 "type": "Death"
 }
@@ -7622,7 +7638,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-365
+368
 ],
 "place": 364,
 "text": "",
@@ -7637,9 +7653,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-365
+368
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -7654,7 +7670,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366
+369
 ],
 "place": 230,
 "text": "",
@@ -7669,9 +7685,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-366
+369
 ],
-"place": 490,
+"place": 487,
 "text": "",
 "type": "Death"
 }
@@ -7686,9 +7702,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-367
+370
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -7701,9 +7717,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-367
+370
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -7718,7 +7734,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-368
+371
 ],
 "place": 230,
 "text": "",
@@ -7733,9 +7749,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-368
+371
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -7750,9 +7766,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-369
+372
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -7765,9 +7781,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-369
+372
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -7783,7 +7799,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371
+374
 ],
 "place": 227,
 "text": "",
@@ -7798,7 +7814,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-371
+374
 ],
 "place": 227,
 "text": "",
@@ -7815,7 +7831,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-372
+375
 ],
 "place": 230,
 "text": "",
@@ -7830,7 +7846,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-372
+375
 ],
 "place": 230,
 "text": "",
@@ -7847,7 +7863,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-373
+376
 ],
 "place": 230,
 "text": "",
@@ -7862,9 +7878,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-373
+376
 ],
-"place": 125,
+"place": 124,
 "text": "",
 "type": "Death"
 }
@@ -7879,7 +7895,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-374
+377
 ],
 "place": 230,
 "text": "",
@@ -7897,7 +7913,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-376
+379
 ],
 "place": 235,
 "text": "",
@@ -7912,9 +7928,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-376
+379
 ],
-"place": 708,
+"place": 704,
 "text": "",
 "type": "Death"
 }
@@ -7929,7 +7945,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-377
+380
 ],
 "place": -1,
 "text": "",
@@ -7944,9 +7960,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-377
+380
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -7961,9 +7977,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-378
+381
 ],
-"place": 272,
+"place": 271,
 "text": "",
 "type": "Birth"
 },
@@ -7976,7 +7992,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-378
+381
 ],
 "place": 129,
 "text": "",
@@ -7993,9 +8009,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-379
+382
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -8008,9 +8024,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-379
+382
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -8025,9 +8041,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-380
+383
 ],
-"place": 90,
+"place": 89,
 "text": "",
 "type": "Birth"
 }
@@ -8042,7 +8058,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-381
+384
 ],
 "place": 230,
 "text": "",
@@ -8057,9 +8073,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-381
+384
 ],
-"place": 515,
+"place": 513,
 "text": "",
 "type": "Death"
 }
@@ -8074,9 +8090,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-382
+385
 ],
-"place": 269,
+"place": 268,
 "text": "",
 "type": "Birth"
 },
@@ -8089,9 +8105,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-382
+385
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -8106,7 +8122,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-383
+386
 ],
 "place": -1,
 "text": "",
@@ -8123,9 +8139,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-384
+387
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 }
@@ -8140,9 +8156,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-385
+388
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 }
@@ -8157,9 +8173,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-386
+389
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -8172,9 +8188,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-386
+389
 ],
-"place": 97,
+"place": 96,
 "text": "",
 "type": "Death"
 }
@@ -8189,9 +8205,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-387
+390
 ],
-"place": 306,
+"place": 305,
 "text": "",
 "type": "Birth"
 },
@@ -8204,7 +8220,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-387
+390
 ],
 "place": -1,
 "text": "",
@@ -8222,9 +8238,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-389
+392
 ],
-"place": 583,
+"place": 580,
 "text": "",
 "type": "Birth"
 },
@@ -8237,7 +8253,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-389
+392
 ],
 "place": 235,
 "text": "",
@@ -8254,7 +8270,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-390
+393
 ],
 "place": -1,
 "text": "",
@@ -8272,9 +8288,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-392
+395
 ],
-"place": 192,
+"place": 191,
 "text": "",
 "type": "Birth"
 },
@@ -8287,9 +8303,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-392
+395
 ],
-"place": 645,
+"place": 641,
 "text": "",
 "type": "Death"
 }
@@ -8304,9 +8320,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-393
+396
 ],
-"place": 347,
+"place": 346,
 "text": "",
 "type": "Birth"
 },
@@ -8319,7 +8335,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-393
+396
 ],
 "place": 165,
 "text": "",
@@ -8336,9 +8352,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-394
+397
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -8351,9 +8367,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-394
+397
 ],
-"place": 678,
+"place": 674,
 "text": "",
 "type": "Death"
 }
@@ -8368,9 +8384,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-395
+398
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 },
@@ -8383,7 +8399,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-395
+398
 ],
 "place": 230,
 "text": "",
@@ -8400,9 +8416,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-396
+399
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 },
@@ -8415,7 +8431,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-396
+399
 ],
 "place": 227,
 "text": "",
@@ -8430,9 +8446,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-396
+399
 ],
-"place": 661,
+"place": 657,
 "text": "",
 "type": "Baptism"
 }
@@ -8447,9 +8463,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-397
+400
 ],
-"place": 652,
+"place": 648,
 "text": "",
 "type": "Birth"
 },
@@ -8462,7 +8478,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-397
+400
 ],
 "place": 235,
 "text": "",
@@ -8479,9 +8495,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-398
+401
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -8494,9 +8510,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-398
+401
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -8511,9 +8527,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-399
+402
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -8528,7 +8544,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-400
+403
 ],
 "place": -1,
 "text": "",
@@ -8545,7 +8561,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-401
+404
 ],
 "place": 230,
 "text": "",
@@ -8560,9 +8576,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-401
+404
 ],
-"place": 192,
+"place": 191,
 "text": "",
 "type": "Death"
 }
@@ -8577,7 +8593,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-402
+405
 ],
 "place": 251,
 "text": "",
@@ -8592,9 +8608,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-402
+405
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -8610,7 +8626,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-404
+407
 ],
 "place": 227,
 "text": "",
@@ -8625,9 +8641,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-404
+407
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Death"
 }
@@ -8642,9 +8658,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-405
+408
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 }
@@ -8659,9 +8675,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-406
+409
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 }
@@ -8676,9 +8692,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-407
+410
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 }
@@ -8693,9 +8709,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-408
+411
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -8708,9 +8724,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-408
+411
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Death"
 }
@@ -8726,7 +8742,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-410
+413
 ],
 "place": 230,
 "text": "",
@@ -8741,7 +8757,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-410
+413
 ],
 "place": 230,
 "text": "",
@@ -8758,9 +8774,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-411
+414
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -8775,7 +8791,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-412
+415
 ],
 "place": 230,
 "text": "",
@@ -8790,7 +8806,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-412
+415
 ],
 "place": 251,
 "text": "",
@@ -8807,9 +8823,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-413
+416
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 },
@@ -8822,9 +8838,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-413
+416
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Death"
 }
@@ -8839,7 +8855,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-414
+417
 ],
 "place": 230,
 "text": "",
@@ -8854,9 +8870,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-414
+417
 ],
-"place": 305,
+"place": 304,
 "text": "",
 "type": "Death"
 }
@@ -8871,7 +8887,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-415
+418
 ],
 "place": 230,
 "text": "",
@@ -8888,7 +8904,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-416
+419
 ],
 "place": 230,
 "text": "",
@@ -8903,9 +8919,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-416
+419
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -8920,7 +8936,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-417
+420
 ],
 "place": 230,
 "text": "",
@@ -8935,7 +8951,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-417
+420
 ],
 "place": 230,
 "text": "",
@@ -8952,9 +8968,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-418
+421
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 }
@@ -8969,9 +8985,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-419
+422
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Birth"
 },
@@ -8984,9 +9000,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-419
+422
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Death"
 }
@@ -9001,9 +9017,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-420
+423
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -9016,9 +9032,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-420
+423
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -9033,7 +9049,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-421
+424
 ],
 "place": 230,
 "text": "",
@@ -9048,7 +9064,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-421
+424
 ],
 "place": 252,
 "text": "",
@@ -9065,9 +9081,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-422
+425
 ],
-"place": 582,
+"place": 579,
 "text": "",
 "type": "Birth"
 },
@@ -9080,7 +9096,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-422
+425
 ],
 "place": -1,
 "text": "",
@@ -9097,9 +9113,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-423
+426
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -9112,9 +9128,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-423
+426
 ],
-"place": 678,
+"place": 674,
 "text": "",
 "type": "Death"
 }
@@ -9131,7 +9147,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426
+429
 ],
 "place": -1,
 "text": "",
@@ -9146,7 +9162,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-426
+429
 ],
 "place": -1,
 "text": "",
@@ -9163,9 +9179,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-427
+430
 ],
-"place": 189,
+"place": 188,
 "text": "",
 "type": "Birth"
 },
@@ -9178,7 +9194,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-427
+430
 ],
 "place": 376,
 "text": "",
@@ -9195,7 +9211,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-428
+431
 ],
 "place": 167,
 "text": "",
@@ -9212,9 +9228,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-429
+432
 ],
-"place": 394,
+"place": 393,
 "text": "",
 "type": "Birth"
 }
@@ -9229,9 +9245,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-430
+433
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -9246,7 +9262,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-431
+434
 ],
 "place": 167,
 "text": "",
@@ -9263,7 +9279,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-432
+435
 ],
 "place": 167,
 "text": "",
@@ -9280,9 +9296,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-433
+436
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Birth"
 },
@@ -9295,9 +9311,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-433
+436
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -9312,9 +9328,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-434
+437
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Birth"
 }
@@ -9329,7 +9345,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-435
+438
 ],
 "place": -1,
 "text": "",
@@ -9344,9 +9360,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-435
+438
 ],
-"place": 392,
+"place": 391,
 "text": "",
 "type": "Death"
 }
@@ -9361,7 +9377,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-436
+439
 ],
 "place": -1,
 "text": "",
@@ -9376,9 +9392,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-436
+439
 ],
-"place": 490,
+"place": 487,
 "text": "",
 "type": "Death"
 }
@@ -9394,7 +9410,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-438
+441
 ],
 "place": 167,
 "text": "",
@@ -9412,7 +9428,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-440
+443
 ],
 "place": -1,
 "text": "",
@@ -9427,7 +9443,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-440
+443
 ],
 "place": -1,
 "text": "",
@@ -9444,9 +9460,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-441
+444
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -9459,9 +9475,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-441
+444
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Death"
 }
@@ -9476,9 +9492,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-442
+445
 ],
-"place": 350,
+"place": 349,
 "text": "",
 "type": "Birth"
 },
@@ -9491,7 +9507,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-442
+445
 ],
 "place": 369,
 "text": "",
@@ -9508,9 +9524,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-443
+446
 ],
-"place": 670,
+"place": 666,
 "text": "",
 "type": "Birth"
 },
@@ -9523,9 +9539,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-443
+446
 ],
-"place": 670,
+"place": 666,
 "text": "",
 "type": "Death"
 }
@@ -9540,9 +9556,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-444
+447
 ],
-"place": 670,
+"place": 666,
 "text": "",
 "type": "Birth"
 },
@@ -9555,7 +9571,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-444
+447
 ],
 "place": 369,
 "text": "",
@@ -9573,7 +9589,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-446
+449
 ],
 "place": 369,
 "text": "",
@@ -9588,7 +9604,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-446
+449
 ],
 "place": 369,
 "text": "",
@@ -9603,9 +9619,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-446
+449
 ],
-"place": 616,
+"place": 613,
 "text": "",
 "type": "Baptism"
 }
@@ -9620,9 +9636,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-447
+450
 ],
-"place": 422,
+"place": 421,
 "text": "",
 "type": "Birth"
 }
@@ -9637,9 +9653,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-448
+451
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -9654,7 +9670,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-449
+452
 ],
 "place": 176,
 "text": "",
@@ -9671,9 +9687,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-450
+453
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -9688,9 +9704,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-451
+454
 ],
-"place": 448,
+"place": 447,
 "text": "",
 "type": "Birth"
 }
@@ -9705,7 +9721,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-452
+455
 ],
 "place": -1,
 "text": "",
@@ -9720,7 +9736,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-452
+455
 ],
 "place": -1,
 "text": "",
@@ -9737,7 +9753,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-453
+456
 ],
 "place": 0,
 "text": "",
@@ -9754,7 +9770,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-454
+457
 ],
 "place": 0,
 "text": "",
@@ -9771,9 +9787,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-455
+458
 ],
-"place": 44,
+"place": 43,
 "text": "",
 "type": "Birth"
 }
@@ -9788,7 +9804,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-456
+459
 ],
 "place": 0,
 "text": "",
@@ -9805,7 +9821,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-457
+460
 ],
 "place": 0,
 "text": "",
@@ -9822,7 +9838,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-458
+461
 ],
 "place": 0,
 "text": "",
@@ -9839,7 +9855,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-459
+462
 ],
 "place": 0,
 "text": "",
@@ -9856,7 +9872,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-460
+463
 ],
 "place": 0,
 "text": "",
@@ -9871,9 +9887,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-460
+463
 ],
-"place": 437,
+"place": 436,
 "text": "",
 "type": "Death"
 },
@@ -9886,46 +9902,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-306,
-460
+309,
+463
 ],
-"place": 44,
+"place": 43,
 "text": "",
 "type": "Residence"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1903",
-"date_sdn": 2416116,
-"descr": "",
-"gid": "E0269",
-"media": [],
-"part_family": [],
-"part_person": [
-461
-],
-"place": 0,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "1881",
-"date_sdn": 2408082,
-"descr": "",
-"gid": "E3043",
-"media": [],
-"part_family": [],
-"part_person": [
-461
-],
-"place": 24,
-"text": "",
-"type": "Residence"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -9936,7 +9921,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-462
+465
 ],
 "place": 0,
 "text": "",
@@ -9953,9 +9938,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-463
+466
 ],
-"place": 469,
+"place": 468,
 "text": "",
 "type": "Birth"
 },
@@ -9968,7 +9953,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-463
+466
 ],
 "place": 139,
 "text": "",
@@ -9986,9 +9971,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-465
+468
 ],
-"place": 600,
+"place": 597,
 "text": "",
 "type": "Birth"
 },
@@ -10001,7 +9986,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-465
+468
 ],
 "place": 171,
 "text": "",
@@ -10019,9 +10004,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-467
+470
 ],
-"place": 600,
+"place": 597,
 "text": "",
 "type": "Birth"
 }
@@ -10036,7 +10021,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-468
+471
 ],
 "place": 251,
 "text": "",
@@ -10051,9 +10036,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-468
+471
 ],
-"place": 600,
+"place": 597,
 "text": "",
 "type": "Death"
 }
@@ -10068,7 +10053,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-469
+472
 ],
 "place": 251,
 "text": "",
@@ -10083,9 +10068,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-469
+472
 ],
-"place": 600,
+"place": 597,
 "text": "",
 "type": "Death"
 }
@@ -10100,7 +10085,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-470
+473
 ],
 "place": -1,
 "text": "",
@@ -10115,9 +10100,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-470
+473
 ],
-"place": 600,
+"place": 597,
 "text": "",
 "type": "Death"
 }
@@ -10132,9 +10117,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-471
+474
 ],
-"place": 600,
+"place": 597,
 "text": "",
 "type": "Birth"
 },
@@ -10147,9 +10132,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-471
+474
 ],
-"place": 600,
+"place": 597,
 "text": "",
 "type": "Death"
 }
@@ -10164,7 +10149,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-472
+475
 ],
 "place": 228,
 "text": "",
@@ -10179,9 +10164,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-472
+475
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -10196,9 +10181,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-473
+476
 ],
-"place": 692,
+"place": 689,
 "text": "",
 "type": "Birth"
 },
@@ -10211,30 +10196,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-473
+476
 ],
-"place": 296,
+"place": 295,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1900",
-"date_sdn": 2415021,
-"descr": "",
-"gid": "E2218",
-"media": [],
-"part_family": [],
-"part_person": [
-474
-],
-"place": 424,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -10245,9 +10214,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-475
+478
 ],
-"place": 692,
+"place": 689,
 "text": "",
 "type": "Birth"
 }
@@ -10262,9 +10231,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-476
+479
 ],
-"place": 692,
+"place": 689,
 "text": "",
 "type": "Birth"
 },
@@ -10277,9 +10246,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-476
+479
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -10294,7 +10263,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-477
+480
 ],
 "place": 169,
 "text": "",
@@ -10309,9 +10278,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-477
+480
 ],
-"place": 563,
+"place": 560,
 "text": "",
 "type": "Death"
 }
@@ -10326,9 +10295,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-478
+481
 ],
-"place": 337,
+"place": 336,
 "text": "",
 "type": "Birth"
 },
@@ -10341,7 +10310,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-478
+481
 ],
 "place": 151,
 "text": "",
@@ -10358,9 +10327,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-479
+482
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Birth"
 },
@@ -10373,9 +10342,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-479
+482
 ],
-"place": 700,
+"place": 697,
 "text": "",
 "type": "Death"
 }
@@ -10390,9 +10359,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-480
+483
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -10405,9 +10374,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-480
+483
 ],
-"place": 715,
+"place": 711,
 "text": "",
 "type": "Death"
 }
@@ -10422,7 +10391,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-481
+484
 ],
 "place": 6,
 "text": "",
@@ -10437,7 +10406,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-481
+484
 ],
 "place": 16,
 "text": "",
@@ -10452,9 +10421,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-481
+484
 ],
-"place": 313,
+"place": 312,
 "text": "",
 "type": "Burial"
 },
@@ -10467,7 +10436,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-481
+484
 ],
 "place": 8,
 "text": "",
@@ -10482,9 +10451,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-481
+484
 ],
-"place": 78,
+"place": 77,
 "text": "",
 "type": "Residence"
 }
@@ -10499,9 +10468,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-482
+485
 ],
-"place": 103,
+"place": 102,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\ntraveller\n</p>\n</div>\n</div>",
 "type": "Birth"
 },
@@ -10514,9 +10483,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-482
+485
 ],
-"place": 714,
+"place": 710,
 "text": "",
 "type": "Death"
 }
@@ -10531,9 +10500,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-483
+486
 ],
-"place": 436,
+"place": 435,
 "text": "",
 "type": "Birth"
 }
@@ -10548,9 +10517,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-484
+487
 ],
-"place": 218,
+"place": 217,
 "text": "",
 "type": "Birth"
 },
@@ -10563,9 +10532,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-484
+487
 ],
-"place": 601,
+"place": 598,
 "text": "",
 "type": "Burial"
 }
@@ -10580,9 +10549,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-485
+488
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 }
@@ -10597,9 +10566,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-486
+489
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Birth"
 }
@@ -10614,7 +10583,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-487
+490
 ],
 "place": -1,
 "text": "",
@@ -10631,7 +10600,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-488
+491
 ],
 "place": -1,
 "text": "",
@@ -10646,9 +10615,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-488
+491
 ],
-"place": 601,
+"place": 598,
 "text": "",
 "type": "Burial"
 }
@@ -10663,7 +10632,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-489
+492
 ],
 "place": -1,
 "text": "",
@@ -10678,7 +10647,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-489
+492
 ],
 "place": -1,
 "text": "",
@@ -10695,7 +10664,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-490
+493
 ],
 "place": -1,
 "text": "",
@@ -10712,9 +10681,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-491
+494
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 }
@@ -10729,9 +10698,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-492
+495
 ],
-"place": 218,
+"place": 217,
 "text": "",
 "type": "Birth"
 }
@@ -10746,9 +10715,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-493
+496
 ],
-"place": 436,
+"place": 435,
 "text": "",
 "type": "Birth"
 },
@@ -10761,9 +10730,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-493
+496
 ],
-"place": 484,
+"place": 482,
 "text": "",
 "type": "Marriage"
 },
@@ -10776,9 +10745,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-493
+496
 ],
-"place": 452,
+"place": 451,
 "text": "",
 "type": "Death"
 },
@@ -10791,7 +10760,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-493
+496
 ],
 "place": -1,
 "text": "",
@@ -10808,9 +10777,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-494
+497
 ],
-"place": 218,
+"place": 217,
 "text": "",
 "type": "Birth"
 },
@@ -10823,7 +10792,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-494
+497
 ],
 "place": -1,
 "text": "",
@@ -10840,9 +10809,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-495
+498
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 }
@@ -10857,7 +10826,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-496
+499
 ],
 "place": -1,
 "text": "",
@@ -10872,9 +10841,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-496
+499
 ],
-"place": 601,
+"place": 598,
 "text": "",
 "type": "Burial"
 }
@@ -10889,7 +10858,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-497
+500
 ],
 "place": 159,
 "text": "",
@@ -10904,7 +10873,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-497
+500
 ],
 "place": -1,
 "text": "",
@@ -10919,7 +10888,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-497
+500
 ],
 "place": 5,
 "text": "",
@@ -10936,7 +10905,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-498
+501
 ],
 "place": -1,
 "text": "",
@@ -10944,23 +10913,7 @@ I_events_0 = [
 }
 ],
 [],
-[
-{
-"cita": [],
-"date": "about 1868",
-"date_sdn": 2403333,
-"descr": "",
-"gid": "E2711",
-"media": [],
-"part_family": [],
-"part_person": [
-500
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -10971,7 +10924,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-501
+504
 ],
 "place": -1,
 "text": "",
@@ -10986,7 +10939,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-501
+504
 ],
 "place": -1,
 "text": "",
@@ -11003,7 +10956,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502
+505
 ],
 "place": -1,
 "text": "",
@@ -11018,7 +10971,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-502
+505
 ],
 "place": -1,
 "text": "",
@@ -11035,7 +10988,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-503
+506
 ],
 "place": -1,
 "text": "",
@@ -11050,7 +11003,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-503
+506
 ],
 "place": -1,
 "text": "",
@@ -11067,7 +11020,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-504
+507
 ],
 "place": -1,
 "text": "",
@@ -11082,7 +11035,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-504
+507
 ],
 "place": -1,
 "text": "",
@@ -11099,9 +11052,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-505
+508
 ],
-"place": 637,
+"place": 634,
 "text": "",
 "type": "Birth"
 },
@@ -11114,7 +11067,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-505
+508
 ],
 "place": 170,
 "text": "",
@@ -11131,9 +11084,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-506
+509
 ],
-"place": 637,
+"place": 634,
 "text": "",
 "type": "Birth"
 }
@@ -11148,7 +11101,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-507
+510
 ],
 "place": -1,
 "text": "",
@@ -11163,7 +11116,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-507
+510
 ],
 "place": -1,
 "text": "",
@@ -11180,7 +11133,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-508
+511
 ],
 "place": -1,
 "text": "",
@@ -11195,7 +11148,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-508
+511
 ],
 "place": -1,
 "text": "",
@@ -11212,7 +11165,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-509
+512
 ],
 "place": 379,
 "text": "",
@@ -11229,7 +11182,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-510
+513
 ],
 "place": 379,
 "text": "",
@@ -11246,7 +11199,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-511
+514
 ],
 "place": 379,
 "text": "",
@@ -11263,7 +11216,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-512
+515
 ],
 "place": 379,
 "text": "",
@@ -11280,7 +11233,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-513
+516
 ],
 "place": -1,
 "text": "",
@@ -11297,7 +11250,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-514
+517
 ],
 "place": 379,
 "text": "",
@@ -11314,7 +11267,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-515
+518
 ],
 "place": 379,
 "text": "",
@@ -11329,7 +11282,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-515
+518
 ],
 "place": -1,
 "text": "",
@@ -11346,7 +11299,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-516
+519
 ],
 "place": -1,
 "text": "",
@@ -11363,7 +11316,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-517
+520
 ],
 "place": 379,
 "text": "",
@@ -11380,7 +11333,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-518
+521
 ],
 "place": 379,
 "text": "",
@@ -11397,7 +11350,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-519
+522
 ],
 "place": 379,
 "text": "",
@@ -11414,7 +11367,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-520
+523
 ],
 "place": 379,
 "text": "",
@@ -11429,7 +11382,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-520
+523
 ],
 "place": -1,
 "text": "",
@@ -11447,7 +11400,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-522
+525
 ],
 "place": 379,
 "text": "",
@@ -11462,7 +11415,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-522
+525
 ],
 "place": -1,
 "text": "",
@@ -11479,7 +11432,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-523
+526
 ],
 "place": 379,
 "text": "",
@@ -11494,7 +11447,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-523
+526
 ],
 "place": -1,
 "text": "",
@@ -11511,7 +11464,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-524
+527
 ],
 "place": 379,
 "text": "",
@@ -11526,7 +11479,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-524
+527
 ],
 "place": -1,
 "text": "",
@@ -11543,7 +11496,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-525
+528
 ],
 "place": 379,
 "text": "",
@@ -11560,9 +11513,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-526
+529
 ],
-"place": 273,
+"place": 272,
 "text": "",
 "type": "Birth"
 },
@@ -11575,9 +11528,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-526
+529
 ],
-"place": 200,
+"place": 199,
 "text": "",
 "type": "Death"
 }
@@ -11592,7 +11545,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-527
+530
 ],
 "place": -1,
 "text": "",
@@ -11607,7 +11560,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-527
+530
 ],
 "place": -1,
 "text": "",
@@ -11624,7 +11577,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-528
+531
 ],
 "place": 251,
 "text": "",
@@ -11639,7 +11592,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-528
+531
 ],
 "place": 170,
 "text": "",
@@ -11656,9 +11609,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-529
+532
 ],
-"place": 290,
+"place": 289,
 "text": "",
 "type": "Birth"
 }
@@ -11673,7 +11626,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-530
+533
 ],
 "place": 386,
 "text": "",
@@ -11690,9 +11643,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-531
+534
 ],
-"place": 524,
+"place": 521,
 "text": "",
 "type": "Birth"
 }
@@ -11707,9 +11660,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-532
+535
 ],
-"place": 421,
+"place": 420,
 "text": "",
 "type": "Birth"
 },
@@ -11722,9 +11675,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-532
+535
 ],
-"place": 530,
+"place": 527,
 "text": "",
 "type": "Death"
 }
@@ -11739,9 +11692,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-533
+536
 ],
-"place": 279,
+"place": 278,
 "text": "",
 "type": "Birth"
 }
@@ -11756,9 +11709,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-534
+537
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -11771,9 +11724,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-534
+537
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -11788,9 +11741,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-535
+538
 ],
-"place": 683,
+"place": 680,
 "text": "",
 "type": "Birth"
 },
@@ -11803,9 +11756,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-535
+538
 ],
-"place": 683,
+"place": 680,
 "text": "",
 "type": "Death"
 }
@@ -11820,7 +11773,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-536
+539
 ],
 "place": -1,
 "text": "",
@@ -11837,9 +11790,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-537
+540
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 }
@@ -11855,7 +11808,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-539
+542
 ],
 "place": -1,
 "text": "",
@@ -11870,7 +11823,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-539
+542
 ],
 "place": -1,
 "text": "",
@@ -11887,9 +11840,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-540
+543
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -11904,7 +11857,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-541
+544
 ],
 "place": -1,
 "text": "",
@@ -11921,9 +11874,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-542
+545
 ],
-"place": 306,
+"place": 305,
 "text": "",
 "type": "Birth"
 },
@@ -11936,7 +11889,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-542
+545
 ],
 "place": 251,
 "text": "",
@@ -11954,9 +11907,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-544
+547
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Birth"
 },
@@ -11969,9 +11922,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-544
+547
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Death"
 }
@@ -11986,9 +11939,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-545
+548
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Birth"
 },
@@ -12001,9 +11954,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-545
+548
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Death"
 }
@@ -12018,9 +11971,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-546
+549
 ],
-"place": 557,
+"place": 554,
 "text": "",
 "type": "Birth"
 },
@@ -12033,7 +11986,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-546
+549
 ],
 "place": -1,
 "text": "",
@@ -12050,9 +12003,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-547
+550
 ],
-"place": 557,
+"place": 554,
 "text": "",
 "type": "Birth"
 },
@@ -12065,30 +12018,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-547
+550
 ],
-"place": 557,
+"place": 554,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1876",
-"date_sdn": 2406255,
-"descr": "",
-"gid": "E2433",
-"media": [],
-"part_family": [],
-"part_person": [
-548
-],
-"place": 230,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -12099,9 +12036,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-549
+552
 ],
-"place": 621,
+"place": 618,
 "text": "",
 "type": "Birth"
 },
@@ -12114,7 +12051,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-549
+552
 ],
 "place": 230,
 "text": "",
@@ -12131,7 +12068,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-550
+553
 ],
 "place": -1,
 "text": "",
@@ -12146,7 +12083,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-550
+553
 ],
 "place": -1,
 "text": "",
@@ -12161,9 +12098,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-550
+553
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Marriage"
 }
@@ -12178,7 +12115,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-551
+554
 ],
 "place": 230,
 "text": "",
@@ -12196,7 +12133,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-553
+556
 ],
 "place": 230,
 "text": "",
@@ -12213,9 +12150,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-554
+557
 ],
-"place": 576,
+"place": 573,
 "text": "",
 "type": "Birth"
 }
@@ -12230,7 +12167,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-555
+558
 ],
 "place": 230,
 "text": "",
@@ -12247,7 +12184,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-556
+559
 ],
 "place": 230,
 "text": "",
@@ -12262,7 +12199,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-556
+559
 ],
 "place": 230,
 "text": "",
@@ -12279,9 +12216,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-557
+560
 ],
-"place": 510,
+"place": 507,
 "text": "",
 "type": "Birth"
 }
@@ -12296,7 +12233,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-558
+561
 ],
 "place": -1,
 "text": "",
@@ -12311,7 +12248,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-558
+561
 ],
 "place": -1,
 "text": "",
@@ -12328,7 +12265,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-559
+562
 ],
 "place": -1,
 "text": "",
@@ -12345,9 +12282,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-560
+563
 ],
-"place": 673,
+"place": 669,
 "text": "",
 "type": "Birth"
 },
@@ -12360,9 +12297,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-560
+563
 ],
-"place": 673,
+"place": 669,
 "text": "",
 "type": "Death"
 }
@@ -12378,9 +12315,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-562
+565
 ],
-"place": 673,
+"place": 669,
 "text": "",
 "type": "Birth"
 }
@@ -12395,9 +12332,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-563
+566
 ],
-"place": 627,
+"place": 624,
 "text": "",
 "type": "Birth"
 },
@@ -12410,9 +12347,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-563
+566
 ],
-"place": 449,
+"place": 448,
 "text": "",
 "type": "Death"
 }
@@ -12427,9 +12364,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-564
+567
 ],
-"place": 673,
+"place": 669,
 "text": "",
 "type": "Birth"
 },
@@ -12442,9 +12379,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-564
+567
 ],
-"place": 673,
+"place": 669,
 "text": "",
 "type": "Death"
 }
@@ -12459,9 +12396,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-565
+568
 ],
-"place": 540,
+"place": 537,
 "text": "",
 "type": "Birth"
 }
@@ -12476,7 +12413,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-566
+569
 ],
 "place": -1,
 "text": "",
@@ -12491,7 +12428,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-566
+569
 ],
 "place": 0,
 "text": "",
@@ -12508,9 +12445,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-567
+570
 ],
-"place": 422,
+"place": 421,
 "text": "",
 "type": "Birth"
 },
@@ -12523,7 +12460,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-567
+570
 ],
 "place": 372,
 "text": "",
@@ -12538,7 +12475,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-567
+570
 ],
 "place": -1,
 "text": "",
@@ -12555,7 +12492,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-568
+571
 ],
 "place": -1,
 "text": "",
@@ -12570,30 +12507,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-568
+571
 ],
-"place": 191,
+"place": 190,
 "text": "",
 "type": "Residence"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1876",
-"date_sdn": 2406255,
-"descr": "",
-"gid": "E2659",
-"media": [],
-"part_family": [],
-"part_person": [
-569
-],
-"place": 422,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -12604,9 +12525,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-570
+573
 ],
-"place": 412,
+"place": 411,
 "text": "",
 "type": "Birth"
 }
@@ -12621,9 +12542,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-571
+574
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -12636,9 +12557,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-571
+574
 ],
-"place": 621,
+"place": 618,
 "text": "",
 "type": "Death"
 }
@@ -12653,7 +12574,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-572
+575
 ],
 "place": 369,
 "text": "",
@@ -12668,9 +12589,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-572
+575
 ],
-"place": 670,
+"place": 666,
 "text": "",
 "type": "Death"
 }
@@ -12687,7 +12608,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-575
+578
 ],
 "place": 0,
 "text": "",
@@ -12704,9 +12625,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-576
+579
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 }
@@ -12721,7 +12642,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-577
+580
 ],
 "place": 132,
 "text": "",
@@ -12736,9 +12657,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-577
+580
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Death"
 }
@@ -12753,7 +12674,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-578
+581
 ],
 "place": 132,
 "text": "",
@@ -12768,9 +12689,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-578
+581
 ],
-"place": 689,
+"place": 686,
 "text": "",
 "type": "Death"
 }
@@ -12785,9 +12706,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-579
+582
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 }
@@ -12802,7 +12723,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-580
+583
 ],
 "place": -1,
 "text": "",
@@ -12817,7 +12738,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-580
+583
 ],
 "place": -1,
 "text": "",
@@ -12834,9 +12755,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-581
+584
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 }
@@ -12851,9 +12772,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-582
+585
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 }
@@ -12868,7 +12789,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-583
+586
 ],
 "place": 145,
 "text": "",
@@ -12885,9 +12806,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-584
+587
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Birth"
 }
@@ -12902,9 +12823,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-585
+588
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 },
@@ -12917,7 +12838,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-585
+588
 ],
 "place": -1,
 "text": "",
@@ -12934,9 +12855,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-586
+589
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 }
@@ -12951,9 +12872,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-587
+590
 ],
-"place": 682,
+"place": 679,
 "text": "",
 "type": "Birth"
 },
@@ -12966,7 +12887,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-587
+590
 ],
 "place": -1,
 "text": "",
@@ -12983,7 +12904,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-588
+591
 ],
 "place": 377,
 "text": "",
@@ -13000,7 +12921,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-589
+592
 ],
 "place": 226,
 "text": "",
@@ -13017,7 +12938,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-590
+593
 ],
 "place": 226,
 "text": "",
@@ -13034,9 +12955,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-591
+594
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 }
@@ -13053,9 +12974,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-594
+597
 ],
-"place": 669,
+"place": 665,
 "text": "",
 "type": "Birth"
 }
@@ -13070,9 +12991,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-595
+598
 ],
-"place": 317,
+"place": 316,
 "text": "",
 "type": "Birth"
 }
@@ -13087,9 +13008,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-596
+599
 ],
-"place": 317,
+"place": 316,
 "text": "",
 "type": "Birth"
 }
@@ -13104,9 +13025,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-597
+600
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -13121,9 +13042,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-598
+601
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -13138,9 +13059,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-599
+602
 ],
-"place": 319,
+"place": 318,
 "text": "",
 "type": "Birth"
 }
@@ -13155,7 +13076,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-600
+603
 ],
 "place": -1,
 "text": "",
@@ -13172,9 +13093,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-601
+604
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -13189,9 +13110,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-602
+605
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -13206,9 +13127,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-603
+606
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -13223,9 +13144,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-604
+607
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -13240,9 +13161,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-605
+608
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -13257,7 +13178,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-606
+609
 ],
 "place": -1,
 "text": "",
@@ -13272,7 +13193,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-606
+609
 ],
 "place": -1,
 "text": "",
@@ -13289,9 +13210,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-607
+610
 ],
-"place": 395,
+"place": 394,
 "text": "",
 "type": "Birth"
 },
@@ -13304,9 +13225,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-607
+610
 ],
-"place": 184,
+"place": 183,
 "text": "",
 "type": "Death"
 }
@@ -13321,7 +13242,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-608
+611
 ],
 "place": 241,
 "text": "",
@@ -13336,9 +13257,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-608
+611
 ],
-"place": 627,
+"place": 624,
 "text": "",
 "type": "Death"
 }
@@ -13353,7 +13274,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-609
+612
 ],
 "place": 241,
 "text": "",
@@ -13370,9 +13291,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-610
+613
 ],
-"place": 451,
+"place": 450,
 "text": "",
 "type": "Birth"
 },
@@ -13385,9 +13306,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-610
+613
 ],
-"place": 278,
+"place": 277,
 "text": "",
 "type": "Death"
 }
@@ -13402,9 +13323,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-611
+614
 ],
-"place": 451,
+"place": 450,
 "text": "",
 "type": "Birth"
 }
@@ -13419,9 +13340,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-612
+615
 ],
-"place": 451,
+"place": 450,
 "text": "",
 "type": "Birth"
 },
@@ -13434,9 +13355,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-612
+615
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -13451,9 +13372,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-613
+616
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Birth"
 }
@@ -13468,9 +13389,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-614
+617
 ],
-"place": 640,
+"place": 637,
 "text": "",
 "type": "Birth"
 },
@@ -13483,9 +13404,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-614
+617
 ],
-"place": 450,
+"place": 449,
 "text": "",
 "type": "Death"
 },
@@ -13498,9 +13419,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-614
+617
 ],
-"place": 446,
+"place": 445,
 "text": "",
 "type": "Residence"
 }
@@ -13515,9 +13436,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-615
+618
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Birth"
 },
@@ -13530,9 +13451,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-615
+618
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -13547,9 +13468,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-616
+619
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Birth"
 },
@@ -13562,9 +13483,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-616
+619
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -13579,9 +13500,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-617
+620
 ],
-"place": 451,
+"place": 450,
 "text": "",
 "type": "Birth"
 },
@@ -13594,9 +13515,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-617
+620
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Death"
 }
@@ -13611,9 +13532,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-618
+621
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -13626,9 +13547,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-618
+621
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -13643,7 +13564,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-619
+622
 ],
 "place": -1,
 "text": "",
@@ -13658,7 +13579,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-619
+622
 ],
 "place": -1,
 "text": "",
@@ -13675,7 +13596,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-620
+623
 ],
 "place": 249,
 "text": "",
@@ -13690,7 +13611,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-620
+623
 ],
 "place": -1,
 "text": "",
@@ -13705,7 +13626,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-620
+623
 ],
 "place": 248,
 "text": "",
@@ -13723,9 +13644,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-622
+625
 ],
-"place": 568,
+"place": 565,
 "text": "",
 "type": "Birth"
 },
@@ -13738,9 +13659,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-622
+625
 ],
-"place": 432,
+"place": 431,
 "text": "",
 "type": "Death"
 }
@@ -13755,9 +13676,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-623
+626
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Death"
 }
@@ -13772,9 +13693,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-624
+627
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -13787,9 +13708,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-624
+627
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Death"
 }
@@ -13804,9 +13725,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-625
+628
 ],
-"place": 279,
+"place": 278,
 "text": "",
 "type": "Birth"
 },
@@ -13819,7 +13740,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-625
+628
 ],
 "place": -1,
 "text": "",
@@ -13836,9 +13757,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-626
+629
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -13851,9 +13772,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-626
+629
 ],
-"place": 300,
+"place": 299,
 "text": "",
 "type": "Death"
 }
@@ -13868,9 +13789,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-627
+630
 ],
-"place": 666,
+"place": 662,
 "text": "",
 "type": "Birth"
 },
@@ -13883,9 +13804,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-627
+630
 ],
-"place": 666,
+"place": 662,
 "text": "",
 "type": "Death"
 }
@@ -13900,9 +13821,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-628
+631
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 }
@@ -13917,9 +13838,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-629
+632
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -13932,9 +13853,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-629
+632
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -13949,9 +13870,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-630
+633
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -13964,9 +13885,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-630
+633
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -13981,9 +13902,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-631
+634
 ],
-"place": 666,
+"place": 662,
 "text": "",
 "type": "Birth"
 },
@@ -13996,9 +13917,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-631
+634
 ],
-"place": 392,
+"place": 391,
 "text": "",
 "type": "Death"
 }
@@ -14013,9 +13934,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-632
+635
 ],
-"place": 120,
+"place": 119,
 "text": "",
 "type": "Birth"
 },
@@ -14028,9 +13949,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-632
+635
 ],
-"place": 328,
+"place": 327,
 "text": "",
 "type": "Death"
 }
@@ -14045,9 +13966,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-633
+636
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -14060,9 +13981,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-633
+636
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -14077,9 +13998,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-634
+637
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -14092,9 +14013,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-634
+637
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Death"
 }
@@ -14109,9 +14030,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-635
+638
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -14124,9 +14045,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-635
+638
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -14141,7 +14062,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-636
+639
 ],
 "place": 262,
 "text": "",
@@ -14156,9 +14077,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-636
+639
 ],
-"place": 393,
+"place": 392,
 "text": "",
 "type": "Death"
 },
@@ -14171,9 +14092,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-636
+639
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Baptism"
 },
@@ -14186,7 +14107,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-636
+639
 ],
 "place": 10,
 "text": "",
@@ -14201,7 +14122,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-636
+639
 ],
 "place": 11,
 "text": "",
@@ -14218,9 +14139,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-637
+640
 ],
-"place": 300,
+"place": 299,
 "text": "",
 "type": "Birth"
 }
@@ -14235,9 +14156,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-638
+641
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -14250,9 +14171,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-638
+641
 ],
-"place": 279,
+"place": 278,
 "text": "",
 "type": "Death"
 }
@@ -14267,9 +14188,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-639
+642
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -14282,9 +14203,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-639
+642
 ],
-"place": 408,
+"place": 407,
 "text": "",
 "type": "Death"
 }
@@ -14299,9 +14220,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-640
+643
 ],
-"place": 668,
+"place": 664,
 "text": "",
 "type": "Birth"
 },
@@ -14314,9 +14235,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-640
+643
 ],
-"place": 668,
+"place": 664,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBreast Cancer\n</p>\n</div>\n</div>",
 "type": "Death"
 }
@@ -14331,9 +14252,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-641
+644
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -14346,9 +14267,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-641
+644
 ],
-"place": 668,
+"place": 664,
 "text": "",
 "type": "Death"
 }
@@ -14363,9 +14284,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-642
+645
 ],
-"place": 666,
+"place": 662,
 "text": "",
 "type": "Birth"
 },
@@ -14378,9 +14299,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-642
+645
 ],
-"place": 666,
+"place": 662,
 "text": "",
 "type": "Death"
 }
@@ -14395,9 +14316,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-643
+646
 ],
-"place": 300,
+"place": 299,
 "text": "",
 "type": "Birth"
 }
@@ -14412,9 +14333,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-644
+647
 ],
-"place": 120,
+"place": 119,
 "text": "",
 "type": "Birth"
 },
@@ -14427,9 +14348,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-644
+647
 ],
-"place": 328,
+"place": 327,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDied in a children's hospital\n</p>\n</div>\n</div>",
 "type": "Death"
 }
@@ -14444,9 +14365,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-645
+648
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -14459,7 +14380,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-645
+648
 ],
 "place": 225,
 "text": "",
@@ -14474,9 +14395,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-645
+648
 ],
-"place": 201,
+"place": 200,
 "text": "",
 "type": "Residence"
 }
@@ -14492,9 +14413,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-647
+650
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -14507,9 +14428,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-647
+650
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -14524,7 +14445,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-648
+651
 ],
 "place": -1,
 "text": "",
@@ -14541,9 +14462,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-649
+652
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -14556,9 +14477,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-649
+652
 ],
-"place": 650,
+"place": 646,
 "text": "",
 "type": "Death"
 }
@@ -14573,9 +14494,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-650
+653
 ],
-"place": 354,
+"place": 353,
 "text": "",
 "type": "Birth"
 },
@@ -14588,9 +14509,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-650
+653
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -14605,9 +14526,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-651
+654
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -14620,9 +14541,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-651
+654
 ],
-"place": 624,
+"place": 621,
 "text": "",
 "type": "Death"
 },
@@ -14635,9 +14556,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-651
+654
 ],
-"place": 34,
+"place": 33,
 "text": "",
 "type": "Residence"
 }
@@ -14652,9 +14573,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-652
+655
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -14667,9 +14588,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-652
+655
 ],
-"place": 473,
+"place": 471,
 "text": "",
 "type": "Death"
 }
@@ -14684,9 +14605,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-653
+656
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -14701,7 +14622,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-654
+657
 ],
 "place": 180,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nGRO<br />\nVol 01D<br />\nPage 884\n</p>\n</div>\n</div>",
@@ -14716,7 +14637,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-654
+657
 ],
 "place": 11,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nChronic nephritis following diptheria 3 years ago.\n</p>\n</div>\n</div>",
@@ -14731,7 +14652,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-654
+657
 ],
 "place": 179,
 "text": "",
@@ -14746,9 +14667,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-654
+657
 ],
-"place": 34,
+"place": 33,
 "text": "",
 "type": "Residence"
 }
@@ -14763,9 +14684,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-655
+658
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 }
@@ -14780,9 +14701,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-656
+659
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -14795,9 +14716,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-656
+659
 ],
-"place": 668,
+"place": 664,
 "text": "",
 "type": "Death"
 },
@@ -14810,9 +14731,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-656
+659
 ],
-"place": 76,
+"place": 75,
 "text": "",
 "type": "Residence"
 },
@@ -14825,7 +14746,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-656
+659
 ],
 "place": 243,
 "text": "",
@@ -14840,7 +14761,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-656
+659
 ],
 "place": 4,
 "text": "",
@@ -14857,9 +14778,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-657
+660
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -14872,9 +14793,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-657
+660
 ],
-"place": 392,
+"place": 391,
 "text": "",
 "type": "Death"
 }
@@ -14889,9 +14810,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-658
+661
 ],
-"place": 321,
+"place": 320,
 "text": "",
 "type": "Birth"
 },
@@ -14904,9 +14825,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-658
+661
 ],
-"place": 668,
+"place": 664,
 "text": "",
 "type": "Death"
 }
@@ -14921,9 +14842,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-659
+662
 ],
-"place": 666,
+"place": 662,
 "text": "",
 "type": "Death"
 }
@@ -14938,9 +14859,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-660
+663
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -14953,9 +14874,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-660
+663
 ],
-"place": 354,
+"place": 353,
 "text": "",
 "type": "Death"
 }
@@ -14970,9 +14891,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-661
+664
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -14987,9 +14908,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-662
+665
 ],
-"place": 300,
+"place": 299,
 "text": "",
 "type": "Birth"
 }
@@ -15004,9 +14925,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-663
+666
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -15019,7 +14940,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-663
+666
 ],
 "place": -1,
 "text": "",
@@ -15036,9 +14957,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-664
+667
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -15051,9 +14972,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-664
+667
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -15068,9 +14989,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-665
+668
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -15083,9 +15004,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-665
+668
 ],
-"place": 35,
+"place": 34,
 "text": "",
 "type": "Residence"
 },
@@ -15098,7 +15019,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-665
+668
 ],
 "place": -1,
 "text": "",
@@ -15115,9 +15036,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-666
+669
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -15130,7 +15051,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-666
+669
 ],
 "place": 180,
 "text": "",
@@ -15145,7 +15066,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-666
+669
 ],
 "place": 179,
 "text": "",
@@ -15162,9 +15083,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-667
+670
 ],
-"place": 502,
+"place": 499,
 "text": "",
 "type": "Birth"
 },
@@ -15177,7 +15098,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-667
+670
 ],
 "place": 370,
 "text": "",
@@ -15194,7 +15115,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-668
+671
 ],
 "place": 369,
 "text": "",
@@ -15209,7 +15130,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-668
+671
 ],
 "place": -1,
 "text": "",
@@ -15226,7 +15147,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-669
+672
 ],
 "place": -1,
 "text": "",
@@ -15243,9 +15164,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-670
+673
 ],
-"place": 462,
+"place": 460,
 "text": "",
 "type": "Birth"
 },
@@ -15258,9 +15179,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-670
+673
 ],
-"place": 497,
+"place": 494,
 "text": "",
 "type": "Death"
 }
@@ -15275,7 +15196,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-671
+674
 ],
 "place": -1,
 "text": "",
@@ -15290,7 +15211,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-671
+674
 ],
 "place": -1,
 "text": "",
@@ -15307,7 +15228,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-672
+675
 ],
 "place": -1,
 "text": "",
@@ -15322,9 +15243,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-672
+675
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Death"
 }
@@ -15340,9 +15261,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-674
+677
 ],
-"place": 88,
+"place": 87,
 "text": "",
 "type": "Birth"
 },
@@ -15355,9 +15276,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-674
+677
 ],
-"place": 88,
+"place": 87,
 "text": "",
 "type": "Death"
 }
@@ -15372,7 +15293,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-675
+678
 ],
 "place": -1,
 "text": "",
@@ -15390,9 +15311,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-677
+680
 ],
-"place": 663,
+"place": 659,
 "text": "",
 "type": "Birth"
 }
@@ -15407,7 +15328,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-678
+681
 ],
 "place": -1,
 "text": "",
@@ -15422,7 +15343,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-678
+681
 ],
 "place": -1,
 "text": "",
@@ -15440,9 +15361,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-680
+683
 ],
-"place": 562,
+"place": 559,
 "text": "",
 "type": "Birth"
 }
@@ -15457,9 +15378,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-681
+684
 ],
-"place": 417,
+"place": 416,
 "text": "",
 "type": "Birth"
 },
@@ -15472,9 +15393,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-681
+684
 ],
-"place": 417,
+"place": 416,
 "text": "",
 "type": "Death"
 }
@@ -15489,9 +15410,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-682
+685
 ],
-"place": 562,
+"place": 559,
 "text": "",
 "type": "Birth"
 },
@@ -15504,7 +15425,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-682
+685
 ],
 "place": 154,
 "text": "",
@@ -15521,9 +15442,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-683
+686
 ],
-"place": 562,
+"place": 559,
 "text": "",
 "type": "Birth"
 },
@@ -15536,7 +15457,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-683
+686
 ],
 "place": 154,
 "text": "",
@@ -15553,9 +15474,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-684
+687
 ],
-"place": 417,
+"place": 416,
 "text": "",
 "type": "Birth"
 },
@@ -15568,7 +15489,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-684
+687
 ],
 "place": 138,
 "text": "",
@@ -15585,9 +15506,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-685
+688
 ],
-"place": 448,
+"place": 447,
 "text": "",
 "type": "Birth"
 }
@@ -15602,9 +15523,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-686
+689
 ],
-"place": 562,
+"place": 559,
 "text": "",
 "type": "Birth"
 }
@@ -15619,9 +15540,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-687
+690
 ],
-"place": 562,
+"place": 559,
 "text": "",
 "type": "Birth"
 },
@@ -15634,7 +15555,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-687
+690
 ],
 "place": 154,
 "text": "",
@@ -15651,9 +15572,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-688
+691
 ],
-"place": 562,
+"place": 559,
 "text": "",
 "type": "Birth"
 },
@@ -15666,9 +15587,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-688
+691
 ],
-"place": 417,
+"place": 416,
 "text": "",
 "type": "Death"
 }
@@ -15683,9 +15604,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-689
+692
 ],
-"place": 417,
+"place": 416,
 "text": "",
 "type": "Birth"
 },
@@ -15698,9 +15619,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-689
+692
 ],
-"place": 417,
+"place": 416,
 "text": "",
 "type": "Death"
 }
@@ -15715,9 +15636,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-690
+693
 ],
-"place": 562,
+"place": 559,
 "text": "",
 "type": "Birth"
 },
@@ -15730,7 +15651,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-690
+693
 ],
 "place": 176,
 "text": "",
@@ -15747,9 +15668,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-691
+694
 ],
-"place": 522,
+"place": 520,
 "text": "",
 "type": "Birth"
 },
@@ -15762,7 +15683,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-691
+694
 ],
 "place": -1,
 "text": "",
@@ -15779,7 +15700,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-692
+695
 ],
 "place": -1,
 "text": "",
@@ -15796,7 +15717,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-693
+696
 ],
 "place": 0,
 "text": "",
@@ -15811,7 +15732,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-693
+696
 ],
 "place": 0,
 "text": "",
@@ -15828,7 +15749,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-694
+697
 ],
 "place": 0,
 "text": "",
@@ -15843,7 +15764,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-694
+697
 ],
 "place": 0,
 "text": "",
@@ -15860,7 +15781,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-695
+698
 ],
 "place": 0,
 "text": "",
@@ -15875,9 +15796,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-695
+698
 ],
-"place": 355,
+"place": 354,
 "text": "",
 "type": "Death"
 }
@@ -15892,7 +15813,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-696
+699
 ],
 "place": 0,
 "text": "",
@@ -15907,7 +15828,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-696
+699
 ],
 "place": 0,
 "text": "",
@@ -15924,7 +15845,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-697
+700
 ],
 "place": 0,
 "text": "",
@@ -15939,7 +15860,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-697
+700
 ],
 "place": 0,
 "text": "",
@@ -15956,9 +15877,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-698
+701
 ],
-"place": 654,
+"place": 650,
 "text": "",
 "type": "Birth"
 }
@@ -15973,7 +15894,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-699
+702
 ],
 "place": 0,
 "text": "",
@@ -15988,7 +15909,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-699
+702
 ],
 "place": 0,
 "text": "",
@@ -16007,9 +15928,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-702
+705
 ],
-"place": 124,
+"place": 123,
 "text": "",
 "type": "Birth"
 }
@@ -16024,7 +15945,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-703
+706
 ],
 "place": -1,
 "text": "",
@@ -16041,9 +15962,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-704
+707
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -16058,9 +15979,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-705
+708
 ],
-"place": 124,
+"place": 123,
 "text": "",
 "type": "Birth"
 }
@@ -16075,9 +15996,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-706
+709
 ],
-"place": 124,
+"place": 123,
 "text": "",
 "type": "Birth"
 }
@@ -16092,7 +16013,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707
+710
 ],
 "place": -1,
 "text": "",
@@ -16107,9 +16028,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-707
+710
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Death"
 }
@@ -16124,9 +16045,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708
+711
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -16139,9 +16060,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-708
+711
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Death"
 }
@@ -16157,9 +16078,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-710
+713
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -16174,7 +16095,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-711
+714
 ],
 "place": -1,
 "text": "",
@@ -16189,7 +16110,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-711
+714
 ],
 "place": -1,
 "text": "",
@@ -16206,9 +16127,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-712
+715
 ],
-"place": 543,
+"place": 540,
 "text": "",
 "type": "Birth"
 },
@@ -16221,7 +16142,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-712
+715
 ],
 "place": 180,
 "text": "",
@@ -16236,7 +16157,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-712
+715
 ],
 "place": 179,
 "text": "",
@@ -16253,7 +16174,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-713
+716
 ],
 "place": 180,
 "text": "",
@@ -16268,9 +16189,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-713
+716
 ],
-"place": 595,
+"place": 592,
 "text": "",
 "type": "Baptism"
 }
@@ -16285,9 +16206,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-714
+717
 ],
-"place": 113,
+"place": 112,
 "text": "",
 "type": "Birth"
 },
@@ -16300,7 +16221,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-714
+717
 ],
 "place": -1,
 "text": "",
@@ -16318,7 +16239,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-716
+719
 ],
 "place": -1,
 "text": "",
@@ -16333,7 +16254,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-716
+719
 ],
 "place": -1,
 "text": "",
@@ -16352,9 +16273,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-719
+722
 ],
-"place": 285,
+"place": 284,
 "text": "",
 "type": "Birth"
 },
@@ -16367,9 +16288,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-719
+722
 ],
-"place": 475,
+"place": 473,
 "text": "",
 "type": "Death"
 }
@@ -16384,9 +16305,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-720
+723
 ],
-"place": 475,
+"place": 473,
 "text": "",
 "type": "Birth"
 },
@@ -16399,7 +16320,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-720
+723
 ],
 "place": -1,
 "text": "",
@@ -16416,9 +16337,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-721
+724
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -16431,9 +16352,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-721
+724
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -16448,9 +16369,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-722
+725
 ],
-"place": 285,
+"place": 284,
 "text": "",
 "type": "Birth"
 }
@@ -16465,9 +16386,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-723
+726
 ],
-"place": 68,
+"place": 67,
 "text": "",
 "type": "Birth"
 },
@@ -16480,9 +16401,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-723
+726
 ],
-"place": 68,
+"place": 67,
 "text": "",
 "type": "Death"
 },
@@ -16495,9 +16416,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-723
+726
 ],
-"place": 68,
+"place": 67,
 "text": "",
 "type": "Burial"
 }
@@ -16512,7 +16433,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-724
+727
 ],
 "place": -1,
 "text": "",
@@ -16527,7 +16448,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-724
+727
 ],
 "place": -1,
 "text": "",
@@ -16544,9 +16465,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-725
+728
 ],
-"place": 111,
+"place": 109,
 "text": "",
 "type": "Birth"
 },
@@ -16559,7 +16480,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-725
+728
 ],
 "place": 251,
 "text": "",
@@ -16576,30 +16497,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-726
+729
 ],
 "place": 372,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1900",
-"date_sdn": 2415021,
-"descr": "",
-"gid": "E2663",
-"media": [],
-"part_family": [],
-"part_person": [
-727
-],
-"place": 372,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -16610,7 +16515,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-728
+731
 ],
 "place": -1,
 "text": "",
@@ -16625,67 +16530,19 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-728
+731
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1902",
-"date_sdn": 2415751,
-"descr": "",
-"gid": "E2662",
-"media": [],
-"part_family": [],
-"part_person": [
-729
-],
-"place": 372,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "about 1907",
-"date_sdn": 2417577,
-"descr": "",
-"gid": "E2665",
-"media": [],
-"part_family": [],
-"part_person": [
-730
-],
-"place": 372,
-"text": "",
-"type": "Birth"
-}
-],
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "about 1872",
-"date_sdn": 2404794,
-"descr": "",
-"gid": "E2713",
-"media": [],
-"part_family": [],
-"part_person": [
-734
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
+[],
+[],
 [
 {
 "cita": [],
@@ -16696,9 +16553,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-735
+738
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -16713,9 +16570,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-736
+739
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -16730,9 +16587,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-737
+740
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -16747,9 +16604,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-738
+741
 ],
-"place": 191,
+"place": 190,
 "text": "",
 "type": "Birth"
 }
@@ -16764,9 +16621,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-739
+742
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -16781,9 +16638,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-740
+743
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -16798,9 +16655,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-741
+744
 ],
-"place": 270,
+"place": 269,
 "text": "",
 "type": "Birth"
 },
@@ -16813,9 +16670,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-741
+744
 ],
-"place": 270,
+"place": 269,
 "text": "",
 "type": "Death"
 }
@@ -16830,7 +16687,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-742
+745
 ],
 "place": 224,
 "text": "",
@@ -16845,9 +16702,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-742
+745
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -16862,7 +16719,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-743
+746
 ],
 "place": 154,
 "text": "",
@@ -16877,9 +16734,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-743
+746
 ],
-"place": 417,
+"place": 416,
 "text": "",
 "type": "Death"
 }
@@ -16894,9 +16751,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-744
+747
 ],
-"place": 407,
+"place": 406,
 "text": "",
 "type": "Birth"
 },
@@ -16909,9 +16766,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-744
+747
 ],
-"place": 447,
+"place": 446,
 "text": "",
 "type": "Death"
 }
@@ -16927,9 +16784,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-746
+749
 ],
-"place": 191,
+"place": 190,
 "text": "",
 "type": "Birth"
 },
@@ -16942,7 +16799,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-746
+749
 ],
 "place": -1,
 "text": "",
@@ -16957,9 +16814,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-746
+749
 ],
-"place": 612,
+"place": 609,
 "text": "",
 "type": "Baptism"
 }
@@ -16974,7 +16831,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-747
+750
 ],
 "place": -1,
 "text": "",
@@ -16989,7 +16846,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-747
+750
 ],
 "place": -1,
 "text": "",
@@ -17006,9 +16863,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-748
+751
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -17023,9 +16880,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-749
+752
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 }
@@ -17040,9 +16897,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-750
+753
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 },
@@ -17055,9 +16912,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-750
+753
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Death"
 }
@@ -17072,9 +16929,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-751
+754
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -17087,9 +16944,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-751
+754
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -17104,9 +16961,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-752
+755
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -17121,9 +16978,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-753
+756
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 }
@@ -17138,9 +16995,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-754
+757
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -17155,9 +17012,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-755
+758
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -17170,13 +17027,13 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-320,
-350,
-361,
-755,
-1204
+323,
+353,
+364,
+758,
+1207
 ],
-"place": 291,
+"place": 290,
 "text": "",
 "type": "Death"
 }
@@ -17191,9 +17048,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-756
+759
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 }
@@ -17208,9 +17065,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-757
+760
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 }
@@ -17225,9 +17082,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-758
+761
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -17240,7 +17097,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-758
+761
 ],
 "place": -1,
 "text": "",
@@ -17257,9 +17114,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-759
+762
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 },
@@ -17272,9 +17129,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-759
+762
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -17289,9 +17146,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-760
+763
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 }
@@ -17306,9 +17163,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-761
+764
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -17321,9 +17178,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-761
+764
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Residence"
 },
@@ -17336,7 +17193,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-761
+764
 ],
 "place": -1,
 "text": "",
@@ -17353,9 +17210,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-762
+765
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 }
@@ -17370,9 +17227,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-763
+766
 ],
-"place": 647,
+"place": 643,
 "text": "",
 "type": "Birth"
 },
@@ -17385,9 +17242,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-763
+766
 ],
-"place": 603,
+"place": 600,
 "text": "",
 "type": "Death"
 }
@@ -17402,9 +17259,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-764
+767
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Birth"
 },
@@ -17417,7 +17274,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-764
+767
 ],
 "place": -1,
 "text": "",
@@ -17434,9 +17291,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-765
+768
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Birth"
 },
@@ -17449,9 +17306,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-765
+768
 ],
-"place": 712,
+"place": 708,
 "text": "",
 "type": "Death"
 }
@@ -17466,9 +17323,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-766
+769
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Birth"
 },
@@ -17481,7 +17338,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-766
+769
 ],
 "place": -1,
 "text": "",
@@ -17498,9 +17355,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-767
+770
 ],
-"place": 544,
+"place": 541,
 "text": "",
 "type": "Birth"
 },
@@ -17513,9 +17370,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-767
+770
 ],
-"place": 187,
+"place": 186,
 "text": "",
 "type": "Death"
 }
@@ -17530,9 +17387,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-768
+771
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Birth"
 },
@@ -17545,7 +17402,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-768
+771
 ],
 "place": -1,
 "text": "",
@@ -17562,7 +17419,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-769
+772
 ],
 "place": -1,
 "text": "",
@@ -17579,7 +17436,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-770
+773
 ],
 "place": 14,
 "text": "",
@@ -17594,7 +17451,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-770
+773
 ],
 "place": 134,
 "text": "",
@@ -17609,7 +17466,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-770
+773
 ],
 "place": -1,
 "text": "",
@@ -17624,7 +17481,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-770
+773
 ],
 "place": -1,
 "text": "",
@@ -17639,7 +17496,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-770
+773
 ],
 "place": 2,
 "text": "",
@@ -17654,9 +17511,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-770
+773
 ],
-"place": 57,
+"place": 56,
 "text": "",
 "type": "Residence"
 }
@@ -17672,9 +17529,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-772
+775
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -17687,9 +17544,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-772
+775
 ],
-"place": 304,
+"place": 303,
 "text": "",
 "type": "Death"
 },
@@ -17702,9 +17559,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-772
+775
 ],
-"place": 547,
+"place": 544,
 "text": "",
 "type": "Burial"
 }
@@ -17720,9 +17577,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-774
+777
 ],
-"place": 652,
+"place": 648,
 "text": "",
 "type": "Birth"
 },
@@ -17735,9 +17592,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-774
+777
 ],
-"place": 407,
+"place": 406,
 "text": "",
 "type": "Death"
 },
@@ -17750,9 +17607,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-774
+777
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Residence"
 }
@@ -17767,7 +17624,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-775
+778
 ],
 "place": -1,
 "text": "",
@@ -17782,7 +17639,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-775
+778
 ],
 "place": -1,
 "text": "",
@@ -17799,9 +17656,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-776
+779
 ],
-"place": 396,
+"place": 395,
 "text": "",
 "type": "Birth"
 },
@@ -17814,9 +17671,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-776
+779
 ],
-"place": 589,
+"place": 586,
 "text": "",
 "type": "Baptism"
 },
@@ -17829,9 +17686,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-776
+779
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Residence"
 }
@@ -17848,7 +17705,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779
+782
 ],
 "place": -1,
 "text": "",
@@ -17863,7 +17720,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-779
+782
 ],
 "place": -1,
 "text": "",
@@ -17880,9 +17737,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-780
+783
 ],
-"place": 332,
+"place": 331,
 "text": "",
 "type": "Birth"
 },
@@ -17895,9 +17752,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-780
+783
 ],
-"place": 68,
+"place": 67,
 "text": "",
 "type": "Death"
 },
@@ -17910,9 +17767,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-780
+783
 ],
-"place": 68,
+"place": 67,
 "text": "",
 "type": "Residence"
 },
@@ -17925,9 +17782,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-780
+783
 ],
-"place": 29,
+"place": 28,
 "text": "",
 "type": "Residence"
 },
@@ -17940,9 +17797,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-780
+783
 ],
-"place": 482,
+"place": 480,
 "text": "",
 "type": "Residence"
 }
@@ -17957,9 +17814,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-781
+784
 ],
-"place": 684,
+"place": 681,
 "text": "",
 "type": "Birth"
 },
@@ -17972,9 +17829,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-781
+784
 ],
-"place": 436,
+"place": 435,
 "text": "",
 "type": "Death"
 }
@@ -17990,7 +17847,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-783
+786
 ],
 "place": -1,
 "text": "",
@@ -18007,7 +17864,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-784
+787
 ],
 "place": -1,
 "text": "",
@@ -18024,7 +17881,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-785
+788
 ],
 "place": 230,
 "text": "",
@@ -18039,9 +17896,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-785
+788
 ],
-"place": 327,
+"place": 326,
 "text": "",
 "type": "Death"
 }
@@ -18056,7 +17913,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-786
+789
 ],
 "place": 230,
 "text": "",
@@ -18071,9 +17928,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-786
+789
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -18088,7 +17945,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-787
+790
 ],
 "place": 230,
 "text": "",
@@ -18103,9 +17960,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-787
+790
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -18120,9 +17977,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-788
+791
 ],
-"place": 512,
+"place": 509,
 "text": "",
 "type": "Birth"
 },
@@ -18135,9 +17992,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-788
+791
 ],
-"place": 512,
+"place": 509,
 "text": "",
 "type": "Death"
 }
@@ -18152,9 +18009,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-789
+792
 ],
-"place": 512,
+"place": 509,
 "text": "",
 "type": "Birth"
 },
@@ -18167,9 +18024,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-789
+792
 ],
-"place": 651,
+"place": 647,
 "text": "",
 "type": "Death"
 }
@@ -18184,9 +18041,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-790
+793
 ],
-"place": 512,
+"place": 509,
 "text": "",
 "type": "Birth"
 },
@@ -18199,9 +18056,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-790
+793
 ],
-"place": 116,
+"place": 115,
 "text": "",
 "type": "Death"
 }
@@ -18216,9 +18073,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-791
+794
 ],
-"place": 512,
+"place": 509,
 "text": "",
 "type": "Birth"
 },
@@ -18231,9 +18088,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-791
+794
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Death"
 }
@@ -18248,9 +18105,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-792
+795
 ],
-"place": 512,
+"place": 509,
 "text": "",
 "type": "Birth"
 },
@@ -18263,7 +18120,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-792
+795
 ],
 "place": 374,
 "text": "",
@@ -18280,9 +18137,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-793
+796
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 },
@@ -18295,9 +18152,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-793
+796
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Death"
 }
@@ -18312,9 +18169,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-794
+797
 ],
-"place": 48,
+"place": 47,
 "text": "",
 "type": "Birth"
 },
@@ -18327,9 +18184,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-794
+797
 ],
-"place": 529,
+"place": 526,
 "text": "",
 "type": "Death"
 }
@@ -18344,9 +18201,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-795
+798
 ],
-"place": 657,
+"place": 653,
 "text": "",
 "type": "Birth"
 },
@@ -18359,7 +18216,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-795
+798
 ],
 "place": -1,
 "text": "",
@@ -18374,9 +18231,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-795
+798
 ],
-"place": 126,
+"place": 125,
 "text": "",
 "type": "Residence"
 }
@@ -18391,9 +18248,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-796
+799
 ],
-"place": 556,
+"place": 553,
 "text": "",
 "type": "Birth"
 },
@@ -18406,9 +18263,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-796
+799
 ],
-"place": 664,
+"place": 660,
 "text": "",
 "type": "Death"
 }
@@ -18423,9 +18280,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-797
+800
 ],
-"place": 301,
+"place": 300,
 "text": "",
 "type": "Birth"
 },
@@ -18438,9 +18295,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-797
+800
 ],
-"place": 338,
+"place": 337,
 "text": "",
 "type": "Death"
 }
@@ -18455,7 +18312,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-798
+801
 ],
 "place": 0,
 "text": "",
@@ -18470,9 +18327,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-798
+801
 ],
-"place": 55,
+"place": 54,
 "text": "",
 "type": "Death"
 }
@@ -18487,7 +18344,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-799
+802
 ],
 "place": -1,
 "text": "",
@@ -18502,9 +18359,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-799
+802
 ],
-"place": 404,
+"place": 403,
 "text": "",
 "type": "Death"
 }
@@ -18519,9 +18376,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-800
+803
 ],
-"place": 93,
+"place": 92,
 "text": "",
 "type": "Birth"
 },
@@ -18534,7 +18391,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-800
+803
 ],
 "place": 0,
 "text": "",
@@ -18551,7 +18408,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-801
+804
 ],
 "place": 361,
 "text": "",
@@ -18566,7 +18423,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-801
+804
 ],
 "place": 0,
 "text": "",
@@ -18583,7 +18440,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-802
+805
 ],
 "place": 361,
 "text": "",
@@ -18593,14 +18450,14 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "about 1810",
-"date_sdn": 2382149,
+"date": "about 1812",
+"date_sdn": 2382879,
 "descr": "",
 "gid": "E1508",
 "media": [],
 "part_family": [],
 "part_person": [
-803
+806
 ],
 "place": 0,
 "text": "",
@@ -18608,14 +18465,14 @@ I_events_0 = [
 },
 {
 "cita": [],
-"date": "calculated between 1849 and 1919",
+"date": "calculated between 1849 and 1912",
 "date_sdn": 2396394,
 "descr": "",
 "gid": "E2533",
 "media": [],
 "part_family": [],
 "part_person": [
-803
+806
 ],
 "place": -1,
 "text": "",
@@ -18632,7 +18489,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-804
+807
 ],
 "place": 361,
 "text": "",
@@ -18649,7 +18506,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-805
+808
 ],
 "place": 0,
 "text": "",
@@ -18666,7 +18523,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-806
+809
 ],
 "place": -1,
 "text": "",
@@ -18684,9 +18541,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-808
+811
 ],
-"place": 287,
+"place": 286,
 "text": "",
 "type": "Birth"
 },
@@ -18699,9 +18556,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-808
+811
 ],
-"place": 398,
+"place": 397,
 "text": "",
 "type": "Death"
 }
@@ -18716,7 +18573,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-809
+812
 ],
 "place": 132,
 "text": "",
@@ -18731,9 +18588,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-809
+812
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Death"
 }
@@ -18748,9 +18605,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-810
+813
 ],
-"place": 311,
+"place": 310,
 "text": "",
 "type": "Birth"
 }
@@ -18765,7 +18622,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-811
+814
 ],
 "place": 145,
 "text": "",
@@ -18780,7 +18637,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-811
+814
 ],
 "place": 236,
 "text": "",
@@ -18797,7 +18654,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-812
+815
 ],
 "place": 145,
 "text": "",
@@ -18812,9 +18669,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-812
+815
 ],
-"place": 310,
+"place": 309,
 "text": "",
 "type": "Death"
 }
@@ -18829,7 +18686,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-813
+816
 ],
 "place": 145,
 "text": "",
@@ -18844,9 +18701,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-813
+816
 ],
-"place": 310,
+"place": 309,
 "text": "",
 "type": "Death"
 }
@@ -18861,7 +18718,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-814
+817
 ],
 "place": 145,
 "text": "",
@@ -18876,9 +18733,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-814
+817
 ],
-"place": 311,
+"place": 310,
 "text": "",
 "type": "Death"
 }
@@ -18893,7 +18750,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-815
+818
 ],
 "place": 145,
 "text": "",
@@ -18910,9 +18767,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-816
+819
 ],
-"place": 311,
+"place": 310,
 "text": "",
 "type": "Birth"
 },
@@ -18925,9 +18782,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-816
+819
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Death"
 }
@@ -18942,9 +18799,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-817
+820
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Birth"
 },
@@ -18957,7 +18814,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-817
+820
 ],
 "place": -1,
 "text": "",
@@ -18974,9 +18831,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-818
+821
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Birth"
 },
@@ -18989,9 +18846,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-818
+821
 ],
-"place": 710,
+"place": 706,
 "text": "",
 "type": "Death"
 }
@@ -19006,7 +18863,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-819
+822
 ],
 "place": 145,
 "text": "",
@@ -19023,9 +18880,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-820
+823
 ],
-"place": 311,
+"place": 310,
 "text": "",
 "type": "Birth"
 },
@@ -19038,9 +18895,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-820
+823
 ],
-"place": 311,
+"place": 310,
 "text": "",
 "type": "Death"
 }
@@ -19055,7 +18912,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-821
+824
 ],
 "place": -1,
 "text": "",
@@ -19072,9 +18929,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-822
+825
 ],
-"place": 710,
+"place": 706,
 "text": "",
 "type": "Birth"
 },
@@ -19087,9 +18944,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-822
+825
 ],
-"place": 710,
+"place": 706,
 "text": "",
 "type": "Death"
 }
@@ -19104,7 +18961,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-823
+826
 ],
 "place": 145,
 "text": "",
@@ -19119,7 +18976,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-823
+826
 ],
 "place": 236,
 "text": "",
@@ -19136,7 +18993,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-824
+827
 ],
 "place": 145,
 "text": "",
@@ -19153,7 +19010,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-825
+828
 ],
 "place": 145,
 "text": "",
@@ -19168,9 +19025,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-825
+828
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Death"
 }
@@ -19185,7 +19042,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-826
+829
 ],
 "place": 145,
 "text": "",
@@ -19200,7 +19057,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-826
+829
 ],
 "place": -1,
 "text": "",
@@ -19217,7 +19074,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-827
+830
 ],
 "place": 145,
 "text": "",
@@ -19232,9 +19089,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-827
+830
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Death"
 }
@@ -19249,7 +19106,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-828
+831
 ],
 "place": 132,
 "text": "",
@@ -19264,7 +19121,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-828
+831
 ],
 "place": 132,
 "text": "",
@@ -19281,9 +19138,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-829
+832
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Birth"
 },
@@ -19296,9 +19153,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-829
+832
 ],
-"place": 311,
+"place": 310,
 "text": "",
 "type": "Death"
 }
@@ -19313,7 +19170,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-830
+833
 ],
 "place": 145,
 "text": "",
@@ -19328,9 +19185,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-830
+833
 ],
-"place": 449,
+"place": 448,
 "text": "",
 "type": "Death"
 }
@@ -19345,9 +19202,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-831
+834
 ],
-"place": 679,
+"place": 675,
 "text": "",
 "type": "Birth"
 }
@@ -19362,9 +19219,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-832
+835
 ],
-"place": 326,
+"place": 325,
 "text": "",
 "type": "Birth"
 }
@@ -19379,9 +19236,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-833
+836
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Birth"
 }
@@ -19396,9 +19253,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-834
+837
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Birth"
 }
@@ -19413,9 +19270,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-835
+838
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Baptism"
 }
@@ -19430,9 +19287,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-836
+839
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Birth"
 },
@@ -19445,7 +19302,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-836
+839
 ],
 "place": -1,
 "text": "",
@@ -19462,9 +19319,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-837
+840
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Birth"
 },
@@ -19477,9 +19334,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-837
+840
 ],
-"place": 278,
+"place": 277,
 "text": "",
 "type": "Death"
 }
@@ -19494,7 +19351,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-838
+841
 ],
 "place": -1,
 "text": "",
@@ -19509,7 +19366,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-838
+841
 ],
 "place": 241,
 "text": "",
@@ -19527,9 +19384,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-840
+843
 ],
-"place": 441,
+"place": 439,
 "text": "",
 "type": "Birth"
 },
@@ -19542,7 +19399,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-840
+843
 ],
 "place": -1,
 "text": "",
@@ -19560,9 +19417,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-842
+845
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -19575,9 +19432,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-842
+845
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -19592,9 +19449,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-843
+846
 ],
-"place": 301,
+"place": 300,
 "text": "",
 "type": "Birth"
 },
@@ -19607,7 +19464,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-843
+846
 ],
 "place": -1,
 "text": "",
@@ -19624,9 +19481,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-844
+847
 ],
-"place": 331,
+"place": 330,
 "text": "",
 "type": "Birth"
 },
@@ -19639,9 +19496,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-844
+847
 ],
-"place": 352,
+"place": 351,
 "text": "",
 "type": "Death"
 }
@@ -19656,7 +19513,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-845
+848
 ],
 "place": 174,
 "text": "",
@@ -19671,9 +19528,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-845
+848
 ],
-"place": 625,
+"place": 622,
 "text": "",
 "type": "Death"
 },
@@ -19686,10 +19543,10 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-221,
-845
+224,
+848
 ],
-"place": 83,
+"place": 82,
 "text": "",
 "type": "Emigration"
 }
@@ -19704,7 +19561,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-846
+849
 ],
 "place": 147,
 "text": "",
@@ -19724,9 +19581,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-850
+853
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 },
@@ -19739,9 +19596,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-850
+853
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -19756,9 +19613,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-851
+854
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 },
@@ -19771,9 +19628,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-851
+854
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -19788,7 +19645,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-852
+855
 ],
 "place": -1,
 "text": "",
@@ -19805,7 +19662,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-853
+856
 ],
 "place": -1,
 "text": "",
@@ -19820,9 +19677,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-853
+856
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -19837,9 +19694,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-854
+857
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 }
@@ -19854,7 +19711,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-855
+858
 ],
 "place": -1,
 "text": "",
@@ -19869,9 +19726,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-855
+858
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -19886,9 +19743,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-856
+859
 ],
-"place": 621,
+"place": 618,
 "text": "",
 "type": "Birth"
 },
@@ -19901,9 +19758,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-856
+859
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -19918,9 +19775,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-857
+860
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 },
@@ -19933,9 +19790,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-857
+860
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -19950,9 +19807,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-858
+861
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -19965,9 +19822,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-858
+861
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -19982,30 +19839,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-859
+862
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1900",
-"date_sdn": 2415021,
-"descr": "",
-"gid": "E3338",
-"media": [],
-"part_family": [],
-"part_person": [
-860
-],
-"place": 528,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -20016,9 +19857,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-861
+864
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 }
@@ -20033,7 +19874,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-862
+865
 ],
 "place": -1,
 "text": "",
@@ -20048,9 +19889,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-862
+865
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -20066,7 +19907,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-864
+867
 ],
 "place": -1,
 "text": "",
@@ -20087,7 +19928,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-869
+872
 ],
 "place": 148,
 "text": "",
@@ -20102,9 +19943,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-869
+872
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Death"
 }
@@ -20119,7 +19960,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-870
+873
 ],
 "place": 230,
 "text": "",
@@ -20136,7 +19977,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-871
+874
 ],
 "place": -1,
 "text": "",
@@ -20153,7 +19994,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-872
+875
 ],
 "place": 251,
 "text": "",
@@ -20170,9 +20011,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-873
+876
 ],
-"place": 350,
+"place": 349,
 "text": "",
 "type": "Birth"
 },
@@ -20185,9 +20026,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-873
+876
 ],
-"place": 492,
+"place": 489,
 "text": "",
 "type": "Death"
 }
@@ -20202,7 +20043,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874
+877
 ],
 "place": 146,
 "text": "",
@@ -20217,7 +20058,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-874
+877
 ],
 "place": -1,
 "text": "",
@@ -20239,9 +20080,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-880
+883
 ],
-"place": 668,
+"place": 664,
 "text": "",
 "type": "Birth"
 },
@@ -20254,9 +20095,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-880
+883
 ],
-"place": 668,
+"place": 664,
 "text": "",
 "type": "Death"
 },
@@ -20269,7 +20110,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-880
+883
 ],
 "place": -1,
 "text": "",
@@ -20287,7 +20128,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-882
+885
 ],
 "place": 255,
 "text": "",
@@ -20302,7 +20143,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-882
+885
 ],
 "place": 161,
 "text": "",
@@ -20319,7 +20160,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-883
+886
 ],
 "place": -1,
 "text": "",
@@ -20334,7 +20175,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-883
+886
 ],
 "place": -1,
 "text": "",
@@ -20351,7 +20192,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-884
+887
 ],
 "place": -1,
 "text": "",
@@ -20366,7 +20207,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-884
+887
 ],
 "place": -1,
 "text": "",
@@ -20383,9 +20224,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-885
+888
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 }
@@ -20400,7 +20241,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-886
+889
 ],
 "place": -1,
 "text": "",
@@ -20417,9 +20258,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-887
+890
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 }
@@ -20434,7 +20275,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-888
+891
 ],
 "place": -1,
 "text": "",
@@ -20449,7 +20290,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-888
+891
 ],
 "place": -1,
 "text": "",
@@ -20466,7 +20307,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-889
+892
 ],
 "place": -1,
 "text": "",
@@ -20481,7 +20322,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-889
+892
 ],
 "place": -1,
 "text": "",
@@ -20498,9 +20339,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-890
+893
 ],
-"place": 463,
+"place": 461,
 "text": "",
 "type": "Birth"
 },
@@ -20513,9 +20354,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-890
+893
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Death"
 }
@@ -20530,7 +20371,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-891
+894
 ],
 "place": -1,
 "text": "",
@@ -20545,7 +20386,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-891
+894
 ],
 "place": -1,
 "text": "",
@@ -20562,9 +20403,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-892
+895
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 }
@@ -20579,9 +20420,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-893
+896
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -20594,7 +20435,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-893
+896
 ],
 "place": -1,
 "text": "",
@@ -20611,9 +20452,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-894
+897
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -20626,9 +20467,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-894
+897
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Death"
 },
@@ -20641,9 +20482,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-894
+897
 ],
-"place": 314,
+"place": 313,
 "text": "",
 "type": "Burial"
 }
@@ -20658,7 +20499,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-895
+898
 ],
 "place": 379,
 "text": "",
@@ -20675,9 +20516,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-896
+899
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -20690,9 +20531,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-896
+899
 ],
-"place": 94,
+"place": 93,
 "text": "",
 "type": "Death"
 }
@@ -20707,7 +20548,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-897
+900
 ],
 "place": 379,
 "text": "",
@@ -20722,7 +20563,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-897
+900
 ],
 "place": -1,
 "text": "",
@@ -20739,7 +20580,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-898
+901
 ],
 "place": 379,
 "text": "",
@@ -20759,9 +20600,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-902
+905
 ],
-"place": 436,
+"place": 435,
 "text": "",
 "type": "Birth"
 },
@@ -20774,9 +20615,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-902
+905
 ],
-"place": 394,
+"place": 393,
 "text": "",
 "type": "Death"
 },
@@ -20789,9 +20630,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-902
+905
 ],
-"place": 312,
+"place": 311,
 "text": "",
 "type": "Burial"
 },
@@ -20804,7 +20645,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-902
+905
 ],
 "place": 15,
 "text": "",
@@ -20821,7 +20662,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-903
+906
 ],
 "place": 379,
 "text": "",
@@ -20838,7 +20679,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-904
+907
 ],
 "place": 379,
 "text": "",
@@ -20855,7 +20696,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-905
+908
 ],
 "place": 379,
 "text": "",
@@ -20872,9 +20713,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-906
+909
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -20887,9 +20728,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-906
+909
 ],
-"place": 588,
+"place": 585,
 "text": "",
 "type": "Death"
 },
@@ -20902,7 +20743,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-906
+909
 ],
 "place": 149,
 "text": "",
@@ -20917,9 +20758,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-906
+909
 ],
-"place": 694,
+"place": 691,
 "text": "",
 "type": "Residence"
 }
@@ -20934,7 +20775,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-907
+910
 ],
 "place": 379,
 "text": "",
@@ -20951,7 +20792,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-908
+911
 ],
 "place": 379,
 "text": "",
@@ -20968,9 +20809,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-909
+912
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 }
@@ -20985,9 +20826,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-910
+913
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 }
@@ -21002,9 +20843,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-911
+914
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 }
@@ -21019,7 +20860,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-912
+915
 ],
 "place": 379,
 "text": "",
@@ -21038,7 +20879,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-915
+918
 ],
 "place": -1,
 "text": "",
@@ -21055,7 +20896,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-916
+919
 ],
 "place": -1,
 "text": "",
@@ -21072,7 +20913,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-917
+920
 ],
 "place": -1,
 "text": "",
@@ -21087,7 +20928,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-917
+920
 ],
 "place": -1,
 "text": "",
@@ -21104,7 +20945,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-918
+921
 ],
 "place": 137,
 "text": "",
@@ -21121,7 +20962,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-919
+922
 ],
 "place": -1,
 "text": "",
@@ -21138,7 +20979,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-920
+923
 ],
 "place": -1,
 "text": "",
@@ -21153,7 +20994,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-920
+923
 ],
 "place": -1,
 "text": "",
@@ -21162,23 +21003,7 @@ I_events_0 = [
 ],
 [],
 [],
-[
-{
-"cita": [],
-"date": "about 1876",
-"date_sdn": 2406255,
-"descr": "",
-"gid": "E2774",
-"media": [],
-"part_family": [],
-"part_person": [
-923
-],
-"place": 615,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -21189,9 +21014,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-924
+927
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -21204,30 +21029,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-924
+927
 ],
-"place": 283,
+"place": 282,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1869",
-"date_sdn": 2403699,
-"descr": "",
-"gid": "E2775",
-"media": [],
-"part_family": [],
-"part_person": [
-925
-],
-"place": 615,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -21238,7 +21047,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-926
+929
 ],
 "place": 379,
 "text": "",
@@ -21253,7 +21062,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-926
+929
 ],
 "place": 379,
 "text": "",
@@ -21270,7 +21079,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-927
+930
 ],
 "place": 379,
 "text": "",
@@ -21287,7 +21096,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-928
+931
 ],
 "place": 379,
 "text": "",
@@ -21302,9 +21111,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-928
+931
 ],
-"place": 622,
+"place": 619,
 "text": "",
 "type": "Death"
 }
@@ -21319,9 +21128,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-929
+932
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 }
@@ -21336,7 +21145,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-930
+933
 ],
 "place": -1,
 "text": "",
@@ -21353,9 +21162,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-931
+934
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 }
@@ -21370,7 +21179,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-932
+935
 ],
 "place": 379,
 "text": "",
@@ -21387,9 +21196,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-933
+936
 ],
-"place": 346,
+"place": 345,
 "text": "",
 "type": "Birth"
 },
@@ -21402,7 +21211,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-933
+936
 ],
 "place": 253,
 "text": "",
@@ -21423,7 +21232,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-938
+941
 ],
 "place": 0,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nIllegitimate - father unknown\n</p>\n</div>\n</div>",
@@ -21438,7 +21247,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-938
+941
 ],
 "place": 0,
 "text": "",
@@ -21456,7 +21265,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-940
+943
 ],
 "place": 0,
 "text": "",
@@ -21471,7 +21280,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-940
+943
 ],
 "place": 19,
 "text": "",
@@ -21486,7 +21295,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-940
+943
 ],
 "place": -1,
 "text": "",
@@ -21505,7 +21314,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-943
+946
 ],
 "place": -1,
 "text": "",
@@ -21513,14 +21322,14 @@ I_events_0 = [
 },
 {
 "cita": [],
-"date": "calculated between 1882 and 1966",
-"date_sdn": 2408447,
+"date": "calculated between 1910 and 1966",
+"date_sdn": 2418673,
 "descr": "",
 "gid": "E2401",
 "media": [],
 "part_family": [],
 "part_person": [
-943
+946
 ],
 "place": -1,
 "text": "",
@@ -21539,7 +21348,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-946
+949
 ],
 "place": 140,
 "text": "",
@@ -21554,9 +21363,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-946
+949
 ],
-"place": 308,
+"place": 307,
 "text": "",
 "type": "Death"
 }
@@ -21573,9 +21382,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-949
+952
 ],
-"place": 337,
+"place": 336,
 "text": "",
 "type": "Birth"
 },
@@ -21588,9 +21397,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-949
+952
 ],
-"place": 397,
+"place": 396,
 "text": "",
 "type": "Death"
 }
@@ -21605,7 +21414,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-950
+953
 ],
 "place": 370,
 "text": "",
@@ -21620,7 +21429,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-950
+953
 ],
 "place": -1,
 "text": "",
@@ -21637,7 +21446,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-951
+954
 ],
 "place": 370,
 "text": "",
@@ -21652,7 +21461,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-951
+954
 ],
 "place": 370,
 "text": "",
@@ -21667,9 +21476,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-951
+954
 ],
-"place": 593,
+"place": 590,
 "text": "",
 "type": "Burial"
 }
@@ -21684,7 +21493,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-952
+955
 ],
 "place": 370,
 "text": "",
@@ -21699,7 +21508,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-952
+955
 ],
 "place": -1,
 "text": "",
@@ -21716,9 +21525,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-953
+956
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -21733,9 +21542,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-954
+957
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -21750,9 +21559,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-955
+958
 ],
-"place": 294,
+"place": 293,
 "text": "",
 "type": "Birth"
 }
@@ -21768,9 +21577,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-957
+960
 ],
-"place": 669,
+"place": 665,
 "text": "",
 "type": "Birth"
 },
@@ -21783,9 +21592,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-957
+960
 ],
-"place": 89,
+"place": 88,
 "text": "",
 "type": "Death"
 }
@@ -21800,30 +21609,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-958
+961
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1878",
-"date_sdn": 2406986,
-"descr": "",
-"gid": "E2695",
-"media": [],
-"part_family": [],
-"part_person": [
-959
-],
-"place": 663,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -21834,9 +21627,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-960
+963
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -21851,7 +21644,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-961
+964
 ],
 "place": -1,
 "text": "",
@@ -21866,7 +21659,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-961
+964
 ],
 "place": -1,
 "text": "",
@@ -21884,9 +21677,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-963
+966
 ],
-"place": 625,
+"place": 622,
 "text": "",
 "type": "Birth"
 },
@@ -21899,9 +21692,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-963
+966
 ],
-"place": 625,
+"place": 622,
 "text": "",
 "type": "Death"
 }
@@ -21916,9 +21709,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-964
+967
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -21933,9 +21726,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-965
+968
 ],
-"place": 574,
+"place": 571,
 "text": "",
 "type": "Birth"
 }
@@ -21950,7 +21743,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-966
+969
 ],
 "place": -1,
 "text": "",
@@ -21967,9 +21760,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-967
+970
 ],
-"place": 501,
+"place": 498,
 "text": "",
 "type": "Birth"
 },
@@ -21982,9 +21775,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-967
+970
 ],
-"place": 488,
+"place": 485,
 "text": "",
 "type": "Death"
 }
@@ -21999,9 +21792,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-968
+971
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -22016,7 +21809,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-969
+972
 ],
 "place": 249,
 "text": "",
@@ -22031,9 +21824,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-969
+972
 ],
-"place": 488,
+"place": 485,
 "text": "",
 "type": "Death"
 }
@@ -22048,30 +21841,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-970
+973
 ],
-"place": 294,
+"place": 293,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1896",
-"date_sdn": 2413560,
-"descr": "",
-"gid": "E2721",
-"media": [],
-"part_family": [],
-"part_person": [
-971
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -22082,7 +21859,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-972
+975
 ],
 "place": 248,
 "text": "",
@@ -22097,9 +21874,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-972
+975
 ],
-"place": 628,
+"place": 625,
 "text": "",
 "type": "Death"
 }
@@ -22114,7 +21891,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-973
+976
 ],
 "place": -1,
 "text": "",
@@ -22129,7 +21906,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-973
+976
 ],
 "place": -1,
 "text": "",
@@ -22137,23 +21914,7 @@ I_events_0 = [
 }
 ],
 [],
-[
-{
-"cita": [],
-"date": "about 1872",
-"date_sdn": 2404794,
-"descr": "",
-"gid": "E2685",
-"media": [],
-"part_family": [],
-"part_person": [
-975
-],
-"place": 643,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -22164,9 +21925,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-976
+979
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -22181,9 +21942,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-977
+980
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -22198,9 +21959,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-978
+981
 ],
-"place": 709,
+"place": 705,
 "text": "",
 "type": "Birth"
 },
@@ -22213,9 +21974,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-978
+981
 ],
-"place": 195,
+"place": 194,
 "text": "",
 "type": "Death"
 },
@@ -22228,7 +21989,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-978
+981
 ],
 "place": 173,
 "text": "",
@@ -22243,9 +22004,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-978
+981
 ],
-"place": 596,
+"place": 593,
 "text": "",
 "type": "Marriage"
 },
@@ -22258,9 +22019,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-978
+981
 ],
-"place": 569,
+"place": 566,
 "text": "",
 "type": "Residence"
 },
@@ -22273,30 +22034,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-978
+981
 ],
 "place": 9,
 "text": "",
 "type": "Residence"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1895",
-"date_sdn": 2413195,
-"descr": "",
-"gid": "E2697",
-"media": [],
-"part_family": [],
-"part_person": [
-979
-],
-"place": 174,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [],
 [
 {
@@ -22308,7 +22053,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-981
+984
 ],
 "place": -1,
 "text": "",
@@ -22323,7 +22068,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-981
+984
 ],
 "place": -1,
 "text": "",
@@ -22340,7 +22085,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-982
+985
 ],
 "place": 249,
 "text": "",
@@ -22355,9 +22100,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-982
+985
 ],
-"place": 625,
+"place": 622,
 "text": "",
 "type": "Death"
 }
@@ -22372,9 +22117,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-983
+986
 ],
-"place": 501,
+"place": 713,
 "text": "",
 "type": "Birth"
 },
@@ -22387,9 +22132,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-983
+986
 ],
-"place": 625,
+"place": 622,
 "text": "",
 "type": "Death"
 },
@@ -22402,9 +22147,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-983
+986
 ],
-"place": 709,
+"place": 705,
 "text": "",
 "type": "Residence"
 }
@@ -22419,9 +22164,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-984
+987
 ],
-"place": 333,
+"place": 332,
 "text": "",
 "type": "Birth"
 },
@@ -22434,9 +22179,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-984
+987
 ],
-"place": 709,
+"place": 705,
 "text": "",
 "type": "Death"
 }
@@ -22451,9 +22196,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-985
+988
 ],
-"place": 669,
+"place": 665,
 "text": "",
 "type": "Birth"
 },
@@ -22466,9 +22211,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-985
+988
 ],
-"place": 431,
+"place": 430,
 "text": "",
 "type": "Death"
 }
@@ -22484,9 +22229,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-987
+990
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 }
@@ -22501,7 +22246,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-988
+991
 ],
 "place": 246,
 "text": "",
@@ -22516,9 +22261,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-988
+991
 ],
-"place": 436,
+"place": 435,
 "text": "",
 "type": "Death"
 }
@@ -22533,9 +22278,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-989
+992
 ],
-"place": 303,
+"place": 302,
 "text": "",
 "type": "Birth"
 },
@@ -22548,9 +22293,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-989
+992
 ],
-"place": 597,
+"place": 594,
 "text": "",
 "type": "Death"
 }
@@ -22565,9 +22310,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-990
+993
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -22580,7 +22325,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-990
+993
 ],
 "place": -1,
 "text": "",
@@ -22597,9 +22342,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-991
+994
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -22612,9 +22357,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-991
+994
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -22629,7 +22374,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-992
+995
 ],
 "place": -1,
 "text": "",
@@ -22644,9 +22389,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-992
+995
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Baptism"
 },
@@ -22659,7 +22404,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-992
+995
 ],
 "place": 245,
 "text": "",
@@ -22674,9 +22419,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-992
+995
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 }
@@ -22691,9 +22436,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-993
+996
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -22708,9 +22453,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-994
+997
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -22725,7 +22470,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-995
+998
 ],
 "place": -1,
 "text": "",
@@ -22740,7 +22485,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-995
+998
 ],
 "place": -1,
 "text": "",
@@ -22757,9 +22502,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-996
+999
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -22772,9 +22517,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-996
+999
 ],
-"place": 328,
+"place": 327,
 "text": "",
 "type": "Residence"
 }
@@ -22789,7 +22534,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-997
+1000
 ],
 "place": -1,
 "text": "",
@@ -22806,9 +22551,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-998
+1001
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -22823,7 +22568,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-999
+1002
 ],
 "place": -1,
 "text": "",
@@ -22838,7 +22583,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-999
+1002
 ],
 "place": -1,
 "text": "",
@@ -22855,9 +22600,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1000
+1003
 ],
-"place": 68,
+"place": 67,
 "text": "",
 "type": "Birth"
 },
@@ -22870,7 +22615,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1000
+1003
 ],
 "place": 370,
 "text": "",
@@ -22887,7 +22632,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1001
+1004
 ],
 "place": -1,
 "text": "",
@@ -22902,7 +22647,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1001
+1004
 ],
 "place": -1,
 "text": "",
@@ -22919,9 +22664,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1002
+1005
 ],
-"place": 210,
+"place": 209,
 "text": "",
 "type": "Birth"
 },
@@ -22934,7 +22679,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1002
+1005
 ],
 "place": 370,
 "text": "",
@@ -22951,7 +22696,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1003
+1006
 ],
 "place": -1,
 "text": "",
@@ -22966,7 +22711,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1003
+1006
 ],
 "place": 236,
 "text": "",
@@ -22983,7 +22728,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1004
+1007
 ],
 "place": -1,
 "text": "",
@@ -22998,7 +22743,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1004
+1007
 ],
 "place": -1,
 "text": "",
@@ -23015,9 +22760,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1005
+1008
 ],
-"place": 715,
+"place": 711,
 "text": "",
 "type": "Birth"
 },
@@ -23030,9 +22775,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1005
+1008
 ],
-"place": 436,
+"place": 435,
 "text": "",
 "type": "Death"
 }
@@ -23047,9 +22792,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1006
+1009
 ],
-"place": 194,
+"place": 193,
 "text": "",
 "type": "Birth"
 },
@@ -23062,7 +22807,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1006
+1009
 ],
 "place": 128,
 "text": "",
@@ -23079,7 +22824,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1007
+1010
 ],
 "place": -1,
 "text": "",
@@ -23096,7 +22841,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1008
+1011
 ],
 "place": -1,
 "text": "",
@@ -23113,7 +22858,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1009
+1012
 ],
 "place": -1,
 "text": "",
@@ -23128,7 +22873,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1009
+1012
 ],
 "place": -1,
 "text": "",
@@ -23146,9 +22891,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1011
+1014
 ],
-"place": 301,
+"place": 300,
 "text": "",
 "type": "Birth"
 },
@@ -23161,9 +22906,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1011
+1014
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Death"
 }
@@ -23179,7 +22924,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1013
+1016
 ],
 "place": -1,
 "text": "",
@@ -23194,7 +22939,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1013
+1016
 ],
 "place": -1,
 "text": "",
@@ -23211,7 +22956,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1014
+1017
 ],
 "place": -1,
 "text": "",
@@ -23229,7 +22974,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1016
+1019
 ],
 "place": -1,
 "text": "",
@@ -23244,7 +22989,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1016
+1019
 ],
 "place": -1,
 "text": "",
@@ -23261,9 +23006,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1017
+1020
 ],
-"place": 298,
+"place": 297,
 "text": "",
 "type": "Death"
 }
@@ -23278,7 +23023,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1018
+1021
 ],
 "place": -1,
 "text": "",
@@ -23293,7 +23038,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1018
+1021
 ],
 "place": -1,
 "text": "",
@@ -23310,7 +23055,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1019
+1022
 ],
 "place": -1,
 "text": "",
@@ -23325,7 +23070,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1019
+1022
 ],
 "place": -1,
 "text": "",
@@ -23342,9 +23087,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1020
+1023
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 },
@@ -23357,7 +23102,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1020
+1023
 ],
 "place": -1,
 "text": "",
@@ -23372,9 +23117,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1020
+1023
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Burial"
 }
@@ -23389,9 +23134,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1021
+1024
 ],
-"place": 649,
+"place": 645,
 "text": "",
 "type": "Birth"
 },
@@ -23404,7 +23149,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1021
+1024
 ],
 "place": -1,
 "text": "",
@@ -23421,9 +23166,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1022
+1025
 ],
-"place": 649,
+"place": 645,
 "text": "",
 "type": "Birth"
 },
@@ -23436,9 +23181,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1022
+1025
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -23453,9 +23198,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1023
+1026
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 }
@@ -23470,9 +23215,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1024
+1027
 ],
-"place": 311,
+"place": 310,
 "text": "",
 "type": "Birth"
 },
@@ -23485,9 +23230,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1024
+1027
 ],
-"place": 310,
+"place": 309,
 "text": "",
 "type": "Death"
 }
@@ -23502,7 +23247,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1025
+1028
 ],
 "place": 0,
 "text": "",
@@ -23517,7 +23262,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1025
+1028
 ],
 "place": 21,
 "text": "",
@@ -23536,9 +23281,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1028
+1031
 ],
-"place": 278,
+"place": 277,
 "text": "",
 "type": "Birth"
 },
@@ -23551,7 +23296,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1028
+1031
 ],
 "place": 385,
 "text": "",
@@ -23568,9 +23313,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1029
+1032
 ],
-"place": 110,
+"place": 108,
 "text": "",
 "type": "Birth"
 },
@@ -23583,11 +23328,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1029,
-1031,
+1032,
 1034,
-1035,
-1036
+1037,
+1038,
+1039
 ],
 "place": 1,
 "text": "",
@@ -23604,9 +23349,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1030
+1033
 ],
-"place": 641,
+"place": 638,
 "text": "",
 "type": "Death"
 }
@@ -23621,9 +23366,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1031
+1034
 ],
-"place": 278,
+"place": 277,
 "text": "",
 "type": "Birth"
 },
@@ -23636,11 +23381,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1029,
-1031,
+1032,
 1034,
-1035,
-1036
+1037,
+1038,
+1039
 ],
 "place": 1,
 "text": "",
@@ -23655,9 +23400,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1031
+1034
 ],
-"place": 283,
+"place": 282,
 "text": "",
 "type": "Death"
 }
@@ -23672,7 +23417,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1032
+1035
 ],
 "place": 257,
 "text": "",
@@ -23687,9 +23432,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1032
+1035
 ],
-"place": 278,
+"place": 277,
 "text": "",
 "type": "Death"
 }
@@ -23704,9 +23449,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1033
+1036
 ],
-"place": 639,
+"place": 636,
 "text": "",
 "type": "Death"
 }
@@ -23721,9 +23466,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1034
+1037
 ],
-"place": 278,
+"place": 277,
 "text": "",
 "type": "Birth"
 },
@@ -23736,11 +23481,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1029,
-1031,
+1032,
 1034,
-1035,
-1036
+1037,
+1038,
+1039
 ],
 "place": 1,
 "text": "",
@@ -23755,7 +23500,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1034
+1037
 ],
 "place": 238,
 "text": "",
@@ -23772,9 +23517,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1035
+1038
 ],
-"place": 109,
+"place": 107,
 "text": "",
 "type": "Birth"
 },
@@ -23787,11 +23532,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1029,
-1031,
+1032,
 1034,
-1035,
-1036
+1037,
+1038,
+1039
 ],
 "place": 1,
 "text": "",
@@ -23806,9 +23551,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1035
+1038
 ],
-"place": 278,
+"place": 277,
 "text": "",
 "type": "Death"
 }
@@ -23823,9 +23568,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1036
+1039
 ],
-"place": 283,
+"place": 282,
 "text": "",
 "type": "Birth"
 },
@@ -23838,11 +23583,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1029,
-1031,
+1032,
 1034,
-1035,
-1036
+1037,
+1038,
+1039
 ],
 "place": 1,
 "text": "",
@@ -23857,9 +23602,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1036
+1039
 ],
-"place": 283,
+"place": 282,
 "text": "",
 "type": "Death"
 }
@@ -23874,9 +23619,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1037
+1040
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -23889,7 +23634,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1037
+1040
 ],
 "place": 156,
 "text": "",
@@ -23906,7 +23651,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1038
+1041
 ],
 "place": -1,
 "text": "",
@@ -23921,7 +23666,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1038
+1041
 ],
 "place": -1,
 "text": "",
@@ -23938,7 +23683,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1039
+1042
 ],
 "place": -1,
 "text": "",
@@ -23955,9 +23700,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1040
+1043
 ],
-"place": 674,
+"place": 670,
 "text": "",
 "type": "Birth"
 }
@@ -23972,7 +23717,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1041
+1044
 ],
 "place": -1,
 "text": "",
@@ -23987,7 +23732,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1041
+1044
 ],
 "place": -1,
 "text": "",
@@ -24004,9 +23749,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1042
+1045
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -24019,7 +23764,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1042
+1045
 ],
 "place": 255,
 "text": "",
@@ -24036,9 +23781,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1043
+1046
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -24051,9 +23796,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1043
+1046
 ],
-"place": 278,
+"place": 277,
 "text": "",
 "type": "Death"
 }
@@ -24068,9 +23813,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1044
+1047
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Baptism"
 },
@@ -24083,9 +23828,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1044
+1047
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -24100,9 +23845,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1045
+1048
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -24115,30 +23860,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1045
+1048
 ],
-"place": 686,
+"place": 683,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1883",
-"date_sdn": 2408812,
-"descr": "",
-"gid": "E3270",
-"media": [],
-"part_family": [],
-"part_person": [
-1046
-],
-"place": 292,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [],
 [
 {
@@ -24150,9 +23879,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1048
+1051
 ],
-"place": 334,
+"place": 333,
 "text": "",
 "type": "Birth"
 },
@@ -24165,7 +23894,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1048
+1051
 ],
 "place": 166,
 "text": "",
@@ -24182,7 +23911,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1049
+1052
 ],
 "place": -1,
 "text": "",
@@ -24197,7 +23926,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1049
+1052
 ],
 "place": -1,
 "text": "",
@@ -24214,9 +23943,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1050
+1053
 ],
-"place": 462,
+"place": 460,
 "text": "",
 "type": "Birth"
 }
@@ -24234,9 +23963,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1054
+1057
 ],
-"place": 622,
+"place": 619,
 "text": "",
 "type": "Birth"
 }
@@ -24251,9 +23980,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1055
+1058
 ],
-"place": 702,
+"place": 699,
 "text": "",
 "type": "Birth"
 },
@@ -24266,7 +23995,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1055
+1058
 ],
 "place": 357,
 "text": "",
@@ -24285,7 +24014,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1058
+1061
 ],
 "place": -1,
 "text": "",
@@ -24300,7 +24029,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1058
+1061
 ],
 "place": -1,
 "text": "",
@@ -24317,7 +24046,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1059
+1062
 ],
 "place": -1,
 "text": "",
@@ -24334,7 +24063,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1060
+1063
 ],
 "place": 131,
 "text": "",
@@ -24349,7 +24078,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1060
+1063
 ],
 "place": -1,
 "text": "",
@@ -24366,7 +24095,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1061
+1064
 ],
 "place": -1,
 "text": "",
@@ -24381,7 +24110,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1061
+1064
 ],
 "place": -1,
 "text": "",
@@ -24399,30 +24128,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1063
+1066
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1905",
-"date_sdn": 2416847,
-"descr": "",
-"gid": "E3406",
-"media": [],
-"part_family": [],
-"part_person": [
-1064
-],
-"place": 183,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -24433,9 +24146,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1065
+1068
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -24448,7 +24161,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1065
+1068
 ],
 "place": -1,
 "text": "",
@@ -24465,7 +24178,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1066
+1069
 ],
 "place": 144,
 "text": "",
@@ -24480,9 +24193,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1066
+1069
 ],
-"place": 650,
+"place": 646,
 "text": "",
 "type": "Death"
 }
@@ -24497,9 +24210,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1067
+1070
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -24512,9 +24225,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1067
+1070
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Death"
 }
@@ -24529,9 +24242,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1068
+1071
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 }
@@ -24546,9 +24259,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1069
+1072
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 }
@@ -24563,9 +24276,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1070
+1073
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 },
@@ -24578,7 +24291,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1070
+1073
 ],
 "place": -1,
 "text": "",
@@ -24595,7 +24308,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1071
+1074
 ],
 "place": -1,
 "text": "",
@@ -24612,9 +24325,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1072
+1075
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 }
@@ -24629,9 +24342,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1073
+1076
 ],
-"place": 430,
+"place": 429,
 "text": "",
 "type": "Birth"
 }
@@ -24648,7 +24361,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1076
+1079
 ],
 "place": -1,
 "text": "",
@@ -24663,9 +24376,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1076
+1079
 ],
-"place": 521,
+"place": 519,
 "text": "",
 "type": "Death"
 }
@@ -24683,9 +24396,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1080
+1083
 ],
-"place": 120,
+"place": 119,
 "text": "",
 "type": "Birth"
 },
@@ -24698,9 +24411,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1080
+1083
 ],
-"place": 508,
+"place": 505,
 "text": "",
 "type": "Death"
 }
@@ -24715,9 +24428,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1081
+1084
 ],
-"place": 580,
+"place": 577,
 "text": "",
 "type": "Birth"
 },
@@ -24730,7 +24443,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1081
+1084
 ],
 "place": 163,
 "text": "",
@@ -24747,9 +24460,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1082
+1085
 ],
-"place": 82,
+"place": 81,
 "text": "",
 "type": "Birth"
 },
@@ -24762,7 +24475,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1082
+1085
 ],
 "place": 254,
 "text": "",
@@ -24783,9 +24496,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1087
+1090
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -24798,9 +24511,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1087
+1090
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -24815,7 +24528,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1088
+1091
 ],
 "place": -1,
 "text": "",
@@ -24834,9 +24547,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1091
+1094
 ],
-"place": 278,
+"place": 277,
 "text": "",
 "type": "Birth"
 }
@@ -24851,9 +24564,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1092
+1095
 ],
-"place": 350,
+"place": 349,
 "text": "",
 "type": "Birth"
 },
@@ -24866,7 +24579,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1092
+1095
 ],
 "place": -1,
 "text": "",
@@ -24883,9 +24596,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1093
+1096
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 },
@@ -24898,7 +24611,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1093
+1096
 ],
 "place": -1,
 "text": "",
@@ -24916,7 +24629,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1095
+1098
 ],
 "place": 230,
 "text": "",
@@ -24931,9 +24644,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1095
+1098
 ],
-"place": 701,
+"place": 698,
 "text": "",
 "type": "Death"
 }
@@ -24953,7 +24666,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1101
+1104
 ],
 "place": -1,
 "text": "",
@@ -24968,7 +24681,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1101
+1104
 ],
 "place": -1,
 "text": "",
@@ -24985,9 +24698,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1102
+1105
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 }
@@ -25002,9 +24715,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1103
+1106
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 }
@@ -25019,9 +24732,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1104
+1107
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 }
@@ -25040,7 +24753,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1109
+1112
 ],
 "place": -1,
 "text": "",
@@ -25061,9 +24774,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1114
+1117
 ],
-"place": 352,
+"place": 351,
 "text": "",
 "type": "Death"
 }
@@ -25078,9 +24791,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1115
+1118
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Birth"
 },
@@ -25093,9 +24806,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1115
+1118
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Death"
 }
@@ -25110,7 +24823,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1116
+1119
 ],
 "place": -1,
 "text": "",
@@ -25125,7 +24838,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1116
+1119
 ],
 "place": -1,
 "text": "",
@@ -25143,7 +24856,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1118
+1121
 ],
 "place": -1,
 "text": "",
@@ -25158,7 +24871,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1118
+1121
 ],
 "place": -1,
 "text": "",
@@ -25176,9 +24889,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1120
+1123
 ],
-"place": 602,
+"place": 599,
 "text": "",
 "type": "Birth"
 },
@@ -25191,9 +24904,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1120
+1123
 ],
-"place": 73,
+"place": 72,
 "text": "",
 "type": "Residence"
 }
@@ -25208,7 +24921,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1121
+1124
 ],
 "place": 379,
 "text": "",
@@ -25223,7 +24936,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1121
+1124
 ],
 "place": 146,
 "text": "",
@@ -25240,9 +24953,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1122
+1125
 ],
-"place": 630,
+"place": 627,
 "text": "",
 "type": "Birth"
 },
@@ -25255,9 +24968,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1122
+1125
 ],
-"place": 73,
+"place": 72,
 "text": "",
 "type": "Residence"
 },
@@ -25270,9 +24983,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1122
+1125
 ],
-"place": 308,
+"place": 307,
 "text": "",
 "type": "Death"
 }
@@ -25287,9 +25000,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1123
+1126
 ],
-"place": 602,
+"place": 599,
 "text": "",
 "type": "Birth"
 },
@@ -25302,9 +25015,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1123
+1126
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Death"
 },
@@ -25317,9 +25030,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1123
+1126
 ],
-"place": 314,
+"place": 313,
 "text": "",
 "type": "Burial"
 },
@@ -25332,9 +25045,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1123
+1126
 ],
-"place": 73,
+"place": 72,
 "text": "",
 "type": "Residence"
 }
@@ -25349,9 +25062,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1124
+1127
 ],
-"place": 602,
+"place": 599,
 "text": "",
 "type": "Birth"
 }
@@ -25366,7 +25079,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1125
+1128
 ],
 "place": 379,
 "text": "",
@@ -25381,7 +25094,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1125
+1128
 ],
 "place": -1,
 "text": "",
@@ -25398,9 +25111,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1126
+1129
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 }
@@ -25415,9 +25128,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1127
+1130
 ],
-"place": 326,
+"place": 325,
 "text": "",
 "type": "Birth"
 },
@@ -25430,9 +25143,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1127
+1130
 ],
-"place": 184,
+"place": 183,
 "text": "",
 "type": "Death"
 }
@@ -25447,9 +25160,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1128
+1131
 ],
-"place": 602,
+"place": 599,
 "text": "",
 "type": "Birth"
 },
@@ -25462,7 +25175,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1128
+1131
 ],
 "place": -1,
 "text": "",
@@ -25479,9 +25192,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1129
+1132
 ],
-"place": 602,
+"place": 599,
 "text": "",
 "type": "Birth"
 },
@@ -25494,9 +25207,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1129
+1132
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Residence"
 },
@@ -25509,7 +25222,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1129
+1132
 ],
 "place": 23,
 "text": "",
@@ -25526,9 +25239,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1130
+1133
 ],
-"place": 326,
+"place": 325,
 "text": "",
 "type": "Birth"
 },
@@ -25541,9 +25254,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1130
+1133
 ],
-"place": 644,
+"place": 640,
 "text": "",
 "type": "Death"
 }
@@ -25558,9 +25271,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1131
+1134
 ],
-"place": 326,
+"place": 325,
 "text": "",
 "type": "Birth"
 },
@@ -25573,9 +25286,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1131
+1134
 ],
-"place": 489,
+"place": 486,
 "text": "",
 "type": "Death"
 }
@@ -25590,9 +25303,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1132
+1135
 ],
-"place": 602,
+"place": 599,
 "text": "",
 "type": "Birth"
 },
@@ -25605,9 +25318,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1132
+1135
 ],
-"place": 73,
+"place": 72,
 "text": "",
 "type": "Residence"
 }
@@ -25622,7 +25335,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1133
+1136
 ],
 "place": 358,
 "text": "",
@@ -25637,7 +25350,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1133
+1136
 ],
 "place": 242,
 "text": "",
@@ -25655,7 +25368,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1135
+1138
 ],
 "place": 358,
 "text": "",
@@ -25670,7 +25383,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1135
+1138
 ],
 "place": -1,
 "text": "",
@@ -25687,30 +25400,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1136
+1139
 ],
 "place": -1,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1879",
-"date_sdn": 2407351,
-"descr": "",
-"gid": "E3461",
-"media": [],
-"part_family": [],
-"part_person": [
-1137
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [],
 [
 {
@@ -25722,9 +25419,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1139
+1142
 ],
-"place": 326,
+"place": 325,
 "text": "",
 "type": "Birth"
 }
@@ -25740,7 +25437,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1141
+1144
 ],
 "place": -1,
 "text": "",
@@ -25757,9 +25454,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1142
+1145
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 },
@@ -25772,9 +25469,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1142
+1145
 ],
-"place": 286,
+"place": 285,
 "text": "",
 "type": "Death"
 }
@@ -25789,7 +25486,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1143
+1146
 ],
 "place": -1,
 "text": "",
@@ -25797,14 +25494,14 @@ I_events_0 = [
 },
 {
 "cita": [],
-"date": "calculated between 1811 and 1895",
+"date": "calculated between 1811 and 1866",
 "date_sdn": 2382514,
 "descr": "",
 "gid": "E2445",
 "media": [],
 "part_family": [],
 "part_person": [
-1143
+1146
 ],
 "place": -1,
 "text": "",
@@ -25822,9 +25519,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1145
+1148
 ],
-"place": 275,
+"place": 274,
 "text": "",
 "type": "Birth"
 },
@@ -25837,7 +25534,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1145
+1148
 ],
 "place": 143,
 "text": "",
@@ -25855,9 +25552,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1147
+1150
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 }
@@ -25872,9 +25569,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1148
+1151
 ],
-"place": 350,
+"place": 349,
 "text": "",
 "type": "Birth"
 },
@@ -25887,7 +25584,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1148
+1151
 ],
 "place": -1,
 "text": "",
@@ -25904,9 +25601,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1149
+1152
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -25919,7 +25616,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1149
+1152
 ],
 "place": -1,
 "text": "",
@@ -25936,9 +25633,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1150
+1153
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -25951,9 +25648,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1150
+1153
 ],
-"place": 683,
+"place": 680,
 "text": "",
 "type": "Death"
 }
@@ -25968,9 +25665,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1151
+1154
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -25983,9 +25680,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1151
+1154
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -26000,9 +25697,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1152
+1155
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -26017,9 +25714,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1153
+1156
 ],
-"place": 350,
+"place": 349,
 "text": "",
 "type": "Birth"
 },
@@ -26032,9 +25729,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1153
+1156
 ],
-"place": 350,
+"place": 349,
 "text": "",
 "type": "Death"
 }
@@ -26049,7 +25746,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1154
+1157
 ],
 "place": -1,
 "text": "",
@@ -26064,7 +25761,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1154
+1157
 ],
 "place": -1,
 "text": "",
@@ -26081,9 +25778,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1155
+1158
 ],
-"place": 433,
+"place": 432,
 "text": "",
 "type": "Birth"
 },
@@ -26096,9 +25793,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1155
+1158
 ],
-"place": 433,
+"place": 432,
 "text": "",
 "type": "Death"
 }
@@ -26113,9 +25810,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1156
+1159
 ],
-"place": 93,
+"place": 92,
 "text": "",
 "type": "Birth"
 },
@@ -26128,9 +25825,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1156
+1159
 ],
-"place": 533,
+"place": 530,
 "text": "",
 "type": "Death"
 }
@@ -26145,9 +25842,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1157
+1160
 ],
-"place": 322,
+"place": 321,
 "text": "",
 "type": "Birth"
 },
@@ -26160,9 +25857,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1157
+1160
 ],
-"place": 486,
+"place": 483,
 "text": "",
 "type": "Death"
 }
@@ -26178,7 +25875,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1159
+1162
 ],
 "place": 378,
 "text": "",
@@ -26193,9 +25890,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1159
+1162
 ],
-"place": 418,
+"place": 417,
 "text": "",
 "type": "Death"
 }
@@ -26210,7 +25907,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1160
+1163
 ],
 "place": -1,
 "text": "",
@@ -26225,7 +25922,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1160
+1163
 ],
 "place": -1,
 "text": "",
@@ -26240,7 +25937,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1160
+1163
 ],
 "place": 164,
 "text": "",
@@ -26257,9 +25954,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1161
+1164
 ],
-"place": 341,
+"place": 340,
 "text": "",
 "type": "Birth"
 }
@@ -26276,7 +25973,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1164
+1167
 ],
 "place": -1,
 "text": "",
@@ -26293,9 +25990,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1165
+1168
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 }
@@ -26310,7 +26007,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1166
+1169
 ],
 "place": -1,
 "text": "",
@@ -26328,7 +26025,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1168
+1171
 ],
 "place": 251,
 "text": "",
@@ -26345,9 +26042,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1169
+1172
 ],
-"place": 487,
+"place": 484,
 "text": "",
 "type": "Birth"
 },
@@ -26360,7 +26057,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1169
+1172
 ],
 "place": -1,
 "text": "",
@@ -26377,9 +26074,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1170
+1173
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 },
@@ -26392,9 +26089,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1170
+1173
 ],
-"place": 332,
+"place": 331,
 "text": "",
 "type": "Death"
 }
@@ -26409,9 +26106,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1171
+1174
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Birth"
 },
@@ -26424,9 +26121,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1171
+1174
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Death"
 }
@@ -26441,9 +26138,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1172
+1175
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 },
@@ -26456,9 +26153,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1172
+1175
 ],
-"place": 75,
+"place": 74,
 "text": "",
 "type": "Death"
 },
@@ -26471,9 +26168,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1172
+1175
 ],
-"place": 671,
+"place": 667,
 "text": "",
 "type": "Burial"
 }
@@ -26488,9 +26185,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1173
+1176
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 },
@@ -26503,7 +26200,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1173
+1176
 ],
 "place": -1,
 "text": "",
@@ -26520,9 +26217,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1174
+1177
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -26535,9 +26232,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1174
+1177
 ],
-"place": 283,
+"place": 282,
 "text": "",
 "type": "Death"
 }
@@ -26552,9 +26249,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1175
+1178
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 },
@@ -26567,9 +26264,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1175
+1178
 ],
-"place": 48,
+"place": 47,
 "text": "",
 "type": "Death"
 }
@@ -26584,9 +26281,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1176
+1179
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 },
@@ -26599,9 +26296,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1176
+1179
 ],
-"place": 270,
+"place": 269,
 "text": "",
 "type": "Death"
 }
@@ -26616,9 +26313,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1177
+1180
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -26631,9 +26328,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1177
+1180
 ],
-"place": 467,
+"place": 466,
 "text": "",
 "type": "Death"
 }
@@ -26648,9 +26345,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1178
+1181
 ],
-"place": 462,
+"place": 460,
 "text": "",
 "type": "Birth"
 },
@@ -26663,9 +26360,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1178
+1181
 ],
-"place": 512,
+"place": 509,
 "text": "",
 "type": "Death"
 },
@@ -26678,7 +26375,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1178
+1181
 ],
 "place": 365,
 "text": "",
@@ -26693,9 +26390,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1178
+1181
 ],
-"place": 620,
+"place": 617,
 "text": "",
 "type": "Christening"
 },
@@ -26708,9 +26405,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1178
+1181
 ],
-"place": 462,
+"place": 460,
 "text": "",
 "type": "Residence"
 },
@@ -26723,9 +26420,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1178
+1181
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Residence"
 }
@@ -26740,9 +26437,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1179
+1182
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -26755,9 +26452,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1179
+1182
 ],
-"place": 467,
+"place": 466,
 "text": "",
 "type": "Death"
 }
@@ -26772,9 +26469,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1180
+1183
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 },
@@ -26787,9 +26484,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1180
+1183
 ],
-"place": 407,
+"place": 406,
 "text": "",
 "type": "Death"
 }
@@ -26804,9 +26501,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1181
+1184
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 }
@@ -26821,9 +26518,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1182
+1185
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 },
@@ -26836,9 +26533,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1182
+1185
 ],
-"place": 512,
+"place": 509,
 "text": "",
 "type": "Death"
 }
@@ -26853,9 +26550,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1183
+1186
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -26868,9 +26565,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1183
+1186
 ],
-"place": 335,
+"place": 334,
 "text": "",
 "type": "Death"
 }
@@ -26885,9 +26582,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1184
+1187
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -26900,7 +26597,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1184
+1187
 ],
 "place": 375,
 "text": "",
@@ -26917,9 +26614,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1185
+1188
 ],
-"place": 299,
+"place": 298,
 "text": "",
 "type": "Birth"
 },
@@ -26932,9 +26629,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1185
+1188
 ],
-"place": 462,
+"place": 460,
 "text": "",
 "type": "Death"
 }
@@ -26949,9 +26646,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1186
+1189
 ],
-"place": 295,
+"place": 294,
 "text": "",
 "type": "Birth"
 }
@@ -26966,9 +26663,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1187
+1190
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -26983,9 +26680,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1188
+1191
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -27000,9 +26697,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1189
+1192
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -27017,9 +26714,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1190
+1193
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 },
@@ -27032,9 +26729,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1190
+1193
 ],
-"place": 624,
+"place": 621,
 "text": "",
 "type": "Death"
 }
@@ -27049,9 +26746,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1191
+1194
 ],
-"place": 295,
+"place": 294,
 "text": "",
 "type": "Birth"
 }
@@ -27066,9 +26763,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1192
+1195
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -27083,9 +26780,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1193
+1196
 ],
-"place": 295,
+"place": 294,
 "text": "",
 "type": "Birth"
 }
@@ -27100,9 +26797,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1194
+1197
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -27117,9 +26814,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1195
+1198
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -27134,7 +26831,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1196
+1199
 ],
 "place": -1,
 "text": "",
@@ -27151,7 +26848,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1197
+1200
 ],
 "place": -1,
 "text": "",
@@ -27166,7 +26863,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1197
+1200
 ],
 "place": -1,
 "text": "",
@@ -27183,7 +26880,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1198
+1201
 ],
 "place": -1,
 "text": "",
@@ -27198,9 +26895,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1198
+1201
 ],
-"place": 601,
+"place": 598,
 "text": "",
 "type": "Burial"
 }
@@ -27215,7 +26912,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1199
+1202
 ],
 "place": -1,
 "text": "",
@@ -27230,7 +26927,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1199
+1202
 ],
 "place": -1,
 "text": "",
@@ -27247,7 +26944,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1200
+1203
 ],
 "place": -1,
 "text": "",
@@ -27264,9 +26961,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1201
+1204
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -27279,7 +26976,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1201
+1204
 ],
 "place": -1,
 "text": "",
@@ -27296,7 +26993,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1202
+1205
 ],
 "place": -1,
 "text": "",
@@ -27313,7 +27010,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1203
+1206
 ],
 "place": -1,
 "text": "",
@@ -27330,7 +27027,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1204
+1207
 ],
 "place": -1,
 "text": "",
@@ -27345,34 +27042,18 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-320,
-350,
-361,
-755,
-1204
+323,
+353,
+364,
+758,
+1207
 ],
-"place": 291,
+"place": 290,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1902",
-"date_sdn": 2415751,
-"descr": "",
-"gid": "E3463",
-"media": [],
-"part_family": [],
-"part_person": [
-1205
-],
-"place": 292,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -27383,7 +27064,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1206
+1209
 ],
 "place": -1,
 "text": "",
@@ -27400,7 +27081,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1207
+1210
 ],
 "place": -1,
 "text": "",
@@ -27415,7 +27096,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1207
+1210
 ],
 "place": -1,
 "text": "",
@@ -27432,7 +27113,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1208
+1211
 ],
 "place": -1,
 "text": "",
@@ -27449,7 +27130,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1209
+1212
 ],
 "place": -1,
 "text": "",
@@ -27466,7 +27147,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1210
+1213
 ],
 "place": -1,
 "text": "",
@@ -27481,7 +27162,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1210
+1213
 ],
 "place": -1,
 "text": "",
@@ -27498,7 +27179,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1211
+1214
 ],
 "place": -1,
 "text": "",
@@ -27515,7 +27196,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1212
+1215
 ],
 "place": -1,
 "text": "",
@@ -27532,9 +27213,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1213
+1216
 ],
-"place": 344,
+"place": 343,
 "text": "",
 "type": "Birth"
 },
@@ -27547,7 +27228,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1213
+1216
 ],
 "place": -1,
 "text": "",
@@ -27564,7 +27245,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1214
+1217
 ],
 "place": -1,
 "text": "",
@@ -27581,7 +27262,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1215
+1218
 ],
 "place": -1,
 "text": "",
@@ -27596,9 +27277,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1215
+1218
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Death"
 }
@@ -27613,9 +27294,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1216
+1219
 ],
-"place": 511,
+"place": 508,
 "text": "",
 "type": "Birth"
 },
@@ -27628,9 +27309,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1216
+1219
 ],
-"place": 203,
+"place": 202,
 "text": "",
 "type": "Death"
 }
@@ -27645,7 +27326,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1217
+1220
 ],
 "place": -1,
 "text": "",
@@ -27660,7 +27341,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1217
+1220
 ],
 "place": -1,
 "text": "",
@@ -27678,7 +27359,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1219
+1222
 ],
 "place": -1,
 "text": "",
@@ -27695,9 +27376,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1220
+1223
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -27710,7 +27391,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1220
+1223
 ],
 "place": -1,
 "text": "",
@@ -27727,7 +27408,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1221
+1224
 ],
 "place": -1,
 "text": "",
@@ -27745,7 +27426,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1223
+1226
 ],
 "place": 145,
 "text": "",
@@ -27760,7 +27441,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1223
+1226
 ],
 "place": -1,
 "text": "",
@@ -27777,7 +27458,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1224
+1227
 ],
 "place": -1,
 "text": "",
@@ -27792,7 +27473,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1224
+1227
 ],
 "place": -1,
 "text": "",
@@ -27809,7 +27490,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1225
+1228
 ],
 "place": -1,
 "text": "",
@@ -27827,7 +27508,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1227
+1230
 ],
 "place": -1,
 "text": "",
@@ -27842,7 +27523,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1227
+1230
 ],
 "place": -1,
 "text": "",
@@ -27857,9 +27538,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1227
+1230
 ],
-"place": 674,
+"place": 670,
 "text": "",
 "type": "Residence"
 }
@@ -27874,7 +27555,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1228
+1231
 ],
 "place": 146,
 "text": "",
@@ -27891,7 +27572,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1229
+1232
 ],
 "place": 146,
 "text": "",
@@ -27908,7 +27589,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1230
+1233
 ],
 "place": 146,
 "text": "",
@@ -27925,7 +27606,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1231
+1234
 ],
 "place": 146,
 "text": "",
@@ -27942,9 +27623,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1232
+1235
 ],
-"place": 85,
+"place": 84,
 "text": "",
 "type": "Birth"
 },
@@ -27957,7 +27638,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1232
+1235
 ],
 "place": -1,
 "text": "",
@@ -27974,7 +27655,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1233
+1236
 ],
 "place": 146,
 "text": "",
@@ -27991,9 +27672,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1234
+1237
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 }
@@ -28009,9 +27690,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1236
+1239
 ],
-"place": 699,
+"place": 696,
 "text": "",
 "type": "Birth"
 }
@@ -28027,9 +27708,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1238
+1241
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -28042,7 +27723,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1238
+1241
 ],
 "place": -1,
 "text": "",
@@ -28059,7 +27740,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1239
+1242
 ],
 "place": 247,
 "text": "",
@@ -28074,7 +27755,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1239
+1242
 ],
 "place": -1,
 "text": "",
@@ -28091,7 +27772,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1240
+1243
 ],
 "place": -1,
 "text": "",
@@ -28108,7 +27789,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1241
+1244
 ],
 "place": 145,
 "text": "",
@@ -28127,9 +27808,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1244
+1247
 ],
-"place": 622,
+"place": 619,
 "text": "",
 "type": "Birth"
 }
@@ -28144,7 +27825,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1245
+1248
 ],
 "place": 145,
 "text": "",
@@ -28159,7 +27840,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1245
+1248
 ],
 "place": 145,
 "text": "",
@@ -28176,7 +27857,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1246
+1249
 ],
 "place": -1,
 "text": "",
@@ -28193,7 +27874,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1247
+1250
 ],
 "place": 145,
 "text": "",
@@ -28210,7 +27891,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1248
+1251
 ],
 "place": 145,
 "text": "",
@@ -28225,9 +27906,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1248
+1251
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Death"
 }
@@ -28242,7 +27923,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1249
+1252
 ],
 "place": 145,
 "text": "",
@@ -28259,7 +27940,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1250
+1253
 ],
 "place": 145,
 "text": "",
@@ -28276,7 +27957,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1251
+1254
 ],
 "place": -1,
 "text": "",
@@ -28291,7 +27972,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1251
+1254
 ],
 "place": -1,
 "text": "",
@@ -28308,7 +27989,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1252
+1255
 ],
 "place": -1,
 "text": "",
@@ -28325,9 +28006,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1253
+1256
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Birth"
 }
@@ -28342,7 +28023,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1254
+1257
 ],
 "place": 145,
 "text": "",
@@ -28357,9 +28038,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1254
+1257
 ],
-"place": 311,
+"place": 310,
 "text": "",
 "type": "Death"
 }
@@ -28374,7 +28055,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1255
+1258
 ],
 "place": 145,
 "text": "",
@@ -28391,9 +28072,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1256
+1259
 ],
-"place": 519,
+"place": 517,
 "text": "",
 "type": "Birth"
 }
@@ -28408,7 +28089,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1257
+1260
 ],
 "place": -1,
 "text": "",
@@ -28423,7 +28104,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1257
+1260
 ],
 "place": -1,
 "text": "",
@@ -28442,7 +28123,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1260
+1263
 ],
 "place": 373,
 "text": "",
@@ -28457,7 +28138,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1260
+1263
 ],
 "place": 132,
 "text": "",
@@ -28475,7 +28156,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1262
+1265
 ],
 "place": -1,
 "text": "",
@@ -28490,7 +28171,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1262
+1265
 ],
 "place": -1,
 "text": "",
@@ -28507,7 +28188,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1263
+1266
 ],
 "place": -1,
 "text": "",
@@ -28522,7 +28203,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1263
+1266
 ],
 "place": -1,
 "text": "",
@@ -28540,9 +28221,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1265
+1268
 ],
-"place": 350,
+"place": 349,
 "text": "",
 "type": "Birth"
 },
@@ -28555,9 +28236,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1265
+1268
 ],
-"place": 87,
+"place": 86,
 "text": "",
 "type": "Death"
 }
@@ -28572,7 +28253,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1266
+1269
 ],
 "place": 146,
 "text": "",
@@ -28590,9 +28271,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1268
+1271
 ],
-"place": 682,
+"place": 679,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBorn in West Ham Union\n</p>\n</div>\n</div>",
 "type": "Birth"
 }
@@ -28607,7 +28288,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1269
+1272
 ],
 "place": 0,
 "text": "",
@@ -28622,7 +28303,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1269
+1272
 ],
 "place": 0,
 "text": "",
@@ -28639,9 +28320,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1270
+1273
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -28654,7 +28335,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1270
+1273
 ],
 "place": 229,
 "text": "",
@@ -28669,9 +28350,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1270
+1273
 ],
-"place": 575,
+"place": 572,
 "text": "",
 "type": "Residence"
 }
@@ -28686,9 +28367,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1271
+1274
 ],
-"place": 95,
+"place": 94,
 "text": "",
 "type": "Birth"
 },
@@ -28701,9 +28382,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1271
+1274
 ],
-"place": 684,
+"place": 681,
 "text": "",
 "type": "Death"
 }
@@ -28719,9 +28400,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1273
+1276
 ],
-"place": 350,
+"place": 349,
 "text": "",
 "type": "Birth"
 }
@@ -28736,7 +28417,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1274
+1277
 ],
 "place": -1,
 "text": "",
@@ -28751,7 +28432,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1274
+1277
 ],
 "place": -1,
 "text": "",
@@ -28761,23 +28442,7 @@ I_events_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "about 1889",
-"date_sdn": 2411004,
-"descr": "",
-"gid": "E2796",
-"media": [],
-"part_family": [],
-"part_person": [
-1278
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [],
 [
 {
@@ -28789,9 +28454,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1280
+1283
 ],
-"place": 96,
+"place": 95,
 "text": "",
 "type": "Birth"
 },
@@ -28804,13 +28469,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1280
+1283
 ],
 "place": 358,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [
 {
 "cita": [],
@@ -28821,9 +28487,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1281
+1285
 ],
-"place": 625,
+"place": 622,
 "text": "",
 "type": "Birth"
 },
@@ -28836,9 +28502,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1281
+1285
 ],
-"place": 709,
+"place": 705,
 "text": "",
 "type": "Death"
 },
@@ -28851,14 +28517,60 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1281
+1285
 ],
 "place": -1,
 "text": "",
 "type": "Marriage"
+},
+{
+"cita": [],
+"date": "22 June 1817",
+"date_sdn": 2384878,
+"descr": "",
+"gid": "E0166",
+"media": [],
+"part_family": [],
+"part_person": [
+1285
+],
+"place": 97,
+"text": "",
+"type": "Baptism"
 }
 ],
-[],
+[
+{
+"cita": [],
+"date": "1780",
+"date_sdn": 2371192,
+"descr": "",
+"gid": "E0171",
+"media": [],
+"part_family": [],
+"part_person": [
+1286
+],
+"place": 622,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "19 March 1780",
+"date_sdn": 2371270,
+"descr": "",
+"gid": "E0459",
+"media": [],
+"part_family": [],
+"part_person": [
+1286
+],
+"place": 111,
+"text": "",
+"type": "Baptism"
+}
+],
 [
 {
 "cita": [],
@@ -28869,7 +28581,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1283
+1287
 ],
 "place": 0,
 "text": "",
@@ -28886,9 +28598,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1284
+1288
 ],
-"place": 87,
+"place": 86,
 "text": "",
 "type": "Birth"
 },
@@ -28901,9 +28613,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1284
+1288
 ],
-"place": 87,
+"place": 86,
 "text": "",
 "type": "Death"
 }
@@ -28918,9 +28630,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1285
+1289
 ],
-"place": 350,
+"place": 349,
 "text": "",
 "type": "Birth"
 },
@@ -28933,9 +28645,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1285
+1289
 ],
-"place": 350,
+"place": 349,
 "text": "",
 "type": "Death"
 }
@@ -28950,7 +28662,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1286
+1290
 ],
 "place": -1,
 "text": "",
@@ -28965,7 +28677,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1286
+1290
 ],
 "place": -1,
 "text": "",
@@ -28982,9 +28694,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1287
+1291
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 },
@@ -28997,9 +28709,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1287
+1291
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Death"
 }
@@ -29014,9 +28726,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1288
+1292
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 },
@@ -29029,7 +28741,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1288
+1292
 ],
 "place": 384,
 "text": "",
@@ -29046,9 +28758,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1289
+1293
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 },
@@ -29061,9 +28773,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1289
+1293
 ],
-"place": 568,
+"place": 565,
 "text": "",
 "type": "Death"
 }
@@ -29078,7 +28790,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1290
+1294
 ],
 "place": -1,
 "text": "",
@@ -29093,7 +28805,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1290
+1294
 ],
 "place": -1,
 "text": "",
@@ -29110,9 +28822,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1291
+1295
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 },
@@ -29125,7 +28837,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1291
+1295
 ],
 "place": -1,
 "text": "",
@@ -29140,9 +28852,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1291
+1295
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Baptism"
 }
@@ -29157,9 +28869,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1292
+1296
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 }
@@ -29174,7 +28886,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1293
+1297
 ],
 "place": -1,
 "text": "",
@@ -29189,7 +28901,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1293
+1297
 ],
 "place": -1,
 "text": "",
@@ -29207,7 +28919,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1295
+1299
 ],
 "place": -1,
 "text": "",
@@ -29222,7 +28934,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1295
+1299
 ],
 "place": -1,
 "text": "",
@@ -29239,9 +28951,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1296
+1300
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 },
@@ -29254,9 +28966,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1296
+1300
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Death"
 }
@@ -29271,7 +28983,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1297
+1301
 ],
 "place": -1,
 "text": "",
@@ -29286,7 +28998,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1297
+1301
 ],
 "place": -1,
 "text": "",
@@ -29301,7 +29013,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1297
+1301
 ],
 "place": -1,
 "text": "",
@@ -29318,9 +29030,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1298
+1302
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 }
@@ -29335,9 +29047,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1299
+1303
 ],
-"place": 91,
+"place": 90,
 "text": "",
 "type": "Birth"
 },
@@ -29350,9 +29062,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1299
+1303
 ],
-"place": 483,
+"place": 481,
 "text": "",
 "type": "Death"
 }
@@ -29367,9 +29079,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1300
+1304
 ],
-"place": 477,
+"place": 475,
 "text": "",
 "type": "Birth"
 }
@@ -29384,7 +29096,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1301
+1305
 ],
 "place": 172,
 "text": "",
@@ -29402,7 +29114,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1303
+1307
 ],
 "place": 0,
 "text": "",
@@ -29417,7 +29129,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1303
+1307
 ],
 "place": 0,
 "text": "",
@@ -29434,7 +29146,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1304
+1308
 ],
 "place": 159,
 "text": "",
@@ -29449,7 +29161,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1304
+1308
 ],
 "place": -1,
 "text": "",
@@ -29466,7 +29178,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1305
+1309
 ],
 "place": -1,
 "text": "",
@@ -29481,7 +29193,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1305
+1309
 ],
 "place": -1,
 "text": "",
@@ -29499,9 +29211,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1307
+1311
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Birth"
 },
@@ -29514,7 +29226,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1307
+1311
 ],
 "place": -1,
 "text": "",
@@ -29531,9 +29243,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1308
+1312
 ],
-"place": 573,
+"place": 570,
 "text": "",
 "type": "Birth"
 }
@@ -29548,9 +29260,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1309
+1313
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Birth"
 },
@@ -29563,7 +29275,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1309
+1313
 ],
 "place": -1,
 "text": "",
@@ -29580,7 +29292,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1310
+1314
 ],
 "place": 141,
 "text": "",
@@ -29595,9 +29307,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1310
+1314
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Death"
 }
@@ -29612,7 +29324,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1311
+1315
 ],
 "place": 141,
 "text": "",
@@ -29627,7 +29339,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1311
+1315
 ],
 "place": 142,
 "text": "",
@@ -29644,9 +29356,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1312
+1316
 ],
-"place": 480,
+"place": 478,
 "text": "",
 "type": "Birth"
 },
@@ -29659,9 +29371,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1312
+1316
 ],
-"place": 648,
+"place": 644,
 "text": "",
 "type": "Death"
 }
@@ -29676,9 +29388,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1313
+1317
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Birth"
 }
@@ -29693,9 +29405,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1314
+1318
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Birth"
 },
@@ -29708,7 +29420,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1314
+1318
 ],
 "place": -1,
 "text": "",
@@ -29725,7 +29437,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1315
+1319
 ],
 "place": 141,
 "text": "",
@@ -29742,7 +29454,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1316
+1320
 ],
 "place": 141,
 "text": "",
@@ -29757,9 +29469,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1316
+1320
 ],
-"place": 274,
+"place": 273,
 "text": "",
 "type": "Death"
 }
@@ -29774,9 +29486,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1317
+1321
 ],
-"place": 573,
+"place": 570,
 "text": "",
 "type": "Birth"
 }
@@ -29791,7 +29503,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1318
+1322
 ],
 "place": 141,
 "text": "",
@@ -29808,9 +29520,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1319
+1323
 ],
-"place": 573,
+"place": 570,
 "text": "",
 "type": "Birth"
 }
@@ -29825,7 +29537,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1320
+1324
 ],
 "place": 141,
 "text": "",
@@ -29840,30 +29552,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1320
+1324
 ],
 "place": 360,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1872",
-"date_sdn": 2404794,
-"descr": "",
-"gid": "E2164",
-"media": [],
-"part_family": [],
-"part_person": [
-1321
-],
-"place": 423,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -29874,9 +29570,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1322
+1326
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Birth"
 }
@@ -29891,7 +29587,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1323
+1327
 ],
 "place": 141,
 "text": "",
@@ -29906,9 +29602,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1323
+1327
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Death"
 }
@@ -29923,9 +29619,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1324
+1328
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Birth"
 },
@@ -29938,7 +29634,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1324
+1328
 ],
 "place": -1,
 "text": "",
@@ -29955,7 +29651,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1325
+1329
 ],
 "place": 141,
 "text": "",
@@ -29972,7 +29668,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1326
+1330
 ],
 "place": 141,
 "text": "",
@@ -29989,30 +29685,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1327
+1331
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1871",
-"date_sdn": 2404429,
-"descr": "",
-"gid": "E1734",
-"media": [],
-"part_family": [],
-"part_person": [
-1328
-],
-"place": 471,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -30023,9 +29703,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1329
+1333
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -30040,7 +29720,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1330
+1334
 ],
 "place": 132,
 "text": "",
@@ -30055,9 +29735,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1330
+1334
 ],
-"place": 278,
+"place": 277,
 "text": "",
 "type": "Death"
 },
@@ -30070,30 +29750,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1330
+1334
 ],
-"place": 302,
+"place": 301,
 "text": "",
 "type": "Residence"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1875",
-"date_sdn": 2405890,
-"descr": "",
-"gid": "E1736",
-"media": [],
-"part_family": [],
-"part_person": [
-1331
-],
-"place": 132,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -30104,9 +29768,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1332
+1336
 ],
-"place": 627,
+"place": 624,
 "text": "",
 "type": "Birth"
 }
@@ -30121,7 +29785,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1333
+1337
 ],
 "place": 132,
 "text": "",
@@ -30138,9 +29802,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1334
+1338
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 },
@@ -30153,7 +29817,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1334
+1338
 ],
 "place": -1,
 "text": "",
@@ -30170,7 +29834,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1335
+1339
 ],
 "place": 132,
 "text": "",
@@ -30185,9 +29849,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1335
+1339
 ],
-"place": 498,
+"place": 495,
 "text": "",
 "type": "Death"
 },
@@ -30200,9 +29864,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1335
+1339
 ],
-"place": 614,
+"place": 611,
 "text": "",
 "type": "Baptism"
 }
@@ -30217,7 +29881,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1336
+1340
 ],
 "place": 132,
 "text": "",
@@ -30232,9 +29896,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1336
+1340
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Death"
 }
@@ -30249,7 +29913,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1337
+1341
 ],
 "place": 135,
 "text": "",
@@ -30264,7 +29928,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1337
+1341
 ],
 "place": 241,
 "text": "",
@@ -30281,7 +29945,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1338
+1342
 ],
 "place": 132,
 "text": "",
@@ -30298,9 +29962,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1339
+1343
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -30315,9 +29979,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1340
+1344
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 },
@@ -30330,30 +29994,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1340
+1344
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1880",
-"date_sdn": 2407716,
-"descr": "",
-"gid": "E1737",
-"media": [],
-"part_family": [],
-"part_person": [
-1341
-],
-"place": 132,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -30364,30 +30012,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1342
+1346
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1873",
-"date_sdn": 2405160,
-"descr": "",
-"gid": "E1735",
-"media": [],
-"part_family": [],
-"part_person": [
-1343
-],
-"place": 132,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -30398,7 +30030,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1344
+1348
 ],
 "place": 132,
 "text": "",
@@ -30416,7 +30048,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1346
+1350
 ],
 "place": -1,
 "text": "",
@@ -30431,9 +30063,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1346
+1350
 ],
-"place": 689,
+"place": 686,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDied in the Whitechapel union workhouse\n</p>\n</div>\n</div>",
 "type": "Death"
 }
@@ -30448,7 +30080,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1347
+1351
 ],
 "place": -1,
 "text": "",
@@ -30463,7 +30095,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1347
+1351
 ],
 "place": -1,
 "text": "",
@@ -30480,9 +30112,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1348
+1352
 ],
-"place": 306,
+"place": 305,
 "text": "",
 "type": "Birth"
 }
@@ -30497,7 +30129,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1349
+1353
 ],
 "place": -1,
 "text": "",
@@ -30515,9 +30147,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1351
+1355
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 },
@@ -30530,9 +30162,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1351
+1355
 ],
-"place": 203,
+"place": 202,
 "text": "",
 "type": "Death"
 }
@@ -30550,9 +30182,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1355
+1359
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 }
@@ -30567,9 +30199,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1356
+1360
 ],
-"place": 306,
+"place": 305,
 "text": "",
 "type": "Birth"
 }
@@ -30584,7 +30216,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1357
+1361
 ],
 "place": -1,
 "text": "",
@@ -30599,7 +30231,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1357
+1361
 ],
 "place": -1,
 "text": "",
@@ -30617,9 +30249,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1359
+1363
 ],
-"place": 704,
+"place": 701,
 "text": "",
 "type": "Birth"
 },
@@ -30632,9 +30264,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1359
+1363
 ],
-"place": 704,
+"place": 701,
 "text": "",
 "type": "Death"
 }
@@ -30653,9 +30285,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1364
+1368
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Birth"
 }
@@ -30671,9 +30303,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1366
+1370
 ],
-"place": 353,
+"place": 352,
 "text": "",
 "type": "Death"
 }
@@ -30688,9 +30320,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1367
+1371
 ],
-"place": 353,
+"place": 352,
 "text": "",
 "type": "Birth"
 },
@@ -30703,32 +30335,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1367
+1371
 ],
-"place": 489,
+"place": 486,
 "text": "",
 "type": "Death"
 }
 ],
 [],
 [],
-[
-{
-"cita": [],
-"date": "about 1900",
-"date_sdn": 2415021,
-"descr": "",
-"gid": "E3403",
-"media": [],
-"part_family": [],
-"part_person": [
-1370
-],
-"place": 387,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -30739,9 +30355,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1371
+1375
 ],
-"place": 710,
+"place": 706,
 "text": "",
 "type": "Birth"
 },
@@ -30754,9 +30370,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1371
+1375
 ],
-"place": 710,
+"place": 706,
 "text": "",
 "type": "Death"
 }
@@ -30771,9 +30387,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1372
+1376
 ],
-"place": 420,
+"place": 419,
 "text": "",
 "type": "Birth"
 },
@@ -30786,9 +30402,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1372
+1376
 ],
-"place": 420,
+"place": 419,
 "text": "",
 "type": "Death"
 }
@@ -30803,7 +30419,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1373
+1377
 ],
 "place": 265,
 "text": "",
@@ -30818,9 +30434,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1373
+1377
 ],
-"place": 481,
+"place": 479,
 "text": "",
 "type": "Death"
 }
@@ -30835,7 +30451,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1374
+1378
 ],
 "place": 258,
 "text": "",
@@ -30850,9 +30466,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1374
+1378
 ],
-"place": 527,
+"place": 524,
 "text": "",
 "type": "Death"
 }
@@ -30867,9 +30483,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1375
+1379
 ],
-"place": 527,
+"place": 524,
 "text": "",
 "type": "Birth"
 },
@@ -30882,9 +30498,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1375
+1379
 ],
-"place": 527,
+"place": 524,
 "text": "",
 "type": "Death"
 }
@@ -30899,9 +30515,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1376
+1380
 ],
-"place": 443,
+"place": 441,
 "text": "",
 "type": "Birth"
 },
@@ -30914,9 +30530,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1376
+1380
 ],
-"place": 444,
+"place": 442,
 "text": "",
 "type": "Death"
 }
@@ -30931,7 +30547,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1377
+1381
 ],
 "place": -1,
 "text": "",
@@ -30946,7 +30562,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1377
+1381
 ],
 "place": -1,
 "text": "",
@@ -30963,9 +30579,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1378
+1382
 ],
-"place": 433,
+"place": 432,
 "text": "",
 "type": "Birth"
 },
@@ -30978,9 +30594,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1378
+1382
 ],
-"place": 433,
+"place": 432,
 "text": "",
 "type": "Death"
 }
@@ -30995,9 +30611,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1379
+1383
 ],
-"place": 433,
+"place": 432,
 "text": "",
 "type": "Birth"
 },
@@ -31010,9 +30626,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1379
+1383
 ],
-"place": 433,
+"place": 432,
 "text": "",
 "type": "Death"
 }
@@ -31027,9 +30643,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1380
+1384
 ],
-"place": 456,
+"place": 455,
 "text": "",
 "type": "Birth"
 },
@@ -31042,9 +30658,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1380
+1384
 ],
-"place": 622,
+"place": 619,
 "text": "",
 "type": "Death"
 }
@@ -31059,7 +30675,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1381
+1385
 ],
 "place": -1,
 "text": "",
@@ -31079,9 +30695,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1385
+1389
 ],
-"place": 97,
+"place": 96,
 "text": "",
 "type": "Birth"
 },
@@ -31094,7 +30710,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1385
+1389
 ],
 "place": -1,
 "text": "",
@@ -31112,7 +30728,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1387
+1391
 ],
 "place": 223,
 "text": "",
@@ -31127,9 +30743,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1387
+1391
 ],
-"place": 683,
+"place": 680,
 "text": "",
 "type": "Death"
 }
@@ -31145,9 +30761,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1389
+1393
 ],
-"place": 675,
+"place": 671,
 "text": "",
 "type": "Death"
 }
@@ -31162,9 +30778,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1390
+1394
 ],
-"place": 675,
+"place": 671,
 "text": "",
 "type": "Birth"
 },
@@ -31177,9 +30793,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1390
+1394
 ],
-"place": 353,
+"place": 352,
 "text": "",
 "type": "Death"
 }
@@ -31194,9 +30810,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1391
+1395
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 }
@@ -31212,9 +30828,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1393
+1397
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -31227,7 +30843,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1393
+1397
 ],
 "place": 253,
 "text": "",
@@ -31244,9 +30860,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1394
+1398
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -31259,9 +30875,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1394
+1398
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -31276,9 +30892,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1395
+1399
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 }
@@ -31293,9 +30909,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1396
+1400
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 }
@@ -31310,9 +30926,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1397
+1401
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -31325,7 +30941,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1397
+1401
 ],
 "place": 253,
 "text": "",
@@ -31342,9 +30958,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1398
+1402
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 }
@@ -31359,9 +30975,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1399
+1403
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 }
@@ -31376,9 +30992,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1400
+1404
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 }
@@ -31393,9 +31009,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1401
+1405
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 },
@@ -31408,7 +31024,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1401
+1405
 ],
 "place": -1,
 "text": "",
@@ -31425,9 +31041,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1402
+1406
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 }
@@ -31442,9 +31058,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1403
+1407
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 },
@@ -31457,7 +31073,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1403
+1407
 ],
 "place": -1,
 "text": "",
@@ -31474,9 +31090,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1404
+1408
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -31489,9 +31105,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1404
+1408
 ],
-"place": 422,
+"place": 421,
 "text": "",
 "type": "Death"
 }
@@ -31506,9 +31122,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1405
+1409
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 }
@@ -31523,9 +31139,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1406
+1410
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 }
@@ -31540,9 +31156,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1407
+1411
 ],
-"place": 585,
+"place": 582,
 "text": "",
 "type": "Birth"
 },
@@ -31555,9 +31171,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1407
+1411
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Death"
 }
@@ -31572,9 +31188,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1408
+1412
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 },
@@ -31587,9 +31203,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1408
+1412
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Death"
 }
@@ -31604,9 +31220,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1409
+1413
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -31619,7 +31235,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1409
+1413
 ],
 "place": 180,
 "text": "",
@@ -31634,7 +31250,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1409
+1413
 ],
 "place": 179,
 "text": "",
@@ -31651,9 +31267,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1410
+1414
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 }
@@ -31668,9 +31284,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1411
+1415
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 }
@@ -31685,9 +31301,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1412
+1416
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -31700,7 +31316,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1412
+1416
 ],
 "place": 253,
 "text": "",
@@ -31717,9 +31333,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1413
+1417
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 }
@@ -31734,9 +31350,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1414
+1418
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 },
@@ -31749,9 +31365,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1414
+1418
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Death"
 }
@@ -31766,7 +31382,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1415
+1419
 ],
 "place": -1,
 "text": "",
@@ -31783,9 +31399,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1416
+1420
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -31798,7 +31414,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1416
+1420
 ],
 "place": 253,
 "text": "",
@@ -31815,9 +31431,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1417
+1421
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 }
@@ -31832,9 +31448,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1418
+1422
 ],
-"place": 585,
+"place": 582,
 "text": "",
 "type": "Birth"
 },
@@ -31847,9 +31463,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1418
+1422
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Death"
 }
@@ -31864,9 +31480,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1419
+1423
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Birth"
 },
@@ -31879,9 +31495,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1419
+1423
 ],
-"place": 550,
+"place": 547,
 "text": "",
 "type": "Death"
 }
@@ -31896,9 +31512,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1420
+1424
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -31911,9 +31527,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1420
+1424
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -31928,9 +31544,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1421
+1425
 ],
-"place": 415,
+"place": 414,
 "text": "",
 "type": "Birth"
 }
@@ -31945,9 +31561,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1422
+1426
 ],
-"place": 389,
+"place": 388,
 "text": "",
 "type": "Birth"
 },
@@ -31960,9 +31576,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1422
+1426
 ],
-"place": 462,
+"place": 460,
 "text": "",
 "type": "Death"
 }
@@ -31977,9 +31593,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1423
+1427
 ],
-"place": 395,
+"place": 394,
 "text": "",
 "type": "Birth"
 },
@@ -31992,9 +31608,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1423
+1427
 ],
-"place": 407,
+"place": 406,
 "text": "",
 "type": "Death"
 }
@@ -32009,9 +31625,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1424
+1428
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 },
@@ -32024,9 +31640,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1424
+1428
 ],
-"place": 579,
+"place": 576,
 "text": "",
 "type": "Death"
 }
@@ -32041,9 +31657,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1425
+1429
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 },
@@ -32056,9 +31672,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1425
+1429
 ],
-"place": 436,
+"place": 435,
 "text": "",
 "type": "Death"
 }
@@ -32073,9 +31689,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1426
+1430
 ],
-"place": 211,
+"place": 210,
 "text": "",
 "type": "Birth"
 },
@@ -32088,7 +31704,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1426
+1430
 ],
 "place": 163,
 "text": "",
@@ -32105,9 +31721,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1427
+1431
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 },
@@ -32120,7 +31736,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1427
+1431
 ],
 "place": 166,
 "text": "",
@@ -32137,9 +31753,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1428
+1432
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -32154,7 +31770,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1429
+1433
 ],
 "place": 230,
 "text": "",
@@ -32169,7 +31785,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1429
+1433
 ],
 "place": 230,
 "text": "",
@@ -32190,7 +31806,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1434
+1438
 ],
 "place": -1,
 "text": "",
@@ -32205,45 +31821,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1434
+1438
 ],
-"place": 408,
+"place": 407,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "October 1920",
-"date_sdn": 2422599,
-"descr": "",
-"gid": "E2229",
-"media": [],
-"part_family": [],
-"part_person": [
-1435
-],
-"place": 705,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "about 1992",
-"date_sdn": 2448623,
-"descr": "",
-"gid": "E2230",
-"media": [],
-"part_family": [],
-"part_person": [
-1435
-],
-"place": 664,
-"text": "",
-"type": "Death"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -32254,9 +31839,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1436
+1440
 ],
-"place": 409,
+"place": 408,
 "text": "",
 "type": "Birth"
 },
@@ -32269,9 +31854,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1436
+1440
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -32287,9 +31872,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1438
+1442
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -32302,9 +31887,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1438
+1442
 ],
-"place": 531,
+"place": 528,
 "text": "",
 "type": "Death"
 }
@@ -32319,9 +31904,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1439
+1443
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -32334,7 +31919,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1439
+1443
 ],
 "place": 248,
 "text": "",
@@ -32351,7 +31936,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1440
+1444
 ],
 "place": -1,
 "text": "",
@@ -32368,9 +31953,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1441
+1445
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -32383,9 +31968,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1441
+1445
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -32400,47 +31985,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1442
+1446
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1900",
-"date_sdn": 2415021,
-"descr": "",
-"gid": "E2176",
-"media": [],
-"part_family": [],
-"part_person": [
-1443
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "about 1905",
-"date_sdn": 2416847,
-"descr": "",
-"gid": "E2177",
-"media": [],
-"part_family": [],
-"part_person": [
-1444
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
+[],
 [
 {
 "cita": [],
@@ -32451,9 +32004,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1445
+1449
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 },
@@ -32466,9 +32019,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1445
+1449
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -32483,7 +32036,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1446
+1450
 ],
 "place": -1,
 "text": "",
@@ -32498,9 +32051,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1446
+1450
 ],
-"place": 570,
+"place": 567,
 "text": "",
 "type": "Death"
 }
@@ -32515,9 +32068,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1447
+1451
 ],
-"place": 542,
+"place": 539,
 "text": "",
 "type": "Birth"
 },
@@ -32530,9 +32083,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1447
+1451
 ],
-"place": 349,
+"place": 348,
 "text": "",
 "type": "Death"
 }
@@ -32547,7 +32100,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1448
+1452
 ],
 "place": -1,
 "text": "",
@@ -32562,7 +32115,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1448
+1452
 ],
 "place": -1,
 "text": "",
@@ -32579,7 +32132,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1449
+1453
 ],
 "place": -1,
 "text": "",
@@ -32594,7 +32147,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1449
+1453
 ],
 "place": -1,
 "text": "",
@@ -32609,7 +32162,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1449
+1453
 ],
 "place": -1,
 "text": "",
@@ -32626,7 +32179,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1450
+1454
 ],
 "place": 181,
 "text": "",
@@ -32643,9 +32196,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1451
+1455
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -32658,7 +32211,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1451
+1455
 ],
 "place": -1,
 "text": "",
@@ -32686,7 +32239,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1463
+1467
 ],
 "place": -1,
 "text": "",
@@ -32701,7 +32254,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1463
+1467
 ],
 "place": -1,
 "text": "",
@@ -32718,7 +32271,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1464
+1468
 ],
 "place": 180,
 "text": "",
@@ -32735,9 +32288,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1465
+1469
 ],
-"place": 455,
+"place": 454,
 "text": "",
 "type": "Birth"
 }
@@ -32752,9 +32305,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1466
+1470
 ],
-"place": 100,
+"place": 99,
 "text": "",
 "type": "Birth"
 }
@@ -32769,9 +32322,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1467
+1471
 ],
-"place": 428,
+"place": 427,
 "text": "",
 "type": "Birth"
 },
@@ -32784,9 +32337,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1467
+1471
 ],
-"place": 91,
+"place": 90,
 "text": "",
 "type": "Death"
 }
@@ -32802,7 +32355,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1469
+1473
 ],
 "place": -1,
 "text": "",
@@ -32819,7 +32372,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1470
+1474
 ],
 "place": -1,
 "text": "",
@@ -32836,7 +32389,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1471
+1475
 ],
 "place": -1,
 "text": "",
@@ -32853,7 +32406,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1472
+1476
 ],
 "place": -1,
 "text": "",
@@ -32870,9 +32423,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1473
+1477
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 },
@@ -32885,7 +32438,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1473
+1477
 ],
 "place": -1,
 "text": "",
@@ -32902,9 +32455,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1474
+1478
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -32917,9 +32470,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1474
+1478
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -32934,9 +32487,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1475
+1479
 ],
-"place": 463,
+"place": 461,
 "text": "",
 "type": "Birth"
 }
@@ -32951,7 +32504,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1476
+1480
 ],
 "place": -1,
 "text": "",
@@ -32966,7 +32519,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1476
+1480
 ],
 "place": -1,
 "text": "",
@@ -32983,7 +32536,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1477
+1481
 ],
 "place": -1,
 "text": "",
@@ -33000,9 +32553,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1478
+1482
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 },
@@ -33015,9 +32568,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1478
+1482
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Death"
 },
@@ -33030,9 +32583,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1478
+1482
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Baptism"
 }
@@ -33047,9 +32600,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1479
+1483
 ],
-"place": 463,
+"place": 461,
 "text": "",
 "type": "Birth"
 },
@@ -33062,7 +32615,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1479
+1483
 ],
 "place": -1,
 "text": "",
@@ -33079,7 +32632,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1480
+1484
 ],
 "place": -1,
 "text": "",
@@ -33096,9 +32649,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1481
+1485
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -33111,9 +32664,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1481
+1485
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Death"
 }
@@ -33128,7 +32681,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1482
+1486
 ],
 "place": -1,
 "text": "",
@@ -33143,7 +32696,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1482
+1486
 ],
 "place": -1,
 "text": "",
@@ -33160,7 +32713,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1483
+1487
 ],
 "place": -1,
 "text": "",
@@ -33177,7 +32730,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1484
+1488
 ],
 "place": -1,
 "text": "",
@@ -33192,7 +32745,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1484
+1488
 ],
 "place": -1,
 "text": "",
@@ -33209,7 +32762,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1485
+1489
 ],
 "place": -1,
 "text": "",
@@ -33224,7 +32777,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1485
+1489
 ],
 "place": -1,
 "text": "",
@@ -33242,7 +32795,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1487
+1491
 ],
 "place": 138,
 "text": "",
@@ -33257,7 +32810,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1487
+1491
 ],
 "place": 138,
 "text": "",
@@ -33274,7 +32827,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1488
+1492
 ],
 "place": -1,
 "text": "",
@@ -33291,7 +32844,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1489
+1493
 ],
 "place": -1,
 "text": "",
@@ -33308,9 +32861,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1490
+1494
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 }
@@ -33325,7 +32878,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1491
+1495
 ],
 "place": 168,
 "text": "",
@@ -33342,7 +32895,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1492
+1496
 ],
 "place": -1,
 "text": "",
@@ -33359,7 +32912,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1493
+1497
 ],
 "place": 230,
 "text": "",
@@ -33374,9 +32927,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1493
+1497
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -33391,7 +32944,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1494
+1498
 ],
 "place": 230,
 "text": "",
@@ -33406,7 +32959,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1494
+1498
 ],
 "place": -1,
 "text": "",
@@ -33423,7 +32976,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1495
+1499
 ],
 "place": 230,
 "text": "",
@@ -33438,9 +32991,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1495
+1499
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -33455,7 +33008,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1496
+1500
 ],
 "place": 230,
 "text": "",
@@ -33470,7 +33023,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1496
+1500
 ],
 "place": 251,
 "text": "",
@@ -33487,7 +33040,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1497
+1501
 ],
 "place": 132,
 "text": "",
@@ -33502,9 +33055,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1497
+1501
 ],
-"place": 110,
+"place": 108,
 "text": "",
 "type": "Death"
 }
@@ -33519,7 +33072,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1498
+1502
 ],
 "place": -1,
 "text": "",
@@ -33536,7 +33089,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1499
+1503
 ],
 "place": 258,
 "text": "",
@@ -33551,9 +33104,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1499
+1503
 ],
-"place": 527,
+"place": 524,
 "text": "",
 "type": "Death"
 }
@@ -33568,9 +33121,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1500
+1504
 ],
-"place": 600,
+"place": 597,
 "text": "",
 "type": "Birth"
 }
@@ -33585,9 +33138,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1501
+1505
 ],
-"place": 472,
+"place": 470,
 "text": "",
 "type": "Birth"
 },
@@ -33600,7 +33153,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1501
+1505
 ],
 "place": -1,
 "text": "",
@@ -33619,7 +33172,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1504
+1508
 ],
 "place": -1,
 "text": "",
@@ -33634,7 +33187,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1504
+1508
 ],
 "place": -1,
 "text": "",
@@ -33651,7 +33204,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1505
+1509
 ],
 "place": 382,
 "text": "",
@@ -33668,9 +33221,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1506
+1510
 ],
-"place": 586,
+"place": 583,
 "text": "",
 "type": "Birth"
 },
@@ -33683,9 +33236,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1506
+1510
 ],
-"place": 33,
+"place": 32,
 "text": "",
 "type": "Death"
 }
@@ -33700,7 +33253,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1507
+1511
 ],
 "place": 386,
 "text": "",
@@ -33715,9 +33268,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1507
+1511
 ],
-"place": 45,
+"place": 44,
 "text": "",
 "type": "Death"
 }
@@ -33732,9 +33285,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1508
+1512
 ],
-"place": 410,
+"place": 409,
 "text": "",
 "type": "Birth"
 },
@@ -33747,9 +33300,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1508
+1512
 ],
-"place": 410,
+"place": 409,
 "text": "",
 "type": "Death"
 }
@@ -33764,7 +33317,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1509
+1513
 ],
 "place": -1,
 "text": "",
@@ -33779,7 +33332,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1509
+1513
 ],
 "place": -1,
 "text": "",
@@ -33796,9 +33349,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1510
+1514
 ],
-"place": 461,
+"place": 459,
 "text": "",
 "type": "Birth"
 },
@@ -33811,7 +33364,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1510
+1514
 ],
 "place": 0,
 "text": "",
@@ -33828,9 +33381,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1511
+1515
 ],
-"place": 288,
+"place": 287,
 "text": "",
 "type": "Birth"
 },
@@ -33843,9 +33396,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1511
+1515
 ],
-"place": 39,
+"place": 38,
 "text": "",
 "type": "Death"
 }
@@ -33861,7 +33414,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1513
+1517
 ],
 "place": -1,
 "text": "",
@@ -33876,7 +33429,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1513
+1517
 ],
 "place": 384,
 "text": "",
@@ -33893,7 +33446,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1514
+1518
 ],
 "place": 386,
 "text": "",
@@ -33908,9 +33461,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1514
+1518
 ],
-"place": 39,
+"place": 38,
 "text": "",
 "type": "Death"
 }
@@ -33925,7 +33478,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1515
+1519
 ],
 "place": 386,
 "text": "",
@@ -33942,30 +33495,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1516
+1520
 ],
 "place": -1,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1906",
-"date_sdn": 2417212,
-"descr": "",
-"gid": "E3393",
-"media": [],
-"part_family": [],
-"part_person": [
-1517
-],
-"place": 183,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [],
 [
 {
@@ -33977,7 +33514,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1519
+1523
 ],
 "place": 0,
 "text": "",
@@ -33992,7 +33529,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1519
+1523
 ],
 "place": 0,
 "text": "",
@@ -34009,9 +33546,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1520
+1524
 ],
-"place": 660,
+"place": 656,
 "text": "",
 "type": "Birth"
 },
@@ -34024,7 +33561,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1520
+1524
 ],
 "place": -1,
 "text": "",
@@ -34039,9 +33576,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1520
+1524
 ],
-"place": 43,
+"place": 42,
 "text": "",
 "type": "Residence"
 }
@@ -34056,7 +33593,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1521
+1525
 ],
 "place": -1,
 "text": "",
@@ -34071,7 +33608,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1521
+1525
 ],
 "place": -1,
 "text": "",
@@ -34088,9 +33625,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1522
+1526
 ],
-"place": 58,
+"place": 57,
 "text": "",
 "type": "Birth"
 },
@@ -34103,9 +33640,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1522
+1526
 ],
-"place": 51,
+"place": 50,
 "text": "",
 "type": "Death"
 }
@@ -34120,7 +33657,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1523
+1527
 ],
 "place": 0,
 "text": "",
@@ -34135,9 +33672,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1523
+1527
 ],
-"place": 43,
+"place": 42,
 "text": "",
 "type": "Residence"
 },
@@ -34150,9 +33687,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1523
+1527
 ],
-"place": 54,
+"place": 53,
 "text": "",
 "type": "Death"
 }
@@ -34168,9 +33705,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1525
+1529
 ],
-"place": 330,
+"place": 329,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nStillborn\n</p>\n</div>\n</div>",
 "type": "Death"
 }
@@ -34187,7 +33724,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1528
+1532
 ],
 "place": 12,
 "text": "",
@@ -34202,30 +33739,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1528
+1532
 ],
 "place": 0,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1900",
-"date_sdn": 2415021,
-"descr": "",
-"gid": "E3664",
-"media": [],
-"part_family": [],
-"part_person": [
-1529
-],
-"place": 0,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -34236,9 +33757,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1530
+1534
 ],
-"place": 214,
+"place": 213,
 "text": "",
 "type": "Birth"
 },
@@ -34251,7 +33772,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1530
+1534
 ],
 "place": 357,
 "text": "",
@@ -34268,9 +33789,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1531
+1535
 ],
-"place": 548,
+"place": 545,
 "text": "",
 "type": "Birth"
 },
@@ -34283,9 +33804,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1531
+1535
 ],
-"place": 64,
+"place": 63,
 "text": "",
 "type": "Death"
 }
@@ -34300,9 +33821,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1532
+1536
 ],
-"place": 36,
+"place": 35,
 "text": "",
 "type": "Birth"
 },
@@ -34315,7 +33836,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1532
+1536
 ],
 "place": 0,
 "text": "",
@@ -34332,7 +33853,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1533
+1537
 ],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nSuicide\n</p>\n</div>\n</div>",
@@ -34347,7 +33868,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1533
+1537
 ],
 "place": 0,
 "text": "",
@@ -34365,7 +33886,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1535
+1539
 ],
 "place": 0,
 "text": "",
@@ -34382,9 +33903,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1536
+1540
 ],
-"place": 67,
+"place": 66,
 "text": "",
 "type": "Birth"
 },
@@ -34397,7 +33918,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1536
+1540
 ],
 "place": 0,
 "text": "",
@@ -34414,7 +33935,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1537
+1541
 ],
 "place": 0,
 "text": "",
@@ -34429,7 +33950,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1537
+1541
 ],
 "place": 0,
 "text": "",
@@ -34448,9 +33969,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1540
+1544
 ],
-"place": 538,
+"place": 535,
 "text": "",
 "type": "Birth"
 },
@@ -34463,9 +33984,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1540
+1544
 ],
-"place": 554,
+"place": 551,
 "text": "",
 "type": "Death"
 }
@@ -34480,7 +34001,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1541
+1545
 ],
 "place": 12,
 "text": "",
@@ -34497,9 +34018,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1542
+1546
 ],
-"place": 659,
+"place": 655,
 "text": "",
 "type": "Birth"
 },
@@ -34512,9 +34033,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1542
+1546
 ],
-"place": 496,
+"place": 493,
 "text": "",
 "type": "Death"
 }
@@ -34530,7 +34051,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1544
+1548
 ],
 "place": 0,
 "text": "",
@@ -34545,7 +34066,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1544
+1548
 ],
 "place": 0,
 "text": "",
@@ -34562,9 +34083,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1545
+1549
 ],
-"place": 54,
+"place": 53,
 "text": "",
 "type": "Birth"
 },
@@ -34577,7 +34098,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1545
+1549
 ],
 "place": 0,
 "text": "",
@@ -34594,7 +34115,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1546
+1550
 ],
 "place": 0,
 "text": "",
@@ -34609,7 +34130,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1546
+1550
 ],
 "place": 0,
 "text": "",
@@ -34626,7 +34147,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1547
+1551
 ],
 "place": 0,
 "text": "",
@@ -34641,30 +34162,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1547
+1551
 ],
 "place": 0,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1896",
-"date_sdn": 2413560,
-"descr": "",
-"gid": "E3663",
-"media": [],
-"part_family": [],
-"part_person": [
-1548
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -34675,7 +34180,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1549
+1553
 ],
 "place": 0,
 "text": "",
@@ -34690,7 +34195,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1549
+1553
 ],
 "place": 0,
 "text": "",
@@ -34707,9 +34212,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1550
+1554
 ],
-"place": 69,
+"place": 68,
 "text": "",
 "type": "Birth"
 },
@@ -34722,9 +34227,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1550
+1554
 ],
-"place": 296,
+"place": 295,
 "text": "",
 "type": "Death"
 }
@@ -34739,7 +34244,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1551
+1555
 ],
 "place": 0,
 "text": "",
@@ -34754,7 +34259,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1551
+1555
 ],
 "place": 0,
 "text": "",
@@ -34772,9 +34277,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1553
+1557
 ],
-"place": 474,
+"place": 472,
 "text": "",
 "type": "Birth"
 },
@@ -34787,9 +34292,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1553
+1557
 ],
-"place": 537,
+"place": 534,
 "text": "",
 "type": "Death"
 }
@@ -34804,7 +34309,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1554
+1558
 ],
 "place": 386,
 "text": "",
@@ -34819,7 +34324,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1554
+1558
 ],
 "place": 17,
 "text": "",
@@ -34836,9 +34341,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1555
+1559
 ],
-"place": 479,
+"place": 477,
 "text": "",
 "type": "Birth"
 },
@@ -34851,7 +34356,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1555
+1559
 ],
 "place": -1,
 "text": "",
@@ -34868,7 +34373,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1556
+1560
 ],
 "place": 0,
 "text": "",
@@ -34885,9 +34390,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1557
+1561
 ],
-"place": 193,
+"place": 192,
 "text": "",
 "type": "Birth"
 },
@@ -34900,9 +34405,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1557
+1561
 ],
-"place": 516,
+"place": 514,
 "text": "",
 "type": "Death"
 }
@@ -34917,9 +34422,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1558
+1562
 ],
-"place": 52,
+"place": 51,
 "text": "",
 "type": "Birth"
 },
@@ -34932,9 +34437,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1558
+1562
 ],
-"place": 58,
+"place": 57,
 "text": "",
 "type": "Death"
 }
@@ -34949,9 +34454,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1559
+1563
 ],
-"place": 72,
+"place": 71,
 "text": "",
 "type": "Birth"
 },
@@ -34964,9 +34469,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1559
+1563
 ],
-"place": 32,
+"place": 31,
 "text": "",
 "type": "Death"
 }
@@ -34981,9 +34486,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1560
+1564
 ],
-"place": 37,
+"place": 36,
 "text": "",
 "type": "Birth"
 },
@@ -34996,7 +34501,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1560
+1564
 ],
 "place": 0,
 "text": "",
@@ -35014,9 +34519,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1562
+1566
 ],
-"place": 193,
+"place": 192,
 "text": "",
 "type": "Birth"
 },
@@ -35029,7 +34534,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1562
+1566
 ],
 "place": 0,
 "text": "",
@@ -35047,9 +34552,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1564
+1568
 ],
-"place": 58,
+"place": 57,
 "text": "",
 "type": "Birth"
 },
@@ -35062,7 +34567,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1564
+1568
 ],
 "place": 0,
 "text": "",
@@ -35077,8 +34582,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-201,
-1564
+204,
+1568
 ],
 "place": -1,
 "text": "",
@@ -35095,9 +34600,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1565
+1569
 ],
-"place": 72,
+"place": 71,
 "text": "",
 "type": "Birth"
 },
@@ -35110,13 +34615,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1565
+1569
 ],
-"place": 72,
+"place": 71,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [],
 [
 {
@@ -35128,7 +34634,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1567
+1572
 ],
 "place": -1,
 "text": "",
@@ -35145,9 +34651,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1568
+1573
 ],
-"place": 67,
+"place": 66,
 "text": "",
 "type": "Birth"
 },
@@ -35160,9 +34666,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1568
+1573
 ],
-"place": 696,
+"place": 693,
 "text": "",
 "type": "Death"
 }
@@ -35177,7 +34683,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1569
+1574
 ],
 "place": 0,
 "text": "",
@@ -35192,7 +34698,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1569
+1574
 ],
 "place": 0,
 "text": "",
@@ -35209,9 +34715,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1570
+1575
 ],
-"place": 72,
+"place": 71,
 "text": "",
 "type": "Birth"
 },
@@ -35224,9 +34730,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1570
+1575
 ],
-"place": 70,
+"place": 69,
 "text": "",
 "type": "Death"
 }
@@ -35241,9 +34747,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1571
+1576
 ],
-"place": 36,
+"place": 35,
 "text": "",
 "type": "Birth"
 },
@@ -35256,7 +34762,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1571
+1576
 ],
 "place": 0,
 "text": "",
@@ -35273,7 +34779,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1572
+1577
 ],
 "place": 0,
 "text": "",
@@ -35288,9 +34794,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1572
+1577
 ],
-"place": 296,
+"place": 295,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDied of wounds in WW1\n</p>\n</div>\n</div>",
 "type": "Death"
 }
@@ -35305,9 +34811,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1573
+1578
 ],
-"place": 586,
+"place": 583,
 "text": "",
 "type": "Birth"
 },
@@ -35320,7 +34826,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1573
+1578
 ],
 "place": 0,
 "text": "",
@@ -35337,7 +34843,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1574
+1579
 ],
 "place": 266,
 "text": "",
@@ -35352,30 +34858,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1574
+1579
 ],
 "place": 18,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1889",
-"date_sdn": 2411004,
-"descr": "",
-"gid": "E3661",
-"media": [],
-"part_family": [],
-"part_person": [
-1575
-],
-"place": 0,
-"text": "",
-"type": "Birth"
-}
-],
+[],
+[],
 [
 {
 "cita": [],
@@ -35386,9 +34877,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1576
+1582
 ],
-"place": 72,
+"place": 71,
 "text": "",
 "type": "Birth"
 },
@@ -35401,13 +34892,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1576
+1582
 ],
-"place": 65,
+"place": 64,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [
 {
 "cita": [],
@@ -35418,7 +34910,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1577
+1584
 ],
 "place": 0,
 "text": "",
@@ -35433,7 +34925,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1577
+1584
 ],
 "place": 0,
 "text": "",
@@ -35451,9 +34943,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1579
+1586
 ],
-"place": 419,
+"place": 418,
 "text": "",
 "type": "Birth"
 },
@@ -35466,9 +34958,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1579
+1586
 ],
-"place": 214,
+"place": 213,
 "text": "",
 "type": "Death"
 }
@@ -35483,9 +34975,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1580
+1587
 ],
-"place": 193,
+"place": 192,
 "text": "",
 "type": "Birth"
 },
@@ -35498,13 +34990,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1580
+1587
 ],
-"place": 658,
+"place": 654,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [],
 [
 {
@@ -35516,9 +35009,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1582
+1590
 ],
-"place": 548,
+"place": 545,
 "text": "",
 "type": "Birth"
 }
@@ -35534,7 +35027,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1584
+1592
 ],
 "place": 0,
 "text": "",
@@ -35549,9 +35042,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1584
+1592
 ],
-"place": 496,
+"place": 493,
 "text": "",
 "type": "Death"
 }
@@ -35569,7 +35062,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1588
+1596
 ],
 "place": 386,
 "text": "",
@@ -35588,7 +35081,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1591
+1599
 ],
 "place": 12,
 "text": "",
@@ -35603,7 +35096,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1591
+1599
 ],
 "place": 0,
 "text": "",
@@ -35620,7 +35113,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1592
+1600
 ],
 "place": 150,
 "text": "",
@@ -35635,13 +35128,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1592
+1600
 ],
-"place": 404,
+"place": 403,
 "text": "",
 "type": "Death"
 }
 ],
+[],
 [
 {
 "cita": [],
@@ -35652,7 +35146,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1593
+1602
 ],
 "place": 0,
 "text": "",
@@ -35667,9 +35161,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1593
+1602
 ],
-"place": 111,
+"place": 109,
 "text": "",
 "type": "Death"
 }
@@ -35684,7 +35178,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1594
+1603
 ],
 "place": -1,
 "text": "",
@@ -35699,9 +35193,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1594
+1603
 ],
-"place": 33,
+"place": 32,
 "text": "",
 "type": "Death"
 }
@@ -35716,9 +35210,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1595
+1604
 ],
-"place": 491,
+"place": 488,
 "text": "",
 "type": "Birth"
 },
@@ -35731,9 +35225,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1595
+1604
 ],
-"place": 25,
+"place": 24,
 "text": "",
 "type": "Death"
 }
@@ -35748,7 +35242,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1596
+1605
 ],
 "place": -1,
 "text": "",
@@ -35763,30 +35257,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1596
+1605
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1891",
-"date_sdn": 2411734,
-"descr": "",
-"gid": "E3662",
-"media": [],
-"part_family": [],
-"part_person": [
-1597
-],
-"place": 306,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -35797,9 +35275,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1598
+1607
 ],
-"place": 214,
+"place": 213,
 "text": "",
 "type": "Birth"
 },
@@ -35812,7 +35290,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1598
+1607
 ],
 "place": 0,
 "text": "",
@@ -35829,9 +35307,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1599
+1608
 ],
-"place": 412,
+"place": 411,
 "text": "",
 "type": "Birth"
 }
@@ -35846,7 +35324,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1600
+1609
 ],
 "place": -1,
 "text": "",
@@ -35863,7 +35341,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1601
+1610
 ],
 "place": -1,
 "text": "",
@@ -35878,9 +35356,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1601
+1610
 ],
-"place": 63,
+"place": 62,
 "text": "",
 "type": "Residence"
 },
@@ -35893,7 +35371,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1601
+1610
 ],
 "place": -1,
 "text": "",
@@ -35910,7 +35388,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1602
+1611
 ],
 "place": 0,
 "text": "",
@@ -35927,9 +35405,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1603
+1612
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 },
@@ -35942,9 +35420,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1603
+1612
 ],
-"place": 221,
+"place": 220,
 "text": "",
 "type": "Death"
 }
@@ -35959,9 +35437,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1604
+1613
 ],
-"place": 412,
+"place": 411,
 "text": "",
 "type": "Birth"
 }
@@ -35976,9 +35454,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1605
+1614
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 },
@@ -35991,7 +35469,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1605
+1614
 ],
 "place": 239,
 "text": "",
@@ -36008,7 +35486,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1606
+1615
 ],
 "place": 0,
 "text": "",
@@ -36023,9 +35501,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1606
+1615
 ],
-"place": 459,
+"place": 458,
 "text": "",
 "type": "Death"
 }
@@ -36040,9 +35518,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1607
+1616
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 },
@@ -36055,9 +35533,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1607
+1616
 ],
-"place": 412,
+"place": 411,
 "text": "",
 "type": "Death"
 }
@@ -36072,7 +35550,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1608
+1617
 ],
 "place": 0,
 "text": "",
@@ -36087,9 +35565,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1608
+1617
 ],
-"place": 207,
+"place": 206,
 "text": "",
 "type": "Birth"
 },
@@ -36102,8 +35580,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1608,
-1657
+1617,
+1685
 ],
 "place": 13,
 "text": "",
@@ -36120,7 +35598,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1609
+1618
 ],
 "place": 0,
 "text": "",
@@ -36135,7 +35613,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1609
+1618
 ],
 "place": -1,
 "text": "",
@@ -36152,9 +35630,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1610
+1619
 ],
-"place": 413,
+"place": 412,
 "text": "",
 "type": "Birth"
 },
@@ -36167,7 +35645,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1610
+1619
 ],
 "place": 0,
 "text": "",
@@ -36185,9 +35663,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1612
+1621
 ],
-"place": 413,
+"place": 412,
 "text": "",
 "type": "Birth"
 },
@@ -36200,9 +35678,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1612
+1621
 ],
-"place": 390,
+"place": 389,
 "text": "",
 "type": "Death"
 }
@@ -36217,7 +35695,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1613
+1622
 ],
 "place": -1,
 "text": "",
@@ -36232,7 +35710,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1613
+1622
 ],
 "place": 0,
 "text": "",
@@ -36249,9 +35727,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1614
+1623
 ],
-"place": 412,
+"place": 411,
 "text": "",
 "type": "Birth"
 }
@@ -36266,9 +35744,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1615
+1624
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 },
@@ -36281,9 +35759,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1615
+1624
 ],
-"place": 410,
+"place": 409,
 "text": "",
 "type": "Death"
 }
@@ -36298,9 +35776,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1616
+1625
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 },
@@ -36313,9 +35791,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1616
+1625
 ],
-"place": 414,
+"place": 413,
 "text": "",
 "type": "Death"
 }
@@ -36330,9 +35808,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1617
+1626
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 },
@@ -36345,9 +35823,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1617
+1626
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Death"
 }
@@ -36362,9 +35840,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1618
+1627
 ],
-"place": 413,
+"place": 412,
 "text": "",
 "type": "Birth"
 },
@@ -36377,7 +35855,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1618
+1627
 ],
 "place": 0,
 "text": "",
@@ -36394,9 +35872,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1619
+1628
 ],
-"place": 93,
+"place": 92,
 "text": "",
 "type": "Birth"
 },
@@ -36409,9 +35887,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1619
+1628
 ],
-"place": 122,
+"place": 121,
 "text": "",
 "type": "Death"
 }
@@ -36426,9 +35904,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1620
+1629
 ],
-"place": 413,
+"place": 412,
 "text": "",
 "type": "Birth"
 },
@@ -36441,7 +35919,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1620
+1629
 ],
 "place": 0,
 "text": "",
@@ -36458,9 +35936,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1621
+1630
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 },
@@ -36473,9 +35951,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1621
+1630
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Death"
 }
@@ -36490,9 +35968,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1622
+1631
 ],
-"place": 412,
+"place": 411,
 "text": "",
 "type": "Birth"
 }
@@ -36507,7 +35985,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1623
+1632
 ],
 "place": -1,
 "text": "",
@@ -36522,7 +36000,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1623
+1632
 ],
 "place": -1,
 "text": "",
@@ -36539,7 +36017,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1624
+1633
 ],
 "place": 0,
 "text": "",
@@ -36556,9 +36034,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1625
+1634
 ],
-"place": 412,
+"place": 411,
 "text": "",
 "type": "Birth"
 }
@@ -36573,7 +36051,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1626
+1635
 ],
 "place": -1,
 "text": "",
@@ -36590,7 +36068,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1627
+1636
 ],
 "place": 0,
 "text": "",
@@ -36605,7 +36083,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1627
+1636
 ],
 "place": -1,
 "text": "",
@@ -36622,9 +36100,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1628
+1637
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 },
@@ -36637,9 +36115,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1628
+1637
 ],
-"place": 518,
+"place": 516,
 "text": "",
 "type": "Death"
 }
@@ -36654,7 +36132,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1629
+1638
 ],
 "place": 0,
 "text": "",
@@ -36671,7 +36149,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1630
+1639
 ],
 "place": -1,
 "text": "",
@@ -36686,7 +36164,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1630
+1639
 ],
 "place": -1,
 "text": "",
@@ -36703,9 +36181,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1631
+1640
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 },
@@ -36718,7 +36196,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1631
+1640
 ],
 "place": -1,
 "text": "",
@@ -36736,7 +36214,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1633
+1642
 ],
 "place": 0,
 "text": "",
@@ -36751,9 +36229,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1633
+1642
 ],
-"place": 77,
+"place": 76,
 "text": "",
 "type": "Death"
 }
@@ -36768,7 +36246,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1634
+1643
 ],
 "place": -1,
 "text": "",
@@ -36783,7 +36261,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1634
+1643
 ],
 "place": -1,
 "text": "",
@@ -36800,9 +36278,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1635
+1644
 ],
-"place": 568,
+"place": 565,
 "text": "",
 "type": "Birth"
 }
@@ -36817,7 +36295,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1636
+1645
 ],
 "place": 0,
 "text": "",
@@ -36832,7 +36310,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1636
+1645
 ],
 "place": 0,
 "text": "",
@@ -36849,7 +36327,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1637
+1646
 ],
 "place": -1,
 "text": "",
@@ -36864,7 +36342,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1637
+1646
 ],
 "place": -1,
 "text": "",
@@ -36875,6 +36353,38 @@ I_events_0 = [
 [
 {
 "cita": [],
+"date": "1931",
+"date_sdn": 2426343,
+"descr": "",
+"gid": "E3790",
+"media": [],
+"part_family": [],
+"part_person": [
+1648
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "2017",
+"date_sdn": 2457755,
+"descr": "",
+"gid": "E3791",
+"media": [],
+"part_family": [],
+"part_person": [
+1648
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
 "date": "about 1810",
 "date_sdn": 2382149,
 "descr": "",
@@ -36882,11 +36392,556 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1639
+1649
 ],
 "place": 386,
 "text": "",
 "type": "Birth"
+}
+],
+[
+{
+"cita": [],
+"date": "8 September 1947",
+"date_sdn": 2432437,
+"descr": "",
+"gid": "E3766",
+"media": [],
+"part_family": [],
+"part_person": [
+1650
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "6 February 2022",
+"date_sdn": 2459617,
+"descr": "",
+"gid": "E3767",
+"media": [],
+"part_family": [],
+"part_person": [
+1650
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "5 July 1904",
+"date_sdn": 2416667,
+"descr": "",
+"gid": "E3742",
+"media": [],
+"part_family": [],
+"part_person": [
+1651
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "25 January 1976",
+"date_sdn": 2442803,
+"descr": "",
+"gid": "E3743",
+"media": [],
+"part_family": [],
+"part_person": [
+1651
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "3 May 1930",
+"date_sdn": 2426100,
+"descr": "",
+"gid": "E3754",
+"media": [],
+"part_family": [],
+"part_person": [
+1652
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "9 March 2010",
+"date_sdn": 2455265,
+"descr": "",
+"gid": "E3755",
+"media": [],
+"part_family": [],
+"part_person": [
+1652
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "4 June 1931",
+"date_sdn": 2426497,
+"descr": "",
+"gid": "E3756",
+"media": [],
+"part_family": [],
+"part_person": [
+1653
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "31 March 1970",
+"date_sdn": 2440677,
+"descr": "",
+"gid": "E3757",
+"media": [],
+"part_family": [],
+"part_person": [
+1653
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "about 1932",
+"date_sdn": 2426708,
+"descr": "",
+"gid": "E3774",
+"media": [],
+"part_family": [],
+"part_person": [
+1654
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "19 April 1932",
+"date_sdn": 2426817,
+"descr": "",
+"gid": "E3775",
+"media": [],
+"part_family": [],
+"part_person": [
+1654
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "4 January 1948",
+"date_sdn": 2432555,
+"descr": "",
+"gid": "E3782",
+"media": [],
+"part_family": [],
+"part_person": [
+1655
+],
+"place": 443,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "2000",
+"date_sdn": 2451545,
+"descr": "",
+"gid": "E3783",
+"media": [],
+"part_family": [],
+"part_person": [
+1655
+],
+"place": 447,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "16 March 1951",
+"date_sdn": 2433722,
+"descr": "",
+"gid": "E3758",
+"media": [],
+"part_family": [],
+"part_person": [
+1656
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "5 November 2011",
+"date_sdn": 2455871,
+"descr": "",
+"gid": "E3759",
+"media": [],
+"part_family": [],
+"part_person": [
+1656
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "9 April 1907",
+"date_sdn": 2417675,
+"descr": "",
+"gid": "E3746",
+"media": [],
+"part_family": [],
+"part_person": [
+1657
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "17 July 1907",
+"date_sdn": 2417774,
+"descr": "",
+"gid": "E3747",
+"media": [],
+"part_family": [],
+"part_person": [
+1657
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "16 April 1933",
+"date_sdn": 2427179,
+"descr": "",
+"gid": "E3776",
+"media": [],
+"part_family": [],
+"part_person": [
+1658
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "24 February 2016",
+"date_sdn": 2457443,
+"descr": "",
+"gid": "E3777",
+"media": [],
+"part_family": [],
+"part_person": [
+1658
+],
+"place": 185,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "27 July 1905",
+"date_sdn": 2417054,
+"descr": "",
+"gid": "E3744",
+"media": [],
+"part_family": [],
+"part_person": [
+1659
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "13 April 1981",
+"date_sdn": 2444708,
+"descr": "",
+"gid": "E3745",
+"media": [],
+"part_family": [],
+"part_person": [
+1659
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "9 April 1935",
+"date_sdn": 2427902,
+"descr": "",
+"gid": "E3764",
+"media": [],
+"part_family": [],
+"part_person": [
+1660
+],
+"place": 192,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "27 August 2001",
+"date_sdn": 2452149,
+"descr": "",
+"gid": "E3765",
+"media": [],
+"part_family": [],
+"part_person": [
+1660
+],
+"place": 656,
+"text": "",
+"type": "Death"
+}
+],
+[],
+[
+{
+"cita": [],
+"date": "14 December 1942",
+"date_sdn": 2430708,
+"descr": "",
+"gid": "E3778",
+"media": [],
+"part_family": [],
+"part_person": [
+1662
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "18 May 2014",
+"date_sdn": 2456796,
+"descr": "",
+"gid": "E3779",
+"media": [],
+"part_family": [],
+"part_person": [
+1662
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "12 November 1908",
+"date_sdn": 2418258,
+"descr": "",
+"gid": "E3748",
+"media": [],
+"part_family": [],
+"part_person": [
+1663
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "5 December 1980",
+"date_sdn": 2444579,
+"descr": "",
+"gid": "E3749",
+"media": [],
+"part_family": [],
+"part_person": [
+1663
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "26 August 1946",
+"date_sdn": 2432059,
+"descr": "",
+"gid": "E3768",
+"media": [],
+"part_family": [],
+"part_person": [
+1664
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "6 June 1947",
+"date_sdn": 2432343,
+"descr": "",
+"gid": "E3769",
+"media": [],
+"part_family": [],
+"part_person": [
+1664
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "28 May 1911",
+"date_sdn": 2419185,
+"descr": "",
+"gid": "E3750",
+"media": [],
+"part_family": [],
+"part_person": [
+1665
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "1968",
+"date_sdn": 2439857,
+"descr": "",
+"gid": "E3751",
+"media": [],
+"part_family": [],
+"part_person": [
+1665
+],
+"place": 443,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "30 June 1931",
+"date_sdn": 2426523,
+"descr": "",
+"gid": "E3762",
+"media": [],
+"part_family": [],
+"part_person": [
+1666
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "15 May 1971",
+"date_sdn": 2441087,
+"descr": "",
+"gid": "E3763",
+"media": [],
+"part_family": [],
+"part_person": [
+1666
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "1943",
+"date_sdn": 2430726,
+"descr": "",
+"gid": "E3786",
+"media": [],
+"part_family": [],
+"part_person": [
+1667
+],
+"place": 356,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "21 September 2007",
+"date_sdn": 2454365,
+"descr": "",
+"gid": "E3787",
+"media": [],
+"part_family": [],
+"part_person": [
+1667
+],
+"place": 0,
+"text": "",
+"type": "Death"
 }
 ],
 [
@@ -36899,9 +36954,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1640
+1668
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 },
@@ -36914,7 +36969,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1640
+1668
 ],
 "place": -1,
 "text": "",
@@ -36931,9 +36986,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1641
+1669
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 }
@@ -36949,9 +37004,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1643
+1671
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 },
@@ -36964,7 +37019,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1643
+1671
 ],
 "place": -1,
 "text": "",
@@ -36981,9 +37036,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1644
+1672
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 }
@@ -36998,7 +37053,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1645
+1673
 ],
 "place": -1,
 "text": "",
@@ -37015,9 +37070,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1646
+1674
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 }
@@ -37033,9 +37088,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1648
+1676
 ],
-"place": 551,
+"place": 548,
 "text": "",
 "type": "Birth"
 }
@@ -37050,7 +37105,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1649
+1677
 ],
 "place": -1,
 "text": "",
@@ -37058,23 +37113,7 @@ I_events_0 = [
 }
 ],
 [],
-[
-{
-"cita": [],
-"date": "about 1863",
-"date_sdn": 2401507,
-"descr": "",
-"gid": "E2468",
-"media": [],
-"part_family": [],
-"part_person": [
-1651
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -37085,9 +37124,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1652
+1680
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 },
@@ -37100,9 +37139,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1652
+1680
 ],
-"place": 391,
+"place": 390,
 "text": "",
 "type": "Death"
 }
@@ -37117,9 +37156,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1653
+1681
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 },
@@ -37132,7 +37171,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1653
+1681
 ],
 "place": -1,
 "text": "",
@@ -37149,7 +37188,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1654
+1682
 ],
 "place": -1,
 "text": "",
@@ -37166,7 +37205,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1655
+1683
 ],
 "place": 0,
 "text": "",
@@ -37181,30 +37220,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1655
+1683
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1866",
-"date_sdn": 2402603,
-"descr": "",
-"gid": "E2470",
-"media": [],
-"part_family": [],
-"part_person": [
-1656
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -37215,9 +37238,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1657
+1685
 ],
-"place": 39,
+"place": 38,
 "text": "",
 "type": "Death"
 },
@@ -37230,9 +37253,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1657
+1685
 ],
-"place": 411,
+"place": 410,
 "text": "",
 "type": "Birth"
 },
@@ -37245,8 +37268,8 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1608,
-1657
+1617,
+1685
 ],
 "place": 13,
 "text": "",
@@ -37263,9 +37286,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1658
+1686
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 },
@@ -37278,9 +37301,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1658
+1686
 ],
-"place": 220,
+"place": 219,
 "text": "",
 "type": "Death"
 }
@@ -37295,9 +37318,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1659
+1687
 ],
-"place": 567,
+"place": 564,
 "text": "",
 "type": "Birth"
 },
@@ -37310,30 +37333,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1659
+1687
 ],
 "place": 0,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1866",
-"date_sdn": 2402603,
-"descr": "",
-"gid": "E2469",
-"media": [],
-"part_family": [],
-"part_person": [
-1660
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -37344,7 +37351,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1661
+1689
 ],
 "place": 0,
 "text": "",
@@ -37359,7 +37366,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1661
+1689
 ],
 "place": -1,
 "text": "",
@@ -37376,7 +37383,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1662
+1690
 ],
 "place": -1,
 "text": "",
@@ -37393,9 +37400,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1663
+1691
 ],
-"place": 435,
+"place": 434,
 "text": "",
 "type": "Birth"
 }
@@ -37410,9 +37417,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1664
+1692
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -37425,7 +37432,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1664
+1692
 ],
 "place": -1,
 "text": "",
@@ -37442,9 +37449,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1665
+1693
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -37457,7 +37464,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1665
+1693
 ],
 "place": -1,
 "text": "",
@@ -37474,9 +37481,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1666
+1694
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 }
@@ -37491,9 +37498,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1667
+1695
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 }
@@ -37508,7 +37515,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1668
+1696
 ],
 "place": -1,
 "text": "",
@@ -37526,9 +37533,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1670
+1698
 ],
-"place": 629,
+"place": 626,
 "text": "",
 "type": "Birth"
 }
@@ -37543,9 +37550,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1671
+1699
 ],
-"place": 629,
+"place": 626,
 "text": "",
 "type": "Birth"
 }
@@ -37560,9 +37567,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1672
+1700
 ],
-"place": 629,
+"place": 626,
 "text": "",
 "type": "Birth"
 },
@@ -37575,7 +37582,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1672
+1700
 ],
 "place": -1,
 "text": "",
@@ -37585,23 +37592,14 @@ I_events_0 = [
 [],
 [],
 [],
-[
-{
-"cita": [],
-"date": "about 1885",
-"date_sdn": 2409543,
-"descr": "",
-"gid": "E2798",
-"media": [],
-"part_family": [],
-"part_person": [
-1676
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
 [],
 [],
 [],
@@ -37609,26 +37607,20 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "about 1886",
-"date_sdn": 2409908,
+"date": "about 1781",
+"date_sdn": 2371558,
 "descr": "",
-"gid": "E1286",
+"gid": "E0208",
 "media": [],
 "part_family": [],
 "part_person": [
-1681
+1716
 ],
-"place": -1,
+"place": 622,
 "text": "",
 "type": "Birth"
 }
 ],
-[],
-[],
-[],
-[],
-[],
-[],
 [],
 [
 {
@@ -37640,9 +37632,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1689
+1718
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -37655,9 +37647,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1689
+1718
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -37672,9 +37664,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1690
+1719
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -37689,9 +37681,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1691
+1720
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -37706,9 +37698,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1692
+1721
 ],
-"place": 494,
+"place": 491,
 "text": "",
 "type": "Birth"
 },
@@ -37721,9 +37713,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1692
+1721
 ],
-"place": 621,
+"place": 618,
 "text": "",
 "type": "Death"
 }
@@ -37738,9 +37730,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1693
+1722
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -37753,7 +37745,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1693
+1722
 ],
 "place": 165,
 "text": "",
@@ -37770,9 +37762,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1694
+1723
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -37787,9 +37779,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1695
+1724
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -37802,9 +37794,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1695
+1724
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -37819,9 +37811,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1696
+1725
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -37834,9 +37826,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1696
+1725
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -37851,7 +37843,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1697
+1726
 ],
 "place": 0,
 "text": "",
@@ -37866,7 +37858,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1697
+1726
 ],
 "place": 0,
 "text": "",
@@ -37883,9 +37875,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1698
+1727
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 }
@@ -37900,9 +37892,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1699
+1728
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 },
@@ -37915,7 +37907,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1699
+1728
 ],
 "place": -1,
 "text": "",
@@ -37932,9 +37924,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1700
+1729
 ],
-"place": 306,
+"place": 305,
 "text": "",
 "type": "Birth"
 }
@@ -37949,9 +37941,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1701
+1730
 ],
-"place": 110,
+"place": 108,
 "text": "",
 "type": "Birth"
 },
@@ -37964,7 +37956,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1701
+1730
 ],
 "place": 385,
 "text": "",
@@ -37981,9 +37973,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1702
+1731
 ],
-"place": 713,
+"place": 709,
 "text": "",
 "type": "Birth"
 },
@@ -37996,9 +37988,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1702
+1731
 ],
-"place": 114,
+"place": 113,
 "text": "",
 "type": "Death"
 }
@@ -38013,9 +38005,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1703
+1732
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -38028,7 +38020,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1703
+1732
 ],
 "place": 142,
 "text": "",
@@ -38045,7 +38037,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1704
+1733
 ],
 "place": -1,
 "text": "",
@@ -38060,9 +38052,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1704
+1733
 ],
-"place": 668,
+"place": 664,
 "text": "",
 "type": "Death"
 },
@@ -38075,7 +38067,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1704
+1733
 ],
 "place": -1,
 "text": "",
@@ -38093,9 +38085,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1706
+1735
 ],
-"place": 628,
+"place": 625,
 "text": "",
 "type": "Birth"
 }
@@ -38110,7 +38102,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1707
+1736
 ],
 "place": -1,
 "text": "",
@@ -38125,9 +38117,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1707
+1736
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -38142,9 +38134,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1708
+1737
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -38157,7 +38149,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1708
+1737
 ],
 "place": -1,
 "text": "",
@@ -38172,11 +38164,43 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1708
+1737
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Burial"
+}
+],
+[
+{
+"cita": [],
+"date": "17 June 1914",
+"date_sdn": 2420301,
+"descr": "",
+"gid": "E3771",
+"media": [],
+"part_family": [],
+"part_person": [
+1738
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "22 September 1993",
+"date_sdn": 2449253,
+"descr": "",
+"gid": "E3772",
+"media": [],
+"part_family": [],
+"part_person": [
+1738
+],
+"place": 0,
+"text": "",
+"type": "Death"
 }
 ],
 [],
@@ -38190,9 +38214,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1710
+1740
 ],
-"place": 326,
+"place": 325,
 "text": "",
 "type": "Birth"
 },
@@ -38205,7 +38229,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1710
+1740
 ],
 "place": -1,
 "text": "",
@@ -38224,9 +38248,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1713
+1743
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 },
@@ -38239,7 +38263,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1713
+1743
 ],
 "place": 135,
 "text": "",
@@ -38256,9 +38280,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1714
+1744
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Birth"
 },
@@ -38271,7 +38295,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1714
+1744
 ],
 "place": -1,
 "text": "",
@@ -38286,9 +38310,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1714
+1744
 ],
-"place": 406,
+"place": 405,
 "text": "",
 "type": "Christening"
 }
@@ -38303,9 +38327,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1715
+1745
 ],
-"place": 468,
+"place": 467,
 "text": "",
 "type": "Birth"
 },
@@ -38318,9 +38342,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1715
+1745
 ],
-"place": 645,
+"place": 641,
 "text": "",
 "type": "Death"
 }
@@ -38337,9 +38361,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1718
+1748
 ],
-"place": 566,
+"place": 563,
 "text": "",
 "type": "Birth"
 },
@@ -38352,7 +38376,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1718
+1748
 ],
 "place": 235,
 "text": "",
@@ -38369,7 +38393,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1719
+1749
 ],
 "place": 235,
 "text": "",
@@ -38384,9 +38408,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1719
+1749
 ],
-"place": 664,
+"place": 660,
 "text": "",
 "type": "Death"
 }
@@ -38402,9 +38426,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1721
+1751
 ],
-"place": 219,
+"place": 218,
 "text": "",
 "type": "Birth"
 },
@@ -38417,7 +38441,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1721
+1751
 ],
 "place": 267,
 "text": "",
@@ -38435,9 +38459,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1723
+1753
 ],
-"place": 484,
+"place": 482,
 "text": "",
 "type": "Marriage"
 },
@@ -38450,9 +38474,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1723
+1753
 ],
-"place": 642,
+"place": 639,
 "text": "",
 "type": "Baptism"
 }
@@ -38468,7 +38492,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1725
+1755
 ],
 "place": -1,
 "text": "",
@@ -38485,9 +38509,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1726
+1756
 ],
-"place": 668,
+"place": 664,
 "text": "",
 "type": "Birth"
 },
@@ -38500,9 +38524,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1726
+1756
 ],
-"place": 668,
+"place": 664,
 "text": "",
 "type": "Death"
 }
@@ -38518,9 +38542,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1728
+1758
 ],
-"place": 513,
+"place": 510,
 "text": "",
 "type": "Birth"
 },
@@ -38533,9 +38557,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1728
+1758
 ],
-"place": 490,
+"place": 487,
 "text": "",
 "type": "Death"
 }
@@ -38550,9 +38574,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1729
+1759
 ],
-"place": 513,
+"place": 510,
 "text": "",
 "type": "Birth"
 },
@@ -38565,9 +38589,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1729
+1759
 ],
-"place": 655,
+"place": 651,
 "text": "",
 "type": "Death"
 }
@@ -38582,9 +38606,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1730
+1760
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 },
@@ -38597,7 +38621,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1730
+1760
 ],
 "place": -1,
 "text": "",
@@ -38614,9 +38638,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1731
+1761
 ],
-"place": 636,
+"place": 633,
 "text": "",
 "type": "Birth"
 },
@@ -38629,9 +38653,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1731
+1761
 ],
-"place": 205,
+"place": 204,
 "text": "",
 "type": "Residence"
 }
@@ -38646,13 +38670,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1732
+1762
 ],
-"place": 464,
+"place": 462,
 "text": "",
 "type": "Birth"
 }
 ],
+[],
 [
 {
 "cita": [],
@@ -38663,9 +38688,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1733
+1764
 ],
-"place": 440,
+"place": 438,
 "text": "",
 "type": "Death"
 }
@@ -38680,9 +38705,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1734
+1765
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 },
@@ -38695,11 +38720,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1734,
-1739,
-1744
+1765,
+1770,
+1775
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Residence"
 }
@@ -38714,9 +38739,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1735
+1766
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 }
@@ -38731,30 +38756,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1736
+1767
 ],
-"place": 464,
+"place": 462,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1866",
-"date_sdn": 2402603,
-"descr": "",
-"gid": "E2606",
-"media": [],
-"part_family": [],
-"part_person": [
-1737
-],
-"place": 464,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -38765,7 +38774,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1738
+1769
 ],
 "place": 180,
 "text": "",
@@ -38782,9 +38791,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1739
+1770
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 },
@@ -38797,11 +38806,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1734,
-1739,
-1744
+1765,
+1770,
+1775
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Residence"
 }
@@ -38816,9 +38825,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1740
+1771
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Birth"
 },
@@ -38831,7 +38840,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1740
+1771
 ],
 "place": -1,
 "text": "",
@@ -38846,7 +38855,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1740
+1771
 ],
 "place": -1,
 "text": "",
@@ -38863,9 +38872,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1741
+1772
 ],
-"place": 78,
+"place": 77,
 "text": "",
 "type": "Birth"
 },
@@ -38878,9 +38887,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1741
+1772
 ],
-"place": 516,
+"place": 514,
 "text": "",
 "type": "Death"
 },
@@ -38893,9 +38902,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1741
+1772
 ],
-"place": 312,
+"place": 311,
 "text": "",
 "type": "Burial"
 }
@@ -38910,9 +38919,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1742
+1773
 ],
-"place": 188,
+"place": 187,
 "text": "",
 "type": "Birth"
 },
@@ -38925,9 +38934,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1742
+1773
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Death"
 }
@@ -38942,7 +38951,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1743
+1774
 ],
 "place": -1,
 "text": "<div>\n<i class=\"NoteType\">\nOccupation\n</i>\n<div class=\"grampsstylednote\">\n<p>\nWholesale stationer\n</p>\n</div>\n</div>",
@@ -38959,9 +38968,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1744
+1775
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 },
@@ -38974,7 +38983,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1744
+1775
 ],
 "place": 136,
 "text": "",
@@ -38989,11 +38998,11 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1734,
-1739,
-1744
+1765,
+1770,
+1775
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Residence"
 }
@@ -39008,9 +39017,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1745
+1776
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 }
@@ -39025,9 +39034,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1746
+1777
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 },
@@ -39040,7 +39049,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1746
+1777
 ],
 "place": -1,
 "text": "",
@@ -39057,9 +39066,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1747
+1778
 ],
-"place": 464,
+"place": 462,
 "text": "",
 "type": "Birth"
 }
@@ -39074,9 +39083,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1748
+1779
 ],
-"place": 464,
+"place": 462,
 "text": "",
 "type": "Birth"
 }
@@ -39091,9 +39100,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1749
+1780
 ],
-"place": 551,
+"place": 548,
 "text": "",
 "type": "Birth"
 }
@@ -39108,9 +39117,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1750
+1781
 ],
-"place": 551,
+"place": 548,
 "text": "",
 "type": "Birth"
 }
@@ -39125,9 +39134,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1751
+1782
 ],
-"place": 551,
+"place": 548,
 "text": "",
 "type": "Birth"
 }
@@ -39142,9 +39151,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1752
+1783
 ],
-"place": 551,
+"place": 548,
 "text": "",
 "type": "Birth"
 }
@@ -39160,9 +39169,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1754
+1785
 ],
-"place": 551,
+"place": 548,
 "text": "",
 "type": "Birth"
 },
@@ -39175,7 +39184,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1754
+1785
 ],
 "place": -1,
 "text": "",
@@ -39193,9 +39202,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1756
+1787
 ],
-"place": 551,
+"place": 548,
 "text": "",
 "type": "Birth"
 }
@@ -39210,30 +39219,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1757
+1788
 ],
 "place": -1,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1907",
-"date_sdn": 2417577,
-"descr": "",
-"gid": "E2156",
-"media": [],
-"part_family": [],
-"part_person": [
-1758
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -39244,30 +39237,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1759
+1790
 ],
 "place": 142,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1898",
-"date_sdn": 2414291,
-"descr": "",
-"gid": "E2155",
-"media": [],
-"part_family": [],
-"part_person": [
-1760
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -39278,7 +39255,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1761
+1792
 ],
 "place": 142,
 "text": "",
@@ -39295,9 +39272,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1762
+1793
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -39310,30 +39287,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1762
+1793
 ],
 "place": 142,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1896",
-"date_sdn": 2413560,
-"descr": "",
-"gid": "E2154",
-"media": [],
-"part_family": [],
-"part_person": [
-1763
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [],
 [
 {
@@ -39345,9 +39306,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1765
+1796
 ],
-"place": 638,
+"place": 635,
 "text": "",
 "type": "Birth"
 }
@@ -39362,9 +39323,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1766
+1797
 ],
-"place": 638,
+"place": 635,
 "text": "",
 "type": "Birth"
 }
@@ -39379,7 +39340,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1767
+1798
 ],
 "place": 146,
 "text": "",
@@ -39394,7 +39355,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1767
+1798
 ],
 "place": 146,
 "text": "",
@@ -39411,7 +39372,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1768
+1799
 ],
 "place": -1,
 "text": "",
@@ -39426,7 +39387,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1768
+1799
 ],
 "place": -1,
 "text": "",
@@ -39443,7 +39404,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1769
+1800
 ],
 "place": 251,
 "text": "",
@@ -39458,7 +39419,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1769
+1800
 ],
 "place": 171,
 "text": "",
@@ -39475,9 +39436,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1770
+1801
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -39490,9 +39451,41 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1770
+1801
 ],
 "place": -1,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "8 March 1922",
+"date_sdn": 2423122,
+"descr": "",
+"gid": "E3780",
+"media": [],
+"part_family": [],
+"part_person": [
+1802
+],
+"place": 221,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "1998",
+"date_sdn": 2450815,
+"descr": "",
+"gid": "E3781",
+"media": [],
+"part_family": [],
+"part_person": [
+1802
+],
+"place": 443,
 "text": "",
 "type": "Death"
 }
@@ -39510,9 +39503,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1774
+1806
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -39525,9 +39518,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1774
+1806
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -39542,9 +39535,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1775
+1807
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -39557,7 +39550,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1775
+1807
 ],
 "place": 168,
 "text": "",
@@ -39574,9 +39567,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1776
+1808
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -39589,9 +39582,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1776
+1808
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -39606,9 +39599,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1777
+1809
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -39625,9 +39618,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1780
+1812
 ],
-"place": 215,
+"place": 214,
 "text": "",
 "type": "Birth"
 },
@@ -39640,9 +39633,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1780
+1812
 ],
-"place": 686,
+"place": 683,
 "text": "",
 "type": "Death"
 }
@@ -39657,9 +39650,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1781
+1813
 ],
-"place": 299,
+"place": 298,
 "text": "",
 "type": "Birth"
 },
@@ -39672,9 +39665,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1781
+1813
 ],
-"place": 394,
+"place": 393,
 "text": "",
 "type": "Death"
 }
@@ -39689,9 +39682,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1782
+1814
 ],
-"place": 281,
+"place": 280,
 "text": "",
 "type": "Birth"
 },
@@ -39704,9 +39697,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1782
+1814
 ],
-"place": 299,
+"place": 298,
 "text": "",
 "type": "Death"
 }
@@ -39721,7 +39714,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1783
+1815
 ],
 "place": -1,
 "text": "",
@@ -39740,7 +39733,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1786
+1818
 ],
 "place": -1,
 "text": "",
@@ -39758,9 +39751,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1788
+1820
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Birth"
 },
@@ -39773,9 +39766,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1788
+1820
 ],
-"place": 462,
+"place": 460,
 "text": "",
 "type": "Death"
 }
@@ -39790,9 +39783,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1789
+1821
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Birth"
 },
@@ -39805,30 +39798,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1789
+1821
 ],
-"place": 283,
+"place": 282,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1907",
-"date_sdn": 2417577,
-"descr": "",
-"gid": "E3422",
-"media": [],
-"part_family": [],
-"part_person": [
-1790
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -39839,9 +39816,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1791
+1823
 ],
-"place": 301,
+"place": 300,
 "text": "",
 "type": "Birth"
 },
@@ -39854,7 +39831,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1791
+1823
 ],
 "place": -1,
 "text": "",
@@ -39873,7 +39850,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1794
+1826
 ],
 "place": -1,
 "text": "",
@@ -39891,7 +39868,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1796
+1828
 ],
 "place": -1,
 "text": "",
@@ -39908,7 +39885,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1797
+1829
 ],
 "place": -1,
 "text": "",
@@ -39925,9 +39902,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1798
+1830
 ],
-"place": 679,
+"place": 675,
 "text": "",
 "type": "Birth"
 }
@@ -39942,7 +39919,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1799
+1831
 ],
 "place": 138,
 "text": "",
@@ -39957,7 +39934,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1799
+1831
 ],
 "place": -1,
 "text": "",
@@ -39974,9 +39951,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1800
+1832
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 }
@@ -39991,7 +39968,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1801
+1833
 ],
 "place": -1,
 "text": "",
@@ -40006,30 +39983,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1801
+1833
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1890",
-"date_sdn": 2411369,
-"descr": "",
-"gid": "E2148",
-"media": [],
-"part_family": [],
-"part_person": [
-1802
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -40040,9 +40001,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1803
+1835
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -40055,9 +40016,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1803
+1835
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -40072,7 +40033,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1804
+1836
 ],
 "place": 142,
 "text": "",
@@ -40087,30 +40048,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1804
+1836
 ],
 "place": 142,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1889",
-"date_sdn": 2411004,
-"descr": "",
-"gid": "E2145",
-"media": [],
-"part_family": [],
-"part_person": [
-1805
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -40121,30 +40066,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1806
+1838
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1882",
-"date_sdn": 2408447,
-"descr": "",
-"gid": "E2142",
-"media": [],
-"part_family": [],
-"part_person": [
-1807
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -40155,9 +40084,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1808
+1840
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -40170,81 +40099,17 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1808
+1840
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1884",
-"date_sdn": 2409177,
-"descr": "",
-"gid": "E2143",
-"media": [],
-"part_family": [],
-"part_person": [
-1809
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "about 1904",
-"date_sdn": 2416481,
-"descr": "",
-"gid": "E2149",
-"media": [],
-"part_family": [],
-"part_person": [
-1810
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "about 1899",
-"date_sdn": 2414656,
-"descr": "",
-"gid": "E2158",
-"media": [],
-"part_family": [],
-"part_person": [
-1811
-],
-"place": 423,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "about 1904",
-"date_sdn": 2416481,
-"descr": "",
-"gid": "E2161",
-"media": [],
-"part_family": [],
-"part_person": [
-1812
-],
-"place": 423,
-"text": "",
-"type": "Birth"
-}
-],
+[],
+[],
+[],
+[],
 [
 {
 "cita": [],
@@ -40255,9 +40120,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1813
+1845
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -40270,30 +40135,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1813
+1845
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1906",
-"date_sdn": 2417212,
-"descr": "",
-"gid": "E2162",
-"media": [],
-"part_family": [],
-"part_person": [
-1814
-],
-"place": 423,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -40304,9 +40153,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1815
+1847
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -40319,7 +40168,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1815
+1847
 ],
 "place": -1,
 "text": "",
@@ -40336,9 +40185,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1816
+1848
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -40351,30 +40200,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1816
+1848
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1902",
-"date_sdn": 2415751,
-"descr": "",
-"gid": "E2160",
-"media": [],
-"part_family": [],
-"part_person": [
-1817
-],
-"place": 423,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -40385,9 +40218,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1818
+1850
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -40400,47 +40233,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1818
+1850
 ],
-"place": 501,
+"place": 498,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1894",
-"date_sdn": 2412830,
-"descr": "",
-"gid": "E2146",
-"media": [],
-"part_family": [],
-"part_person": [
-1819
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "about 1900",
-"date_sdn": 2415021,
-"descr": "",
-"gid": "E2159",
-"media": [],
-"part_family": [],
-"part_person": [
-1820
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
+[],
 [
 {
 "cita": [],
@@ -40451,9 +40252,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1821
+1853
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -40466,30 +40267,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1821
+1853
 ],
 "place": 142,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1886",
-"date_sdn": 2409908,
-"descr": "",
-"gid": "E2144",
-"media": [],
-"part_family": [],
-"part_person": [
-1822
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -40500,9 +40285,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1823
+1855
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -40515,7 +40300,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1823
+1855
 ],
 "place": 142,
 "text": "",
@@ -40532,9 +40317,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1824
+1856
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 }
@@ -40549,9 +40334,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1825
+1857
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Birth"
 },
@@ -40564,30 +40349,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1825
+1857
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1876",
-"date_sdn": 2406255,
-"descr": "",
-"gid": "E2842",
-"media": [],
-"part_family": [],
-"part_person": [
-1826
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -40598,9 +40367,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1827
+1859
 ],
-"place": 686,
+"place": 683,
 "text": "",
 "type": "Birth"
 }
@@ -40619,7 +40388,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1832
+1864
 ],
 "place": 156,
 "text": "",
@@ -40636,7 +40405,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1833
+1865
 ],
 "place": -1,
 "text": "",
@@ -40651,9 +40420,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1833
+1865
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -40668,7 +40437,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1834
+1866
 ],
 "place": 156,
 "text": "",
@@ -40685,7 +40454,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1835
+1867
 ],
 "place": 230,
 "text": "",
@@ -40702,7 +40471,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1836
+1868
 ],
 "place": 230,
 "text": "",
@@ -40717,7 +40486,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1836
+1868
 ],
 "place": -1,
 "text": "",
@@ -40734,7 +40503,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1837
+1869
 ],
 "place": 230,
 "text": "",
@@ -40751,7 +40520,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1838
+1870
 ],
 "place": 230,
 "text": "",
@@ -40768,7 +40537,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1839
+1871
 ],
 "place": 230,
 "text": "",
@@ -40785,9 +40554,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1840
+1872
 ],
-"place": 493,
+"place": 490,
 "text": "",
 "type": "Birth"
 }
@@ -40802,7 +40571,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1841
+1873
 ],
 "place": 230,
 "text": "",
@@ -40819,9 +40588,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1842
+1874
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Birth"
 }
@@ -40836,7 +40605,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1843
+1875
 ],
 "place": 230,
 "text": "",
@@ -40851,7 +40620,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1843
+1875
 ],
 "place": 230,
 "text": "",
@@ -40869,7 +40638,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1845
+1877
 ],
 "place": 230,
 "text": "",
@@ -40886,7 +40655,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1846
+1878
 ],
 "place": 230,
 "text": "",
@@ -40901,7 +40670,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1846
+1878
 ],
 "place": -1,
 "text": "",
@@ -40916,7 +40685,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1846
+1878
 ],
 "place": 230,
 "text": "",
@@ -40933,9 +40702,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1847
+1879
 ],
-"place": 493,
+"place": 490,
 "text": "",
 "type": "Birth"
 }
@@ -40950,7 +40719,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1848
+1880
 ],
 "place": 230,
 "text": "",
@@ -40967,7 +40736,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1849
+1881
 ],
 "place": -1,
 "text": "",
@@ -40982,7 +40751,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1849
+1881
 ],
 "place": -1,
 "text": "",
@@ -40999,7 +40768,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1850
+1882
 ],
 "place": 230,
 "text": "",
@@ -41016,7 +40785,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1851
+1883
 ],
 "place": 230,
 "text": "",
@@ -41031,7 +40800,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1851
+1883
 ],
 "place": -1,
 "text": "",
@@ -41049,7 +40818,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1853
+1885
 ],
 "place": -1,
 "text": "",
@@ -41064,7 +40833,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1853
+1885
 ],
 "place": -1,
 "text": "",
@@ -41081,7 +40850,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1854
+1886
 ],
 "place": -1,
 "text": "",
@@ -41096,7 +40865,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1854
+1886
 ],
 "place": 22,
 "text": "",
@@ -41111,7 +40880,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1854
+1886
 ],
 "place": -1,
 "text": "",
@@ -41128,7 +40897,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1855
+1887
 ],
 "place": -1,
 "text": "",
@@ -41145,9 +40914,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1856
+1888
 ],
-"place": 299,
+"place": 298,
 "text": "",
 "type": "Birth"
 }
@@ -41162,30 +40931,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1857
+1889
 ],
-"place": 572,
+"place": 569,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1899",
-"date_sdn": 2414656,
-"descr": "",
-"gid": "E3533",
-"media": [],
-"part_family": [],
-"part_person": [
-1858
-],
-"place": 572,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -41196,9 +40949,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1859
+1891
 ],
-"place": 699,
+"place": 696,
 "text": "",
 "type": "Birth"
 },
@@ -41211,9 +40964,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1859
+1891
 ],
-"place": 686,
+"place": 683,
 "text": "",
 "type": "Death"
 }
@@ -41228,9 +40981,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1860
+1892
 ],
-"place": 632,
+"place": 629,
 "text": "",
 "type": "Birth"
 }
@@ -41246,9 +40999,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1862
+1894
 ],
-"place": 699,
+"place": 696,
 "text": "",
 "type": "Birth"
 }
@@ -41264,9 +41017,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1864
+1896
 ],
-"place": 632,
+"place": 629,
 "text": "",
 "type": "Birth"
 },
@@ -41279,9 +41032,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1864
+1896
 ],
-"place": 686,
+"place": 683,
 "text": "",
 "type": "Death"
 }
@@ -41296,9 +41049,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1865
+1897
 ],
-"place": 699,
+"place": 696,
 "text": "",
 "type": "Birth"
 },
@@ -41311,7 +41064,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1865
+1897
 ],
 "place": -1,
 "text": "",
@@ -41330,7 +41083,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1868
+1900
 ],
 "place": 255,
 "text": "",
@@ -41348,9 +41101,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1870
+1902
 ],
-"place": 699,
+"place": 696,
 "text": "",
 "type": "Birth"
 },
@@ -41363,9 +41116,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1870
+1902
 ],
-"place": 686,
+"place": 683,
 "text": "",
 "type": "Death"
 }
@@ -41380,7 +41133,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1871
+1903
 ],
 "place": -1,
 "text": "",
@@ -41397,9 +41150,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1872
+1904
 ],
-"place": 615,
+"place": 612,
 "text": "",
 "type": "Birth"
 },
@@ -41412,7 +41165,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1872
+1904
 ],
 "place": -1,
 "text": "",
@@ -41429,7 +41182,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1873
+1905
 ],
 "place": -1,
 "text": "",
@@ -41444,7 +41197,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1873
+1905
 ],
 "place": -1,
 "text": "",
@@ -41461,7 +41214,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1874
+1906
 ],
 "place": 251,
 "text": "",
@@ -41476,7 +41229,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1874
+1906
 ],
 "place": -1,
 "text": "",
@@ -41493,7 +41246,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1875
+1907
 ],
 "place": -1,
 "text": "",
@@ -41508,7 +41261,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1875
+1907
 ],
 "place": -1,
 "text": "",
@@ -41525,9 +41278,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1876
+1908
 ],
-"place": 470,
+"place": 469,
 "text": "",
 "type": "Birth"
 },
@@ -41540,7 +41293,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1876
+1908
 ],
 "place": 230,
 "text": "",
@@ -41557,7 +41310,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1877
+1909
 ],
 "place": -1,
 "text": "",
@@ -41572,7 +41325,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1877
+1909
 ],
 "place": -1,
 "text": "",
@@ -41589,9 +41342,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1878
+1910
 ],
-"place": 564,
+"place": 561,
 "text": "",
 "type": "Birth"
 },
@@ -41604,47 +41357,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1878
+1910
 ],
 "place": -1,
 "text": "",
 "type": "Baptism"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1897",
-"date_sdn": 2413926,
-"descr": "",
-"gid": "E2138",
-"media": [],
-"part_family": [],
-"part_person": [
-1879
-],
-"place": 424,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "about 1900",
-"date_sdn": 2415021,
-"descr": "",
-"gid": "E2139",
-"media": [],
-"part_family": [],
-"part_person": [
-1880
-],
-"place": 424,
-"text": "",
-"type": "Birth"
-}
-],
+[],
+[],
 [
 {
 "cita": [],
@@ -41655,7 +41376,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1881
+1913
 ],
 "place": 142,
 "text": "",
@@ -41672,9 +41393,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1882
+1914
 ],
-"place": 692,
+"place": 689,
 "text": "",
 "type": "Birth"
 },
@@ -41687,9 +41408,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1882
+1914
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -41704,30 +41425,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1883
+1915
 ],
 "place": 142,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1887",
-"date_sdn": 2410273,
-"descr": "",
-"gid": "E2137",
-"media": [],
-"part_family": [],
-"part_person": [
-1884
-],
-"place": 692,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -41738,7 +41443,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1885
+1917
 ],
 "place": 381,
 "text": "",
@@ -41753,9 +41458,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1885
+1917
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Death"
 }
@@ -41770,9 +41475,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1886
+1918
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Birth"
 },
@@ -41785,7 +41490,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1886
+1918
 ],
 "place": 143,
 "text": "",
@@ -41802,7 +41507,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1887
+1919
 ],
 "place": 381,
 "text": "",
@@ -41817,7 +41522,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1887
+1919
 ],
 "place": 127,
 "text": "",
@@ -41834,7 +41539,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1888
+1920
 ],
 "place": 381,
 "text": "",
@@ -41851,9 +41556,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1889
+1921
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Birth"
 },
@@ -41866,7 +41571,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1889
+1921
 ],
 "place": -1,
 "text": "",
@@ -41883,9 +41588,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1890
+1922
 ],
-"place": 709,
+"place": 705,
 "text": "",
 "type": "Birth"
 },
@@ -41898,9 +41603,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1890
+1922
 ],
-"place": 488,
+"place": 485,
 "text": "",
 "type": "Death"
 }
@@ -41915,9 +41620,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1891
+1923
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 },
@@ -41930,7 +41635,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1891
+1923
 ],
 "place": 143,
 "text": "",
@@ -41947,9 +41652,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1892
+1924
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Birth"
 },
@@ -41962,9 +41667,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1892
+1924
 ],
-"place": 296,
+"place": 295,
 "text": "",
 "type": "Death"
 }
@@ -41979,9 +41684,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1893
+1925
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Birth"
 },
@@ -41994,7 +41699,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1893
+1925
 ],
 "place": -1,
 "text": "",
@@ -42011,9 +41716,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1894
+1926
 ],
-"place": 709,
+"place": 705,
 "text": "",
 "type": "Birth"
 },
@@ -42026,30 +41731,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1894
+1926
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1877",
-"date_sdn": 2406621,
-"descr": "",
-"gid": "E1274",
-"media": [],
-"part_family": [],
-"part_person": [
-1895
-],
-"place": 577,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -42060,9 +41749,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1896
+1928
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Birth"
 },
@@ -42075,7 +41764,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1896
+1928
 ],
 "place": 143,
 "text": "",
@@ -42092,9 +41781,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1897
+1929
 ],
-"place": 197,
+"place": 196,
 "text": "",
 "type": "Birth"
 },
@@ -42107,9 +41796,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1897
+1929
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Death"
 }
@@ -42124,7 +41813,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1898
+1930
 ],
 "place": 381,
 "text": "",
@@ -42139,9 +41828,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1898
+1930
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Death"
 }
@@ -42157,9 +41846,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1900
+1932
 ],
-"place": 577,
+"place": 574,
 "text": "",
 "type": "Birth"
 },
@@ -42172,9 +41861,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1900
+1932
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Death"
 }
@@ -42189,7 +41878,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1901
+1933
 ],
 "place": -1,
 "text": "",
@@ -42206,7 +41895,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1902
+1934
 ],
 "place": -1,
 "text": "",
@@ -42223,7 +41912,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1903
+1935
 ],
 "place": -1,
 "text": "",
@@ -42240,7 +41929,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1904
+1936
 ],
 "place": -1,
 "text": "",
@@ -42257,7 +41946,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1905
+1937
 ],
 "place": -1,
 "text": "",
@@ -42274,7 +41963,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1906
+1938
 ],
 "place": -1,
 "text": "",
@@ -42291,9 +41980,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1907
+1939
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -42308,7 +41997,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1908
+1940
 ],
 "place": -1,
 "text": "",
@@ -42325,7 +42014,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1909
+1941
 ],
 "place": -1,
 "text": "",
@@ -42340,7 +42029,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1909
+1941
 ],
 "place": -1,
 "text": "",
@@ -42357,9 +42046,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1910
+1942
 ],
-"place": 406,
+"place": 405,
 "text": "",
 "type": "Birth"
 }
@@ -42374,9 +42063,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1911
+1943
 ],
-"place": 406,
+"place": 405,
 "text": "",
 "type": "Birth"
 },
@@ -42389,9 +42078,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1911
+1943
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Death"
 }
@@ -42406,9 +42095,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1912
+1944
 ],
-"place": 680,
+"place": 676,
 "text": "",
 "type": "Birth"
 },
@@ -42421,9 +42110,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1912
+1944
 ],
-"place": 337,
+"place": 336,
 "text": "",
 "type": "Death"
 }
@@ -42438,9 +42127,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1913
+1945
 ],
-"place": 206,
+"place": 205,
 "text": "",
 "type": "Birth"
 }
@@ -42455,7 +42144,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1914
+1946
 ],
 "place": 365,
 "text": "",
@@ -42470,9 +42159,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1914
+1946
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Death"
 }
@@ -42487,9 +42176,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1915
+1947
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Birth"
 },
@@ -42502,7 +42191,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1915
+1947
 ],
 "place": 157,
 "text": "",
@@ -42519,9 +42208,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1916
+1948
 ],
-"place": 662,
+"place": 658,
 "text": "",
 "type": "Birth"
 },
@@ -42534,9 +42223,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1916
+1948
 ],
-"place": 588,
+"place": 585,
 "text": "",
 "type": "Death"
 }
@@ -42551,9 +42240,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1917
+1949
 ],
-"place": 206,
+"place": 205,
 "text": "",
 "type": "Birth"
 }
@@ -42569,9 +42258,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1919
+1951
 ],
-"place": 680,
+"place": 676,
 "text": "",
 "type": "Birth"
 },
@@ -42584,9 +42273,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1919
+1951
 ],
-"place": 309,
+"place": 308,
 "text": "",
 "type": "Death"
 }
@@ -42601,9 +42290,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1920
+1952
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Birth"
 },
@@ -42616,9 +42305,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1920
+1952
 ],
-"place": 645,
+"place": 641,
 "text": "",
 "type": "Death"
 }
@@ -42633,9 +42322,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1921
+1953
 ],
-"place": 680,
+"place": 676,
 "text": "",
 "type": "Birth"
 }
@@ -42650,9 +42339,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1922
+1954
 ],
-"place": 667,
+"place": 663,
 "text": "",
 "type": "Birth"
 },
@@ -42665,9 +42354,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1922
+1954
 ],
-"place": 676,
+"place": 672,
 "text": "",
 "type": "Death"
 }
@@ -42682,9 +42371,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1923
+1955
 ],
-"place": 337,
+"place": 336,
 "text": "",
 "type": "Birth"
 },
@@ -42697,9 +42386,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1923
+1955
 ],
-"place": 715,
+"place": 711,
 "text": "",
 "type": "Death"
 }
@@ -42714,9 +42403,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1924
+1956
 ],
-"place": 206,
+"place": 205,
 "text": "",
 "type": "Birth"
 },
@@ -42729,9 +42418,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1924
+1956
 ],
-"place": 690,
+"place": 687,
 "text": "",
 "type": "Death"
 }
@@ -42746,9 +42435,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1925
+1957
 ],
-"place": 406,
+"place": 405,
 "text": "",
 "type": "Birth"
 }
@@ -42763,9 +42452,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1926
+1958
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 },
@@ -42778,9 +42467,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1926
+1958
 ],
-"place": 53,
+"place": 52,
 "text": "",
 "type": "Death"
 }
@@ -42796,9 +42485,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1928
+1960
 ],
-"place": 680,
+"place": 676,
 "text": "",
 "type": "Birth"
 },
@@ -42811,9 +42500,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1928
+1960
 ],
-"place": 718,
+"place": 715,
 "text": "",
 "type": "Death"
 }
@@ -42828,9 +42517,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1929
+1961
 ],
-"place": 406,
+"place": 405,
 "text": "",
 "type": "Birth"
 },
@@ -42843,9 +42532,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1929
+1961
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Death"
 }
@@ -42860,9 +42549,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1930
+1962
 ],
-"place": 406,
+"place": 405,
 "text": "",
 "type": "Birth"
 }
@@ -42877,9 +42566,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1931
+1963
 ],
-"place": 206,
+"place": 205,
 "text": "",
 "type": "Birth"
 }
@@ -42894,7 +42583,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1932
+1964
 ],
 "place": -1,
 "text": "",
@@ -42909,9 +42598,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1932
+1964
 ],
-"place": 337,
+"place": 336,
 "text": "",
 "type": "Death"
 }
@@ -42926,7 +42615,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1933
+1965
 ],
 "place": -1,
 "text": "",
@@ -42941,7 +42630,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1933
+1965
 ],
 "place": 0,
 "text": "",
@@ -42958,7 +42647,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1934
+1966
 ],
 "place": 0,
 "text": "",
@@ -42973,7 +42662,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1934
+1966
 ],
 "place": -1,
 "text": "",
@@ -42990,9 +42679,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1935
+1967
 ],
-"place": 406,
+"place": 405,
 "text": "",
 "type": "Birth"
 }
@@ -43007,9 +42696,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1936
+1968
 ],
-"place": 206,
+"place": 205,
 "text": "",
 "type": "Birth"
 }
@@ -43024,9 +42713,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1937
+1969
 ],
-"place": 356,
+"place": 355,
 "text": "",
 "type": "Birth"
 },
@@ -43039,9 +42728,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1937
+1969
 ],
-"place": 588,
+"place": 585,
 "text": "",
 "type": "Death"
 }
@@ -43057,9 +42746,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1939
+1971
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 },
@@ -43072,7 +42761,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1939
+1971
 ],
 "place": -1,
 "text": "",
@@ -43089,9 +42778,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1940
+1972
 ],
-"place": 665,
+"place": 661,
 "text": "",
 "type": "Birth"
 },
@@ -43104,7 +42793,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1940
+1972
 ],
 "place": 165,
 "text": "",
@@ -43121,9 +42810,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1941
+1973
 ],
-"place": 588,
+"place": 585,
 "text": "",
 "type": "Birth"
 },
@@ -43136,9 +42825,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1941
+1973
 ],
-"place": 700,
+"place": 697,
 "text": "",
 "type": "Death"
 }
@@ -43153,9 +42842,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1942
+1974
 ],
-"place": 627,
+"place": 624,
 "text": "",
 "type": "Birth"
 }
@@ -43170,9 +42859,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1943
+1975
 ],
-"place": 394,
+"place": 393,
 "text": "",
 "type": "Birth"
 },
@@ -43185,9 +42874,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1943
+1975
 ],
-"place": 676,
+"place": 672,
 "text": "",
 "type": "Death"
 }
@@ -43202,9 +42891,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1944
+1976
 ],
-"place": 673,
+"place": 669,
 "text": "",
 "type": "Birth"
 }
@@ -43219,9 +42908,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1945
+1977
 ],
-"place": 449,
+"place": 448,
 "text": "",
 "type": "Birth"
 },
@@ -43234,9 +42923,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1945
+1977
 ],
-"place": 673,
+"place": 669,
 "text": "",
 "type": "Death"
 }
@@ -43251,9 +42940,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1946
+1978
 ],
-"place": 673,
+"place": 669,
 "text": "",
 "type": "Birth"
 },
@@ -43266,9 +42955,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1946
+1978
 ],
-"place": 88,
+"place": 87,
 "text": "",
 "type": "Death"
 }
@@ -43283,9 +42972,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1947
+1979
 ],
-"place": 88,
+"place": 87,
 "text": "",
 "type": "Birth"
 },
@@ -43298,9 +42987,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1947
+1979
 ],
-"place": 406,
+"place": 405,
 "text": "",
 "type": "Death"
 }
@@ -43315,9 +43004,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1948
+1980
 ],
-"place": 406,
+"place": 405,
 "text": "",
 "type": "Birth"
 }
@@ -43332,9 +43021,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1949
+1981
 ],
-"place": 206,
+"place": 205,
 "text": "",
 "type": "Birth"
 }
@@ -43354,7 +43043,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1955
+1987
 ],
 "place": 170,
 "text": "",
@@ -43369,7 +43058,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1955
+1987
 ],
 "place": 170,
 "text": "",
@@ -43386,7 +43075,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1956
+1988
 ],
 "place": 230,
 "text": "",
@@ -43401,7 +43090,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1956
+1988
 ],
 "place": 230,
 "text": "",
@@ -43418,7 +43107,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1957
+1989
 ],
 "place": 230,
 "text": "",
@@ -43435,7 +43124,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1958
+1990
 ],
 "place": 171,
 "text": "",
@@ -43450,7 +43139,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1958
+1990
 ],
 "place": 171,
 "text": "",
@@ -43467,9 +43156,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1959
+1991
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Birth"
 },
@@ -43482,7 +43171,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1959
+1991
 ],
 "place": -1,
 "text": "",
@@ -43499,7 +43188,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1960
+1992
 ],
 "place": -1,
 "text": "",
@@ -43516,7 +43205,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1961
+1993
 ],
 "place": -1,
 "text": "",
@@ -43533,7 +43222,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1962
+1994
 ],
 "place": 171,
 "text": "",
@@ -43548,7 +43237,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1962
+1994
 ],
 "place": -1,
 "text": "",
@@ -43565,7 +43254,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1963
+1995
 ],
 "place": 251,
 "text": "",
@@ -43580,7 +43269,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1963
+1995
 ],
 "place": 230,
 "text": "",
@@ -43597,9 +43286,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1964
+1996
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Birth"
 },
@@ -43612,7 +43301,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1964
+1996
 ],
 "place": -1,
 "text": "",
@@ -43629,9 +43318,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1965
+1997
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Birth"
 },
@@ -43644,7 +43333,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1965
+1997
 ],
 "place": 170,
 "text": "",
@@ -43661,7 +43350,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1966
+1998
 ],
 "place": -1,
 "text": "",
@@ -43678,7 +43367,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1967
+1999
 ],
 "place": 230,
 "text": "",
@@ -43693,7 +43382,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1967
+1999
 ],
 "place": -1,
 "text": "",
@@ -43710,7 +43399,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1968
+2000
 ],
 "place": 230,
 "text": "",
@@ -43725,7 +43414,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1968
+2000
 ],
 "place": 230,
 "text": "",
@@ -43742,7 +43431,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1969
+2001
 ],
 "place": -1,
 "text": "",
@@ -43757,7 +43446,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1969
+2001
 ],
 "place": -1,
 "text": "",
@@ -43774,7 +43463,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1970
+2002
 ],
 "place": 171,
 "text": "",
@@ -43789,7 +43478,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1970
+2002
 ],
 "place": 171,
 "text": "",
@@ -43806,7 +43495,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1971
+2003
 ],
 "place": 230,
 "text": "",
@@ -43823,9 +43512,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1972
+2004
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Birth"
 },
@@ -43838,9 +43527,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1972
+2004
 ],
-"place": 503,
+"place": 500,
 "text": "",
 "type": "Death"
 }
@@ -43855,9 +43544,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1973
+2005
 ],
-"place": 703,
+"place": 700,
 "text": "",
 "type": "Birth"
 },
@@ -43870,9 +43559,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1973
+2005
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Death"
 }
@@ -43887,7 +43576,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1974
+2006
 ],
 "place": 171,
 "text": "",
@@ -43902,7 +43591,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1974
+2006
 ],
 "place": 171,
 "text": "",
@@ -43919,7 +43608,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1975
+2007
 ],
 "place": 171,
 "text": "",
@@ -43934,7 +43623,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1975
+2007
 ],
 "place": 171,
 "text": "",
@@ -43951,9 +43640,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1976
+2008
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Birth"
 },
@@ -43966,7 +43655,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1976
+2008
 ],
 "place": -1,
 "text": "",
@@ -43983,7 +43672,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1977
+2009
 ],
 "place": 230,
 "text": "",
@@ -43998,7 +43687,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1977
+2009
 ],
 "place": 230,
 "text": "",
@@ -44015,7 +43704,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1978
+2010
 ],
 "place": 230,
 "text": "",
@@ -44032,7 +43721,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1979
+2011
 ],
 "place": 171,
 "text": "",
@@ -44047,7 +43736,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1979
+2011
 ],
 "place": -1,
 "text": "",
@@ -44064,9 +43753,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1980
+2012
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Birth"
 },
@@ -44079,9 +43768,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1980
+2012
 ],
-"place": 688,
+"place": 685,
 "text": "",
 "type": "Death"
 }
@@ -44096,7 +43785,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1981
+2013
 ],
 "place": 171,
 "text": "",
@@ -44113,9 +43802,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1982
+2014
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Birth"
 },
@@ -44128,7 +43817,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1982
+2014
 ],
 "place": -1,
 "text": "",
@@ -44145,7 +43834,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1983
+2015
 ],
 "place": 170,
 "text": "",
@@ -44160,7 +43849,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1983
+2015
 ],
 "place": 170,
 "text": "",
@@ -44179,9 +43868,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1986
+2018
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Birth"
 },
@@ -44194,9 +43883,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1986
+2018
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Death"
 }
@@ -44211,9 +43900,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1987
+2019
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Birth"
 },
@@ -44226,7 +43915,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1987
+2019
 ],
 "place": -1,
 "text": "",
@@ -44243,7 +43932,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1988
+2020
 ],
 "place": 230,
 "text": "",
@@ -44260,7 +43949,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1989
+2021
 ],
 "place": 171,
 "text": "",
@@ -44275,7 +43964,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1989
+2021
 ],
 "place": 251,
 "text": "",
@@ -44292,7 +43981,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1990
+2022
 ],
 "place": 251,
 "text": "",
@@ -44307,7 +43996,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1990
+2022
 ],
 "place": 171,
 "text": "",
@@ -44324,9 +44013,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1991
+2023
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Birth"
 },
@@ -44339,9 +44028,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1991
+2023
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Death"
 }
@@ -44356,9 +44045,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1992
+2024
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Birth"
 },
@@ -44371,7 +44060,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1992
+2024
 ],
 "place": -1,
 "text": "",
@@ -44388,7 +44077,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1993
+2025
 ],
 "place": -1,
 "text": "",
@@ -44405,7 +44094,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1994
+2026
 ],
 "place": -1,
 "text": "",
@@ -44420,9 +44109,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1994
+2026
 ],
-"place": 703,
+"place": 700,
 "text": "",
 "type": "Death"
 },
@@ -44435,9 +44124,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1994
+2026
 ],
-"place": 598,
+"place": 595,
 "text": "",
 "type": "Burial"
 }
@@ -44452,9 +44141,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1995
+2027
 ],
-"place": 517,
+"place": 515,
 "text": "",
 "type": "Birth"
 },
@@ -44467,9 +44156,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1995
+2027
 ],
-"place": 600,
+"place": 597,
 "text": "",
 "type": "Death"
 }
@@ -44484,7 +44173,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1996
+2028
 ],
 "place": 230,
 "text": "",
@@ -44499,7 +44188,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1996
+2028
 ],
 "place": 230,
 "text": "",
@@ -44516,9 +44205,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1997
+2029
 ],
-"place": 693,
+"place": 690,
 "text": "",
 "type": "Birth"
 },
@@ -44531,9 +44220,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1997
+2029
 ],
-"place": 476,
+"place": 474,
 "text": "",
 "type": "Death"
 }
@@ -44548,9 +44237,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1998
+2030
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -44563,9 +44252,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1998
+2030
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Death"
 }
@@ -44580,7 +44269,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-1999
+2031
 ],
 "place": -1,
 "text": "",
@@ -44597,9 +44286,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2000
+2032
 ],
-"place": 337,
+"place": 336,
 "text": "",
 "type": "Birth"
 },
@@ -44612,9 +44301,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2000
+2032
 ],
-"place": 668,
+"place": 664,
 "text": "",
 "type": "Death"
 }
@@ -44629,9 +44318,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2001
+2033
 ],
-"place": 337,
+"place": 336,
 "text": "",
 "type": "Birth"
 },
@@ -44644,9 +44333,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2001
+2033
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Death"
 }
@@ -44661,9 +44350,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2002
+2034
 ],
-"place": 526,
+"place": 523,
 "text": "",
 "type": "Birth"
 },
@@ -44676,9 +44365,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2002
+2034
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Death"
 }
@@ -44693,9 +44382,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2003
+2035
 ],
-"place": 337,
+"place": 336,
 "text": "",
 "type": "Birth"
 },
@@ -44708,9 +44397,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2003
+2035
 ],
-"place": 565,
+"place": 562,
 "text": "",
 "type": "Death"
 }
@@ -44725,9 +44414,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2004
+2036
 ],
-"place": 337,
+"place": 336,
 "text": "",
 "type": "Birth"
 },
@@ -44740,9 +44429,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2004
+2036
 ],
-"place": 563,
+"place": 560,
 "text": "",
 "type": "Death"
 }
@@ -44757,9 +44446,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2005
+2037
 ],
-"place": 337,
+"place": 336,
 "text": "",
 "type": "Birth"
 },
@@ -44772,7 +44461,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2005
+2037
 ],
 "place": 254,
 "text": "",
@@ -44789,9 +44478,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2006
+2038
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Birth"
 },
@@ -44804,7 +44493,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2006
+2038
 ],
 "place": -1,
 "text": "",
@@ -44821,7 +44510,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2007
+2039
 ],
 "place": 256,
 "text": "",
@@ -44838,7 +44527,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2008
+2040
 ],
 "place": 256,
 "text": "",
@@ -44853,7 +44542,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2008
+2040
 ],
 "place": 363,
 "text": "",
@@ -44870,7 +44559,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2009
+2041
 ],
 "place": 256,
 "text": "",
@@ -44885,7 +44574,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2009
+2041
 ],
 "place": 363,
 "text": "",
@@ -44902,7 +44591,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2010
+2042
 ],
 "place": 256,
 "text": "",
@@ -44917,7 +44606,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2010
+2042
 ],
 "place": 363,
 "text": "",
@@ -44934,7 +44623,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2011
+2043
 ],
 "place": 363,
 "text": "",
@@ -44949,9 +44638,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2011
+2043
 ],
-"place": 631,
+"place": 628,
 "text": "",
 "type": "Residence"
 },
@@ -44964,7 +44653,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2011
+2043
 ],
 "place": 363,
 "text": "",
@@ -44981,9 +44670,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2012
+2044
 ],
-"place": 185,
+"place": 184,
 "text": "",
 "type": "Birth"
 },
@@ -44996,7 +44685,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2012
+2044
 ],
 "place": 363,
 "text": "",
@@ -45013,9 +44702,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2013
+2045
 ],
-"place": 185,
+"place": 184,
 "text": "",
 "type": "Birth"
 },
@@ -45028,7 +44717,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2013
+2045
 ],
 "place": 363,
 "text": "",
@@ -45045,9 +44734,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2014
+2046
 ],
-"place": 185,
+"place": 184,
 "text": "",
 "type": "Birth"
 },
@@ -45060,11 +44749,43 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2014
+2046
 ],
 "place": 363,
 "text": "",
 "type": "Residence"
+}
+],
+[
+{
+"cita": [],
+"date": "21 September 1909",
+"date_sdn": 2418571,
+"descr": "",
+"gid": "E3752",
+"media": [],
+"part_family": [],
+"part_person": [
+2047
+],
+"place": 678,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "30 November 1985",
+"date_sdn": 2446400,
+"descr": "",
+"gid": "E3753",
+"media": [],
+"part_family": [],
+"part_person": [
+2047
+],
+"place": 0,
+"text": "",
+"type": "Death"
 }
 ],
 [
@@ -45077,7 +44798,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2015
+2048
 ],
 "place": 162,
 "text": "",
@@ -45095,7 +44816,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2017
+2050
 ],
 "place": -1,
 "text": "",
@@ -45110,32 +44831,16 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2017
+2050
 ],
-"place": 283,
+"place": 282,
 "text": "",
 "type": "Death"
 }
 ],
 [],
 [],
-[
-{
-"cita": [],
-"date": "about 1871",
-"date_sdn": 2404429,
-"descr": "",
-"gid": "E1181",
-"media": [],
-"part_family": [],
-"part_person": [
-2020
-],
-"place": 582,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -45146,9 +44851,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2021
+2054
 ],
-"place": 318,
+"place": 317,
 "text": "",
 "type": "Birth"
 },
@@ -45161,9 +44866,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2021
+2054
 ],
-"place": 465,
+"place": 464,
 "text": "",
 "type": "Death"
 }
@@ -45178,7 +44883,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2022
+2055
 ],
 "place": -1,
 "text": "",
@@ -45193,9 +44898,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2022
+2055
 ],
-"place": 706,
+"place": 702,
 "text": "",
 "type": "Baptism"
 }
@@ -45210,7 +44915,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2023
+2056
 ],
 "place": -1,
 "text": "",
@@ -45225,7 +44930,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2023
+2056
 ],
 "place": -1,
 "text": "",
@@ -45242,7 +44947,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2024
+2057
 ],
 "place": 227,
 "text": "",
@@ -45257,9 +44962,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2024
+2057
 ],
-"place": 587,
+"place": 584,
 "text": "",
 "type": "Death"
 }
@@ -45274,7 +44979,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2025
+2058
 ],
 "place": 227,
 "text": "",
@@ -45291,7 +44996,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2026
+2059
 ],
 "place": 386,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nBorn in a poor house.\n</p>\n</div>\n</div>",
@@ -45306,7 +45011,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2026
+2059
 ],
 "place": 0,
 "text": "",
@@ -45323,7 +45028,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2027
+2060
 ],
 "place": -1,
 "text": "",
@@ -45338,7 +45043,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2027
+2060
 ],
 "place": -1,
 "text": "",
@@ -45356,7 +45061,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2029
+2062
 ],
 "place": -1,
 "text": "",
@@ -45373,7 +45078,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2030
+2063
 ],
 "place": -1,
 "text": "",
@@ -45388,9 +45093,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2030
+2063
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Burial"
 }
@@ -45405,7 +45110,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2031
+2064
 ],
 "place": -1,
 "text": "",
@@ -45420,9 +45125,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2031
+2064
 ],
-"place": 332,
+"place": 331,
 "text": "",
 "type": "Death"
 }
@@ -45437,7 +45142,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2032
+2065
 ],
 "place": -1,
 "text": "",
@@ -45452,7 +45157,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2032
+2065
 ],
 "place": -1,
 "text": "",
@@ -45469,7 +45174,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2033
+2066
 ],
 "place": -1,
 "text": "",
@@ -45484,7 +45189,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2033
+2066
 ],
 "place": -1,
 "text": "",
@@ -45502,7 +45207,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2035
+2068
 ],
 "place": 148,
 "text": "",
@@ -45517,7 +45222,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2035
+2068
 ],
 "place": -1,
 "text": "",
@@ -45534,7 +45239,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2036
+2069
 ],
 "place": 252,
 "text": "",
@@ -45551,7 +45256,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2037
+2070
 ],
 "place": -1,
 "text": "",
@@ -45569,7 +45274,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2039
+2072
 ],
 "place": -1,
 "text": "",
@@ -45584,7 +45289,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2039
+2072
 ],
 "place": -1,
 "text": "",
@@ -45602,7 +45307,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2041
+2074
 ],
 "place": 379,
 "text": "",
@@ -45619,7 +45324,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2042
+2075
 ],
 "place": 379,
 "text": "",
@@ -45637,7 +45342,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2044
+2077
 ],
 "place": 370,
 "text": "",
@@ -45652,7 +45357,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2044
+2077
 ],
 "place": 370,
 "text": "",
@@ -45669,7 +45374,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2045
+2078
 ],
 "place": 370,
 "text": "",
@@ -45684,7 +45389,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2045
+2078
 ],
 "place": 370,
 "text": "",
@@ -45701,7 +45406,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2046
+2079
 ],
 "place": 370,
 "text": "",
@@ -45718,7 +45423,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2047
+2080
 ],
 "place": 370,
 "text": "",
@@ -45735,7 +45440,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2048
+2081
 ],
 "place": 370,
 "text": "",
@@ -45750,7 +45455,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2048
+2081
 ],
 "place": 370,
 "text": "",
@@ -45767,7 +45472,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2049
+2082
 ],
 "place": 370,
 "text": "",
@@ -45782,7 +45487,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2049
+2082
 ],
 "place": 370,
 "text": "",
@@ -45797,7 +45502,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2049
+2082
 ],
 "place": 370,
 "text": "",
@@ -45814,7 +45519,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2050
+2083
 ],
 "place": 370,
 "text": "",
@@ -45829,7 +45534,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2050
+2083
 ],
 "place": 370,
 "text": "",
@@ -45846,9 +45551,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2051
+2084
 ],
-"place": 502,
+"place": 499,
 "text": "",
 "type": "Birth"
 },
@@ -45861,7 +45566,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2051
+2084
 ],
 "place": 370,
 "text": "",
@@ -45878,7 +45583,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2052
+2085
 ],
 "place": -1,
 "text": "",
@@ -45893,7 +45598,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2052
+2085
 ],
 "place": -1,
 "text": "",
@@ -45912,9 +45617,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2055
+2088
 ],
-"place": 436,
+"place": 435,
 "text": "",
 "type": "Birth"
 }
@@ -45929,9 +45634,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2056
+2089
 ],
-"place": 552,
+"place": 549,
 "text": "",
 "type": "Birth"
 }
@@ -45946,9 +45651,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2057
+2090
 ],
-"place": 301,
+"place": 300,
 "text": "",
 "type": "Birth"
 },
@@ -45961,9 +45666,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2057
+2090
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Death"
 }
@@ -45978,7 +45683,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2058
+2091
 ],
 "place": 145,
 "text": "",
@@ -45999,7 +45704,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2063
+2096
 ],
 "place": -1,
 "text": "",
@@ -46014,7 +45719,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2063
+2096
 ],
 "place": 182,
 "text": "",
@@ -46029,9 +45734,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2063
+2096
 ],
-"place": 561,
+"place": 558,
 "text": "",
 "type": "Burial"
 }
@@ -46047,7 +45752,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2065
+2098
 ],
 "place": -1,
 "text": "",
@@ -46062,7 +45767,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2065
+2098
 ],
 "place": 0,
 "text": "",
@@ -46079,7 +45784,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2066
+2099
 ],
 "place": -1,
 "text": "",
@@ -46097,9 +45802,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2068
+2101
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 },
@@ -46112,7 +45817,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2068
+2101
 ],
 "place": -1,
 "text": "",
@@ -46127,9 +45832,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2068
+2101
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Residence"
 }
@@ -46145,9 +45850,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2070
+2103
 ],
-"place": 334,
+"place": 333,
 "text": "",
 "type": "Birth"
 },
@@ -46160,9 +45865,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2070
+2103
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Residence"
 },
@@ -46175,9 +45880,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2070
+2103
 ],
-"place": 407,
+"place": 406,
 "text": "",
 "type": "Death"
 }
@@ -46192,9 +45897,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2071
+2104
 ],
-"place": 334,
+"place": 333,
 "text": "",
 "type": "Birth"
 },
@@ -46207,9 +45912,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2071
+2104
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Death"
 }
@@ -46225,9 +45930,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2073
+2106
 ],
-"place": 573,
+"place": 570,
 "text": "",
 "type": "Birth"
 },
@@ -46240,47 +45945,15 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2073
+2106
 ],
-"place": 351,
+"place": 350,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1890",
-"date_sdn": 2411369,
-"descr": "",
-"gid": "E1104",
-"media": [],
-"part_family": [],
-"part_person": [
-2074
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
-[
-{
-"cita": [],
-"date": "about 1873",
-"date_sdn": 2405160,
-"descr": "",
-"gid": "E2147",
-"media": [],
-"part_family": [],
-"part_person": [
-2075
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
+[],
 [
 {
 "cita": [],
@@ -46291,9 +45964,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2076
+2109
 ],
-"place": 81,
+"place": 80,
 "text": "",
 "type": "Birth"
 },
@@ -46306,7 +45979,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2076
+2109
 ],
 "place": -1,
 "text": "",
@@ -46323,9 +45996,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2077
+2110
 ],
-"place": 285,
+"place": 284,
 "text": "",
 "type": "Birth"
 },
@@ -46338,7 +46011,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2077
+2110
 ],
 "place": -1,
 "text": "",
@@ -46355,7 +46028,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2078
+2111
 ],
 "place": 230,
 "text": "",
@@ -46370,9 +46043,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2078
+2111
 ],
-"place": 80,
+"place": 79,
 "text": "",
 "type": "Death"
 }
@@ -46387,7 +46060,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2079
+2112
 ],
 "place": 369,
 "text": "",
@@ -46402,7 +46075,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2079
+2112
 ],
 "place": 222,
 "text": "",
@@ -46419,9 +46092,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2080
+2113
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 },
@@ -46434,9 +46107,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2080
+2113
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -46452,7 +46125,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2082
+2115
 ],
 "place": 230,
 "text": "",
@@ -46467,7 +46140,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2082
+2115
 ],
 "place": 153,
 "text": "",
@@ -46484,7 +46157,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2083
+2116
 ],
 "place": 230,
 "text": "",
@@ -46499,7 +46172,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2083
+2116
 ],
 "place": -1,
 "text": "",
@@ -46516,7 +46189,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2084
+2117
 ],
 "place": 230,
 "text": "",
@@ -46531,45 +46204,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2084
+2117
 ],
-"place": 486,
+"place": 483,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "5 July 1900",
-"date_sdn": 2415206,
-"descr": "",
-"gid": "E1255",
-"media": [],
-"part_family": [],
-"part_person": [
-2085
-],
-"place": 685,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "about 1979",
-"date_sdn": 2443875,
-"descr": "",
-"gid": "E1256",
-"media": [],
-"part_family": [],
-"part_person": [
-2085
-],
-"place": 436,
-"text": "",
-"type": "Death"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -46580,9 +46222,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2086
+2119
 ],
-"place": 478,
+"place": 476,
 "text": "",
 "type": "Birth"
 }
@@ -46597,7 +46239,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2087
+2120
 ],
 "place": 230,
 "text": "",
@@ -46612,7 +46254,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2087
+2120
 ],
 "place": 153,
 "text": "",
@@ -46629,7 +46271,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2088
+2121
 ],
 "place": 230,
 "text": "",
@@ -46644,7 +46286,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2088
+2121
 ],
 "place": -1,
 "text": "",
@@ -46661,7 +46303,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2089
+2122
 ],
 "place": 230,
 "text": "",
@@ -46676,7 +46318,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2089
+2122
 ],
 "place": -1,
 "text": "",
@@ -46693,7 +46335,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2090
+2123
 ],
 "place": 230,
 "text": "",
@@ -46708,7 +46350,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2090
+2123
 ],
 "place": 230,
 "text": "",
@@ -46725,7 +46367,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2091
+2124
 ],
 "place": 230,
 "text": "",
@@ -46740,9 +46382,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2091
+2124
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Death"
 }
@@ -46757,7 +46399,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2092
+2125
 ],
 "place": 230,
 "text": "",
@@ -46772,9 +46414,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2092
+2125
 ],
-"place": 655,
+"place": 651,
 "text": "",
 "type": "Death"
 }
@@ -46789,7 +46431,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2093
+2126
 ],
 "place": 230,
 "text": "",
@@ -46804,7 +46446,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2093
+2126
 ],
 "place": 153,
 "text": "",
@@ -46821,9 +46463,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2094
+2127
 ],
-"place": 685,
+"place": 682,
 "text": "",
 "type": "Birth"
 }
@@ -46838,9 +46480,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2095
+2128
 ],
-"place": 99,
+"place": 98,
 "text": "",
 "type": "Birth"
 }
@@ -46855,7 +46497,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2096
+2129
 ],
 "place": 230,
 "text": "",
@@ -46870,7 +46512,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2096
+2129
 ],
 "place": -1,
 "text": "",
@@ -46887,7 +46529,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2097
+2130
 ],
 "place": 230,
 "text": "",
@@ -46902,9 +46544,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2097
+2130
 ],
-"place": 698,
+"place": 695,
 "text": "",
 "type": "Death"
 }
@@ -46919,7 +46561,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2098
+2131
 ],
 "place": -1,
 "text": "",
@@ -46934,7 +46576,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2098
+2131
 ],
 "place": 152,
 "text": "",
@@ -46951,7 +46593,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2099
+2132
 ],
 "place": 367,
 "text": "",
@@ -46966,9 +46608,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2099
+2132
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Death"
 }
@@ -46983,9 +46625,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2100
+2133
 ],
-"place": 694,
+"place": 691,
 "text": "",
 "type": "Birth"
 },
@@ -46998,9 +46640,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2100
+2133
 ],
-"place": 284,
+"place": 283,
 "text": "",
 "type": "Death"
 }
@@ -47015,9 +46657,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2101
+2134
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Birth"
 }
@@ -47032,9 +46674,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2102
+2135
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Birth"
 }
@@ -47049,9 +46691,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2103
+2136
 ],
-"place": 448,
+"place": 447,
 "text": "",
 "type": "Birth"
 },
@@ -47064,9 +46706,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2103
+2136
 ],
-"place": 668,
+"place": 664,
 "text": "",
 "type": "Death"
 },
@@ -47079,9 +46721,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2103
+2136
 ],
-"place": 666,
+"place": 662,
 "text": "",
 "type": "Residence"
 },
@@ -47094,9 +46736,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2103
+2136
 ],
-"place": 38,
+"place": 37,
 "text": "",
 "type": "Residence"
 }
@@ -47111,9 +46753,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2104
+2137
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -47126,9 +46768,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2104
+2137
 ],
-"place": 668,
+"place": 664,
 "text": "",
 "type": "Death"
 }
@@ -47143,9 +46785,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2105
+2138
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -47158,9 +46800,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2105
+2138
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Death"
 }
@@ -47175,7 +46817,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2106
+2139
 ],
 "place": 223,
 "text": "",
@@ -47192,7 +46834,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2107
+2140
 ],
 "place": 223,
 "text": "",
@@ -47209,7 +46851,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2108
+2141
 ],
 "place": 223,
 "text": "",
@@ -47226,7 +46868,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2109
+2142
 ],
 "place": 223,
 "text": "",
@@ -47243,9 +46885,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2110
+2143
 ],
-"place": 683,
+"place": 680,
 "text": "",
 "type": "Birth"
 }
@@ -47260,9 +46902,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2111
+2144
 ],
-"place": 345,
+"place": 344,
 "text": "",
 "type": "Birth"
 }
@@ -47277,9 +46919,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2112
+2145
 ],
-"place": 683,
+"place": 680,
 "text": "",
 "type": "Birth"
 },
@@ -47292,9 +46934,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2112
+2145
 ],
-"place": 336,
+"place": 335,
 "text": "",
 "type": "Death"
 }
@@ -47309,7 +46951,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2113
+2146
 ],
 "place": -1,
 "text": "",
@@ -47324,7 +46966,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2113
+2146
 ],
 "place": -1,
 "text": "",
@@ -47341,7 +46983,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2114
+2147
 ],
 "place": -1,
 "text": "",
@@ -47356,7 +46998,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2114
+2147
 ],
 "place": -1,
 "text": "",
@@ -47373,7 +47015,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2115
+2148
 ],
 "place": -1,
 "text": "",
@@ -47388,7 +47030,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2115
+2148
 ],
 "place": -1,
 "text": "",
@@ -47406,7 +47048,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2117
+2150
 ],
 "place": -1,
 "text": "",
@@ -47421,7 +47063,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2117
+2150
 ],
 "place": -1,
 "text": "",
@@ -47438,7 +47080,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2118
+2151
 ],
 "place": 383,
 "text": "",
@@ -47456,7 +47098,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2120
+2153
 ],
 "place": -1,
 "text": "",
@@ -47471,9 +47113,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2120
+2153
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Baptism"
 }
@@ -47488,9 +47130,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2121
+2154
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 }
@@ -47505,9 +47147,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2122
+2155
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 }
@@ -47522,9 +47164,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2123
+2156
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 },
@@ -47537,9 +47179,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2123
+2156
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Death"
 }
@@ -47554,9 +47196,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2124
+2157
 ],
-"place": 339,
+"place": 338,
 "text": "",
 "type": "Birth"
 },
@@ -47569,9 +47211,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2124
+2157
 ],
-"place": 653,
+"place": 649,
 "text": "",
 "type": "Death"
 }
@@ -47586,7 +47228,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2125
+2158
 ],
 "place": -1,
 "text": "",
@@ -47601,7 +47243,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2125
+2158
 ],
 "place": -1,
 "text": "",
@@ -47618,7 +47260,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2126
+2159
 ],
 "place": -1,
 "text": "",
@@ -47633,7 +47275,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2126
+2159
 ],
 "place": -1,
 "text": "",
@@ -47653,30 +47295,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2130
+2163
 ],
 "place": 130,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1902",
-"date_sdn": 2415751,
-"descr": "",
-"gid": "E1289",
-"media": [],
-"part_family": [],
-"part_person": [
-2131
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -47687,9 +47313,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2132
+2165
 ],
-"place": 325,
+"place": 324,
 "text": "",
 "type": "Birth"
 },
@@ -47702,9 +47328,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2132
+2165
 ],
-"place": 707,
+"place": 703,
 "text": "",
 "type": "Death"
 }
@@ -47719,9 +47345,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2133
+2166
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Birth"
 },
@@ -47734,9 +47360,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2133
+2166
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -47751,7 +47377,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2134
+2167
 ],
 "place": -1,
 "text": "",
@@ -47766,9 +47392,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2134
+2167
 ],
-"place": 340,
+"place": 339,
 "text": "",
 "type": "Death"
 }
@@ -47783,9 +47409,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2135
+2168
 ],
-"place": 329,
+"place": 328,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nGRO: <br />\nVol 09A<br />\nPage 453\n</p>\n</div>\n</div>",
 "type": "Birth"
 },
@@ -47798,9 +47424,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2135
+2168
 ],
-"place": 329,
+"place": 328,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nGRO Reference: 1891  M Quarter in HALIFAX  Volume 09A  Page 397\n</p>\n</div>\n</div>",
 "type": "Death"
 }
@@ -47815,9 +47441,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2136
+2169
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 }
@@ -47832,9 +47458,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2137
+2170
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -47849,9 +47475,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2138
+2171
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -47866,9 +47492,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2139
+2172
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -47881,7 +47507,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2139
+2172
 ],
 "place": -1,
 "text": "",
@@ -47898,9 +47524,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2140
+2173
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -47915,9 +47541,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2141
+2174
 ],
-"place": 388,
+"place": 387,
 "text": "",
 "type": "Birth"
 },
@@ -47930,7 +47556,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2141
+2174
 ],
 "place": 180,
 "text": "",
@@ -47948,7 +47574,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2143
+2176
 ],
 "place": -1,
 "text": "",
@@ -47963,7 +47589,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2143
+2176
 ],
 "place": -1,
 "text": "",
@@ -47980,9 +47606,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2144
+2177
 ],
-"place": 716,
+"place": 712,
 "text": "",
 "type": "Birth"
 },
@@ -47995,9 +47621,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2144
+2177
 ],
-"place": 711,
+"place": 707,
 "text": "",
 "type": "Death"
 }
@@ -48012,7 +47638,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2145
+2178
 ],
 "place": -1,
 "text": "",
@@ -48030,9 +47656,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2147
+2180
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 }
@@ -48047,9 +47673,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2148
+2181
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 }
@@ -48064,7 +47690,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2149
+2182
 ],
 "place": 158,
 "text": "",
@@ -48081,9 +47707,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2150
+2183
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 }
@@ -48099,9 +47725,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2152
+2185
 ],
-"place": 445,
+"place": 444,
 "text": "",
 "type": "Birth"
 }
@@ -48117,7 +47743,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2154
+2187
 ],
 "place": 158,
 "text": "",
@@ -48134,7 +47760,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2155
+2188
 ],
 "place": 160,
 "text": "",
@@ -48149,7 +47775,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2155
+2188
 ],
 "place": 240,
 "text": "",
@@ -48166,9 +47792,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2156
+2189
 ],
-"place": 514,
+"place": 512,
 "text": "",
 "type": "Birth"
 },
@@ -48181,9 +47807,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2156
+2189
 ],
-"place": 186,
+"place": 185,
 "text": "",
 "type": "Death"
 }
@@ -48198,9 +47824,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2157
+2190
 ],
-"place": 690,
+"place": 687,
 "text": "",
 "type": "Birth"
 }
@@ -48215,9 +47841,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2158
+2191
 ],
-"place": 400,
+"place": 399,
 "text": "",
 "type": "Birth"
 },
@@ -48230,7 +47856,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2158
+2191
 ],
 "place": 237,
 "text": "",
@@ -48247,7 +47873,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2159
+2192
 ],
 "place": 133,
 "text": "",
@@ -48264,9 +47890,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2160
+2193
 ],
-"place": 399,
+"place": 398,
 "text": "",
 "type": "Birth"
 }
@@ -48281,7 +47907,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2161
+2194
 ],
 "place": -1,
 "text": "",
@@ -48298,7 +47924,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2162
+2195
 ],
 "place": -1,
 "text": "",
@@ -48313,9 +47939,41 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2162
+2195
 ],
 "place": -1,
+"text": "",
+"type": "Death"
+}
+],
+[
+{
+"cita": [],
+"date": "about 1910",
+"date_sdn": 2418673,
+"descr": "",
+"gid": "E3760",
+"media": [],
+"part_family": [],
+"part_person": [
+2196
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "14 June 1981",
+"date_sdn": 2444770,
+"descr": "",
+"gid": "E3761",
+"media": [],
+"part_family": [],
+"part_person": [
+2196
+],
+"place": 0,
 "text": "",
 "type": "Death"
 }
@@ -48330,7 +47988,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2163
+2197
 ],
 "place": 386,
 "text": "",
@@ -48345,7 +48003,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2163
+2197
 ],
 "place": 265,
 "text": "",
@@ -48362,9 +48020,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2164
+2198
 ],
-"place": 402,
+"place": 401,
 "text": "",
 "type": "Birth"
 }
@@ -48379,9 +48037,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2165
+2199
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 }
@@ -48396,9 +48054,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2166
+2200
 ],
-"place": 282,
+"place": 281,
 "text": "",
 "type": "Birth"
 },
@@ -48411,9 +48069,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2166
+2200
 ],
-"place": 282,
+"place": 281,
 "text": "",
 "type": "Death"
 }
@@ -48428,9 +48086,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2167
+2201
 ],
-"place": 507,
+"place": 504,
 "text": "",
 "type": "Birth"
 },
@@ -48443,7 +48101,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2167
+2201
 ],
 "place": -1,
 "text": "",
@@ -48460,7 +48118,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2168
+2202
 ],
 "place": -1,
 "text": "",
@@ -48477,9 +48135,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2169
+2203
 ],
-"place": 509,
+"place": 506,
 "text": "",
 "type": "Birth"
 },
@@ -48492,9 +48150,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2169
+2203
 ],
-"place": 424,
+"place": 423,
 "text": "",
 "type": "Death"
 }
@@ -48509,9 +48167,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2170
+2204
 ],
-"place": 451,
+"place": 450,
 "text": "",
 "type": "Birth"
 },
@@ -48524,9 +48182,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2170
+2204
 ],
-"place": 451,
+"place": 450,
 "text": "",
 "type": "Death"
 },
@@ -48539,9 +48197,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2170
+2204
 ],
-"place": 446,
+"place": 445,
 "text": "",
 "type": "Residence"
 }
@@ -48556,7 +48214,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2171
+2205
 ],
 "place": -1,
 "text": "",
@@ -48571,7 +48229,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2171
+2205
 ],
 "place": -1,
 "text": "",
@@ -48588,9 +48246,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2172
+2206
 ],
-"place": 293,
+"place": 292,
 "text": "",
 "type": "Birth"
 },
@@ -48603,7 +48261,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2172
+2206
 ],
 "place": 146,
 "text": "",
@@ -48620,7 +48278,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2173
+2207
 ],
 "place": 146,
 "text": "",
@@ -48635,7 +48293,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2173
+2207
 ],
 "place": 146,
 "text": "",
@@ -48654,9 +48312,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2176
+2210
 ],
-"place": 84,
+"place": 83,
 "text": "",
 "type": "Birth"
 },
@@ -48669,9 +48327,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2176
+2210
 ],
-"place": 84,
+"place": 83,
 "text": "",
 "type": "Death"
 },
@@ -48684,7 +48342,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2176
+2210
 ],
 "place": -1,
 "text": "",
@@ -48699,9 +48357,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2176
+2210
 ],
-"place": 71,
+"place": 70,
 "text": "",
 "type": "Residence"
 }
@@ -48721,9 +48379,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2182
+2216
 ],
-"place": 348,
+"place": 347,
 "text": "",
 "type": "Birth"
 },
@@ -48736,7 +48394,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2182
+2216
 ],
 "place": -1,
 "text": "",
@@ -48753,7 +48411,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2183
+2217
 ],
 "place": 178,
 "text": "",
@@ -48768,7 +48426,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2183
+2217
 ],
 "place": -1,
 "text": "",
@@ -48786,9 +48444,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2185
+2219
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 }
@@ -48804,9 +48462,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2187
+2221
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -48819,7 +48477,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2187
+2221
 ],
 "place": -1,
 "text": "",
@@ -48836,9 +48494,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2188
+2222
 ],
-"place": 101,
+"place": 100,
 "text": "",
 "type": "Birth"
 },
@@ -48851,9 +48509,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2188
+2222
 ],
-"place": 488,
+"place": 485,
 "text": "",
 "type": "Death"
 }
@@ -48868,9 +48526,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2189
+2223
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -48883,9 +48541,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2189
+2223
 ],
-"place": 34,
+"place": 33,
 "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDied of Ulceration Endocarditis\n</p>\n</div>\n</div>",
 "type": "Death"
 },
@@ -48898,7 +48556,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2189
+2223
 ],
 "place": 179,
 "text": "",
@@ -48915,9 +48573,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2190
+2224
 ],
-"place": 578,
+"place": 575,
 "text": "",
 "type": "Birth"
 }
@@ -48932,9 +48590,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2191
+2225
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Birth"
 }
@@ -48949,9 +48607,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2192
+2226
 ],
-"place": 544,
+"place": 541,
 "text": "",
 "type": "Birth"
 }
@@ -48966,9 +48624,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2193
+2227
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Birth"
 },
@@ -48981,9 +48639,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2193
+2227
 ],
-"place": 56,
+"place": 55,
 "text": "",
 "type": "Death"
 },
@@ -48996,9 +48654,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2193
+2227
 ],
-"place": 208,
+"place": 207,
 "text": "",
 "type": "Funeral"
 }
@@ -49013,9 +48671,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2194
+2228
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 }
@@ -49030,9 +48688,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2195
+2229
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -49045,9 +48703,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2195
+2229
 ],
-"place": 584,
+"place": 581,
 "text": "",
 "type": "Baptism"
 }
@@ -49062,7 +48720,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2196
+2230
 ],
 "place": 371,
 "text": "",
@@ -49079,9 +48737,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2197
+2231
 ],
-"place": 610,
+"place": 607,
 "text": "",
 "type": "Birth"
 },
@@ -49094,9 +48752,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2197
+2231
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Death"
 }
@@ -49111,9 +48769,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2198
+2232
 ],
-"place": 544,
+"place": 541,
 "text": "",
 "type": "Birth"
 },
@@ -49126,9 +48784,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2198
+2232
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 },
@@ -49141,9 +48799,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2198
+2232
 ],
-"place": 578,
+"place": 575,
 "text": "",
 "type": "Residence"
 }
@@ -49158,9 +48816,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2199
+2233
 ],
-"place": 68,
+"place": 67,
 "text": "",
 "type": "Birth"
 }
@@ -49175,9 +48833,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2200
+2234
 ],
-"place": 544,
+"place": 541,
 "text": "",
 "type": "Birth"
 }
@@ -49192,9 +48850,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2201
+2235
 ],
-"place": 544,
+"place": 541,
 "text": "",
 "type": "Birth"
 },
@@ -49207,9 +48865,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2201
+2235
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -49224,9 +48882,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2202
+2236
 ],
-"place": 691,
+"place": 688,
 "text": "",
 "type": "Birth"
 },
@@ -49239,7 +48897,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2202
+2236
 ],
 "place": 143,
 "text": "",
@@ -49256,9 +48914,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2203
+2237
 ],
-"place": 68,
+"place": 67,
 "text": "",
 "type": "Birth"
 }
@@ -49273,7 +48931,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2204
+2238
 ],
 "place": -1,
 "text": "",
@@ -49290,7 +48948,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2205
+2239
 ],
 "place": 139,
 "text": "",
@@ -49307,9 +48965,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2206
+2240
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -49322,9 +48980,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2206
+2240
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Death"
 }
@@ -49339,7 +48997,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2207
+2241
 ],
 "place": 370,
 "text": "",
@@ -49354,7 +49012,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2207
+2241
 ],
 "place": -1,
 "text": "",
@@ -49371,7 +49029,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2208
+2242
 ],
 "place": 370,
 "text": "",
@@ -49386,7 +49044,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2208
+2242
 ],
 "place": 370,
 "text": "",
@@ -49403,9 +49061,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2209
+2243
 ],
-"place": 101,
+"place": 100,
 "text": "",
 "type": "Birth"
 }
@@ -49420,7 +49078,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2210
+2244
 ],
 "place": 370,
 "text": "",
@@ -49435,9 +49093,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2210
+2244
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -49452,7 +49110,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2211
+2245
 ],
 "place": 370,
 "text": "",
@@ -49467,7 +49125,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2211
+2245
 ],
 "place": 370,
 "text": "",
@@ -49484,9 +49142,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2212
+2246
 ],
-"place": 101,
+"place": 100,
 "text": "",
 "type": "Birth"
 },
@@ -49499,9 +49157,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2212
+2246
 ],
-"place": 307,
+"place": 306,
 "text": "",
 "type": "Death"
 }
@@ -49516,7 +49174,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2213
+2247
 ],
 "place": -1,
 "text": "",
@@ -49531,7 +49189,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2213
+2247
 ],
 "place": -1,
 "text": "",
@@ -49546,9 +49204,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2213
+2247
 ],
-"place": 706,
+"place": 702,
 "text": "",
 "type": "Baptism"
 }
@@ -49564,7 +49222,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2215
+2249
 ],
 "place": -1,
 "text": "",
@@ -49579,7 +49237,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2215
+2249
 ],
 "place": -1,
 "text": "",
@@ -49596,9 +49254,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2216
+2250
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -49611,9 +49269,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2216
+2250
 ],
-"place": 97,
+"place": 96,
 "text": "",
 "type": "Death"
 }
@@ -49628,9 +49286,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2217
+2251
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -49643,9 +49301,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2217
+2251
 ],
-"place": 486,
+"place": 483,
 "text": "",
 "type": "Death"
 }
@@ -49660,9 +49318,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2218
+2252
 ],
-"place": 292,
+"place": 291,
 "text": "",
 "type": "Birth"
 },
@@ -49675,7 +49333,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2218
+2252
 ],
 "place": 180,
 "text": "",
@@ -49694,9 +49352,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2221
+2255
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 },
@@ -49709,30 +49367,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2221
+2255
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1880",
-"date_sdn": 2407716,
-"descr": "",
-"gid": "E3417",
-"media": [],
-"part_family": [],
-"part_person": [
-2222
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -49743,9 +49385,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2223
+2257
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 },
@@ -49758,7 +49400,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2223
+2257
 ],
 "place": -1,
 "text": "",
@@ -49775,9 +49417,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2224
+2258
 ],
-"place": 506,
+"place": 503,
 "text": "",
 "type": "Birth"
 },
@@ -49790,7 +49432,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2224
+2258
 ],
 "place": -1,
 "text": "",
@@ -49808,7 +49450,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2226
+2260
 ],
 "place": -1,
 "text": "",
@@ -49823,30 +49465,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2226
+2260
 ],
-"place": 557,
+"place": 554,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1906",
-"date_sdn": 2417212,
-"descr": "",
-"gid": "E2669",
-"media": [],
-"part_family": [],
-"part_person": [
-2227
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -49857,9 +49483,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2228
+2262
 ],
-"place": 394,
+"place": 393,
 "text": "",
 "type": "Birth"
 },
@@ -49872,7 +49498,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2228
+2262
 ],
 "place": -1,
 "text": "",
@@ -49889,9 +49515,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2229
+2263
 ],
-"place": 213,
+"place": 212,
 "text": "",
 "type": "Birth"
 },
@@ -49904,9 +49530,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2229
+2263
 ],
-"place": 394,
+"place": 393,
 "text": "",
 "type": "Death"
 }
@@ -49922,9 +49548,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2231
+2265
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Birth"
 }
@@ -49939,7 +49565,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2232
+2266
 ],
 "place": 142,
 "text": "",
@@ -49954,9 +49580,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2232
+2266
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -49971,9 +49597,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2233
+2267
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Birth"
 },
@@ -49986,9 +49612,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2233
+2267
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -50003,7 +49629,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2234
+2268
 ],
 "place": 142,
 "text": "",
@@ -50018,7 +49644,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2234
+2268
 ],
 "place": 142,
 "text": "",
@@ -50035,7 +49661,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2235
+2269
 ],
 "place": 142,
 "text": "",
@@ -50050,7 +49676,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2235
+2269
 ],
 "place": 7,
 "text": "",
@@ -50067,7 +49693,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2236
+2270
 ],
 "place": 142,
 "text": "",
@@ -50084,7 +49710,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2237
+2271
 ],
 "place": 142,
 "text": "",
@@ -50099,9 +49725,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2237
+2271
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -50116,7 +49742,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2238
+2272
 ],
 "place": 142,
 "text": "",
@@ -50131,9 +49757,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2238
+2272
 ],
-"place": 112,
+"place": 110,
 "text": "",
 "type": "Death"
 }
@@ -50148,9 +49774,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2239
+2273
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 }
@@ -50165,9 +49791,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2240
+2274
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 }
@@ -50182,9 +49808,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2241
+2275
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Birth"
 },
@@ -50197,9 +49823,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2241
+2275
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
@@ -50215,7 +49841,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2243
+2277
 ],
 "place": -1,
 "text": "",
@@ -50232,7 +49858,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2244
+2278
 ],
 "place": -1,
 "text": "",
@@ -50247,7 +49873,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2244
+2278
 ],
 "place": -1,
 "text": "",
@@ -50264,7 +49890,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2245
+2279
 ],
 "place": -1,
 "text": "",
@@ -50281,9 +49907,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2246
+2280
 ],
-"place": 462,
+"place": 460,
 "text": "",
 "type": "Birth"
 },
@@ -50296,7 +49922,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2246
+2280
 ],
 "place": -1,
 "text": "",
@@ -50314,9 +49940,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2248
+2282
 ],
-"place": 656,
+"place": 652,
 "text": "",
 "type": "Birth"
 }
@@ -50331,9 +49957,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2249
+2283
 ],
-"place": 434,
+"place": 433,
 "text": "",
 "type": "Baptism"
 }
@@ -50348,9 +49974,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2250
+2284
 ],
-"place": 317,
+"place": 316,
 "text": "",
 "type": "Birth"
 }
@@ -50365,9 +49991,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2251
+2285
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 },
@@ -50380,7 +50006,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2251
+2285
 ],
 "place": -1,
 "text": "",
@@ -50397,9 +50023,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2252
+2286
 ],
-"place": 317,
+"place": 316,
 "text": "",
 "type": "Birth"
 }
@@ -50414,7 +50040,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2253
+2287
 ],
 "place": -1,
 "text": "",
@@ -50431,9 +50057,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2254
+2288
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -50448,9 +50074,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2255
+2289
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 },
@@ -50463,9 +50089,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2255
+2289
 ],
-"place": 317,
+"place": 316,
 "text": "",
 "type": "Baptism"
 },
@@ -50478,9 +50104,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2255
+2289
 ],
-"place": 401,
+"place": 400,
 "text": "",
 "type": "Burial"
 }
@@ -50495,9 +50121,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2256
+2290
 ],
-"place": 559,
+"place": 556,
 "text": "",
 "type": "Birth"
 }
@@ -50513,9 +50139,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2258
+2292
 ],
-"place": 317,
+"place": 316,
 "text": "",
 "type": "Birth"
 }
@@ -50531,7 +50157,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2260
+2294
 ],
 "place": -1,
 "text": "",
@@ -50546,7 +50172,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2260
+2294
 ],
 "place": -1,
 "text": "",
@@ -50563,9 +50189,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2261
+2295
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -50580,7 +50206,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2262
+2296
 ],
 "place": -1,
 "text": "",
@@ -50595,9 +50221,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2262
+2296
 ],
-"place": 528,
+"place": 525,
 "text": "",
 "type": "Death"
 }
@@ -50612,9 +50238,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2263
+2297
 ],
-"place": 274,
+"place": 273,
 "text": "",
 "type": "Birth"
 }
@@ -50629,45 +50255,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2264
+2298
 ],
 "place": -1,
 "text": "",
 "type": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1905",
-"date_sdn": 2416847,
-"descr": "",
-"gid": "E2677",
-"media": [],
-"part_family": [],
-"part_person": [
-2265
-],
-"place": 106,
-"text": "",
-"type": "Birth"
-},
-{
-"cita": [],
-"date": "1939",
-"date_sdn": 2429265,
-"descr": "",
-"gid": "E2678",
-"media": [],
-"part_family": [],
-"part_person": [
-2265
-],
-"place": 485,
-"text": "",
-"type": "Residence"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -50678,7 +50273,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2266
+2300
 ],
 "place": -1,
 "text": "",
@@ -50693,7 +50288,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2266
+2300
 ],
 "place": -1,
 "text": "",
@@ -50711,9 +50306,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2268
+2302
 ],
-"place": 621,
+"place": 618,
 "text": "",
 "type": "Birth"
 }
@@ -50729,9 +50324,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2270
+2304
 ],
-"place": 429,
+"place": 428,
 "text": "",
 "type": "Birth"
 },
@@ -50744,7 +50339,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2270
+2304
 ],
 "place": 136,
 "text": "",
@@ -50761,7 +50356,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2271
+2305
 ],
 "place": 146,
 "text": "",
@@ -50776,7 +50371,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2271
+2305
 ],
 "place": 146,
 "text": "",
@@ -50793,7 +50388,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2272
+2306
 ],
 "place": 146,
 "text": "",
@@ -50808,7 +50403,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2272
+2306
 ],
 "place": 146,
 "text": "",
@@ -50826,7 +50421,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2274
+2308
 ],
 "place": -1,
 "text": "",
@@ -50843,9 +50438,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2275
+2309
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -50860,9 +50455,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2276
+2310
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -50877,7 +50472,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2277
+2311
 ],
 "place": 158,
 "text": "",
@@ -50894,9 +50489,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2278
+2312
 ],
-"place": 425,
+"place": 424,
 "text": "",
 "type": "Birth"
 },
@@ -50909,30 +50504,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2278
+2312
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1870",
-"date_sdn": 2404064,
-"descr": "",
-"gid": "E2787",
-"media": [],
-"part_family": [],
-"part_person": [
-2279
-],
-"place": 627,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -50943,9 +50522,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2280
+2314
 ],
-"place": 627,
+"place": 624,
 "text": "",
 "type": "Birth"
 }
@@ -50960,9 +50539,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2281
+2315
 ],
-"place": 627,
+"place": 624,
 "text": "",
 "type": "Birth"
 }
@@ -50977,9 +50556,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2282
+2316
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 }
@@ -50994,9 +50573,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2283
+2317
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Birth"
 }
@@ -51011,9 +50590,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2284
+2318
 ],
-"place": 627,
+"place": 624,
 "text": "",
 "type": "Birth"
 }
@@ -51028,7 +50607,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2285
+2319
 ],
 "place": -1,
 "text": "",
@@ -51043,7 +50622,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2285
+2319
 ],
 "place": -1,
 "text": "",
@@ -51060,9 +50639,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2286
+2320
 ],
-"place": 301,
+"place": 300,
 "text": "",
 "type": "Birth"
 }
@@ -51077,9 +50656,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2287
+2321
 ],
-"place": 627,
+"place": 624,
 "text": "",
 "type": "Birth"
 }
@@ -51094,7 +50673,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2288
+2322
 ],
 "place": 158,
 "text": "",
@@ -51109,7 +50688,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2288
+2322
 ],
 "place": -1,
 "text": "",
@@ -51126,9 +50705,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2289
+2323
 ],
-"place": 407,
+"place": 406,
 "text": "",
 "type": "Birth"
 }
@@ -51143,7 +50722,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2290
+2324
 ],
 "place": 241,
 "text": "",
@@ -51158,9 +50737,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2290
+2324
 ],
-"place": 320,
+"place": 319,
 "text": "",
 "type": "Death"
 }
@@ -51175,9 +50754,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2291
+2325
 ],
-"place": 326,
+"place": 325,
 "text": "",
 "type": "Birth"
 },
@@ -51190,9 +50769,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2291
+2325
 ],
-"place": 715,
+"place": 711,
 "text": "",
 "type": "Death"
 }
@@ -51208,9 +50787,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2293
+2327
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -51223,7 +50802,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2293
+2327
 ],
 "place": -1,
 "text": "",
@@ -51240,9 +50819,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2294
+2328
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 }
@@ -51257,9 +50836,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2295
+2329
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -51272,30 +50851,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2295
+2329
 ],
 "place": -1,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1905",
-"date_sdn": 2416847,
-"descr": "",
-"gid": "E2169",
-"media": [],
-"part_family": [],
-"part_person": [
-2296
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -51306,9 +50869,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2297
+2331
 ],
-"place": 687,
+"place": 684,
 "text": "",
 "type": "Birth"
 },
@@ -51321,30 +50884,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2297
+2331
 ],
-"place": 423,
+"place": 422,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1873",
-"date_sdn": 2405160,
-"descr": "",
-"gid": "E2165",
-"media": [],
-"part_family": [],
-"part_person": [
-2298
-],
-"place": 687,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -51355,7 +50902,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2299
+2333
 ],
 "place": 380,
 "text": "",
@@ -51370,9 +50917,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2299
+2333
 ],
-"place": 202,
+"place": 201,
 "text": "",
 "type": "Death"
 }
@@ -51387,7 +50934,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2300
+2334
 ],
 "place": 251,
 "text": "",
@@ -51402,7 +50949,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2300
+2334
 ],
 "place": 230,
 "text": "",
@@ -51419,7 +50966,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2301
+2335
 ],
 "place": -1,
 "text": "",
@@ -51436,9 +50983,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2302
+2336
 ],
-"place": 622,
+"place": 619,
 "text": "",
 "type": "Birth"
 },
@@ -51451,7 +50998,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2302
+2336
 ],
 "place": -1,
 "text": "",
@@ -51468,7 +51015,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2303
+2337
 ],
 "place": 146,
 "text": "",
@@ -51483,7 +51030,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2303
+2337
 ],
 "place": 146,
 "text": "",
@@ -51500,9 +51047,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2304
+2338
 ],
-"place": 622,
+"place": 619,
 "text": "",
 "type": "Birth"
 }
@@ -51517,9 +51064,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2305
+2339
 ],
-"place": 622,
+"place": 619,
 "text": "",
 "type": "Birth"
 }
@@ -51534,7 +51081,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2306
+2340
 ],
 "place": 146,
 "text": "",
@@ -51549,7 +51096,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2306
+2340
 ],
 "place": -1,
 "text": "",
@@ -51564,9 +51111,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2306
+2340
 ],
-"place": 672,
+"place": 668,
 "text": "",
 "type": "Residence"
 }
@@ -51581,9 +51128,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2307
+2341
 ],
-"place": 416,
+"place": 415,
 "text": "",
 "type": "Birth"
 }
@@ -51598,9 +51145,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2308
+2342
 ],
-"place": 674,
+"place": 670,
 "text": "",
 "type": "Birth"
 },
@@ -51613,7 +51160,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2308
+2342
 ],
 "place": -1,
 "text": "",
@@ -51630,9 +51177,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2309
+2343
 ],
-"place": 525,
+"place": 522,
 "text": "",
 "type": "Birth"
 },
@@ -51645,9 +51192,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2309
+2343
 ],
-"place": 674,
+"place": 670,
 "text": "",
 "type": "Death"
 }
@@ -51662,9 +51209,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2310
+2344
 ],
-"place": 454,
+"place": 453,
 "text": "",
 "type": "Birth"
 }
@@ -51684,9 +51231,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2316
+2350
 ],
-"place": 68,
+"place": 67,
 "text": "",
 "type": "Birth"
 }
@@ -51701,9 +51248,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2317
+2351
 ],
-"place": 678,
+"place": 674,
 "text": "",
 "type": "Birth"
 },
@@ -51716,9 +51263,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2317
+2351
 ],
-"place": 678,
+"place": 674,
 "text": "",
 "type": "Death"
 }
@@ -51734,9 +51281,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2319
+2353
 ],
-"place": 317,
+"place": 316,
 "text": "",
 "type": "Birth"
 }
@@ -51751,7 +51298,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2320
+2354
 ],
 "place": -1,
 "text": "",
@@ -51766,7 +51313,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2320
+2354
 ],
 "place": -1,
 "text": "",
@@ -51783,9 +51330,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2321
+2355
 ],
-"place": 541,
+"place": 538,
 "text": "",
 "type": "Birth"
 }
@@ -51800,9 +51347,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2322
+2356
 ],
-"place": 541,
+"place": 538,
 "text": "",
 "type": "Birth"
 }
@@ -51818,9 +51365,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2324
+2358
 ],
-"place": 278,
+"place": 277,
 "text": "",
 "type": "Birth"
 },
@@ -51833,30 +51380,14 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2324
+2358
 ],
-"place": 283,
+"place": 282,
 "text": "",
 "type": "Death"
 }
 ],
-[
-{
-"cita": [],
-"date": "about 1901",
-"date_sdn": 2415386,
-"descr": "",
-"gid": "E2385",
-"media": [],
-"part_family": [],
-"part_person": [
-2325
-],
-"place": -1,
-"text": "",
-"type": "Birth"
-}
-],
+[],
 [
 {
 "cita": [],
@@ -51867,9 +51398,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2326
+2360
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 }
@@ -51884,7 +51415,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2327
+2361
 ],
 "place": -1,
 "text": "",
@@ -51899,7 +51430,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2327
+2361
 ],
 "place": -1,
 "text": "",
@@ -51916,7 +51447,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2328
+2362
 ],
 "place": -1,
 "text": "",
@@ -51933,9 +51464,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2329
+2363
 ],
-"place": 186,
+"place": 185,
 "text": "",
 "type": "Birth"
 }
@@ -51950,9 +51481,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2330
+2364
 ],
-"place": 199,
+"place": 198,
 "text": "",
 "type": "Birth"
 }
@@ -51967,9 +51498,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2331
+2365
 ],
-"place": 458,
+"place": 457,
 "text": "",
 "type": "Birth"
 }
@@ -51984,9 +51515,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2332
+2366
 ],
-"place": 333,
+"place": 332,
 "text": "",
 "type": "Birth"
 },
@@ -51999,7 +51530,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2332
+2366
 ],
 "place": -1,
 "text": "",
@@ -52016,9 +51547,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2333
+2367
 ],
-"place": 458,
+"place": 457,
 "text": "",
 "type": "Birth"
 },
@@ -52031,9 +51562,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2333
+2367
 ],
-"place": 196,
+"place": 195,
 "text": "",
 "type": "Death"
 }
@@ -52049,9 +51580,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2335
+2369
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 }
@@ -52066,9 +51597,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2336
+2370
 ],
-"place": 458,
+"place": 457,
 "text": "",
 "type": "Birth"
 },
@@ -52081,9 +51612,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2336
+2370
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Death"
 }
@@ -52098,9 +51629,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2337
+2371
 ],
-"place": 458,
+"place": 457,
 "text": "",
 "type": "Birth"
 },
@@ -52113,7 +51644,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2337
+2371
 ],
 "place": 236,
 "text": "",
@@ -52130,9 +51661,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2338
+2372
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Birth"
 },
@@ -52145,9 +51676,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2338
+2372
 ],
-"place": 520,
+"place": 518,
 "text": "",
 "type": "Death"
 }
@@ -52162,9 +51693,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2339
+2373
 ],
-"place": 204,
+"place": 203,
 "text": "",
 "type": "Birth"
 },
@@ -52177,9 +51708,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2339
+2373
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Death"
 }
@@ -52194,9 +51725,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2340
+2374
 ],
-"place": 458,
+"place": 457,
 "text": "",
 "type": "Birth"
 },
@@ -52209,9 +51740,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2340
+2374
 ],
-"place": 546,
+"place": 543,
 "text": "",
 "type": "Death"
 }
@@ -52226,9 +51757,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2341
+2375
 ],
-"place": 458,
+"place": 457,
 "text": "",
 "type": "Birth"
 }
@@ -52243,9 +51774,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2342
+2376
 ],
-"place": 458,
+"place": 457,
 "text": "",
 "type": "Birth"
 },
@@ -52258,9 +51789,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2342
+2376
 ],
-"place": 635,
+"place": 632,
 "text": "",
 "type": "Death"
 }
@@ -52275,9 +51806,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2343
+2377
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 },
@@ -52290,9 +51821,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2343
+2377
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -52307,9 +51838,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2344
+2378
 ],
-"place": 717,
+"place": 714,
 "text": "",
 "type": "Birth"
 },
@@ -52322,7 +51853,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2344
+2378
 ],
 "place": -1,
 "text": "",
@@ -52339,9 +51870,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2345
+2379
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Birth"
 },
@@ -52354,9 +51885,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2345
+2379
 ],
-"place": 439,
+"place": 437,
 "text": "",
 "type": "Death"
 }
@@ -52371,9 +51902,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2346
+2380
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 }
@@ -52388,9 +51919,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2347
+2381
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -52403,9 +51934,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2347
+2381
 ],
-"place": 329,
+"place": 328,
 "text": "",
 "type": "Death"
 }
@@ -52420,9 +51951,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2348
+2382
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -52435,7 +51966,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2348
+2382
 ],
 "place": 372,
 "text": "",
@@ -52452,9 +51983,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2349
+2383
 ],
-"place": 604,
+"place": 601,
 "text": "",
 "type": "Birth"
 },
@@ -52467,9 +51998,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2349
+2383
 ],
-"place": 683,
+"place": 680,
 "text": "",
 "type": "Death"
 }
@@ -52484,9 +52015,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2350
+2384
 ],
-"place": 677,
+"place": 673,
 "text": "",
 "type": "Birth"
 },
@@ -52499,9 +52030,43 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2350
+2384
 ],
-"place": 329,
+"place": 328,
+"text": "",
+"type": "Death"
+}
+],
+[],
+[],
+[
+{
+"cita": [],
+"date": "about 1890",
+"date_sdn": 2411369,
+"descr": "",
+"gid": "E3540",
+"media": [],
+"part_family": [],
+"part_person": [
+2387
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "1894",
+"date_sdn": 2412830,
+"descr": "",
+"gid": "E3732",
+"media": [],
+"part_family": [],
+"part_person": [
+2387
+],
+"place": 511,
 "text": "",
 "type": "Death"
 }
@@ -52509,21 +52074,67 @@ I_events_0 = [
 [
 {
 "cita": [],
-"date": "about 1876",
-"date_sdn": 2406255,
+"date": "about 1895",
+"date_sdn": 2413195,
 "descr": "",
-"gid": "E3647",
+"gid": "E3670",
 "media": [],
 "part_family": [],
 "part_person": [
-2351
+2388
 ],
-"place": -1,
+"place": 511,
 "text": "",
 "type": "Birth"
+},
+{
+"cita": [],
+"date": "1894",
+"date_sdn": 2412830,
+"descr": "",
+"gid": "E3733",
+"media": [],
+"part_family": [],
+"part_person": [
+2388
+],
+"place": 126,
+"text": "",
+"type": "Death"
 }
 ],
-[],
+[
+{
+"cita": [],
+"date": "1867",
+"date_sdn": 2402968,
+"descr": "",
+"gid": "E3175",
+"media": [],
+"part_family": [],
+"part_person": [
+2389
+],
+"place": 0,
+"text": "",
+"type": "Birth"
+},
+{
+"cita": [],
+"date": "27 October 1867",
+"date_sdn": 2403267,
+"descr": "",
+"gid": "E3399",
+"media": [],
+"part_family": [],
+"part_person": [
+2389
+],
+"place": 0,
+"text": "",
+"type": "Death"
+}
+],
 [
 {
 "cita": [],
@@ -52534,7 +52145,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2353
+2390
 ],
 "place": 0,
 "text": "",
@@ -52549,11 +52160,46 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2353
+2390
 ],
 "place": 0,
 "text": "",
 "type": "Death"
+}
+],
+[],
+[
+{
+"cita": [],
+"date": "1892",
+"date_sdn": 2412099,
+"descr": "",
+"gid": "E3622",
+"media": [],
+"part_family": [],
+"part_person": [
+2392
+],
+"place": 511,
+"text": "",
+"type": "Birth"
+}
+],
+[
+{
+"cita": [],
+"date": "25 November 1869",
+"date_sdn": 2404027,
+"descr": "",
+"gid": "E3245",
+"media": [],
+"part_family": [],
+"part_person": [
+2393
+],
+"place": 0,
+"text": "",
+"type": "Birth"
 }
 ],
 [
@@ -52566,9 +52212,9 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2354
+2394
 ],
-"place": 323,
+"place": 322,
 "text": "",
 "type": "Birth"
 }
@@ -52583,7 +52229,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2355
+2395
 ],
 "place": -1,
 "text": "",
@@ -52598,7 +52244,7 @@ I_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [
-2355
+2395
 ],
 "place": -1,
 "text": "",
