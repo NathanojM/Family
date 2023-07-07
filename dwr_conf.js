@@ -8,11 +8,11 @@ TITLE = "Family History Project";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 0,
-    "F": 836,
-    "I": 2398,
+    "F": 842,
+    "I": 2422,
     "M": 115,
-    "N": 599,
-    "P": 716,
+    "N": 603,
+    "P": 722,
     "R": 0,
     "S": 0
 };NB_GENERATIONS_MAX = 30;

@@ -162,7 +162,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "153 College Street, , Dumfries, Dumfries and Galloway, Scotland"
+"name": "153 College Street, Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
 [
@@ -205,6 +205,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "2 Southcroft Road, Streatham, Greater London, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "20 Irish Street, Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
 [
@@ -1336,6 +1343,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Carnforth, Lancashire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Caversham, Berkshire, England"
 }
 ],
@@ -1547,6 +1561,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Coldstream, Scottish Borders, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Collessie, Fife, Scotland"
 }
 ],
 [
@@ -1918,6 +1939,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Easthampstead, Berkshire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Eastwood, Glasgow, Lanarkshire, Scotland"
 }
 ],
 [
@@ -2690,6 +2718,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Hutchestown, Glasgow, Lanarkshire, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Illinois,USA"
 }
 ],
@@ -3307,6 +3342,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Mirfield, Yorkshire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Moffat, Dumfries and Galloway, Scotland"
 }
 ],
 [
@@ -4683,6 +4725,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Victoria, Australia"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Victoria, British Columbia, Canada"
 }
 ],
@@ -4780,13 +4829,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Wellesbourne, Warwickshire, England"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "West Cluden, Irongray, Kirkcudbrightshire, Scotland"
 }
 ],
 [
