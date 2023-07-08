@@ -1,6 +1,11 @@
 // This file is generated
 
 M_mime_0 = [
+"image/jpeg",
+"image/jpeg",
+"image/jpeg",
+"image/jpeg",
+"image/jpeg",
 "image/png",
 "image/png",
 "image/png",
@@ -11,6 +16,7 @@ M_mime_0 = [
 "image/png",
 "image/jpeg",
 "image/jpeg",
+"image/jpeg",
 "image/png",
 "image/png",
 "image/png",
@@ -57,6 +63,7 @@ M_mime_0 = [
 "image/png",
 "image/png",
 "image/png",
+"image/jpeg",
 "image/png",
 "image/png",
 "image/png",

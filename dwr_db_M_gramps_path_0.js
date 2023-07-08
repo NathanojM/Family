@@ -1,6 +1,11 @@
 // This file is generated
 
 M_gramps_path_0 = [
+"/home/jonathan/Documents/Family tree/McFarlane/McFarlane/01Bety mcmurdo.jpg",
+"/home/jonathan/Documents/Family tree/McFarlane/McFarlane/02catherine mcmurdo.jpg",
+"/home/jonathan/Documents/Family tree/McFarlane/McFarlane/04CJM.jpg",
+"/home/jonathan/Documents/Family tree/McFarlane/McFarlane/05gcr.jpg",
+"/home/jonathan/Documents/Family tree/McFarlane/McFarlane/06Hugh Armstrong.jpg",
 "Documents/Family tree/Barrett/Barrett/Clay/Albert Clay.png",
 "Documents/Family tree/Misc/Alex.png",
 "Documents/Family tree/McFarlane/Paterson/New Photos/Alfred Thomas Favell.png",
@@ -11,6 +16,7 @@ M_gramps_path_0 = [
 "Documents/Family tree/Barrett/Barrett/Clay/Amy Stansfield.png",
 "home/jonathan/Documents/Family tree/Barrett/Barrett/Clay/Amy stansfield obitury.jpg",
 "Documents/Family tree/Barrett/Barrett/Clay/Amy Turner Canada.jpg",
+"/home/jonathan/Documents/Family tree/McFarlane/McFarlane/Angus and Mary.jpg",
 "Documents/Family tree/Barrett/Barber/Annie Louise Hillier.png",
 "Documents/Family tree/Barrett/Barrett/Clay/Audrey Clay.png",
 "Documents/Family tree/McFarlane/Paterson/New Photos/Barbara Mander.png",
@@ -57,6 +63,7 @@ M_gramps_path_0 = [
 "Documents/Family tree/Barrett/Barber/Henry John Barber.png",
 "home/jonathan/Documents/Family tree/Barrett/Barrett/Barrett/Herbert.png",
 "Documents/Family tree/Barrett/Barber/Herbert William Barber.png",
+"/home/jonathan/Documents/Family tree/McFarlane/McFarlane/Ian McNarey.jpg",
 "Documents/Family tree/Barrett/Barrett/Clay/Irene and Lottie.png",
 "Documents/Family tree/Barrett/Barrett/Clay/Irene4.png",
 "Documents/Family tree/McFarlane/Paterson/New Photos/James Stewart Milne Paterson (copy).png",

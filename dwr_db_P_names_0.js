@@ -1350,6 +1350,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Castle Douglas, Kirkcudbrightshire, Scotland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Caversham, Berkshire, England"
 }
 ],
@@ -1540,6 +1547,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Clyst Hydon, Devon, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Coalville, Leicestershire, England"
 }
 ],
 [
@@ -2680,6 +2694,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Huddersfield, Yorkshire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Hull, Massachusetts, USA"
 }
 ],
@@ -3237,6 +3258,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Marylebone, Greater London, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Maxwelltown, Kirkcudbrightshire, Scotland"
 }
 ],
 [
@@ -3852,6 +3880,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Redbridge, Greater London, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Redfield, Bristol, England"
 }
 ],
@@ -4441,6 +4476,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Stepney, London, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Stockport, Manchester, England"
 }
 ],
 [

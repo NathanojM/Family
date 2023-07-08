@@ -1,6 +1,11 @@
 // This file is generated
 
 M_title_0 = [
+"01Bety mcmurdo",
+"02catherine mcmurdo",
+"04CJM",
+"05gcr",
+"06Hugh Armstrong",
 "Albert Clay",
 "Alex McFarlane",
 "Alfred Thomas Favell",
@@ -11,6 +16,7 @@ M_title_0 = [
 "Amy Stansfield",
 "Amy stansfield obitury",
 "Amy Turner Canada",
+"Angus and Mary",
 "Annie Louise Hillier",
 "Audrey Clay",
 "Barbara Mander",
@@ -57,6 +63,7 @@ M_title_0 = [
 "Henry John Barber",
 "Herbert",
 "Herbert William Barber",
+"Ian McNarey",
 "Irene and Lottie",
 "Irene4",
 "James Stewart Milne Paterson (copy)",
