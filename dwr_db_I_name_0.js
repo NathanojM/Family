@@ -1317,6 +1317,7 @@ I_name_0 = [
 "Thomas Kelsall",
 "Vera Kelsall",
 "Johnanne Gallacher Kempsell",
+"John Kerr",
 "Charlotte Ketley",
 "John Ketley",
 "William Kim",

@@ -118,6 +118,7 @@ M_mime_0 = [
 "image/jpeg",
 "image/jpeg",
 "image/jpeg",
+"image/jpeg",
 "image/png",
 "image/png",
 "image/png",

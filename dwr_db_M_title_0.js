@@ -115,6 +115,7 @@ M_title_0 = [
 "Rose Favell",
 "Roy Gore",
 "Sidney H Watkins",
+"Stella Pattie",
 "Susannah Woodhead",
 "The Clays3",
 "Thomas Lewis Bennellick",

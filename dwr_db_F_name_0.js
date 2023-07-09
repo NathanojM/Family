@@ -445,6 +445,7 @@ F_name_0 = [
 "Family of John Kedea Keddie and Agness Thorburn",
 "Family of Douglas Ewald Cecil Keel and Mary Isabella Bennellick",
 "Family of Thomas Kelsall and Jane Elizabeth Telford",
+"Family of John Kerr and Stella Houston Pattie",
 "Family of John Ketley and Harman",
 "Family of William Kim and Margaret McGeorge",
 "Family of Ernest H Kind and Mary Elizabeth Slater",

@@ -1317,6 +1317,7 @@ I_note_0 = [
 "",
 "",
 "",
+"",
 "<div>\n<i class=\"NoteType\">\nPerson Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nSomething odd has happened to the surname here. Her father was John Ketley, which would make her maiden name Ketley, but her maiden name according to her children's records is Kensell. She has probably married twice, although she was listed as 'spinster' on her marriage certificate in 1859.\n</p>\n</div>\n<i class=\"NoteType\">\nOccupation\n</i>\n<div class=\"grampsstylednote\">\n<p>\nDressmaker\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nOccupation\n</i>\n<div class=\"grampsstylednote\">\n<p>\nHusbandman\n</p>\n</div>\n</div>",
 "",
