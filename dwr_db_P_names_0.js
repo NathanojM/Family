@@ -421,6 +421,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "47 Maclean Street, Glasgow"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "48 Sunderries Road, Dumfries, Dumfries and Galloway, Scotland"
 }
 ],
@@ -1686,6 +1693,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Critchton Royal Aslyum, Dumfries"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Cross Keys, Gwent,  Wales"
 }
 ],
@@ -1890,6 +1904,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Dulwich, Greater London, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Dundee, Forfarshire, Scotland"
 }
 ],
 [
@@ -2233,6 +2254,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Godstone, Surrey, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Gorbals, Glasgow, Scotland"
 }
 ],
 [
@@ -2943,6 +2971,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Kingswood, Gloucestershire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Kinning Park"
 }
 ],
 [
@@ -4740,6 +4775,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Twyford, Berkshire, England"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Tynron, Dumfries and Galloway, Scotland"
 }
 ],
 [

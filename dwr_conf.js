@@ -8,11 +8,11 @@ TITLE = "Family History Project";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 0,
-    "F": 850,
-    "I": 2432,
-    "M": 123,
-    "N": 609,
-    "P": 728,
+    "F": 863,
+    "I": 2457,
+    "M": 124,
+    "N": 615,
+    "P": 734,
     "R": 0,
     "S": 0
 };NB_GENERATIONS_MAX = 30;
@@ -24,7 +24,7 @@ SVG_TREE_TYPES_NAMES = ["Ascending tree", "Descending tree", "Descending tree wi
 SVG_TREE_SHAPES_NAMES = ["Vertical (↓)", "Vertical (↑)", "Horizontal (→)", "Horizontal (←)", "Full Circle", "Half Circle", "Quadrant"];
 SVG_TREE_DISTRIB_ASC_NAMES = ["Size proportional to number of ancestors", "Homogeneous parents distribution"];
 SVG_TREE_DISTRIB_DSC_NAMES = ["Size proportional to number of descendants", "Homogeneous children distribution"];
-SVG_TREE_BACKGROUND_NAMES = ["Gender colors", "Generation based gradient", "Age based gradient", "Single main (filter) color", "Time period based gradient", "White", "Color scheme classic report", "Color scheme classic view"];
+SVG_TREE_BACKGROUND_NAMES = ["Gender colours", "Generation based gradient", "Age based gradient", "Single main (filter) colour", "Time period based gradient", "White", "Colour scheme classic report", "Colour scheme classic view"];
 SVG_TREE_BACKGROUND_GENDER = 0;
 SVG_TREE_BACKGROUND_GENERATION = 1;
 SVG_TREE_BACKGROUND_AGE = 2;
@@ -42,7 +42,7 @@ SVG_TREE_COLOR1 = "#EF2929";
 SVG_TREE_COLOR2 = "#3D37E9";
 SVG_TREE_SHOW_DUP = true;
 SVG_TREE_COLOR_DUP = "#888A85";
-CHART_BACKGROUND_NAMES = ["Single main (filter) color", "Gender colors", "Gradient", "Color scheme classic report", "Color scheme classic view", "White"];
+CHART_BACKGROUND_NAMES = ["Single main (filter) colour", "Gender colours", "Gradient", "Colour scheme classic report", "Colour scheme classic view", "White"];
 CHART_BACKGROUND_GENDER = 1;
 CHART_BACKGROUND_GRADIENT = 2;
 CHART_BACKGROUND_SINGLE = 0;

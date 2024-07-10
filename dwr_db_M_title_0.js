@@ -66,6 +66,7 @@ M_title_0 = [
 "Ian McNarey",
 "Irene and Lottie",
 "Irene4",
+"James Steel Wedding",
 "James Stewart Milne Paterson (copy)",
 "Jane Burge",
 "Jeannie",
