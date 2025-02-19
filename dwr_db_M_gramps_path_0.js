@@ -98,6 +98,7 @@ M_gramps_path_0 = [
 "Documents/Family tree/McFarlane/McFarlane/Margaret and Alan.png",
 "Documents/Family tree/McFarlane/McFarlane/Margaret and Alan2.png",
 "Documents/Family tree/Barrett/Barber/Margurite Annie Barber.png",
+"Documents/Family tree/McFarlane/McFarlane/Maria Holden.png",
 "home/jonathan/Documents/Family tree/Barrett/Barber/Mary Ann Bennellick.jpg",
 "Documents/Family tree/McFarlane/McFarlane/Mary Margaret Fergusson.png",
 "Documents/Family tree/Barrett/Barrett/Barrett/MaryJaneFord Coloured.png",

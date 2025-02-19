@@ -774,7 +774,6 @@ F_name_0 = [
 "Family of Robert Steel and Isobel Leidbutter Leadbutter",
 "Family of Walter Steel",
 "Family of Walter Steel and Elizabeth Greive Grieve",
-"Family of William Steel",
 "Family of William Steel and Mary Wilson",
 "Family of Ernest George Steer and Rhoda Sprague",
 "Family of Stephenson",

@@ -8,23 +8,23 @@ TITLE = "Family History Project";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 0,
-    "F": 863,
+    "F": 862,
     "I": 2457,
-    "M": 124,
+    "M": 125,
     "N": 615,
-    "P": 734,
+    "P": 735,
     "R": 0,
     "S": 0
 };NB_GENERATIONS_MAX = 30;
-PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html", "custom_3.html"];
-PAGES_TITLE = ["Home", "Indexes", "Tree", "Contribute", "Download", "Share"];
-PAGES_FILE_INDEX = ["surnames.html", "persons.html", "families.html", "medias.html", "places.html"];
-PAGES_TITLE_INDEX = ["Surnames", "Individuals", "Families", "Media", "Places"];
+PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html"];
+PAGES_TITLE = ["DynWeb|Home", "Indexes", "Tree", "Contact", "Share"];
+PAGES_FILE_INDEX = ["surnames.html", "persons.html", "sources.html", "medias.html", "places.html", "address.html"];
+PAGES_TITLE_INDEX = ["Surnames", "Individuals", "Sources", "Media", "Places", "Addresses"];
 SVG_TREE_TYPES_NAMES = ["Ascending tree", "Descending tree", "Descending tree with spouses", "Ascending and descending tree", "Ascending and descending tree with spouses"];
 SVG_TREE_SHAPES_NAMES = ["Vertical (↓)", "Vertical (↑)", "Horizontal (→)", "Horizontal (←)", "Full Circle", "Half Circle", "Quadrant"];
 SVG_TREE_DISTRIB_ASC_NAMES = ["Size proportional to number of ancestors", "Homogeneous parents distribution"];
 SVG_TREE_DISTRIB_DSC_NAMES = ["Size proportional to number of descendants", "Homogeneous children distribution"];
-SVG_TREE_BACKGROUND_NAMES = ["Gender colours", "Generation based gradient", "Age based gradient", "Single main (filter) colour", "Time period based gradient", "White", "Colour scheme classic report", "Colour scheme classic view"];
+SVG_TREE_BACKGROUND_NAMES = ["Gender colors", "Generation based gradient", "Age based gradient", "Single main (filter) color", "Time period based gradient", "White", "Color scheme classic report", "Color scheme classic view"];
 SVG_TREE_BACKGROUND_GENDER = 0;
 SVG_TREE_BACKGROUND_GENERATION = 1;
 SVG_TREE_BACKGROUND_AGE = 2;
@@ -34,7 +34,7 @@ SVG_TREE_BACKGROUND_WHITE = 5;
 SVG_TREE_BACKGROUND_SCHEME1 = 6;
 SVG_TREE_BACKGROUND_SCHEME2 = 7;
 SVG_TREE_TYPE = 4;
-SVG_TREE_SHAPE = 2;
+SVG_TREE_SHAPE = 4;
 SVG_TREE_DISTRIB_ASC = 0;
 SVG_TREE_DISTRIB_DSC = 0;
 SVG_TREE_BACKGROUND = 0;
@@ -42,7 +42,7 @@ SVG_TREE_COLOR1 = "#EF2929";
 SVG_TREE_COLOR2 = "#3D37E9";
 SVG_TREE_SHOW_DUP = true;
 SVG_TREE_COLOR_DUP = "#888A85";
-CHART_BACKGROUND_NAMES = ["Single main (filter) colour", "Gender colours", "Gradient", "Colour scheme classic report", "Colour scheme classic view", "White"];
+CHART_BACKGROUND_NAMES = ["Single main (filter) color", "Gender colors", "Gradient", "Color scheme classic report", "Color scheme classic view", "White"];
 CHART_BACKGROUND_GENDER = 1;
 CHART_BACKGROUND_GRADIENT = 2;
 CHART_BACKGROUND_SINGLE = 0;
@@ -82,22 +82,22 @@ INDEX_SHOW_PATH=false;
 INDEX_SHOW_BKREF_TYPE=false;
 INDEX_DEFAULT_SIZE = 5;
 INDEXES_SIZES = [[10, 50, 100, 500, 1000, 5000], ['10', '50', '100', '500', '1000', '5000']];
-SHOW_ALL_SIBLINGS=true;
+SHOW_ALL_SIBLINGS=false;
 INC_EVENTS=false;
-INC_FAMILIES=true;
-INC_SOURCES=false;
+INC_FAMILIES=false;
+INC_SOURCES=true;
 INC_MEDIA=true;
 INC_PLACES=true;
 INC_REPOSITORIES=false;
 INC_NOTES=true;
-INC_ADDRESSES=false;
+INC_ADDRESSES=true;
 MAP_PLACE=true;
 MAP_FAMILY=true;
-MAP_SERVICE="Google";
+MAP_SERVICE="OpenStreetMap";
 SOURCE_AUTHOR_IN_TITLE=false;
 TABBED_PANELS=true;
 INC_CHANGE_TIME=true;
-HIDE_GID=false;
+HIDE_GID=true;
 INC_PAGECONF = true;
 __ = {
 "(b. %(birthdate)s, d. %(deathdate)s)": "(b. %(birthdate)s, d. %(deathdate)s)",
@@ -318,7 +318,8 @@ __ = {
 "Divorce": "Divorce",
 "Divorce Filing": "Divorce Filing",
 "Annulment": "Annulment",
-"Alternate Marriage": "Alternate Marriage"
+"Alternate Marriage": "Alternate Marriage",
+"Stillbirth": "Stillbirth"
 };
 URLTYPE_UNKNOWN = -1;
 URLTYPE_CUSTOM = 0;

@@ -5253,7 +5253,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 777,
+"index": 776,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -5572,7 +5572,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 776,
+"index": 775,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -8175,7 +8175,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 851,
+"index": 850,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14362,7 +14362,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 774,
+"index": 773,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14431,7 +14431,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 778,
+"index": 777,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14447,7 +14447,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 783,
+"index": 782,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14456,7 +14456,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 783,
+"index": 782,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14465,7 +14465,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 783,
+"index": 782,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14474,7 +14474,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 783,
+"index": 782,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14492,7 +14492,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 783,
+"index": 782,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14515,7 +14515,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 786,
+"index": 785,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14524,7 +14524,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 786,
+"index": 785,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14534,16 +14534,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 786,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 786,
+"index": 785,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14561,7 +14552,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 786,
+"index": 784,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14579,13 +14570,31 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 786,
+"index": 784,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 785,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
 }
 ],
 [],
+[
+{
+"cita": [],
+"index": 786,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
 [
 {
 "cita": [],
@@ -14604,39 +14613,30 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
+[],
+[
+{
+"cita": [],
+"index": 787,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
+[],
 [
 {
 "cita": [],
 "index": 789,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
-[
-{
-"cita": [],
-"index": 788,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
-[],
-[],
-[],
-[],
-[],
-[],
-[],
-[],
-[],
-[
-{
-"cita": [],
-"index": 790,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14655,7 +14655,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 791,
+"index": 790,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14667,7 +14667,16 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 794,
+"index": 793,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 792,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14682,34 +14691,6 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"index": 794,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 794,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 794,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
 [
 {
 "cita": [],
@@ -14729,38 +14710,30 @@ I_famc_0 = [
 }
 ],
 [],
+[
+{
+"cita": [],
+"index": 792,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 792,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
 [],
 [
 {
 "cita": [],
-"index": 797,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 803,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 797,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 803,
+"index": 796,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14770,145 +14743,6 @@ I_famc_0 = [
 {
 "cita": [],
 "index": 802,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 803,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 797,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 797,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 797,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 795,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 798,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 803,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 799,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 803,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 802,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
-[
-{
-"cita": [],
-"index": 800,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 801,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
-[],
-[
-{
-"cita": [],
-"index": 805,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
-[
-{
-"cita": [],
-"index": 803,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 806,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -14932,9 +14766,184 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
+[
+{
+"cita": [],
+"index": 801,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 802,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 796,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 796,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 796,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 794,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 797,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 802,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 798,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 802,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 801,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
+[
+{
+"cita": [],
+"index": 799,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 800,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
+[],
+[
+{
+"cita": [],
+"index": 804,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
+[
+{
+"cita": [],
+"index": 802,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 805,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 795,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 801,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
 [],
 [],
 [],
+[
+{
+"cita": [],
+"index": 806,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
 [
 {
 "cita": [],
@@ -14947,6 +14956,35 @@ I_famc_0 = [
 [
 {
 "cita": [],
+"index": 807,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
+[
+{
+"cita": [],
+"index": 809,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 808,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
+[
+{
+"cita": [],
 "index": 808,
 "note": "",
 "to_father": "Birth",
@@ -14962,6 +15000,8 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
+[],
+[],
 [],
 [
 {
@@ -14972,35 +15012,6 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"index": 809,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
-[
-{
-"cita": [],
-"index": 809,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 809,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
 [],
 [],
 [
@@ -15012,12 +15023,10 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
-[],
-[],
 [
 {
 "cita": [],
-"index": 812,
+"index": 811,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15026,16 +15035,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 812,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 812,
+"index": 811,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15045,7 +15045,34 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 812,
+"index": 811,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 811,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 811,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 811,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15072,34 +15099,17 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 812,
+"index": 811,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
 }
 ],
+[],
 [
 {
 "cita": [],
-"index": 813,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 813,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 812,
+"index": 814,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15116,16 +15126,6 @@ I_famc_0 = [
 }
 ],
 [],
-[
-{
-"cita": [],
-"index": 816,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
 [],
 [],
 [],
@@ -15134,25 +15134,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 822,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 823,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 823,
+"index": 821,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15167,11 +15149,29 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
+[
+{
+"cita": [],
+"index": 822,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 821,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
 [],
 [
 {
 "cita": [],
-"index": 823,
+"index": 822,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15180,7 +15180,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 823,
+"index": 822,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15189,7 +15189,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 823,
+"index": 822,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15207,7 +15207,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 822,
+"index": 821,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15216,21 +15216,30 @@ I_famc_0 = [
 [],
 [],
 [],
+[
+{
+"cita": [],
+"index": 824,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
+[],
+[
+{
+"cita": [],
+"index": 826,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
 [
 {
 "cita": [],
 "index": 825,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
-[],
-[
-{
-"cita": [],
-"index": 827,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15245,22 +15254,13 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
-[
-{
-"cita": [],
-"index": 827,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
 [],
 [],
 [],
 [
 {
 "cita": [],
-"index": 829,
+"index": 828,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15279,7 +15279,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 835,
+"index": 834,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15288,7 +15288,25 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 835,
+"index": 834,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 832,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 834,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15315,7 +15333,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 834,
+"index": 835,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15324,7 +15342,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 836,
+"index": 835,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15333,7 +15351,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 836,
+"index": 831,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15342,7 +15360,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 836,
+"index": 831,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15351,7 +15369,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 832,
+"index": 835,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15360,16 +15378,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 832,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 836,
+"index": 833,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15388,15 +15397,6 @@ I_famc_0 = [
 {
 "cita": [],
 "index": 835,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 836,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15406,7 +15406,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 833,
+"index": 832,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15426,7 +15426,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 839,
+"index": 838,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15435,7 +15435,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 839,
+"index": 838,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15444,7 +15444,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 839,
+"index": 838,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15453,7 +15453,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 839,
+"index": 838,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15462,7 +15462,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 839,
+"index": 838,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15474,16 +15474,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 818,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 842,
+"index": 817,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15501,43 +15492,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 844,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 841,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 841,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 841,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 841,
+"index": 840,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15552,11 +15507,46 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
-[],
 [
 {
 "cita": [],
-"index": 841,
+"index": 840,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 840,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 840,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 840,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 842,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15566,7 +15556,17 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 846,
+"index": 840,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
+[
+{
+"cita": [],
+"index": 845,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15575,12 +15575,23 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 846,
+"index": 845,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
 }
 ],
+[],
+[
+{
+"cita": [],
+"index": 845,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
 [],
 [
 {
@@ -15607,6 +15618,15 @@ I_famc_0 = [
 [
 {
 "cita": [],
+"index": 849,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
 "index": 848,
 "note": "",
 "to_father": "Birth",
@@ -15615,32 +15635,12 @@ I_famc_0 = [
 ],
 [],
 [],
-[
-{
-"cita": [],
-"index": 850,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 849,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
-[],
 [],
 [],
 [
 {
 "cita": [],
-"index": 852,
+"index": 851,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15659,7 +15659,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 856,
+"index": 855,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15669,7 +15669,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 856,
+"index": 855,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15680,16 +15680,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 856,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 856,
+"index": 855,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15707,6 +15698,80 @@ I_famc_0 = [
 [
 {
 "cita": [],
+"index": 854,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 855,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 855,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 855,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
+[
+{
+"cita": [],
+"index": 856,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 857,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[],
+[
+{
+"cita": [],
+"index": 856,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
+"index": 856,
+"note": "",
+"to_father": "Birth",
+"to_mother": "Birth"
+}
+],
+[
+{
+"cita": [],
 "index": 856,
 "note": "",
 "to_father": "Birth",
@@ -15732,10 +15797,11 @@ I_famc_0 = [
 }
 ],
 [],
+[],
 [
 {
 "cita": [],
-"index": 857,
+"index": 858,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15750,47 +15816,10 @@ I_famc_0 = [
 "to_mother": "Birth"
 }
 ],
-[],
 [
 {
 "cita": [],
-"index": 857,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 857,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 857,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 857,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 857,
+"index": 860,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15801,7 +15830,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 859,
+"index": 858,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
@@ -15810,47 +15839,18 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 859,
+"index": 860,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"
 }
 ],
+[],
+[],
 [
 {
 "cita": [],
 "index": 861,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
-[],
-[
-{
-"cita": [],
-"index": 859,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[
-{
-"cita": [],
-"index": 861,
-"note": "",
-"to_father": "Birth",
-"to_mother": "Birth"
-}
-],
-[],
-[],
-[
-{
-"cita": [],
-"index": 862,
 "note": "",
 "to_father": "Birth",
 "to_mother": "Birth"

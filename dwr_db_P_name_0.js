@@ -417,6 +417,7 @@ P_name_0 = [
 "Keysoe, Bedfordshire, England",
 "Kilbucho, Peeblesshire, Scotland",
 "Kilmarnock, Ayrshire, Scotland",
+"Kings Norton, West Midlands, England",
 "Kingsbridge, Devon, England",
 "Kingsbury, London, England",
 "Kingston Upon Thames, Greater London, England",
